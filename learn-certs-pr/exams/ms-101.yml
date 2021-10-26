@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
   
   본 시험은 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리에 참여하는 Microsoft 365 Enterprise Administrator를 대상으로 실시됩니다. 응시자는 ID, 보안, 규제 준수 및 지원 기술을 포함해 기업용 Microsoft 365 테넌트 관리 작업을 수행하게 됩니다.
  
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 최신 장치 서비스 구현 (40-45%)
 - Microsoft 365 보안 및 위협 관리 구현 (20-25%)
 - Microsoft 365 거버넌스 및 준수 관리 (35-40%)
@@ -37,16 +37,16 @@ exams:
 courses:
 - uid: course.ms-101t00
 paths:
-- uid: learn-m365.manage-enterprise-deployment-m365
-- uid: learn-m365.identity-and-access
-- uid: learn-m365.m365-cloud-security
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-security-management
-- uid: learn.security.manage-security-operations
-- uid: learn-m365.m365-messaging-secure-environment
-- uid: learn-m365.m365-compliance-information
-- uid: learn-m365.audit-safeguard-customer-data
-- uid: learn-m365.compliance-discover
+- uid: learn.wwl.introduction-to-microsoft-365-security-metrics
+- uid: learn.wwl.manage-your-microsoft-365-security-services
+- uid: learn.wwl.implement-microsoft-365-threat-intelligence
+- uid: learn.wwl.introduction-to-data-governance-microsoft-365
+- uid: learn.wwl.implement-data-governance-microsoft-365-intelligence
+- uid: learn.wwl.manage-data-governance-microsoft-365
+- uid: learn.wwl.manage-content-search-investigations-microsoft-365
+- uid: learn.wwl.prepare-for-device-management-microsoft-365
+- uid: learn.wwl.plan-your-windows-10-deployment-strategy
+- uid: learn.wwl.implement-mobile-device-management-microsoft-365
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

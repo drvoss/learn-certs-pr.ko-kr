@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
 
   AZ-600 시험 응시자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure administrators 이거나 Azure Stack Hub 운영자들 입니다.
   
@@ -34,7 +34,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 서비스 제공 (30-35%)
 - 데이터 센터 통합 구현 (15-20%)
 - 신원 및 접근 관리 (10-15%)
@@ -56,12 +56,15 @@ relatedCertifications:
 - related:
     uid: certification.azure-stack-hub-operator
 resources:
+- title: 인증을 향한 여정
+  description: Azure Stack Hub Operator Associate로서 인증을 받기 위한 단계 및 준비에 도움이 될 수 있는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md

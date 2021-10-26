@@ -6,9 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-
-  2019년 3월 31일 시험이 만료되기 전에 [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) 을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다.
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
 
   본 시험은 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리, 모니터링하는 관리자를 대상으로 실시됩니다. 응시자는 ID, 액세스, 정책, 업데이트 및 앱을 관리하는 능력을 측정받습니다.
 
@@ -17,7 +15,7 @@ summary: |-
   응시자는 Microsoft 365 워크로드에 익숙해야하며 Windows 10 및 비 Windows 장치 및 기술의 배포, 구성, 유지 관리에 능숙하여야 하며, 관련 경험을 갖추어야 합니다.
 
   이 인증 시험을 통과하면 ACE 대학 학점으로 인정 받을 수도 있습니다. 자세한 사항은 [인증 시험에 대한 ACE 대학 학점](/learn/certifications/ace-credit-for-certification-exams)을 참고하세요.
-subTitle: '이 시험은 다음과 같은 기술 업무 수행 능력을 측정합니다: 운영 시스템 배포 및 업그레이드; 정책 및 프로필 관리; 장치 관리 및 보호; 그리고 앱 및 데이터를 관리합니다. 2019년 3월 31일 종료되기 전에 Exam 70-698에 합격했다면, MD-101만 응시하면 Modern Desktop 인증을 획득할 수 있습니다.'
+subTitle: '이 시험은 다음과 같은 기술 업무 수행 능력을 측정합니다: 운영 시스템 배포 및 업그레이드; 정책 및 프로필 관리; 장치 관리 및 보호; 그리고 앱 및 데이터를 관리합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 운영 시스템 배포 및 업그레이드 (25-30%)
 - 정책 및 프로필 관리 (20-25%)
 - 장치 관리 및 보호 (30-35%)

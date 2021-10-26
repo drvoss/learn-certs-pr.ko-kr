@@ -13,13 +13,21 @@ summary: |-
 skills:
 - Teams를 위한 Microsoft Advisor를 사용하여 Teams 롤아웃
 - Microsoft Teams 관리
-- 보안 및 규정 준수 관리
-- Microsoft Teams 장치 배포 및 관리
-- Teams 관리 센터 탐색 
-- 회의 경험 관리
-- Microsoft 통화 계획 구현 
-- 자동 안내 및 통화 대기열을 사용하여 Microsoft Teams에서 통화 관리 
+- Microsoft Teams 환경 보안 시작
+- Microsoft Teams에서 보안 관리
+- Teams에서 위협에 대한 방어
+- Microsoft Teams에서 정보 보호
+- Teams에서 규정 준수 구현
+- Microsoft Teams에서 엔터프라이즈-등급 규정 준수 구성 
+- Microsoft Teams에서 엔터프라이즈-등급 보안 구성 
+- Teams 및 Microsoft 365를 위한 DLP
+- Microsoft Teams 공간 배포
+- Microsoft Teams 공간 관리
 - Teams 관리 센터 탐색
+- Microsoft Teams 회의 관리 및 보안
+- Microsoft Teams로 미팅, 회의 및 이벤트 관리
+- Microsoft Teams 통화 요금제 구현
+- 자동 안내 및 통화 대기를 사용하여 Microsoft Teams에서 통화 관리 
 examsPassed:
 - ms-700
 studyGuideDescription: '이 학습 모듈의 모음을 사용하여 Microsoft 365 Certified: Teams Administrator Associate renewal assessment를 준비하십시오.'

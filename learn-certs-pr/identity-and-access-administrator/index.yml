@@ -6,7 +6,9 @@ metadata:
 uid: certification.identity-and-access-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft 식별 및 액세스 관리자는 Azure Active Directory (Azure AD)를 사용하여 조직의 식별 및 액세스 관리 시스템을 디자인하고, 구현하고, 운영합니다. 엔터프라이즈 애플리케이션에 액세스하기 위한 보안 인증 및 권한 부여를 제공하는 것과 같은 작업을 관리합니다. 관리자는 모든 사용자들에게 원활한 경험과 셀프-서비스 관리 능력을 제공합니다. 적응형 액세스 및 거버넌스는 역할을 위한 핵심 요소입니다. 이 역할은 또한 식별 및 액세스 환경에 대한 문제 해결, 모니터링 및 보고를 담당합니다. 
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/SC-300">sc-300 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
+  Microsoft Identity 및 Access Administrator는 Azure Active Directory (Azure AD)를 사용하여 조직의 ID와 액세스 관리 시스템을 디자인, 구현, 및 운영합니다. 엔터프라이즈 애플리케이션에 액세스하기 위한 보안 인증 및 권한 부여를 제공하는 것과 같은 작업을 관리합니다. 관리자는 모든 사용자들에게 원활한 경험과 셀프-서비스 관리 능력을 제공합니다. 적응형 액세스 및 거버넌스는 역할을 위한 핵심 요소입니다. 이 역할은 또한 식별 및 액세스 환경에 대한 문제 해결, 모니터링 및 보고를 담당합니다. 
   
   식별 및 액세스 관리자는 단일 개인이거나 더 큰 팀의 구성원일 수도 있습니다. 이 역할은 조직의 많은 다른 역할과 협업하여 식별 솔루션을 현대화하고, 하이브리드 식별 솔루션을 구현하고, 식별 거버넌스를 구현하기 위한 전략 식별 프로젝트를 추진합니다. 
 subTitle: Microsoft 식별 및 액세스 관리자는 Azure AD를 사용하여 조직의 식별 및 액세스 관리 시스템을 디자인하고, 구현하고, 운영합니다. 엔터프라이즈 애플리케이션에 액세스하기 위한 보안 인증 및 권한 부여를 제공하는 것과 같은 작업을 관리합니다.

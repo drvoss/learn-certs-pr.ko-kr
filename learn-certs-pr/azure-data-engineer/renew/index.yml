@@ -11,11 +11,12 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 인증 갱신 평가를 통과하여 최신 Azure Data Factory 업데이트 사항을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 인증 갱신을 준비할 수도 있습니다.
 skills:
-- Azure Data Factory로 페타바이트 규모로 처리
-- Azure Data Factory로 규모에 맞게 코드 없는 변환 수행
-- Azure Data Factory와 데이터 통합
-- Azure Synapse Analytics로 데이터 웨어하우스 디자인
-- PolyBase를 사용하여 Azure Synapse Analytics로 데이터 가져오기
+- Azure Data Factory 또는 Azure Synapse Pipeline에서 데이터 이동 및 변환 오케스트레이트
+- Azure Synapse Analytics에서 Apache Spark 노트북으로 데이터 수집
+- Azure Synapse Analytics 용 SQL 서버리스로 Azure Cosmos DB 쿼리
+- Azure Synapse Analytics에서 데이터 로딩 모범 사례 사용
+- Azure Synapse Analytics에서 데이터 웨어하우스 활동 관리 및 모니터링
+- Azure Synapse Analytics에서 데이터 웨어하우스 보안
 examsPassed:
 - dp-200, dp-201 또는 dp-203
 studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft Certified: Azure Data Engineer Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'

@@ -40,16 +40,6 @@ products:
 - azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
-courses:
-- uid: course.ai-100t01
-paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.data-ai.create-bots-with-the-azure-bot-service
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 인증으로의 여정
   description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.

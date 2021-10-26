@@ -17,12 +17,21 @@ summary: |-
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: 정보 보호 구현; 데이터 손실 방지 구현; 정보 거버넌스 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
+practiceTestUrl: https://in.mindhub.com/sc-400-microsoft-information-protection-administrator-microsoft-official-practice-test/p/MU-SC-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
 locales:
 - en
 - zh-cn
 - ja
 - ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:

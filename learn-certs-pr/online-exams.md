@@ -2,12 +2,12 @@
 title: Pearson VUE 온라인 시험에 대하여 | Microsoft Docs 
 description: Pearson VUE 온라인 시험에 대하여
 documentationcenter: NA
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 02/29/2020
-ms.author: micsullivan
+ms.author: venkato
 ---
 # Pearson VUE 관련 온라인 시험 정보
 
@@ -80,7 +80,6 @@ Pearson VUE는 Microsoft와 협력하여 시험을 제공하는 회사입니다.
             <td>
                 <p>1Mbps의 일관된 업로드 및 다운로드 연결 속도가 필요합니다.</p>
                 <p>무선 네트워크가 아닌 유선 네트워크에서 테스트하는 것이 좋습니다.</p>
-                <p>모바일 핫스팟에 대한 테더링은 명시적으로 금지됩니다.</p>
             </td>
         </tr>
         <tr>
@@ -159,7 +158,6 @@ Pearson VUE OnVUE 소프트웨어 및 테스트 요구 사항과 귀하의 컴�
 
 - 온라인 감독 시험은 프록시 서버, 네트워크 패킷 검사/필터링, 또는 엄격한 네트워크 보안 구성은 온라인 감독 시험에 지장을 줄 수 있습니다. 
 - 온라인 감독 시험을 볼 때, 가능한 유선-인터넷 연결을 사용하십시오. 
-- 모바일 핫스팟에 연결하지 마십시오; 이것은 명백하게 금지됩니다.
 
 ## 테스트 환경 요구 사항
 

@@ -7,6 +7,8 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/ai-102">AI-102 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
   Azure AI Engineer Associate 인증에 대한 응시자들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임워크를 활용하는 AI 솔루션을 구축하고, 관리하고, 배포하는 주제 전문 지식을 갖추어야 합니다.  
  
   그들의 책임에는 요구 사항 정의 및 디자인부터 개발, 배포, 유지, 성능 조정 및 모니터링까지 AI 솔루션 개발의 모든 단계에 참여하는 것을 포함합니다. 

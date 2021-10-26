@@ -7,6 +7,8 @@ uid: certification.modern-desktop
 certificationRenewalUid: renewal.m365-modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 최근에 업데이트되었습니다. <a href="/learn/certifications/exams/md-101">MD-101</a>은 2021년 9월 2일 업데이트되었고, <a href="/learn/certifications/exams/md-100">MD-100</a>은 2021년 8월 5일 업데이트되었습니다. 변경된 내용을 확인하려면 관련 시험 페이지에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
   Modern Desktop 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
 subTitle: Modern Desktop 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
 levels:

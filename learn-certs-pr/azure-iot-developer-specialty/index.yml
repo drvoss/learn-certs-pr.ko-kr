@@ -6,15 +6,17 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-220">AZ-220 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
   이 인증의 응시자들은 IoT 솔루션의 cloud 및 edge 부분을 만들고 유지하는데 필요한 구성 및 코딩 작업을 구현하는 주제 전문 지식을 갖추어야 합니다.
   
   이 역할의 책임에는 물리적 장치 배포, cloud 서비스를 사용하여 이를 구성하고 유지 관리하는 것, 그리고 장치 수명 주기 전반에 걸쳐 구성을 유지하고 문제를 해결하는 것을 포함합니다.
   
   Azure IoT 개발자들은 또한 장치 토폴로지, 연결, 진단과 모니터링, 및 보안을 포함하여, IoT 솔루션에 대한 디자인 사양을 구현하는 것을 담당합니다. 이러한 전문가들은 모듈을 개발하고 배포하며 솔루션의 Azure IoT Edge 부분에 대한 장치 네트워킹을 구성합니다. 이 외에도, IoT와 관련된 모니터링 및 데이터 변환을 포함하여, 데이터 파이프라인을 관리하기 위한 솔루션에 대한 디자인을 구현합니다.
   
-  Azure IoT 개발자들은 설계자들, 데이터 엔지니어들, 및 기타 이해 관계자들과 협력하여 Azure Digital Twins 서비스의 구현을 포함하여, 성공적인 비즈니스 통합을 보장합니다.
+  Azure IoT 개발자들은 설계자, 데이터 엔지니어, 및 기타 이해관계자들과 협력하여 Azure Digital Twins 서비스의 구현을 포함하는, 성공적인 비즈니스 통합을 보장합니다.
   
-  이 인증의 응시자들은 데이터 저장소 옵션, 데이터 분석, 데이터 처리, AI, 및 기타 서비스형 플랫폼(PaaS) 옵션을 포함하여, 장치 유형 및 Azure services에 대한 일반적인 이해가 있어야 합니다. 응시자들은 반드시 최소한 하나의 Azure IoT 소프트웨어 개발 키트–지원 (SDK–지원) 언어로 프로그래밍 할 수 있어야 합니다.
+  이 인증의 응시자들은 데이터 저장 옵션, 데이터 분석, 데이터 처리, AI 및 기타 서비스로서 플랫폼(PaaS) 옵션을 포함하여, 장치 유형 및 Azure 서비스에 대한 일반적인 이해가 있어야 합니다. 반드시 최소한 하나의 Azure IoT 소프트웨어 개발 키트–지원 (SDK–지원) 언어로 프로그래밍할 수 있어야 합니다.
 subTitle: Azure IoT Developers는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발합니다.
 levels:
 - intermediate

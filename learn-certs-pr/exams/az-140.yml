@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
 
   이 시험의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 관리자들입니다.  
   
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Azure Virtual Desktop Architecture 계획 (10-15%)
 - Azure Virtual Desktop Infrastructure 구현 (25-30%)
 - 액세스 및 보안 관리 (10-15%)
@@ -74,6 +74,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-virtual-desktop-specialty
 resources:
+- title: 인증을 향한 여정
+  description: Azure의 가상 데스크톱 전문성에 대한 인증을 받기 위한 단계와 준비에 도움이 될 수 있는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck

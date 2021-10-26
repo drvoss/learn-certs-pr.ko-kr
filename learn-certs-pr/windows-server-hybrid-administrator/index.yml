@@ -1,0 +1,84 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
+  description: '이 인증은 2021년 12월 제공됩니다. Windows Server Hybrid Administrator Associate 인증 응시자들은 Windows Server 온-프레미스, 하이브리드, 및 서비스로서 인프라 (IaaS) 플랫폼 워크로드를 구성하고 관리하는 데 있어 주제 전문 지식을 갖추어야 합니다.'
+uid: certification.windows-server-hybrid-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Windows Server Hybrid Administrator Associate 인증의 응시자들은 Windows Server 온-프레미스, 하이브리드, 및 서비스로서 인프라 (IaaS) 플랫폼 워크로드를 구성하고 관리하는 데 있어 주제 전문 지식을 갖추어야 합니다. 
+  
+  이 역할에 대한 책임은 Windows Server 환경을 Azure 서비스와 통합하고 온-프레미스 네트워크에서 Windows Server를 관리하는 것을 포함합니다. 이 역할은 Azure로 워크로드를 마이그레이션하고 배포하는 것 외에도, Azure에서 Windows Server IaaS 워크로드를 관리하고 유지합니다.
+  
+  이 역할은 일반적으로 Azure 관리자, 엔터프라이즈 설계자, Microsoft 365 관리자 및 네트워크 엔지니어와 협력합니다.
+    
+  이 인증의 응시자들은 온-프레미스, 하이브리드 및 cloud 기술을 사용하여 핵심 및 고급 Windows Server 워크로드와 서비스를 관리합니다. 이러한 전문가들은 ID, 관리, 컴퓨팅, 네트워킹 및 스토리지와 같은 온-프레미스 및 하이브리드 솔루션을 구현하고 관리하는 데 있어 전문성을 갖추어야 합니다. 또한 보안, 마이그레이션, 모니터링, 고가용성, 문제 해결 및 재해 복구와 관련된 작업을 수행하는 데 있어 전문가이기도 합니다. 이러한 전문가들은 Windows Admin Center, PowerShell, Azure Arc, 및 IaaS 가상 머신 관리를 포함하는, 관리 도구 및 기술을 사용합니다. 또한 Azure Automation 업데이트 관리, Microsoft Defender for Identity, Azure Security Center, Azure Migrate, 및 Azure Monitor로 작업합니다. 
+  
+  이 시험의 응시자는 Windows Server 운영 시스템 작업에 대한 광범위한 경험이 있어야 합니다. 
+  
+  <div><br/><font color='red'><strong>참고: 이 시험은 2021년 12월에 시행됩니다.</strong></font></div>
+subTitle: 이 인증은 2021년 12월에 제공됩니다. Windows Server Hybrid Administrator Associate 인증의 응시자들은 Windows Server 온-프레미스, 하이브리드, 및 서비스로서 인프라 (IaaS) 플랫폼 워크로드를 구성하고 관리하는 데 있어 주제 전문 지식을 갖추어야 합니다. 
+levels:
+- intermediate
+skills:
+- 온-프레미스 및 cloud 환경에서 Active Directory Domain Services (AD DS) 배포 및 관리
+- 하이브리드 환경에서 Windows Servers 및 워크로드 관리 
+- 가상 머신 및 컨테이너 관리 
+- 온-프레미스 및 하이브리드 네트워킹 인프라 구현 및 관리 
+- 스토리지 및 파일 서비스 관리
+- Windows Server 온-프레미스 및 하이브리드 인프라 보안
+- Windows Server 고가용성 구현 및 관리 
+- 재해 복구 구현
+- 서버 및 워크로드 마이그레이션
+- Windows Server 환경 모니터링 및 문제 해결 
+roles:
+- administrator
+- identity-access-admin
+- ip-admin
+- network-engineer
+- security-engineer
+- support-engineer
+- technology-manager
+type: role-based
+products:
+- azure-active-directory
+- azure-active-directory-domain
+- azure-arc
+- azure-automation
+- azure-defender
+- azure-disk-encryption
+- azure-files
+- azure-monitor
+- azure-policy
+- azure-powershell
+- azure-security-center
+- azure-sentinel
+- azure-virtual-machines
+- mdatp
+- windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKDF9
+exams:
+- uid: exam.az-800
+- uid: exam.az-801
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  href: ../badges.md
