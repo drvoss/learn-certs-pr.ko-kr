@@ -6,13 +6,14 @@ metadata:
 uid: exam.77-888
 displayName: 77-888
 summary: |-
+  <div><font color="red"><strong>이 시험은 중단되었습니다. 현재 가능한 옵션은, <a href="/learn/certifications/browse/">인증 및 시험 검색 페이지</a>를 참고하십시오.</strong></font><br/><br/></div>
+
   전문가 수준의 Microsoft Office Excel 2010 사용자는 특징 및 기능 수준에서 효과적이고 자신있게 Excel 2010 소프트웨어를 사용할 수 있습니다. 전문가는 고급 수식, 함수 및 데이터 분석 도구에 익숙합니다. 전문가는 분석, 프레젠테이션 및 공동 작업을 위해 데이터를 조작할 수 있습니다. 또한, 전문가는 Excel 옵션을 조작하여 다양한 요구 사항을 충족시키고 생산성을 향상시킬 수 있도록 환경을 사용자 지정합니다.
 subTitle: 전문가 수준의 Microsoft Office Excel 2010 사용자는 특징 및 기능 수준에서 효과적이고 자신있게 Excel 2010 소프트웨어를 사용할 수 있습니다. 전문가는 고급 수식, 함수 및 데이터 분석 도구에 익숙합니다. 전문가는 분석, 프레젠테이션 및 공동 작업을 위해 데이터를 조작할 수 있습니다. 또한, 전문가는 Excel 옵션을 조작하여 다양한 요구 사항을 충족시키고 생산성을 향상시킬 수 있도록 환경을 사용자 지정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-tw
+- en
 levels:
 - beginner
 skills:
@@ -24,9 +25,6 @@ roles:
 - business-user
 products:
 - office-excel
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.

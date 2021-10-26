@@ -2,12 +2,12 @@
 title: 과정 만료 | Microsoft Docs
 description: 과정 만료
 documentationcenter: NA
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: venkato
 ---
 # 과정 만료
 
@@ -19,6 +19,147 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
 
 ## 만료 과정: 강사-주도 교육
 
+* 2021년 12월 30일 코스웨어 중단
+
+    | 코스 번호 | 버전 | 제목 | 언어 | 중단 날짜 |
+    | --- | --- | --- | --- | --- |
+    | AZ-010T00 | A | Azure Administration for AWS SysOps | 영어 | 12/30/2021 |
+    | AZ-010T00JA | A | Azure Administration for AWS SysOps | 일본어 | 12/30/2021 |
+    | AZ-010T00KO | A | Azure Administration for AWS SysOps | 한국어 | 12/30/2021 |
+    | AZ-010T00ZH | A | Azure Administration for AWS SysOps | 중국어 간체 | 12/30/2021 |
+    | AZ-020T00 | A | Microsoft Azure solutions for AWS developers | 영어 | 12/30/2021 |
+    | AZ-020T00JA | A | Microsoft Azure solutions for AWS developers | 일본어 | 12/30/2021 |
+    | AZ-020T00KO | A | Microsoft Azure solutions for AWS developers | 한국어 | 12/30/2021 |
+    | AZ-020T00ZH | A | Microsoft Azure solutions for AWS developers | 중국어 간체 | 12/30/2021 |
+    | AZ-030T00 | A | Microsoft Azure technologies for AWS architects | 영어 | 12/30/2021 |
+    | AZ-030T00JA | A | Microsoft Azure technologies for AWS architects | 일본어 | 12/30/2021 |
+    | AZ-030T00KO | A | Microsoft Azure technologies for AWS architects | 한국어 | 12/30/2021 |
+    | AZ-030T00ZH | A | Microsoft Azure technologies for AWS architects | 중국어 간체 | 12/30/2021 |
+    | 6420 | B | Fundamentals of Windows Server® 2008 | 영어 | 12/30/2021 |
+    | 10266 | A | Programming in C# with Microsoft Visual Studio 2010 | 영어 | 12/30/2021 |
+    | 10710 | A | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | 스페인어 | 12/30/2021 |
+    | 10961 | C | Automating Administration With Windows PowerShell | 영어 | 12/30/2021 |
+    | 10962 | C | Advanced Automated Administration With Windows PowerShell | 영어 | 12/30/2021 |
+    | 10964 | C | Cloud & Datacenter Monitoring with System Center Operations Manager | 영어 | 12/30/2021 |
+    | 10965 | D | IT Service Management with System Center Service Manager | 영어 | 12/30/2021 |
+    | 10967 | A | Fundamentals of a Windows Server® Infrastructure | 영어 | 12/30/2021 |
+    | 10969 | B | Active Directory® Services with Windows Server® | 영어 | 12/30/2021 |
+    | 10972 | B | Administering the Web Server (IIS) Role of Windows Server | 영어 | 12/30/2021 |
+    | 10975 | A | Introduction to Programming | 영어 | 12/30/2021 |
+    | 10982 | E | Supporting and Troubleshooting Windows 10 | 영어 | 12/30/2021 |
+    | 10984 | B | Deploying and Managing Office 365 Hybrid Deployments | 영어 | 12/30/2021 |
+    | 10985 | C | Introduction to SQL Databases | 영어 | 12/30/2021 |
+    | 10986 | B | Updating Your Skills to SQL Server 2016 | 영어 | 12/30/2021 |
+    | 10987 | C | Performance Tuning and Optimizing SQL Databases | 영어 | 12/30/2021 |
+    | 10990 | C | Analyzing Data with SQL Server Reporting Services | 영어 | 12/30/2021 |
+    | 10994 | B | Data Analysis Fundamentals using Excel | 영어 | 12/30/2021 |
+    | 10998 | A | Updating Your Skills to SQL Server 2017 | 영어 | 12/30/2021 |
+    | 20334 | C | Core Solutions of Skype for Business 2015/2019 | 영어 | 12/30/2021 |
+    | 20339 | A | Planning and Administering SharePoint 2016 | 영어 | 12/30/2021 |
+    | 20339 | A | Advanced Technologies of SharePoint 2016 | 영어 | 12/30/2021 |
+    | 20345 | B | Administering Microsoft Exchange Server 2016/2019 | 영어 | 12/30/2021 |
+    | 20345 | B | Designing and Deploying Microsoft Exchange Server 2016/2019 | 영어 | 12/30/2021 |
+    | 20410 | D | Installing and Configuring Windows Server® 2012 | 영어 | 12/30/2021 |
+    | 20411 | D | Administering Windows Server® 2012 | 영어 | 12/30/2021 |
+    | 20412 | D | Configuring Advanced Windows Server® 2012 Services | 영어 | 12/30/2021 |
+    | 20413 | C | Designing and Implementing a Server Infrastructure | 영어 | 12/30/2021 |
+    | 20414 | C | Implementing an Advanced Server Infrastructure | 영어 | 12/30/2021 |
+    | 20417 | D | Upgrading Your Skills to MCSA Windows Server® 2012 | 영어 | 12/30/2021 |
+    | 20461 | D | Querying Microsoft SQL Server® 2014 | 영어 | 12/30/2021 |
+    | 20462 | D | Administering Microsoft® SQL Server® 2014 Databases | 영어 | 12/30/2021 |
+    | 20463 | D | Implementing a Data Warehouse with Microsoft® SQL Server® 2014 | 영어 | 12/30/2021 |
+    | 20464 | D | Developing Microsoft SQL Server 2014 Databases | 영어 | 12/30/2021 |
+    | 20465 | D | Designing Solutions for Microsoft SQL Server 2014 | 영어 | 12/30/2021 |
+    | 20466 | D | Implementing Data Models and Reports with SQL Server 2014 | 영어 | 12/30/2021 |
+    | 20467 | D | Designing Business Intelligence Solutions with Microsoft SQL Server 2014 | 영어 | 12/30/2021 |
+    | 20480 | C | Programming in HTML5 with JavaScript and CSS3 | 영어 | 12/30/2021 |
+    | 20483 | C | Programming in C# | 영어 | 12/30/2021 |
+    | 20486 | C | Developing ASP.NET MVC 5 Web Applications | 영어 | 12/30/2021 |
+    | 20486 | D | Developing ASP.NET Core MVC Web Applications | 영어 | 12/30/2021 |
+    | 20487 | D | Developing Microsoft Azure and Web Services | 영어 | 12/30/2021 |
+    | 20694 | B | Virtualizing Enterprise Desktops and Apps | 영어 | 12/30/2021 |
+    | 20703 | B | Administering System Center Configuration Manager | 영어 | 12/30/2021 |
+    | 20740 | C | Installation, Storage, and Compute with Windows Server 2016 | 영어 | 12/30/2021 |
+    | 20741 | B | Networking with Windows Server 2016 | 영어 | 12/30/2021 |
+    | 20742 | B | Identity with Windows Server 2016 | 영어 | 12/30/2021 |
+    | 20743 | C | Upgrading Your Skills to MCSA: Windows Server 2016 | 영어 | 12/30/2021 |
+    | 20744 | C | Securing Windows Server 2016 | 영어 | 12/30/2021 |
+    | 20745 | B | Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager | 영어 | 12/30/2021 |
+    | 20761 | C | Querying Data with Transact-SQL | 영어 | 12/30/2021 |
+    | 20762 | C | Developing SQL Databases | 영어 | 12/30/2021 |
+    | 20764 | C | Administering a SQL Database Infrastructure | 영어 | 12/30/2021 |
+    | 20765 | C | Provisioning SQL Databases | 영어 | 12/30/2021 |
+    | 20767 | C | Implementing a SQL Data Warehouse | 영어 | 12/30/2021 |
+    | 20768 | C | Developing SQL Data Models | 영어 | 12/30/2021 |
+    | 20777 | A | Implementing Microsoft Azure Cosmos DB Solutions | 영어 | 12/30/2021 |
+    | 20779 | B | Analyzing Data with Excel | 영어 | 12/30/2021 |
+    | 21410 | D | Installing and Configuring Windows Server® 2012 | 독일어 | 12/30/2021 |
+    | 21411 | D | Administering Windows Server® 2012 | 독일어 | 12/30/2021 |
+    | 21412 | D | Configuring Advanced Windows Server® 2012 Services | 독일어 | 12/30/2021 |
+    | 21413 | B | Designing and Implementing a Server Infrastructure | 독일어 | 12/30/2021 |
+    | 21414 | B | Implementing an Advanced Server Infrastructure | 독일어 | 12/30/2021 |
+    | 21417 | B | Upgrading Your Skills to MCSA Windows Server 2012 | 독일어 | 12/30/2021 |
+    | 21461 | A | Querying Microsoft® SQL Server® 2012 | 독일어 | 12/30/2021 |
+    | 21462 | A | Administering Microsoft® SQL Server® 2012 Databases | 독일어 | 12/30/2021 |
+    | 21463 | A | Implementing a Data Warehouse with Microsoft® SQL Server® 2012 | 독일어 | 12/30/2021 |
+    | 21740 | B | Installation, Storage, and Compute with Windows Server 2016 | 독일어 | 12/30/2021 |
+    | 21741 | B | Networking with Windows Server 2016 | 독일어 | 12/30/2021 |
+    | 21742 | A | Identity with Windows Server 2016 | 독일어 | 12/30/2021 |
+    | 21743 | B | Upgrading Your Skills to MCSA: Windows Server 2016 | 독일어 | 12/30/2021 |
+    | 21744 | B | Securing Windows Server 2016 | 독일어 | 12/30/2021 |
+    | 21764 | C | Administering a SQL Database Infrastructure | 독일어 | 12/30/2021 |
+    | 22410 | B | Installing and Configuring Windows Server® 2012 | 프랑스어 | 12/30/2021 |
+    | 22411 | B | Administering Windows Server 2012 | 프랑스어 | 12/30/2021 |
+    | 22412 | B | Configuring Advanced Windows Server 2012 Services | 프랑스어 | 12/30/2021 |
+    | 22414 | B | Implementing an Advanced Server Infrastructure | 프랑스어 | 12/30/2021 |
+    | 22417 | B | Upgrading Your Skills to MCSA Windows Server 2012 | 프랑스어 | 12/30/2021 |
+    | 22461 | A | Querying Microsoft® SQL Server® 2012 | 프랑스어 | 12/30/2021 |
+    | 22462 | A | Administering Microsoft® SQL Server® 2012 Databases | 프랑스어 | 12/30/2021 |
+    | 22463 | A | Implementing a Data Warehouse with Microsoft® SQL Server® 2012 | 프랑스어 | 12/30/2021 |
+    | 22740 | C | Installation, Storage, and Compute with Windows Server 2016 (French) | 프랑스어 | 12/30/2021 |
+    | 22741 | B | Networking with Windows Server 2016 (French) | 프랑스어 | 12/30/2021 |
+    | 22742 | B | Identity with Windows Server 2016 (French) | 프랑스어 | 12/30/2021 |
+    | 22743 | C | Upgrading Your Skills to MCSA: Windows Server 2016 (French) | 프랑스어 | 12/30/2021 |
+    | 22744 | B | Securing Windows Server 2016 | 프랑스어 | 12/30/2021 |
+    | 23410 | B | Installing and Configuring Windows Server® 2012 | 일본어 | 12/30/2021 |
+    | 23411 | B | Administering Windows Server 2012 | 일본어 | 12/30/2021 |
+    | 23412 | B | Configuring Advanced Windows Server® 2012 Services | 일본어 | 12/30/2021 |
+    | 23413 | B | Designing and Implementing a Server Infrastructure | 일본어 | 12/30/2021 |
+    | 23414 | B | Implementing an Advanced Server Infrastructure | 일본어 | 12/30/2021 |
+    | 23740 | B | Installation, Storage, and Compute with Windows Server 2016 | Japanese | 12/30/2021 |
+    | 23741 | A | Networking with Windows Server 2016 | 일본어 | 12/30/2021 |
+    | 23742 | A | Identity with Windows Server 2016 | 일본어 | 12/30/2021 |
+    | 23744 | B | Securing Windows Server 2016 | 일본어 | 12/30/2021 |
+    | 24410 | B | Installing and Configuring Windows Server® 2012 | 포르투갈어 (브라질) | 12/30/2021 |
+    | 24411 | B | Administering Windows Server 2012 | 포르투갈어 (브라질) | 12/30/2021 |
+    | 24412 | B | Configuring Advanced Windows Server 2012 Services | 포르투갈어 (브라질) | 12/30/2021 |
+    | 24740 | B | Installation, Storage, and Compute with Windows Server 2016 | 포르투갈어 (브라질)| 12/30/2021 |
+    | 24741 | B | Networking with Windows Server 2016 | 포르투갈어 (브라질) | 12/30/2021 |
+    | 24742 | B | Identity with Windows Server 2016 | 포르투갈어 (브라질) | 12/30/2021 |
+    | 24744 | B | Securing Windows Server 2016 | 포르투갈어 (브라질) | 12/30/2021 |
+    | 26740 | B | Installation, Storage, and Compute with Windows Server 2016 | 스페인어 | 12/30/2021 |
+    | 26741 | B | Networking with Windows Server 2016 | 스페인어 | 12/30/2021 |
+    | 26742 | B | Identity with Windows Server 2016 | 스페인어 | 12/30/2021 |
+    | 26744 | B | Securing Windows Server 2016 |스페인어 (스페인) |12/30/2021
+    | 28480 | B | Programming in HTML5 with JavaScript and CSS3 | 중국어 간체 | 12/30/2021 |
+    | 28740 | B | Installation, Storage, and Compute with Windows Server 2016 | 중국어 간체 | 12/30/2021 |
+    | 28741 | B | Networking with Windows Server 2016 | 중국어 간체 | 12/30/2021 |
+    | 28742 | A | Identity with Windows Server 2016 | 중국어 간체 | 12/30/2021 |
+    | 28761 | A | Querying Data with Transact-SQL | 중국어 간체 | 12/30/2021 |
+    | 28764 | A | Administering a SQL Database Infrastructure | 중국어 간체 | 12/30/2021 |
+    | 28765 | B | Provisioning SQL Databases | 중국어 간체 | 12/30/2021 |
+    | 29480 | B | Programming in HTML5 with JavaScript and CSS3 | 중국어 번체 | 12/30/2021 |
+    | 29740 | B | Installation, Storage, and Compute with Windows Server 2016 | 중국어 번체 | 12/30/2021 |
+    | 29741 | B | Networking with Windows Server 2016 | 중국어 번체 | 12/30/2021 |
+    | 29742 | A | Identity with Windows Server 2016 | 중국어 번체 | 12/30/2021 |
+    | 29761 | A | Querying Data with Transact-SQL | 중국어 번체 | 12/30/2021 |
+    | 29764 | A | Administering a SQL Database Infrastructure | 중국어 번체 | 12/30/2021 |
+    | 29765 | B | Provisioning SQL Databases | 중국어 번체 | 12/30/2021 |
+    | 40332 | A | Partner Applied Workshop: What's New in Windows 10 | 영어 | 12/30/2021 |
+    | 40410 | A | JavaScript, HTML and CSS Web Development | 영어 | 12/30/2021 |
+    | 21345-1 | A | Administering Microsoft Exchange Server 2016 | 독일어 | 12/30/2021 |
+    | 21697-1 | B | Installing and Configuring Windows 10 | 독일어 | 12/30/2021 |
+
 * 코스웨어는 2021년 10월 29일 중단됩니다
 
     | 과정 번호 | 버전 | 제목 | 언어 | 중단 날짜 |
@@ -29,10 +170,16 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
 
     | 과정 번호 | 버전 | 제목 | 언어 | 중단 날짜 |
     | --- | --- | --- | --- | --- |
-    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | 영어 | 2021년 9월 30일 |
-    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | 영어 | 2021년 9월 30일 |
-    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | 영어 | 2021년 9월 30일 |
-    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | 영어 | 2021년 9월 30일 |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | 영어 | 9/30/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | 영어 | 9/30/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | 영어 | 9/30/2021 |
+    | MB-901T00DE | A | Microsoft Dynamics 365 Fundamentals | 독일어 | 9/30/2021 |
+    | MB-901T00ES | A | Microsoft Dynamics 365 Fundamentals | 스페인어 | 9/30/2021 |
+    | MB-901T00FR | A | Microsoft Dynamics 365 Fundamentals | 프랑스어 | 9/30/2021 |
+    | MB-901T00JA | A | Microsoft Dynamics 365 Fundamentals | 일본어 | 9/30/2021 |
+    | MB-901T00KO | A | Microsoft Dynamics 365 Fundamentals | 한국어 | 9/30/2021 |
+    | MB-901T00ZH | A | Microsoft Dynamics 365 Fundamentals | 중국어 간체 | 9/30/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | 영어 | 9/30/2021 |
 
 * 코스웨어는 2021년 8월 31일 중단됩니다
 

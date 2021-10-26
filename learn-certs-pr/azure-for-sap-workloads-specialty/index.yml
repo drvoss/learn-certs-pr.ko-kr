@@ -7,6 +7,8 @@ uid: certification.azure-for-sap-workloads-specialty
 certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-120">AZ-120 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
   이 인증의 응시자들은 Microsoft Azure에서 SAP 솔루션의 초기 마이그레이션 또는 통합 및 장기 운영에 특정한 SAP 시스템 분야 및 산업 표준에 대한 폭넓은 경험과 지식을 갖춘 설계자들 또는 엔지니어들 이어야 합니다.
   
   SAP 워크로드용 Azure에 대한 설계자 또는 엔지니어의 책임에는 서비스에 대한 권장 사항을 만들고 최적의 복원력, 성능, 확장, 프로비저닝, 크기 및 모니터링을 위해 리소스를 적절하게 조정하는 것이 포함됩니다. 

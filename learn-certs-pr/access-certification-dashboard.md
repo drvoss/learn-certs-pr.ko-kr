@@ -2,19 +2,19 @@
 title: '귀하의 Certification Dashboard에 접근 | Microsoft Docs'
 description: '귀하의 Certification Dashboard에 접근' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 귀하의 Certification Dashboard에 접근
 
 ## Certification Dashboard는 무엇입니까?
 
-귀하의 [Microsoft Certification Dashboard](https://aka.ms/certdashboard)는 귀하의 모든 개인 인증-관련 정보에 대한 홈입니다. 프로필을 업데이트하고, Microsoft Certification identification number (MCID)를 찾고, Microsoft Certification 성적 증명서를 받기 위해 여기로 오게 됩니다. 인증과 관련된 모든것을 찾을 수 있는 좋은 장소입니다.  
+귀하의 [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)는 귀하의 모든 개인 인증-관련 정보에 대한 홈입니다. 프로필을 업데이트하고, Microsoft Certification identification number (MCID)를 찾고, Microsoft Certification 성적 증명서를 받기 위해 여기로 오게 됩니다. 인증과 관련된 모든것을 찾을 수 있는 좋은 장소입니다.  
 
 ## Certification Dashboard에 접근하는 방법
 

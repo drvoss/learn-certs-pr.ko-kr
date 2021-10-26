@@ -1,0 +1,108 @@
+### YamlMime:Course
+title: Designing and Implementing Cloud Data Platform Solutions
+metadata:
+  title: 'Course 55247-A: Designing and Implementing Cloud Data Platform Solutions'
+  description: 'Course 55247-A: Designing and Implementing Cloud Data Platform Solutions'
+uid: course.55247
+courseNumber: '55247-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create SQL Server and Microsoft Azure data solutions
+- skill: Create Security solutions for on-premises and cloud databases
+- skill: Configure High-Availability, Disaster Recovery and Scalability options for databases
+- skill: Monitor, Manage and Automate database solutions
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  This three-day instructor-led course is intended for data professionals who want to design and implement database solutions in SQL Server and on Microsoft Azure. Security, Availability, Disaster Recovery, Scalability, Monitoring and Troubleshooting options will also be demonstrated.
+
+  #### Audience profile
+  This course is intended for experienced data professionals who design and implement on-premises and Microsoft Azure data solutions.
+prerequisitesSection: |-
+  - Experience working with databases
+  - Experience using SQL
+outlineSection: |-
+  ### Module 1&#58; Designing and Implementing Database Solutions for SQL Server and Microsoft Azure
+  This module explains how to design a database solution for SQL Server and Microsoft Azure databases.
+  #### Lessons
+  - Design and Implement Hybrid SQL Server solutions
+  - Design and Implement Azure SQL Database solutions
+  - Design and Implement MySQL and PostgreSQL database solutions in Azure
+  - Review
+
+
+  #### Lab &#58; Designing and Implementing Database Solutions for SQL Server and Microsoft Azure
+  - Implement a Hybrid SQL Server solution
+  - Implement an Azure SQL Database solution
+  - Implement a MySQL database solution
+  - Implement a PostgreSQL database solution
+
+  After completing this module, students will be able to&#58;
+  - Install and configure SQL Server on an Azure VM
+  - Install and configure Azure databases
+  - Install and configure MySQL and PostgreSQL databases
+
+
+  ### Module 2&#58; Manage, Design and Implement Database Security
+  This module explains how to setup security for an on-premises or Azure database.
+  #### Lessons
+  - Design and Implement SQL Server database security
+  - Design and Implement Azure SQL Database security
+  - Review
+
+
+  #### Lab &#58; Manage, Design and Implement Database Security
+  - Implement SQL Server database security
+  - Implement Azure SQL Database security
+
+  After completing this module, students will be able to&#58;
+  - Configure SQL Server database security
+  - Configure Azure SQL Database security
+
+
+  ### Module 3&#58; Design for High-Availability, Disaster Recovery and Scalability
+  This module explains how to configure database solutions for High-Availability, Disaster Recovery and Scalability.
+  #### Lessons
+  - Design and Implement High-Availability Solutions
+  - Design and Implement Disaster Recovery Solutions
+  - Design and Implement Scalability Solutions
+  - Review
+
+
+  #### Lab &#58; Create Microsoft Azure Data Objects using Python
+  - Implement a High-Availability Solution
+  - Implement a Disaster Recovery Solution
+  - Implement a Scalability Solution
+
+  After completing this module, students will be able to&#58;
+  - Configure a High-Availability solution
+  - Configure a Disaster Recovery Solution
+  - Configure a Scalability Solution
+
+
+  ### Module 4&#58; Monitor and Troubleshoot Database Implementations in Azure
+  This module explains how to monitor and troubleshoot database implementations.
+  #### Lessons
+  - Monitor and Troubleshoot SQL Server VMs on Azure
+  - Monitor and Troubleshoot Azure SQL Databases
+  - Review
+
+
+  #### Lab &#58; Create Microsoft Azure Data Processes using Python
+  - Monitor and Troubleshoot SQL Server
+  - Monitor and Troubleshoot Azure SQL Databases
+
+  After completing this module, students will be able to&#58;
+  - Monitor and Troubleshoot SQL Servers
+  - Monitor and Troubleshoot Azure SQL Databases
+
+  #### Additional Reading
+  Courses 552241A and 552242A

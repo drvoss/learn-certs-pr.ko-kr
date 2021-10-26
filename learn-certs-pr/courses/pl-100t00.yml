@@ -1,17 +1,16 @@
 ### YamlMime:Course
 title: Microsoft Power Platform App Maker
 metadata:
-  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
-  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  title: 'Course PL-100T00--A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00--A: Microsoft Power Platform App Maker'
 uid: course.pl-100t00
-courseNumber: 'PL-100T00-A'
+courseNumber: 'PL-100T00'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 앱 디자인 및 워크플로 자동화
 - skill: 앱 생성 및 워크플로 자동화
 - skill: 앱 또는 자동화된 워크플로의 맥락에서 데이터 분석 및 시각화
-- skill: 앱 구현 및 관리 및 자동화된 워크플로
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -33,21 +32,26 @@ prerequisitesSection: |-
   - 개인적 성장 마인드 및 기술을 수월하게 사용하여 비즈니스 문제 해결
   - 운영상의 니즈 이해 및 원하는 결과에 대한 비전 보유 이들은 단계적이고 반복적인 전략으로 문제에 접근합니다.
 outlineSection: |-
-  ### 모듈 1&#58; Power Apps에서 모델 기반 애플리케이션 생성
-  본 모듈에서는 Power Apps에서 CDS(Common Data Service)를 사용하는 모델 기반 앱 생성 방법을 소개합니다.
+  ### 모듈 1: Microsoft Power Platform 소개
 
-  ### 모듈 2&#58; Power Apps에서 캔버스 앱 생성
-  본 모듈에서는 Power Apps를 소개하고, 앱 생성과 사용자 지정 및 관리와 배포하는 방법을 소개합니다.
+  이 모듈은 Microsoft Power Platform을 소개합니다. Power Platform의 구성 요소와 이를 사용하여 비즈니스 솔루션을 만드는 가치에 대해 배웁니다. 
 
-  ### 모듈 3&#58; Power Apps의 캔버스 앱에서 UI 및 컨트롤 사용
-  본 모듈에서는 최고의 앱 탐색을 제공하고 테마, 아이콘, 이미지, 개인 설정, 다양한 폼 팩터 및 컨트롤을 사용하여 최고의 UI를 구축하는 방법에 중점을 둡니다.
+  ### 모듈 2: Power Apps에서 모델-주도 앱 만들기
 
-  ### 모듈 4&#58; Power Automate로 업무 프로세스 자동화
-  본 모듈에서는 Power Automate를 소개하고 워크플로 구축과 흐름을 관리하는 방법을 알려줍니다.
+  이 모듈은 Microsoft Dataverse 를 사용하는 Power Apps에서 모델-주도 앱을 만드는 방법을 소개합니다. 
 
-  ### 모듈 5&#58; Power BI로 분석 보고서 생성 및 사용
-  구성 요소 및 함께 작동하는 방법을 포함한 Power BI 개념을 학습합니다.
+  ### 모듈 3: Power Apps에서 캔버스 앱 만들기
 
-  ### 모듈 6&#58; AI Builder 시작하기
-  본 모듈에서는 처음부터 AI 모델을 구축할 수 있도록 지원하며 한 줄의 코드 작성 없이도 업무에서 이를 사용하는 방법을 보여줍니다.
+  이 모듈은 캔버스 Power Apps을 소개하고, 앱을 만들고 사용자 지정한 다음, 이를 관리하고 배포하는 데 도움을 줍니다. 이 모듈은 또한 최고의 앱 탐색을 제공하고, 테마, 아이콘, 이미지, 개인화, 다양한 폼 팩터 및 제어를 사용하여 최고의 UI를 구죽 하는 방법에 중점을 둘 것입니다.
 
+  ### 모듈 4: Power Automate를 사용하여 비즈니스 프로세스 자동화
+
+  이 모듈은 Power Automate를 소개하고, 워크플로를 구축하는 방법과, 흐름을 관리하는 방법을 알려줍니다. 
+
+  ### 모듈 5: Power BI로 분석 보고서 만들기 및 사용
+
+  해당 빌딩 블록과 함께 작동하는 방법을 포함하여, Power BI가 무엇인지 알아봅니다.
+
+  ### 모듈 6: AI 빌더 및 Power Virtual Agents 시작
+
+  이 모듈은 처음부터 AI 모델을 구축하는 데 도움이 되고 코드를 한 줄도 작성하지 않고 비즈니스에 이를 사용할 수 있는 방법을 보여줍니다. 또한 이 모듈은 Teams 용 Power Virtual Agents로 챗봇을 만드는 데 도움이 됩니다. 

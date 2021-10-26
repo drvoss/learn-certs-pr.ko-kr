@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-300
 displayName: SC-300
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
 
   Microsoft 식별 및 액세스 관리자는 Azure Active Directory (Azure AD)를 사용하여 조직의 식별 및 액세스 관리 시스템을 디자인하고, 구현하고, 운영합니다. 엔터프라이즈 애플리케이션에 액세스하기 위한 보안 인증 및 권한 부여를 제공하는 것과 같은 작업을 관리합니다. 관리자는 모든 사용자들에게 원활한 경험과 셀프-서비스 관리 능력을 제공합니다. 적응형 액세스 및 거버넌스는 역할을 위한 핵심 요소입니다. 이 역할은 또한 식별 및 액세스 환경에 대한 문제 해결, 모니터링 및 보고를 담당합니다. 
   
@@ -33,7 +33,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 식별 관리 솔루션 구현 (25-30%)
 - 인증 및 액세스 관리 솔루션 구현 (25-30%)
 - 앱에 대한 액세스 관리 구현 (10-15%)

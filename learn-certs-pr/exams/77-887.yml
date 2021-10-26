@@ -6,13 +6,14 @@ metadata:
 uid: exam.77-887
 displayName: 77-887
 summary: |-
+  <div><font color="red"><strong>이 시험은 중단되었습니다. 현재 가능한 옵션은, <a href="/learn/certifications/browse/">인증 및 시험 검색 페이지</a>를 참고하십시오.</strong></font><br/><br/></div>
+
   전문가 수준의 Microsoft Word 2010 사용자는 특징 및 기능 수준에서 Word 2010 소프트웨어를 탐색할 수 있어야 합니다. 전문가는 Word 2010의 고급 기능을 사용하여 전문적인 문서를 향상시키고, 게시할 준비가 된 문서를 만들고, 그룹 편집 프로젝트에서 효과적으로 공동 작업합니다. 전문가는 Word 옵션을 조작하여 다양한 요구 사항을 충족시키고 생산성을 향상시킬 수 있도록 환경을 사용자 정의합니다.
 subTitle: 전문가 수준의 Microsoft Word 2010 사용자는 특징 및 기능 수준에서 능숙하고 자신있게 Word 2010 소프트웨어를 사용할 수 있습니다. 전문가는 Word 2010의 고급 기능을 사용하여 전문적인 문서를 향상시키고, 게시할 준비가 된 문서를 만들고, 그룹 편집 프로젝트에서 효과적으로 공동 작업합니다. 전문가는 Word 옵션을 조작하여 다양한 요구 사항을 충족시키고 생산성을 향상시킬 수 있도록 환경을 사용자 정의합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-tw
+- en
 levels:
 - beginner
 skills:
@@ -25,9 +26,6 @@ roles:
 - business-user
 products:
 - office-word
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.

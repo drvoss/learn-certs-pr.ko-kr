@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
 
   이 시험의 응시자들은 Microsoft Azure에서 SAP 솔루션의 초기 마이그레이션 또는 통합 및 장기 운영에 특화된 SAP 시스템 환경 및 산업 표준에 대한 광범위한 경험과 지식을 갖춘 설계자들 또는 엔지니어들 이어야 합니다. 
   
@@ -37,7 +37,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - SAP 워크로드를 Azure로 마이그레이션 (25–30%)
 - SAP 워크로드를 지원하는 인프라 디자인 및 구현 (25–30%)
 - High Availability 및 Disaster Recovery (HA/DR) 디자인 및 구현 (20–25%)

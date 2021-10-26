@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/dp-300">DP-300 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
   Azure Database 관리자는 Microsoft SQL Server 및 Microsoft Azure Data Services에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다. Azure Database 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
   
   <div></br>

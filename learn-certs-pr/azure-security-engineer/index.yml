@@ -2,19 +2,21 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: 'Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, 클라우드 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.'
+  description: Azure Security Engineers는 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 및 네트워크를 보호하는 Azure 보안 제어를 구현합니다.
 uid: certification.azure-security-engineer
 certificationRenewalUid: renewal.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure Security Engineer 인증을 위한 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 보안 제어 및 위협 보호, ID 및 액세스 관리, 데이터, 애플리케이션 및 네트워크 보호 등을 구현하는 실무 전문 지식을 갖추어야 합니다.
-
-  본 역할은 다양한 보안 도구을 사용하여 보안 상태를 유지하고, 취약점을 식별하고, 해결하며, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
-
-  Azure 보안 엔지니어들은 종종 cloud-기반 관리 및 보안을 전담하는 더 큰 팀의 일원으로 활동하고 종단간 인프라의 일원으로 하이브리드 환경을 보호할 수도 있습니다.
-
-  본 인증의 응시자는 스크립팅 및 자동화, 네트워킹, 가상화 및 클라우드 N-계층 아키텍처에 대한 깊은 이해, Azure용 클라우드 기능, 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 완전히 친숙해야 합니다.
-subTitle: Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, 클라우드 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-500">AZ-500 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
+  Azure Security Engineer 인증의 응시자들은 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 및 네트워크를 보호하는 Azure 보안 제어를 구현하는 것에 있어 주제 전문 지식을 갖추고 있어야 합니다.
+  
+  Azure Security Engineer의 책임에는 보안 태세 관리, 취약성 식별 및 수정, 위협 모델링 수행, 위협 보호 구현, 및 보안 사고 에스컬레이션 대응이 포함됩니다. 
+  
+  Azure Security Engineers는 흔히 cloud-기반 관리 및 보안을 계획하고 구현하기 위한 더 큰 팀의 일원으로 일합니다.  
+  
+  이 인증의 응시자들은 Azure 및 하이브리드 환경 관리에 대한 실질적인 경험을 갖추고 있어야 합니다. 응시자들은 코드로서의 인프라, 보안 운영 프로세스, cloud 기능 및, Azure 서비스에 대한 경험이 있어야 합니다.
+subTitle: Azure Security Engineers는 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 및 네트워크를 보호하는 Azure 보안 제어를 구현합니다.
 levels:
 - intermediate
 skills:

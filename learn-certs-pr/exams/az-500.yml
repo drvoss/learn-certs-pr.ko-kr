@@ -6,15 +6,15 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
   
-  이 시험의 응시자들은 보안 제어 및 위협 보호를 구현하고, 신분 및 접근을 관리하고, 데이터, 애플리케이션 및 네트워크를 보호하는 주제 전문 지식을 보유해야합니다. 
-
-  Azure Security Engineer는 다양한 보안 도구을 사용하여 보안 상태를 유지하고, 취약점을 식별하고, 해결하며, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
-
-  Azure 보안 엔지니어들은 종종 cloud-기반 관리 및 보안을 전담하는 더 큰 팀의 일원으로 활동하고 종단간 인프라의 일원으로 하이브리드 환경을 보호할 수도 있습니다.
+  이 시험의 응시자들은 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션 및 네트워크를 보호하는 Azure 보안 제어를 구현하는 주제 전문 지식을 갖추고 있어야 합니다.
   
-  이 시험의 응시자는 스크립팅 및 자동화에 익숙해야하며, 네트워킹 및 가상화에 대해서 깊이 이해하고 있어야합니다. 응시자는 또한 cloud 기능, Azure 제품들 및 서비스, 그리고 기타 Microsoft 제품들 및 서비스에 대해 잘 알고 있어야합니다.
+  Azure Security Engineer의 책임에는 보안 태세 관리, 취약성 식별 및 수정, 위협 모델링 수행, 위협 보호 구현, 보안 사고 에스컬레이션 대응이 포합됩니다.
+  
+  Azure Security Engineers는 흔히 cloud-기반 관리 및 보안을 계획하고 구현하기 위한 더 큰 팀의 일원으로 일합니다.  
+  
+  이 시험의 응시자들은 Azure 및 하이브리드 환경 관리에 대한 실질적인 경험을 갖추고 있어야 합니다. 응시자들은 코드로서의 인프라, 보안 운영 프로세스, cloud 기능 및, Azure 서비스에 대한 경험이 있어야 합니다. 
 subTitle: '본 시험은 ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안에 대한 귀하의 수행 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -32,11 +32,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 29일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - ID 및 액세스 관리 (30-35%)
 - 플랫폼 보호 구현 (15-20%)
 - 보안 운영 관리 (25-30%)
-- 데이터 및 애플리케이션 보안 (20-25%)
+- 데이터 및 애플리케이션 보안 (25-30%)
 roles:
 - security-engineer
 products:

@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
   
   본 시험의 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 전문 실무 지식을 갖추고 있어야 합니다. 응시자들은 Azure 관리에 대한 중급 수준의 기술이 있어야 합니다. 응시자들은 Azure 개발 및 DevOps 프로세스에 대한 이해가 있어야 합니다.
   
@@ -36,7 +36,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 모니터링 설계 (10-15%)
 - ID 및 보안 설계 (25-30%)
 - 데이터 스토리지 설계 (15-20%)
