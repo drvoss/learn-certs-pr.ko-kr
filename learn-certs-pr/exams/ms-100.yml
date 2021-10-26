@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
     
   이 시험의 응시자들은 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는데 참여하는 Microsoft 365 Enterprise Administrators입니다. 이들은 신원, 보안, 규정 준수, Power Platform, 및 지원 기술을 포함하여, 기업을 위한 Microsoft 365 테넌트 관리 작업을 수행합니다.
 
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2021년 9월 29일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Microsoft 365 서비스 설계 및 구현 (25-30%)
 - 사용자 ID 관리 및 역할 관리 (25-30%)
 - 액세스 및 인증 관리 (15-20%)
@@ -38,11 +38,12 @@ exams:
 courses:
 - uid: course.ms-100t00
 paths:
-- uid: learn-m365.identity-and-access
-- uid: learn.security.manage-identity-and-access
-- uid: learn-m365.microsoft-365-get-modern
-- uid: learn-m365.m365-stay-current
-- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn.wwl.design-your-microsoft-365-tenant
+- uid: learn.wwl.configure-your-microsoft-365-tenant
+- uid: learn.wwl.manage-your-microsoft-365-tenant
+- uid: learn.wwl.explore-microsoft-365-platform-services
+- uid: learn.wwl.plan-implement-identity-synchronization
+- uid: learn.wwl.implement-applications-external-access-azure-ad
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

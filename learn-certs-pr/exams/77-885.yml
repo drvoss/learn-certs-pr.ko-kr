@@ -6,14 +6,14 @@ metadata:
 uid: exam.77-885
 displayName: 77-885
 summary: |-
+  <div><font color="red"><strong>이 시험은 중단되었습니다. 현재 가능한 옵션은, <a href="/learn/certifications/browse/">인증 및 시험 검색 페이지</a>를 참고하십시오.</strong></font><br/><br/></div>
+
   이 시험의 일반적인 응시자는 기본 Access 데이터베이스를 작성하거나 유지해야 하는 사용자 지원 전문가, 강사, 교사, 교수, 데이터베이스 사용자 또는 데이터베이스 작성자입니다. 사용자는 테이블, 쿼리, 양식 및 보고서를 비롯한 기본 데이터베이스 개체의 기능을 만들고 수정하고 확장할 수 있습니다. 또한 사용자는 데이터베이스 실체 간의 기본 관계를 구성하고 수정할 수 있으며 기본 Access 기능 및 사용법에 대해 다른 사람들을 지도할 수 있습니다. Access 2010 사용자는 일반적으로 효과적으로 개체를 만들고 수정하고 사용자 지정합니다. 응시자는 데이터베이스 프로젝트에서 독립적으로 작업할 수 있으며 데이터베이스에 관해 다른 사람들로부터 질문에 자주 대답할 수 있어야 합니다. 응시자는 간단한 Access 데이터베이스를 생성하거나 수정하고 템플릿을 사용하여 기본 개체를 만드는 방법을 알고 있어야 합니다.
 subTitle: 이 시험의 일반적인 응시자는 기본 Access 데이터베이스를 작성하거나 유지해야 하는 사용자 지원 전문가, 강사, 교사, 교수, 데이터베이스 사용자 또는 데이터베이스 작성자입니다. 사용자는 테이블, 쿼리, 양식 및 보고서를 비롯한 기본 데이터베이스 개체의 기능을 만들고 수정하고 확장할 수 있습니다. 또한 사용자는 데이터베이스 실체 간의 기본 관계를 구성하고 수정할 수 있으며 기본 Access 기능 및 사용법에 대해 다른 사람들을 지도할 수 있습니다. Access 2010 사용자는 일반적으로 효과적으로 개체를 만들고 수정하고 사용자 지정합니다. 응시자는 데이터베이스 프로젝트에서 독립적으로 작업할 수 있으며 데이터베이스에 관해 다른 사람들로부터 질문에 자주 대답할 수 있어야 합니다. 응시자는 간단한 Access 데이터베이스를 생성하거나 수정하고 템플릿을 사용하여 기본 개체를 만드는 방법을 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
 locales:
-- zh-tw
-- ja
+- en
 levels:
 - beginner
 skills:
@@ -26,9 +26,6 @@ roles:
 - business-user
 products:
 - office-access
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.

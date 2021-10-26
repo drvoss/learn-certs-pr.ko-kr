@@ -7,6 +7,8 @@ uid: certification.azure-solutions-architect
 certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-303">AZ-303</a> 및 <a href="/learn/certifications/exams/az-304">AZ-304</a> 시험 페이지에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
   Azure Solutions Architect Expert 인증을 위한 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 실무 전문 지식을 갖추고 있어야 합니다.응시자들은 Azure 관리에 대한 중급 수준의 기술을 가지고 있어야합니다. 응시자들은 Azure 개발 및 DevOps 프로스세를 이해해야합니다.
 
   본 역할은 이해 관계자에게 조언하고 비즈니스 요구사항을 안전하고 확장 가능하며 신뢰할 수 있는 클라우드 솔루션으로 변환하는 업무를 담당합니다.

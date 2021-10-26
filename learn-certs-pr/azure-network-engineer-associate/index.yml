@@ -18,10 +18,10 @@ levels:
 - intermediate
 skills:
 - 하이브리드 네트워킹 디자인, 구현 및 관리 
-- 핵심 네트워킹 인프라 디자인 및 구현하고
-- 라우팅 디자인 및 구현
+- 핵심 네트워킹 인프라 디자인 및 구현 
+- 라우팅 디자인 및 구현 
 - 네트워크 보안 및 모니터링 
-- Azure 서비스에 대한 비공개 액세스 디자인 및 구현 
+- Azure 서비스에 대한 비공개 액세스 디자인 및 구현
 roles:
 - network-engineer
 type: role-based

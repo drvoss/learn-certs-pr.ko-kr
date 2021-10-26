@@ -10,10 +10,10 @@ summary: |-
   
   이 시험의 응시자들은 기업 환경에서 장치와 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링하는 관리자들 입니다. 응시자들은 ID, 액세스, 정책, 업데이트 및 앱을 관리합니다.
   
-  관리자로서, 응시자들은 일반적으로  M365 Enterprise Administrator 와 협력하여 현대 조직의 비즈니스 요구를 충족하는 장치 전략을 디자인하고 구현합니다.
+  관리자로서, 응시자들은 일반적으로 Microsoft 365 Enterprise Administrator와 협력하여 현대 조직의 비즈니스 요구를 충족하는 장치 전략을 디자인하고 구현합니다. 
   
-  응시자들은 반드시 M365 workloads에 익숙해야하고 Windows 10 및 Windows가 아닌 장치 및 기술을 배포하고, 구성하고, 관리하는데 능숙해야하며 경험이 있어야만 합니다.
-subTitle: '이 시험은 다음과 같은 기술 업무를 수행하는 능력을 측정합니다: Windows 배포; 장치 및 데이터 관리; 저장소 및 연결 구성; 및 Windows를 유지합니다. 2019년 3월 31일 종료되기 전에 Exam 70-698에 합격했다면, MD-101만 응시하면 Modern Desktop certification를 획득할 수 있습니다.'
+  응시자들은 반드시 Microsoft 365 워크로드에 익숙해야 하고, Windows 10 및 비-Windows 장치 및 기술을 배포하고, 구성하고, 유지하는 데 있어 능숙하고 경험이 있어야 합니다.
+subTitle: '이 시험은 다음과 같은 기술 업무를 수행하는 능력을 측정합니다: Windows 배포; 장치 및 데이터 관리; 저장소 및 연결 구성; 및 Windows를 유지합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice

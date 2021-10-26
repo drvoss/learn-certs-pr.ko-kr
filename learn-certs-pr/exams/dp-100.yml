@@ -10,9 +10,9 @@ summary: |-
   <div><font color='red'><strong>이 시험의 내용은 2021년 5월 20일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   </div>
   
-  Azure Data Scientist Associate 인증의 응시자들은, Azure의 기계 학습 워크로드를 구현하고 실행하기 위해 데이터 과학 및 기계 학습을 적용하는 주제 전문 지식이 있어야합니다. 
+  이 시험의 응시자들은 Microsoft Azure의 기계 학습 워크로드를 구현하고 실행하기 위한 데이터 과학 및 기계 학습을 적용하는 주제 전문 지식을 갖추고 있어야 합니다. 
   
-  이 역할에 대한 책임은 Azure의 데이터 과학 워크로드에 대한 적합한 작업 환경을 계획하고 만드는것을 포함합니다. 데이터 실험을 실행하고 예측 모델을 훈련합니다. 또한, 기계 학습 모델을 관리, 최적화 및 프로덕션에 배포합니다. 
+  이 역할의 책임에는 Azure의 데이터 과학 워크로드에 적합한 작업 환경을 계획하고 만드는 것이 포함됩니다. 그들은 데이터 실험을 실행하고 예측 모델을 훈련합니다. 게다가, 기계 학습 모델을 관리, 최적화 및 생산으로 배포합니다.  
   
   이 인증의 후보자는 데이터 과학 및 Azure Machine Learning과 Azure Databricks 사용에 대한 지식과 경험이 있어야합니다.
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 기계 학습을 위한 Azure 리소스 관리; 실험 실행 및 모델 훈련; 기계 학습 솔루션 배포 및 운영; 그리고 책임감있는 기계 학습을 구현합니다.'
@@ -54,7 +54,7 @@ paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.wwl.perform-data-science-azure-databricks
+- uid: learn.wwl.build-operate-machine-learning-solutions-azure-databricks
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist

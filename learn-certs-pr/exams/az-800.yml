@@ -1,0 +1,77 @@
+### YamlMime:Examination
+title: Administering Windows Server Hybrid Core Infrastructure (beta)
+metadata:
+  title: 'Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)'
+  description: 'Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)'
+uid: exam.az-800
+displayName: AZ-800
+summary: |-
+  이 시험의 응시자들은 온-프레미스, 하이브리드 및 cloud 기술을 사용하여 핵심 Windows Server 워크로드를 관리합니다. 이러한 전문가들은 ID, 관리, 컴퓨팅, 네트워킹 및 스토리지와 같은 온-프레미스 및 하이브리드 솔루션을 구현하고 관리하는 데 있어 전문성을 갖추어야 합니다. 이들은 Windows Admin Center, PowerShell, Azure Arc, 및 IaaS 가상 머신 관리와 같은, 관리 도구 및 기술을 사용합니다.
+  
+  이 시험의 응시자는 Windows Server 운영 시스템 작업에 대한 광범위한 경험이 있어야 합니다. 
+  
+  <div><br/><font color='red'><strong>참고: 이 시험은 2021년 12월에 시행됩니다.</strong></font></div>
+subTitle: '이 시험은 2021년 12월에 시행됩니다. 이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 온-프레미스 및 cloud 환경에서 Active Directory Domain Services (AD DS) 배포 및 관리; 하이브리드 환경에서 Windows Servers 및 워크로드 관리; 가상 머신 및 컨테이너 관리; 온-프레미스 및 하이브리드 네트워킹 인프라 구현 및 관리; 스토리지 및 파일 서비스 관리.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 온-프레미스 및 cloud 환경에서 Active Directory Domain Services (AD DS) 배포 및 관리 (30-35%)
+- 하이브리드 환경에서 Windows Servers 및 워크로드 관리 (10-15%)
+- 가상 머신 및 컨테이너 관리 (15-20%)
+- 온-프레미스 및 하이브리드 네트워킹 인프라 구현 및 관리 (15-20%) 
+- 스토리지 및 파일 서비스 관리 (15-20%)
+roles:
+- administrator
+- identity-access-admin
+- ip-admin
+- network-engineer
+- security-engineer
+- support-engineer
+- technology-manager
+products:
+- azure-active-directory
+- azure-active-directory-domain
+- azure-arc
+- azure-automation
+- azure-defender
+- azure-disk-encryption
+- azure-files
+- azure-monitor
+- azure-policy
+- azure-powershell
+- azure-security-center
+- azure-sentinel
+- azure-virtual-machines
+- mdatp
+- windows-server
+exams:
+- uid: exam.az-801
+relatedCertifications:
+- related:
+    uid: certification.windows-server-hybrid-administrator
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+  href: ../request-accommodations.md
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

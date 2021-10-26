@@ -1,13 +1,13 @@
 ---
-title: 'certification-exam-policies | Microsoft Docs'
-description: 'certification-exam-policies' 
+title: '시험 정책 및 자주 묻는 질문 | Microsoft Docs'
+description: '시험 정책 및 자주 묻는 질문' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 10/14/2019
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 시험 정책 및 자주 묻는 질문

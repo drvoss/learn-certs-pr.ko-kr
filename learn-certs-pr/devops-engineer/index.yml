@@ -7,6 +7,8 @@ uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-400">AZ-400 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  
   DevOps Engineer Expert 인증 후보자는 비즈니스 가치를 지속적으로 제공하기 위해 인력, 프로세스 및 기술과 관련된 주제 전문 지식을 보유하고 있어야합니다.
 
   이 역할의 책임에는 협업, 코드, 인프라, 소스 제어, 보안, 컴플라이언스, 지속적인 통합, 테스트, 제공, 모니터링 및 피드백을위한 전략 설계 및 구현이 포함됩니다.

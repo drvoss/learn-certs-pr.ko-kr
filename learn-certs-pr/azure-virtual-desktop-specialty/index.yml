@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-140">AZ-140 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
   Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다. 
   
   이 역할의 책임에는 가상 데스크톱 환경 및 앱을 Azure에 배포하는 것이 포함됩니다. 이 역할의 전문가들은 Azure Virtual Desktop에서 애플리케이션을 제공하고 다중-세션 가상 환경에서 실행되도록 최적화합니다. 이러한 경험을 제공하기 위해, Microsoft 365 관리자들과 함께, Azure 관리자들 및 설계자들과 긴밀하게 협력합니다.
@@ -59,6 +61,9 @@ resources:
 - title: Azure 인증 포스터
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 인증을 향한 여정
+  description: Azure의 가상 데스크톱 전문성에 대한 인증을 받기 위한 단계와 준비에 도움이 될 수 있는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://aka.ms/TrainingCertDeck

@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
 
   Microsoft 보안 운영 분석가는 조직의 이해관계자와 협력하여 조직을 위한 정보 기술 시스템을 보안합니다. 그들의 목표는 환경에서 활발한 공격을 신속하게 수습하고, 위협 방지 사례에 대한 개선을 조언하고, 조직 정책의 위반을 적절한 이해관계자들에게 언급함으로써 조직의 위험을 줄이는 것입니다.
   
@@ -14,6 +14,7 @@ summary: |-
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: Microsoft 365 Defender을 사용하여 위협 완화 ; Azure Defender을 사용하여 위협 완화; Azure Sentinel을 사용하여 위협 완화.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
+practiceTestUrl: https://in.mindhub.com/sc-200-microsoft-security-operations-analyst-microsoft-official-practice-test/p/MU-SC-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
 locales:
 - en
@@ -31,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Microsoft 365 Defender을 사용하여 위협 완화 (25-30%)
 - Azure Defender을 사용하여 위협 완화 (25-30%)
 - Azure Sentinel을 사용하여 위협 완화 (40-45%)

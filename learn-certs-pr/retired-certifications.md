@@ -2,12 +2,12 @@
 title: 인증 만료 | Microsoft Docs
 description: 인증 만료
 documentationcenter: NA
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: venkato
 ---
 # 인증 만료
 
@@ -45,7 +45,6 @@ ms.author: micsullivan
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 |
 | [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021년 6월 30일 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020년 12월 31일 |
-| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 2020년 8월 31일 |
 
 | Microsoft Certified Solutions Developer                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
@@ -54,7 +53,6 @@ ms.author: micsullivan
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)                      | 2021년 1월 31일 |
-| MCSA: CRM Dynamics Technical                                                                                                | 2019년 12월 31일 |
 | [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 2021년 1월 31일 |
 | [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 2021년 1월 31일 |
 | [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 2021년 1월 31일 |
@@ -74,6 +72,4 @@ ms.author: micsullivan
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | 2019년 9월 30일 월요일 |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 2019년 8월 7일     |
 ___

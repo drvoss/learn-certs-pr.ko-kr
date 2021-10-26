@@ -1,0 +1,380 @@
+### YamlMime:Course
+title: SharePoint 2016 Technologies Introduction
+metadata:
+  title: 'Course 55254-A: SharePoint 2016 Technologies Introduction'
+  description: 'Course 55254-A: SharePoint 2016 Technologies Introduction'
+uid: course.55254
+courseNumber: '55254-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apply best practice techniques to organize enterprise content and documents with list and library apps.
+- skill: Create and manage SharePoint sites for departments, projects, and content management.
+- skill: Learn to properly and efficiently manage site security.
+- skill: Add and edit SharePoint pages and leverage the power of web parts.
+- skill: Automate business processes with workflows.
+- skill: Integrate Microsoft Office with your SharePoint sites.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Microsoft SharePoint 2016 provides a business collaboration platform that streamlines document management, simplifies access to information, and provides the ability to deploy solutions quickly and securely. In this SharePoint training for beginners course, you gain a comprehensive overview of the SharePoint 2016 on-premise and SharePoint online platform, and learn to create, manage, and customize SharePoint 2016 to the requirements of your organization.
+
+  #### Audience profile
+  This course is intended for attendees new to Sharepoint or those hoping to learn the new features in SharePoint 2016
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Working knowledge of Microsoft Windows, Office, and the web.
+outlineSection: |-
+  ### Module 1&#58; What is SharePoint
+  This module explains SharePoints’ new features and introduces the course Case Study.  Using the course case study, you will be assigned a country for whom you will build a customized team site and a subsite to store your countries’ information.  You will get an overview of SharePoint 2016 and also see the completed SharePoint site you will work on throughout the course.
+  #### Lessons
+  - An Overview of SharePoint 2016
+  - What’s New in SharePoint 2016
+  - Using SharePoint 2016
+
+
+  #### Lab &#58; Managing Information and Collaboration via SharePoint
+  - Opening the Solution Site
+  - Promoted Links
+
+  After completing this module, students will be able to&#58;
+  - Review the functionality of SharePoint 2016.
+  - Discover new features.
+  - Identify business use cases.
+
+
+  ### Module 2&#58; Creating SharePoint Websites
+  This module explains how to adequately plan your SharePoint architecture. Base terminology, such as site collections, top level sites, subsites, and site templates will be explained. You will complete labs to create multiple subsites from templates and establish the foundation for which future exercises will be developed. Upon creation of sites, you will learn how to approach common SharePoint administration tasks and complete labs to make adjustments to your site’s look and feel, navigation, and features.
+  #### Lessons
+  - SharePoint Site Architecture
+  - SharePoint Site Examples
+  - Site Templates Defined
+  - Customizing SharePoint Sites
+  - Site/Site Collection Administration
+
+
+  #### Lab &#58; Creating Subsites
+  - Navigating to your country’s top-level site
+  - Adding a document to the library app in your country site
+  - Creating a General Information subsite for your country
+  - Creating a project site for your country
+  - Working with the project site
+  - Creating a department blog site
+  - Working with the blog site
+  - Writing a blog post with Word
+  - Managing posts in your blog
+
+
+  #### Lab &#58; Customizing SharePoint Sites
+  - Navigating to your top-level site
+  - Changing the site logo
+  - Changing the look and feel of your site
+  - Modifying the top link bar
+  - Modifying the Quick Launch
+  - Regional settings
+  - Enabling Publishing Features
+  - Creating a Publishing Site
+
+
+  #### Lab &#58; Site Collection Administration
+  - Using the Recycle Bin
+  - Creating and applying a document policy
+  - Usage Reports
+
+  After completing this module, students will be able to&#58;
+  - Identify SharePoint site structure.
+  - Define site collections and subsites.
+  - Use site templates.
+  - Create SharePoint subsites.
+  - Work with the site recycle bin and the site collection recycle bin.
+  - Change the look of your site.
+  - Review document deletion policies.
+  - View popularity trend reports.
+
+
+  ### Module 3&#58; Managing SharePoint Security
+  This module explains how to share a SharePoint site and approach common security/permissions scenarios. Basic permission terminology is covered with a focus on inheritance and how/when to stop inheriting permissions at a subsite, list/library, folder, or individual item/file. Users will request permission from other sites and respond to access requests made by others. Best practice security management techniques will also be discussed. Users will explore sharing files in SharePoint Online by sharing a file externally using a personal (non-SharePoint) email address.
+  #### Lessons
+  - Sharing Your Site
+  - SharePoint Groups
+  - Permission Levels
+  - Access Requests
+  - Permission Inheritance
+  - Direct Permissions
+  - Best Practices
+  - Advanced Security
+
+
+  #### Lab &#58; Adding Users and Setting Site Permissions
+  - Defining members
+  - Add members to a group
+  - Allowing users to request permission
+  - Requesting permission
+  - Viewing permissions
+
+
+  #### Lab &#58; Updating Site Objects Permissions
+  - Defining members
+  - Permission inheritance
+  - Checking permissions
+  - Granting permissions to a user directly
+
+  After completing this module, students will be able to&#58;
+  - Grant access to sites and content.
+  - Use SharePoint groups to simplify security management tasks.
+  - Request access to a SharePoint site.
+  - Review permission levels.
+  - Review authentication providers.
+  - Examine permissions best practices.
+  - Share a SharePoint Online site.
+
+
+  ### Module 4&#58; Managing Content
+  This module explains how to work with SharePoint list apps to manage content in SharePoint. Users will learn that all content and many of the backend configuration options in SharePoint are managed via SharePoint lists. Commonly used apps including the task list and calendar app will be used, showing the practical project management functionality offered in project site templates. Users will create alerts to receive email notification of changes to files. Additional app templates will be leveraged including a contact list, a promoted links list, a picture library, a survey, and importing a list structure from a Microsoft Excel table. SharePoint Online will be investigaged, particularly third-party apps available in the app store.
+  #### Lessons
+  - SharePoint Content Management
+  - List Apps
+  - Task List App
+  - Calendar List App
+  - Alerts
+  - Adding List Apps
+
+
+  #### Lab &#58; Working With Lists
+  - Creating a document migration project plan
+  - Creating major and minor tasks
+  - Working with the project plan
+  - Creating a calendar entry for the SharePoint document management system launch
+  - Adding a roll up calendar for the tasks list
+
+
+  #### Lab &#58; Creating Apps
+  - Adding a contact list to the site
+  - Adding a Promoted Links list to the site
+  - Adding a picture library app to the site
+  - Adding a survey list to the site
+  - Create an MSC Sales list from a spreadsheet
+  - Create a Lookup column
+  - Categorizing Content
+
+  After completing this module, students will be able to&#58;
+  - Use SharePoint features for content management.
+  - Review SharePoint out-of-the-box list app templates.
+  - Leverage a task list for lightweight project management.
+  - Use a calendar list for managing events.
+  - Create a promoted links list for enhanced navigation.
+  - Set alerts for notification of changes to list items.
+
+
+  ### Module 5&#58; Managing Documents
+  This module explains how to manage documents in a SharePoint site. You will learn multiple methods to upload files to a SharePoint site. Best practice file organization techniques will be discussed utilizing metadata for file management rather than folders. You will create views to harness the power of your metadata as well as configure settings in your library for major/minor versions, check-out/check-in behavior, and content approval. You will also sync the files in a SharePoint document library to your local computer using OneDrive for Business. A comparison will be made between managing information in SharePoint on-premises and SharePoint Online.
+  #### Lessons
+  - Document Libraries Defined
+  - Adding Content to Library Apps
+  - Metadata Defined
+  - Views Defined
+  - Document Content Management
+  - Working Offline&#58; OneDrive
+  - Library Settings
+  - Item Permissions
+  - Advanced App Management
+
+
+  #### Lab &#58; Migrating Content to Document Libraries
+  - Uploading to a document library using drag and drop
+  - Uploading a single document to a document library
+  - Adding a document from Word
+  - Creating a shortcut to a library
+
+
+  #### Lab &#58; Identifying Content With Metadata
+  - Examining the existing folder structure
+  - Organizing files with columns
+  - Updating the library contents with metadata
+  - Adding more documents to the library
+
+
+  #### Lab &#58; Creating Views
+  - Creating a grouped view
+  - Creating a filtered view
+  - Adding a view link to the Quick Launch
+
+
+  #### Lab &#58; Document Management
+  - Enabling version control and content approval in a document library
+  - Checking out and editing a document stored in another department’s SharePoint site
+  - Approving the changes made by another team to a document in your document library
+  - Viewing version history and restoring a previous version
+
+
+  #### Lab &#58; Library Configuration
+  - Adding a new library app
+  - Adding columns to the New Hire Candidates library
+  - Adding documents to the New Hire Candidates library and setting metadata
+  - Adding a calculated column
+  - Changing the title of a library
+  - Removing the ability to create folders
+  - Adding list validation
+
+  After completing this module, students will be able to&#58;
+  - Add documents to a library app.
+  - Move documents from a folder to a library app.
+  - Add metadata to identify files.
+  - Create views to sort, filter, and organize files.
+  - Work offline and synchronize changes back to a library.
+  - Enable content management features.
+  - Create a library in a site.
+  - Update library settings.
+  - Work with documents in SharePoint Online.
+
+
+  ### Module 6&#58; Advanced SharePoint&#58; Enterprise Features
+  This module explains how to leverage powerful enterprise building blocks in SharePoint to build larger enterprise solutions with reduced effort. Site columns and content types will be leveraged to provide consistent metadata tagging and templates for regularly used content. New columns, such as Managed
+  Metadata for referencing a hierarchical taxonomy and External Columns for deriving values from an external data source will be used. Search use and configuration will be covered, as well as Enterprise Social techniques for using a SharePoint MySite to foster collaboration among team members. Finally,
+  the Delve experience with MySites in SharePoint Online will be compared to the MySites in SharePoint on-premises.
+  #### Lessons
+  - Content Organization
+  - Site Columns
+  - Content Types
+  - Applying Content Types
+  - Managed Metadata
+  - External Lists
+  - Search
+  - Enterprise Social
+  - Enterprise Document Management
+
+
+  #### Lab &#58; Content Types
+  - Adding a site column to a document library
+  - Adding a new presentation library with PowerPoint default
+  - Defining site columns
+  - Creating a new content type
+  - Adding site columns to the content type
+  - Adding a document template to the content type
+  - Adding content types to a document library
+  - Working with the new content type in the library
+
+
+  #### Lab &#58; Managed Metadata
+  - Adding a managed metadata column to the document library
+  - Using the managed metadata column in the document library
+  - Creating a managed metadata group
+
+
+  #### Lab &#58; External Lists
+  - Creating an external list
+  - Creating an alternate view of the Customers list
+  - Using the external list as a column reference in the presentation library
+
+
+  #### Lab &#58; Search
+  - Experimenting with different search syntax
+  - Enterprise Search Template
+
+
+  #### Lab &#58; Leveraging SharePoint Social Features
+  - Creating an external list
+  - Follow colleagues and sites
+  - Contribute to a Newsfeed
+  - Use the OneDrive for Business in your My Site
+
+  After completing this module, students will be able to&#58;
+  - Create reusable site columns
+  - Build content types
+  - Add content types to libraries
+  - Add document templates to libraries
+  - Work with managed metadata
+  - Discover content with Search
+  - Create external lists
+
+
+  ### Module 7&#58; Customizing Pages
+  This module explains how to use web part pages and wiki pages to add and customize additional information in SharePoint. You will make basic updates to content on your home page, as well as create additional pages to hold other content. A review of the large number of web parts will be provided and
+  you will add web parts to your page to display information from your lists and libraries. Methods of content roll-ups will be explored using the content by query web part and the content search web part. Lastly, comparisons will be made between editing pages in collaboration sites vs. publishing sites.
+  #### Lessons
+  - Site Pages
+  - Editing Pages
+  - Creating Pages
+  - Web Parts
+  - Publishing Sites
+
+
+  #### Lab &#58; Editing and Adding Site Pages
+  - Removing “Getting started”
+  - Updating your home page
+  - Adding a Wiki page to your site
+
+
+  #### Lab &#58; Adding Web Parts to Pages
+  - Editing web parts
+  - Displaying a Google map on a page with Embed Script
+
+
+  #### Lab &#58; SharePoint Features and Content Rollup
+  - Rolling up content with the Content Search Web part for our site collection
+
+  After completing this module, students will be able to&#58;
+  - Examine page types.
+  - Edit pages.
+  - Add pages.
+  - Add and customize Web Parts.
+  - Added Rollup content for site collections.
+
+
+  ### Module 8&#58; Managing Business Processes With Workflow
+  This module explains the fundamentals of process in automation in SharePoint with workflows. Starting with out-of-the-box workflows and graduating to SharePoint Designer workflows, you will learn how to develop multiple types of multi-participant approval workflows to eliminate ad-hoc processes and streamline your operations. Lastly, recent products including Microsoft PowerApps and Microsoft Flow, that possibly represent the future of workflow in SharePoint Online will be examined.
+  #### Lessons
+  - Definition
+  - Out-of-the-Box Workflows
+  - Using a Workflow
+  - SharePoint Designer
+  - Creating a Custom Workflow
+
+
+  #### Lab &#58; Automating Business Processes With Workflows
+  - Enabling out-of-the-box (OOTB) workflows
+  - Adding the approval workflow to the HR Policies library
+  - Testing the workflow
+
+
+  #### Lab &#58; Designing a Custom Workflow
+  - Connecting to SharePoint Designer
+  - Testing adding a USA Presentation
+
+  After completing this module, students will be able to&#58;
+  - Define workflow.
+  - Review out-of-the-box workflows.
+  - Associate a workflow to a list.
+  - Execute the workflow.
+  - Create a custom workflow with SharePoint Designer.
+  - Use actions and conditions in a workflow.
+
+
+  ### Module 9&#58; Microsoft Office Integration
+  This module explains the many different ways that SharePoint is integrated with Microsoft Office. You will review how to connect a variety of lists and library apps to Microsoft Outlook and work with fellow attendees to simultaneously edit content in a Microsoft Word document. Lastly, different methods of utilizing Microsoft Excel to connect to SharePoint will be reviewed.
+  #### Lessons
+  - Microsoft Office and SharePoint Integration
+  - Connecting Outlook
+  - Using Excel
+
+
+  #### Lab &#58; Leveraging Outlook With SharePoint
+  - Connecting SharePoint contacts to Outlook
+  - Connecting SharePoint Calendar events to Outlook
+
+
+  #### Lab &#58; Using Excel Web Access Web Parts
+  - Adding an Excel Web Access web part to a page in SharePoint Online
+
+  After completing this module, students will be able to&#58;
+  - Use Office and SharePoint integration features.
+  - Connect site calendars, contacts, and document libraries to Outlook.
+  - Use Excel spreadsheets in SharePoint.
+  - Use Excel in a browser.

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
   
   본 시험의 응시자는 Microsoft 365 및 하이브리드 환경에서 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링합니다. Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 환경을 선제적으로 보호하고 위협에 대응하며 조사를 수행하고 데이터 거버넌스를 적용합니다. Microsoft 365 Security Administrator는 Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인합니다.
   <br/>
@@ -24,14 +24,24 @@ providers:
 locales:
 - en
 - ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- ID 및 액세스 구현 및 관리 (30-35%)
-- 위협 보호 구현 및 관리 (20-25%)
-- 정보 보호 구현 및 관리 (15-20%)
-- Microsoft 365의 거버넌스 및 규정 준수 기능 관리 (25-30%)
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- ID 및 액세스 구현 및 관리 (35-40%)
+- 위협 보호 구현 및 관리 (25-30%)
+- 정보 보호 구현 및 관리 (10-15%)
+- Microsoft 365의 거버넌스 및 규정 준수 기능 관리 (20-25%)
 roles:
 - administrator
 products:
@@ -41,11 +51,10 @@ products:
 courses:
 - uid: course.ms-500t00
 paths:
-- uid: learn.security.manage-identity-and-access
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-information-protection
-- uid: learn-m365.m365-security-management
-- uid: learn-m365.m365-compliance-insider
+- uid: learn.wwl.implement-manage-identity-access
+- uid: learn.wwl.implement-manage-threat-protection
+- uid: learn.wwl.implement-manage-information-protection
+- uid: learn.wwl.manage-governance-compliance-features-microsoft-365
 relatedCertifications:
 - related:
     uid: certification.m365-security-administrator

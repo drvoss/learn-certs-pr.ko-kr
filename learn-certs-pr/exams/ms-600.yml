@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
   
   본 시험의 응시자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리하는 Microsoft 365 개발자입니다.
   
-  이 시험의 응시자들은 Microsoft identity 및 Microsoft Graph에 능숙합니다. 이들은 UI 요소 (Adaptive Cards 및 Fluent UI (Office UI Fabric 포함), 통합 지점(Microsoft Teams 앱, Office Add-ins, SharePoint Framework, 실행 가능한 메세지 포함), 및 워크로드 플랫폼 대상 결정에 대한 일반적인 지식을 갖추고 있습니다. 
+  이 시험의 응시자들은 Microsoft identity, Microsoft Graph, 및 Microsoft Teams 용 앱 구축에 있어 능숙합니다. 그들은 UI 요소 (Fluent UI (Office UI Fabric 포함), 통합 지점(Office Add-ins, SharePoint 프레임 워크, 실행 가능한 메시지 포함), 및 워크로드 플랫폼 대상 결정에 대한 일반 지식을 갖추고 있습니다. 
   
   응시자들은 소프트웨어 개발의 모든 단계를 통해 Microsoft Teams, Office, 또는 SharePoint에서 솔루션을 개발한 경험이 있어야 합니다. REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities (Azure AD 및 Microsoft 계정 포함), Azure AD B2C, 및 허가/동의 개념에 대한 기본 이해가 있어야 합니다.
 subTitle: '본 시험은 다음과 같은 기술적 작업을 수행할 수 있는 능력을 측정합니다: Microsoft ID 구현, Microsoft Graph를 통한 앱 빌드, SharePoint 확장 및 사용자 지정, Teams 확장, 및 Office 확장.'
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Microsoft Identity 구현 (20-25%)
 - Microsoft Graph로 앱 구축 (15-20%)
 - SharePoint 확장 및 사용자 지정 (15-20%)
