@@ -8,12 +8,12 @@ courseNumber: '55254-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Apply best practice techniques to organize enterprise content and documents with list and library apps.
-- skill: Create and manage SharePoint sites for departments, projects, and content management.
-- skill: Learn to properly and efficiently manage site security.
-- skill: Add and edit SharePoint pages and leverage the power of web parts.
-- skill: Automate business processes with workflows.
-- skill: Integrate Microsoft Office with your SharePoint sites.
+- skill: 목록 및 라이브러리 앱으로 엔터프라이즈 콘텐츠 및 문서를 구성하는 모범 사례 기술을 적용합니다.
+- skill: 부서, 프로젝트, 및 콘텐츠 관리를 위한 SharePoint 사이트를 만들고 관리합니다.
+- skill: 사이트 보안을 적절하고 효율적으로 관리하는 것을 배웁니다.
+- skill: SharePoint 페이지를 추가 및 편집하고 web parts의 능력을 활용합니다. 
+- skill: 워크플로로 비즈니스 프로세스를 자동화합니다.
+- skill: Microsoft Office와 SharePoint 사이트를 통합합니다.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -24,357 +24,337 @@ roles:
 products:
 - office-sp-server
 summary: |-
-  Microsoft SharePoint 2016 provides a business collaboration platform that streamlines document management, simplifies access to information, and provides the ability to deploy solutions quickly and securely. In this SharePoint training for beginners course, you gain a comprehensive overview of the SharePoint 2016 on-premise and SharePoint online platform, and learn to create, manage, and customize SharePoint 2016 to the requirements of your organization.
+  Microsoft SharePoint 2016은 문서 관리를 간소화하고, 정보에 대한 액세스를 단순화하며, 솔루션을 빠르고 안전하게 배포하는 능력을 제공하는 비즈니스 협업 플랫폼을 제공합니다. 초보자 과정을 위한 이 SharePoint 교육에서는, SharePoint 2016 온-프레미스 및 SharePoint online 플랫폼에 대한 포괄적인 개요를 확인하고, 조직의 요구 사항에 맞게 SharePoint 2016을 만들고, 관리, 및 사용자 지정하는 방법을 배웁니다.
 
-  #### Audience profile
-  This course is intended for attendees new to Sharepoint or those hoping to learn the new features in SharePoint 2016
+  #### 구독자 프로필
+  이 과정은 Sharepoint를 처음 접하거나 SharePoint 2016의 새로운 기능을 배우려는 참가자들을 대상으로 합니다. 
 prerequisitesSection: |-
-  Before attending this course, students must have&#58;
-  - Working knowledge of Microsoft Windows, Office, and the web.
+  이 과정에 참여하기 전에, 학생들은 반드시 다음을 갖추어야 합니다&#58;
+  - Microsoft Windows, Office, 및 web에 대한 실무 지식
 outlineSection: |-
-  ### Module 1&#58; What is SharePoint
-  This module explains SharePoints’ new features and introduces the course Case Study.  Using the course case study, you will be assigned a country for whom you will build a customized team site and a subsite to store your countries’ information.  You will get an overview of SharePoint 2016 and also see the completed SharePoint site you will work on throughout the course.
-  #### Lessons
-  - An Overview of SharePoint 2016
-  - What’s New in SharePoint 2016
-  - Using SharePoint 2016
+  ### 모듈 1&#58; SharePoint는 무엇인가
+  이 모듈에서는 SharePoints' 새로운 기능을 설명하고 과정 사례 연구를 소개합니다. 과정 사례 연구를 사용하여, 사용자 지정 팀 사이트와 해당 국가의 정보를 저장할 하위 사이트를 구축할 국가를 배정받게 됩니다. SharePoint 2016의 개요를 확인하고 과정 전체에서 작업하게 될 완성된 SharePoint 사이트도 볼 수 있습니다. 
+
+  #### 레슨
+  - SharePoint 2016 개요
+  - SharePoint 2016의 새로운 기능
+  - SharePoint 2016 사용
 
 
-  #### Lab &#58; Managing Information and Collaboration via SharePoint
-  - Opening the Solution Site
-  - Promoted Links
+  #### 랩 &#58; SharePoint를 통한 정보 및 협업 관리
+  - 솔루션 사이트 오픈
+  - 프로모션 링크
 
-  After completing this module, students will be able to&#58;
-  - Review the functionality of SharePoint 2016.
-  - Discover new features.
-  - Identify business use cases.
-
-
-  ### Module 2&#58; Creating SharePoint Websites
-  This module explains how to adequately plan your SharePoint architecture. Base terminology, such as site collections, top level sites, subsites, and site templates will be explained. You will complete labs to create multiple subsites from templates and establish the foundation for which future exercises will be developed. Upon creation of sites, you will learn how to approach common SharePoint administration tasks and complete labs to make adjustments to your site’s look and feel, navigation, and features.
-  #### Lessons
-  - SharePoint Site Architecture
-  - SharePoint Site Examples
-  - Site Templates Defined
-  - Customizing SharePoint Sites
-  - Site/Site Collection Administration
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SharePoint 2016의 기능을 검토합니다.
+  - 새로운 기능을 발견합니다.
+  - 비즈니스 사용 사례를 식별합니다.
 
 
-  #### Lab &#58; Creating Subsites
-  - Navigating to your country’s top-level site
-  - Adding a document to the library app in your country site
-  - Creating a General Information subsite for your country
-  - Creating a project site for your country
-  - Working with the project site
-  - Creating a department blog site
-  - Working with the blog site
-  - Writing a blog post with Word
-  - Managing posts in your blog
+  ### 모듈 2&#58; SharePoint 웹 사이트 만들기
+  이 모듈에서는 SharePoint 아키텍처를 적절하게 계획하는 방법을 설명합니다. 사이트 모음, 최상위 사이트, 하위 사이트 및 사이트 템플릿과 같은, 기본 전문 용어를 설명합니다. 랩을 완료하여 템플릿에서 다수의 하위 사이트를 만들고 향후 개발될 연습을 위한 기반을 구축합니다. 사이트를 만들면, 일반적인 SharePoint 관리 작업에 접근하는 방법을 배우고 사이트의 모양과 느낌, 탐색, 및 기능을 조정하기 위한 랩을 완료합니다.
+
+  #### 레슨
+  - SharePoint 사이트 아키텍처
+  - SharePoint 사이트 예
+  - 사이트 템플릿 정의
+  - SharePoint 사이트 사용자 지정
+  - 사이트/사이트 모음 관리
 
 
-  #### Lab &#58; Customizing SharePoint Sites
-  - Navigating to your top-level site
-  - Changing the site logo
-  - Changing the look and feel of your site
-  - Modifying the top link bar
-  - Modifying the Quick Launch
-  - Regional settings
-  - Enabling Publishing Features
-  - Creating a Publishing Site
+  #### 랩 &#58; 하위 사이트 만들기
+  - 해당 국가의 최상위 사이트 탐색
+  - 해당 국가 사이트의 라이브러리 앱에 문서 추가
+  - 해당 국가에 대한 일반 정보 하위 사이트 만들기
+  - 해당 국가에 대한 프로젝트 사이트 만들기
+  - 프로젝트 사이트로 작업
+  - 부서 블로그 사이트 만들기
+  - 블로그 사이트로 작업하기
+  - Word로 블로그 게시물 작성하기 
+  - 블로그 게시물 관리
 
 
-  #### Lab &#58; Site Collection Administration
-  - Using the Recycle Bin
-  - Creating and applying a document policy
-  - Usage Reports
-
-  After completing this module, students will be able to&#58;
-  - Identify SharePoint site structure.
-  - Define site collections and subsites.
-  - Use site templates.
-  - Create SharePoint subsites.
-  - Work with the site recycle bin and the site collection recycle bin.
-  - Change the look of your site.
-  - Review document deletion policies.
-  - View popularity trend reports.
+  #### 랩 &#58; SharePoint 사이트 사용자 지정
+  - 해당 최상위 사이트 탐색
+  - 사이트 로고 변경
+  - 해당 사이트의 모양과 느낌 변경
+  - 상단 링크 바 수정
+  - 빠른 실행 수정
+  - 지역 설정
+  - 게시 기능 활성화
+  - 게시 사이트 만들기
 
 
-  ### Module 3&#58; Managing SharePoint Security
-  This module explains how to share a SharePoint site and approach common security/permissions scenarios. Basic permission terminology is covered with a focus on inheritance and how/when to stop inheriting permissions at a subsite, list/library, folder, or individual item/file. Users will request permission from other sites and respond to access requests made by others. Best practice security management techniques will also be discussed. Users will explore sharing files in SharePoint Online by sharing a file externally using a personal (non-SharePoint) email address.
-  #### Lessons
-  - Sharing Your Site
-  - SharePoint Groups
-  - Permission Levels
-  - Access Requests
-  - Permission Inheritance
-  - Direct Permissions
-  - Best Practices
-  - Advanced Security
+  #### 랩 &#58; 사이트 모음 관리
+  - 휴지통 사용
+  - 문서 정책 만들기 및 적용
+  - 사용 보고서
+
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SharePoint 사이트 구조를 식별합니다.
+  - 사이트 모음 및 하위 사이트를 정의합니다.
+  - 사이트 템플릿을 사용합니다.
+  - SharePoint 하위 사이트를 만듭니다.
+  - 사이트 휴지통 및 사이트 모음 휴지통으로 작업합니다.
+  - 사이트의 모양을 변경합니다.
+  - 문서 삭제 정책을 검토합니다.
+  - 인기 추세 보고서를 봅니다.
 
 
-  #### Lab &#58; Adding Users and Setting Site Permissions
-  - Defining members
-  - Add members to a group
-  - Allowing users to request permission
-  - Requesting permission
-  - Viewing permissions
+  ### 모듈 3&#58; SharePoint 보안 관리
+  이 모듈에서는 SharePoint 사이트를 공유하고 일반적인 보안/권한 시나리오에 접근하는 방법을 설명합니다. 기본 권한 전문 용어는 상속에 중점을 두고 하위 사이트, 목록/라이브러리, 폴더, 또는 개별 항목/파일에서 권한 상속을 중지하는 방법/시기에 대해서 다룹니다. 사용자들은 다른 사이트의 권한을 요청하고 다른 사이트의 액세스 요청에 응답합니다. 모범 사례 보안 관리 기술도 논의됩니다. 사용자들은 개인 (비-SharePoint) email 주소를 사용하여 파일을 외부로 공유함으로써 SharePoint Online에서 파일 공유를 탐색합니다. 
 
+  #### 레슨
+  - 사이트 공유
+  - SharePoint 그룹
+  - 권한 수준
+  - 액세스 요청
+  - 권한 상속
+  - 직접 권한
+  - 모범 사례
+  - 고급 보안
 
-  #### Lab &#58; Updating Site Objects Permissions
-  - Defining members
-  - Permission inheritance
-  - Checking permissions
-  - Granting permissions to a user directly
+  #### 랩 &#58; 사용자 추가 및 사이트 권한 설정
+  - 구성원 정의
+  - 그룹에 구성원 추가
+  - 사용자가 권한을 요청할 수 있도록 허용
+  - 권한 요청
+  - 권한 보기
 
-  After completing this module, students will be able to&#58;
-  - Grant access to sites and content.
-  - Use SharePoint groups to simplify security management tasks.
-  - Request access to a SharePoint site.
-  - Review permission levels.
-  - Review authentication providers.
-  - Examine permissions best practices.
-  - Share a SharePoint Online site.
+  #### 랩 &#58; 사이트 개체 권한 업데이트
+  - 구성원 정의
+  - 권한 상속
+  - 권한 확인
+  - 사용자에게 직접 권한 부여
 
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 사이트 및 콘텐츠에 액세스를 승인합니다.
+  - 보안 관리 작업을 단순화하기 위해 SharePoint 그룹을 사용합니다.
+  - SharePoint 사이트에 액세스를 요청합니다.
+  - 권한 수준을 검토합니다.
+  - 인증 공급자를 검토합니다.
+  - 권한 모범 사례를 조사합니다.
+  - SharePoint Online 사이트를 공유합니다. 
 
-  ### Module 4&#58; Managing Content
-  This module explains how to work with SharePoint list apps to manage content in SharePoint. Users will learn that all content and many of the backend configuration options in SharePoint are managed via SharePoint lists. Commonly used apps including the task list and calendar app will be used, showing the practical project management functionality offered in project site templates. Users will create alerts to receive email notification of changes to files. Additional app templates will be leveraged including a contact list, a promoted links list, a picture library, a survey, and importing a list structure from a Microsoft Excel table. SharePoint Online will be investigaged, particularly third-party apps available in the app store.
-  #### Lessons
-  - SharePoint Content Management
-  - List Apps
-  - Task List App
-  - Calendar List App
-  - Alerts
-  - Adding List Apps
+  ### 모듈 4&#58; 콘텐츠 관리
+  이 모듈에서는 SharePoint 목록 앱으로 작업하여 SharePoint에서 콘텐츠를 관리하는 방법을 설명합니다. 사용자들은 SharePoint의 모든 콘텐츠와 백엔드 구성 옵션이 SharePoint 목록에 의해 관리된다는 것을 알게 됩니다. 작업 목록 및 캘린터 앱을 비롯한 일반적으로 사용되는 앱은, 프로젝트 사이트 텝플릿에서 제공되는 실용적인 프로젝트 관리 기능을 보여주는데 사용됩니다. 사용자들은 파일 변경 사항에 대한 email 알림을 받기 위해 경고를 만듭니다. 연락처 목록, 프로모션 링크 목록, 사진 라이브러리, 설문 조사, 및 Microsoft Excel 테이블에서 목록 구조 가져오기를 포함한 추가 앱 템플릿이 활용됩니다. SharePoint Online, 특히 앱 스토어에서 사용할 수 있는 타사 앱을 조사하게 될 것입니다.
 
+  #### 레슨
+  - SharePoint 콘텐츠 관리
+  - 앱 나열
+  - 작업 목록 앱
+  - 캘린더 목록 앱
+  - 경고
+  - 목록 앱 추가
 
-  #### Lab &#58; Working With Lists
-  - Creating a document migration project plan
-  - Creating major and minor tasks
-  - Working with the project plan
-  - Creating a calendar entry for the SharePoint document management system launch
-  - Adding a roll up calendar for the tasks list
+  #### 랩 &#58; 목록으로 작업
+  - 문서 마이그레이션 프로젝트 계획 만들기
+  - 크고 작은 작업 만들기
+  - 프로젝트 계획으로 작업
+  - SharePoint 문서 관리 시스템 출시를 위한 캘린터 항목 만들기 
+  - 작업 목록을 위한 롤업 캘린더 추가 
 
+  #### 랩 &#58; 앱 만들기
+  - 사이트에 연락처 목록 추가
+  - 사이트에 프로모션 링크 목록 추가
+  - 사이트에 사진 라이브러리 앱 추가
+  - 사이트에 설문 조사 목록 추가
+  - 스프레드시트에서 MSC 판매 목록 만들기
+  - Lookup 열 만들기
+  - 콘텐츠 분류
 
-  #### Lab &#58; Creating Apps
-  - Adding a contact list to the site
-  - Adding a Promoted Links list to the site
-  - Adding a picture library app to the site
-  - Adding a survey list to the site
-  - Create an MSC Sales list from a spreadsheet
-  - Create a Lookup column
-  - Categorizing Content
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 콘텐츠 관리를 위해 SharePoint 기능을 사용합니다.
+  - SharePoint 기본 제공 목록 앱 템플릿을 검토합니다.
+  - 가벼운 프로젝트 관리를 위해 작업 목록을 활용합니다.
+  - 이벤트 관리를 위해 캘린더 목록을 사용합니다.
+  - 향상된 탐색을 위해 프로모션 링크 목록을 만듭니다.
+  - 목록 항목 변경 알림에 대한 경고를 설정합니다. 
 
-  After completing this module, students will be able to&#58;
-  - Use SharePoint features for content management.
-  - Review SharePoint out-of-the-box list app templates.
-  - Leverage a task list for lightweight project management.
-  - Use a calendar list for managing events.
-  - Create a promoted links list for enhanced navigation.
-  - Set alerts for notification of changes to list items.
+  ### 모듈 5&#58; 문서 관리
+  이 모듈에서는 SharePoint 사이트에서 문서를 관리하는 방법을 설명합니다. SharePoint 사이트에 파일을 업로드하는 여러 방법을 배우게 됩니다. 폴더가 아닌 파일 관리를 위해 메타데이터를 활용하는 모범 사례 파일 구성 기술을 논의합니다. 메타데이터의 기능을 사용하기 위해 보기를 만들고 주요/마이너 버전, 체크아웃/ 체크인 동작, 및 콘텐츠 승인을 위해 라이브러리에서 설정을 구성합니다. 또한 OneDrive for Business를 사용하여 SharePoint 문서 라이브러리의 파일을 해당 로컬 컴퓨터와 동기화합니다. SharePoint 온-프레미스와 SharePoint Online에서 정보를 관리하는 것을 비교합니다. 
 
+  #### 레슨
+  - 문서 라이브러리 정의
+  - 라이브러리 앱에 콘텐츠 추가
+  - 메타데이터 정의
+  - 보기 정의
+  - 문서 콘텐츠 관리
+  - 오프라인 작업&#58 OneDrive
+  - 라이브러리 설정
+  - 항목 권한
+  - 고급 앱 관리
 
-  ### Module 5&#58; Managing Documents
-  This module explains how to manage documents in a SharePoint site. You will learn multiple methods to upload files to a SharePoint site. Best practice file organization techniques will be discussed utilizing metadata for file management rather than folders. You will create views to harness the power of your metadata as well as configure settings in your library for major/minor versions, check-out/check-in behavior, and content approval. You will also sync the files in a SharePoint document library to your local computer using OneDrive for Business. A comparison will be made between managing information in SharePoint on-premises and SharePoint Online.
-  #### Lessons
-  - Document Libraries Defined
-  - Adding Content to Library Apps
-  - Metadata Defined
-  - Views Defined
-  - Document Content Management
-  - Working Offline&#58; OneDrive
-  - Library Settings
-  - Item Permissions
-  - Advanced App Management
+  #### 랩 &#58; 문서 라이브러리로 콘텐츠 마이그레이션
+  - 끌어놓기를 사용하여 문서 라이브러리 업로드
+  - 문서 라이브러리에 단일 문서 업로드
+  - Word에서 문서 추가
+  - 라이브러리 바로가기 생성
 
+  #### 랩 &#58; 메타데이터로 콘텐츠 식별
+  - 기존 폴더 구조 조사
+  - 열로 파일 정리
+  - 메타데이터로 라이브러리 콘텐츠 업데이트
+  - 라이브러리에 더 많은 문서 추가
 
-  #### Lab &#58; Migrating Content to Document Libraries
-  - Uploading to a document library using drag and drop
-  - Uploading a single document to a document library
-  - Adding a document from Word
-  - Creating a shortcut to a library
+  #### 랩 &#58; 보기 만들기
+  - 그룹 보기 만들기
+  - 필터링 보기 만들기
+  - 빠른 실행에 보기 링크 추가
 
+  #### 랩 &#58; 문서 관리
+  - 문서 라이브러리에서 버전 관리 및 콘텐츠 승인 활성화
+  - 다른 부서의 SharePoint 사이트에 저장된 문서 확인 및 편집
+  - 문서 라이브러리의 문서에 다른 팀의 변경 사항 승인 
+  - 버전 기록 보기 및 이전 버전 복원
 
-  #### Lab &#58; Identifying Content With Metadata
-  - Examining the existing folder structure
-  - Organizing files with columns
-  - Updating the library contents with metadata
-  - Adding more documents to the library
+  #### 랩 &#58; 라이브러리 구성
+  - 새로운 라이브러리 앱 추가
+  - 신규 채용 지원자 라이브러리에 열 추가 
+  - 신규 채용 지원자 라이브러리에 문서 추가 및 메타데이터 설정 
+  - 계산된 열 추가
+  - 라이브러리 제목 변경
+  - 폴더 생성 기능 제거
+  - 목록 유효성 검사 추가
+  
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 라이브러리 앱에 문서를 추가합니다.
+  - 폴더에서 라이브러리 앱으로 문서를 이동합니다.
+  - 파일을 식별하기 위해 메타데이터를 추가합니다.
+  - 파일을 정렬, 필터링, 및 구성하기 위해 보기를 만듭니다.
+  - 오프라인으로 작업하고 변경 사항을 라이브러리에 다시 동기화합니다.
+  - 콘텐츠 관리 기능을 활성화합니다.
+  - 사이트에 라이브러리를 만듭니다.
+  - 라이브러리 설정을 업데이트합니다.
+  - SharePoint Online에서 문서로 작업합니다. 
 
+  ### 모듈 6&#58; 고급 SharePoint&#58; 엔터프라이즈 기능
+  이 모듈에서는 SharePoint의 강력한 엔터프라이즈 구성 요소를 활용하여 더 적은 노력으로 더 규모가 큰 엔터프라이즈 솔루션을 구축하는 방법을 설명합니다. 사이트 열과 콘텐츠 유형은 정기적으로 사용되는 콘텐츠에 대해 일관된 메타데이터 태깅 및 템플릿을 제공하는데 활용됩니다. 계층적 분류를 참조하기 위한 관리되는 메타데이터 및 외부 데이터 소스에서 값을 파생하기 위한 외부 열과 같은 새로운 열이 사용됩니다. 검색 사용 및 구성은 물론, SharePoint MySite를 사용하여 팀 구성원 간의 공동 작업을 촉진하는 엔터프라이즈 소셜 기술에 대해서도 다루게 됩니다. 마지막으로, SharePoint Online의 MySites를 사용한 경험 탐구는 SharePoint 온-프레미스의 MySites와 비교됩니다.
 
-  #### Lab &#58; Creating Views
-  - Creating a grouped view
-  - Creating a filtered view
-  - Adding a view link to the Quick Launch
+  #### 레슨
+  - 콘텐츠 구성
+  - 사이트 열
+  - 콘텐츠 유형
+  - 콘텐츠 유형 적용
+  - 관리되는 메타데이터
+  - 외부 목록
+  - 검색
+  - 엔터프라이즈 소셜
+  - 엔터프라이즈 문서 관리
 
+  #### 랩 &#58; 콘텐츠 유형
+  - 문서 라이브러리에 사이트 열 추가
+  - PowerPoint 기본값으로 새 프레젠테이션 라이브러리 추가
+  - 사이트 열 정의
+  - 새로운 콘첸츠 유형 만들기
+  - 콘텐츠 유형에 사이트 열 추가
+  - 콘텐츠 유형에 문서 템플릿 추가
+  - 문서 라이브러리에 콘텐츠 유형 추가
+  - 라이브러리에서 새로운 콘텐츠 유형으로 작업하기 
 
-  #### Lab &#58; Document Management
-  - Enabling version control and content approval in a document library
-  - Checking out and editing a document stored in another department’s SharePoint site
-  - Approving the changes made by another team to a document in your document library
-  - Viewing version history and restoring a previous version
+  #### 랩 &#58; 관리되는 메타데이터
+  - 문서 라이브러리에 관리되는 메타데이터 열 추가 
+  - 문서 라이브러리에 관리되는 메타데이터 열 사용
+  - 관리되는 메타데이터 그룹 만들기 
 
+  #### 랩 &#58; 외부 목록
+  - 외부 목록 만들기
+  - 고객 목록의 대체 보기 만들기 
+  - 프레젠테이션 라이브러리의 열 참조로 외부 목록 사용 
 
-  #### Lab &#58; Library Configuration
-  - Adding a new library app
-  - Adding columns to the New Hire Candidates library
-  - Adding documents to the New Hire Candidates library and setting metadata
-  - Adding a calculated column
-  - Changing the title of a library
-  - Removing the ability to create folders
-  - Adding list validation
+  #### 랩 &#58; 검색
+  - 다양한 검색 구문 실험 
+  - 엔터프라이즈 검색 템플릿
 
-  After completing this module, students will be able to&#58;
-  - Add documents to a library app.
-  - Move documents from a folder to a library app.
-  - Add metadata to identify files.
-  - Create views to sort, filter, and organize files.
-  - Work offline and synchronize changes back to a library.
-  - Enable content management features.
-  - Create a library in a site.
-  - Update library settings.
-  - Work with documents in SharePoint Online.
+  #### 랩 &#58; SharePoint 소셜 기능 활용
+  - 외부 목록 만들기
+  - 동료 및 사이트 팔로우
+  - 뉴스피드에 기여
+  - 해당 My Site에서 OneDrive for Business 사용
 
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 재사용 가능한 사이트 열 만들기
+  - 콘텐츠 유형 구축
+  - 라이브러리에 콘텐츠 유형 추가
+  - 라이브러리에 문서 템플릿 추가 
+  - 관리되는 메타데이터로 작업 
+  - 검색으로 콘텐츠 발견 
+  - 외부 목록 만들기
 
-  ### Module 6&#58; Advanced SharePoint&#58; Enterprise Features
-  This module explains how to leverage powerful enterprise building blocks in SharePoint to build larger enterprise solutions with reduced effort. Site columns and content types will be leveraged to provide consistent metadata tagging and templates for regularly used content. New columns, such as Managed
-  Metadata for referencing a hierarchical taxonomy and External Columns for deriving values from an external data source will be used. Search use and configuration will be covered, as well as Enterprise Social techniques for using a SharePoint MySite to foster collaboration among team members. Finally,
-  the Delve experience with MySites in SharePoint Online will be compared to the MySites in SharePoint on-premises.
-  #### Lessons
-  - Content Organization
-  - Site Columns
-  - Content Types
-  - Applying Content Types
-  - Managed Metadata
-  - External Lists
-  - Search
-  - Enterprise Social
-  - Enterprise Document Management
+  ### 모듈 7&#58; 페이지 사용자 정의
+  이 모듈에서는 web part 페이지와 wiki 페이지를 사용하여 SharePoint에서 추가 정보를 추가하고 사용자 지정하는 방법을 설명합니다. 홈페이지의 콘텐츠를 기본적으로 업데이트하고 다른 콘텐츠를 유지할 추가 페이지를 만듭니다. 많은 web parts에 대한 검토가 제공되며 해당 목록 및 라이브러리의 정보를 표시하기 위해 페이지에 web parts를 추가합니다. 쿼리 web part에 의한 콘텐츠 및 콘텐츠 검색 web part를 사용하여 콘텐츠 롤업 방식을 탐색합니다. 마지막으로, 협업 사이트와 게시 사이트의 편집 페이지를 비교합니다.
 
-
-  #### Lab &#58; Content Types
-  - Adding a site column to a document library
-  - Adding a new presentation library with PowerPoint default
-  - Defining site columns
-  - Creating a new content type
-  - Adding site columns to the content type
-  - Adding a document template to the content type
-  - Adding content types to a document library
-  - Working with the new content type in the library
-
-
-  #### Lab &#58; Managed Metadata
-  - Adding a managed metadata column to the document library
-  - Using the managed metadata column in the document library
-  - Creating a managed metadata group
-
-
-  #### Lab &#58; External Lists
-  - Creating an external list
-  - Creating an alternate view of the Customers list
-  - Using the external list as a column reference in the presentation library
-
-
-  #### Lab &#58; Search
-  - Experimenting with different search syntax
-  - Enterprise Search Template
-
-
-  #### Lab &#58; Leveraging SharePoint Social Features
-  - Creating an external list
-  - Follow colleagues and sites
-  - Contribute to a Newsfeed
-  - Use the OneDrive for Business in your My Site
-
-  After completing this module, students will be able to&#58;
-  - Create reusable site columns
-  - Build content types
-  - Add content types to libraries
-  - Add document templates to libraries
-  - Work with managed metadata
-  - Discover content with Search
-  - Create external lists
-
-
-  ### Module 7&#58; Customizing Pages
-  This module explains how to use web part pages and wiki pages to add and customize additional information in SharePoint. You will make basic updates to content on your home page, as well as create additional pages to hold other content. A review of the large number of web parts will be provided and
-  you will add web parts to your page to display information from your lists and libraries. Methods of content roll-ups will be explored using the content by query web part and the content search web part. Lastly, comparisons will be made between editing pages in collaboration sites vs. publishing sites.
-  #### Lessons
-  - Site Pages
-  - Editing Pages
-  - Creating Pages
+  #### 레슨
+  - 사이트 페이지
+  - 편집 페이지
+  - 페이지 만들기
   - Web Parts
-  - Publishing Sites
+  - 사이트 게시
 
+  #### 랩 &#58; 사이트 페이지 편집 및 추가
+  - “시작하기” 제거
+  - 홈페이지 업데이트
+  - 사이트에 Wiki 페이지 추가
 
-  #### Lab &#58; Editing and Adding Site Pages
-  - Removing “Getting started”
-  - Updating your home page
-  - Adding a Wiki page to your site
+  #### 랩 &#58; 페이지에 Web Parts 추가
+  - web parts 편집
+  - 포함 스크립트를 사용하여 페이지에 Google 지도 표시
 
+  #### 랩 &#58; SharePoint 기능 및 콘텐츠 롤업
+  - 사이트 모음을 위한 콘텐츠 검색 Web part로 콘텐츠 롤업
 
-  #### Lab &#58; Adding Web Parts to Pages
-  - Editing web parts
-  - Displaying a Google map on a page with Embed Script
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 페이지 유형을 조사합니다.
+  - 페이지를 편집합니다.
+  - 페이지를 추가합니다.
+  - 사용자 지정 Web Parts를 추가하고 사용자 지정합니다.
+  - 사이트 모음을 위한 롤업 콘텐츠가 추가 되었습니다.
 
+  ### 모듈 8&#58; 워크플로로 비즈니스 프로세스 관리
+  이 모듈에서는 워크플로를 사용하여 SharePoint에서 자동화에 있어 프로세스의 기본 사항을 설명합니다. 즉시 사용 가능한 워크플로에서 시작하여 SharePoint Designer 워크플로로 이동, 여러 유형의 다중-참가자 승인 워크플로를 개발하여 임시 프로세스를 제거하고 작업을 간소화하는 방법을 배우게 됩니다. 마지막으로, SharePoint Online에서 워크플로의 미래를 대표할 가능성이 있는, Microsoft PowerApps 및 Microsoft Flow를 포함하는 최신 제품을 검토하게 됩니다.
 
-  #### Lab &#58; SharePoint Features and Content Rollup
-  - Rolling up content with the Content Search Web part for our site collection
-
-  After completing this module, students will be able to&#58;
-  - Examine page types.
-  - Edit pages.
-  - Add pages.
-  - Add and customize Web Parts.
-  - Added Rollup content for site collections.
-
-
-  ### Module 8&#58; Managing Business Processes With Workflow
-  This module explains the fundamentals of process in automation in SharePoint with workflows. Starting with out-of-the-box workflows and graduating to SharePoint Designer workflows, you will learn how to develop multiple types of multi-participant approval workflows to eliminate ad-hoc processes and streamline your operations. Lastly, recent products including Microsoft PowerApps and Microsoft Flow, that possibly represent the future of workflow in SharePoint Online will be examined.
-  #### Lessons
-  - Definition
-  - Out-of-the-Box Workflows
-  - Using a Workflow
+  #### 레슨
+  - 정의
+  - 즉시 사용 가능한 워크플로
+  - 워크플로 사용
   - SharePoint Designer
-  - Creating a Custom Workflow
+  - 사용자 지정 워크플로 만들기
 
+  #### 랩 &#58; 워크플로로 비즈니스 프로세스 자동화
+  - 즉시 사용 가능한 (OOTB) 워크플로 활성화
+  - HR 정책 라이브러리에 승인 워크플로 추가
+  - 워크플로 테스트
 
-  #### Lab &#58; Automating Business Processes With Workflows
-  - Enabling out-of-the-box (OOTB) workflows
-  - Adding the approval workflow to the HR Policies library
-  - Testing the workflow
+  #### 랩 &#58; 사용자 지정 워크플로 디자인
+  - SharePoint Designer에 연결
+  - USA 프레젠테이션 추가 테스트
 
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 워크플로를 정의합니다.
+  - 즉시 사용 가능한 워크플로를 검토합니다.
+  - 워크플로를 목록에 연결합니다.
+  - 워크플로를 실행합니다.
+  - SharePoint Designer로 사용자 지정 워크플로를 만듭니다.
+  - 워크플로에서 동작 및 조건을 사용합니다.
 
-  #### Lab &#58; Designing a Custom Workflow
-  - Connecting to SharePoint Designer
-  - Testing adding a USA Presentation
+  ### 모듈 9&#58; Microsoft Office 통합
+  이 모듈에서는 SharePoint가 Microsoft Office와 통합되는 많은 다양한 방법을 설명합니다. 다양한 목록 및 앱을 Microsoft Outlook에 연결하고 동료 참석자와 협력하여 Microsoft Word 문서의 콘텐츠를 동시에 편집하는 방법을 검토하게 됩니다. 마지막으로, Microsoft Excel을 활용하여 SharePoint에 연결하는 다양한 방법을 검토하게 됩니다.
+  
+  #### 레슨
+  - Microsoft Office와 SharePoint 통합
+  - Outlook 연결
+  - Excel 사용
 
-  After completing this module, students will be able to&#58;
-  - Define workflow.
-  - Review out-of-the-box workflows.
-  - Associate a workflow to a list.
-  - Execute the workflow.
-  - Create a custom workflow with SharePoint Designer.
-  - Use actions and conditions in a workflow.
+  #### 랩 &#58; SharePoint로 Outlook 활용
+  - SharePoint 연락처를 Outlook에 연결
+  - SharePoint 캘린더 이벤트를 Outlook에 연결
 
+  #### 랩 &#58; Excel Web Access Web Parts 사용
+  - SharePoint Online의 페이지에 Excel Web Access web part 추가
 
-  ### Module 9&#58; Microsoft Office Integration
-  This module explains the many different ways that SharePoint is integrated with Microsoft Office. You will review how to connect a variety of lists and library apps to Microsoft Outlook and work with fellow attendees to simultaneously edit content in a Microsoft Word document. Lastly, different methods of utilizing Microsoft Excel to connect to SharePoint will be reviewed.
-  #### Lessons
-  - Microsoft Office and SharePoint Integration
-  - Connecting Outlook
-  - Using Excel
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Office와 SharePoint 통합 기능을 사용합니다.
+  - 사이트 일정, 연락처, 및 문서 라이브러리를 Outlook에 연결합니다. 
+  - SharePoint에서 Excel 스프레드시트를 사용합니다.
+  - 브라우저에서 Excel을사용합니다.
 
-
-  #### Lab &#58; Leveraging Outlook With SharePoint
-  - Connecting SharePoint contacts to Outlook
-  - Connecting SharePoint Calendar events to Outlook
-
-
-  #### Lab &#58; Using Excel Web Access Web Parts
-  - Adding an Excel Web Access web part to a page in SharePoint Online
-
-  After completing this module, students will be able to&#58;
-  - Use Office and SharePoint integration features.
-  - Connect site calendars, contacts, and document libraries to Outlook.
-  - Use Excel spreadsheets in SharePoint.
-  - Use Excel in a browser.
