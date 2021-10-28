@@ -8,18 +8,18 @@ courseNumber: '55255-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Navigate a SharePoint Team Site.
-- skill: Create SharePoint lists.
-- skill: Customize SharePoint lists.
-- skill: Create SharePoint libraries.
-- skill: Manage library document versions.
-- skill: Create SharePoint list and library views.
-- skill: Create sub sites using various SharePoint templates.
-- skill: Create and edit Web page content.
-- skill: Create InfoPath Forms and Form libraries.
-- skill: Create Site columns and content types.
-- skill: Integrate Office applications with SharePoint.
-- skill: Manage basic permissions of SharePoint resources.
+- skill: SharePoint 팀 사이트를 탐색합니다.
+- skill: SharePoint 목록을 만듭니다.
+- skill: SharePoint 목록을 사용자 지정합니다.
+- skill: SharePoint 라이브러리를 만듭니다.
+- skill: 라이브러리 문서 버전을 관리합니다.
+- skill: SharePoint 목록 및 라이브러리 보기를 만듭니다.
+- skill: SharePoint 템플릿을 사용하여 하위 사이트를 만듭니다.
+- skill: 웹 페이지 콘텐츠를 만들고 편집합니다.
+- skill: InfoPath Forms 및 양식 라이브러리를 만듭니다.
+- skill: 사이트 열 및 콘텐츠 유형을 만듭니다.
+- skill: SharePoint로 Office 애플리케이션을 통합합니다. 
+- skill: SharePoint 리소스의 기본 권한을 관리합니다.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -30,200 +30,190 @@ roles:
 products:
 - office-sp-server
 summary: |-
-  This three-day instructor-led SharePoint for Office 365 End User Training class is for end users and site owners/managers new to working in a SharePoint environment in Office 365. The course teaches SharePoint basics such as working with lists and libraries, basic page customization, working with forms and managing site permissions and users.
+  이 3-일 강사-주도 SharePoint for Office 365 최종 사용자 교육 수업은 Office 365의 SharePoint 환경에서 처음으로 작업하는 최종 사용자 및 사이트 소유자/관리자를 위한 것입니다. 이 과정은 목록 및 라이브러리, 기본 페이지 사용자 지정을 사용하는 작업, 양식을 사용하는 작업 및 사이트 권한 및 사용자를 관리하는 것과 같은 SharePoint 기본 사항을 가르칩니다. 
 
-  #### Audience profile
-  This course is intended for new and existing users of SharePoint. This course is for information workers.
+  #### 구독자 프로필
+  이 과정은 SharePoint의 신규 및 기존 사용자를 대상으로 합니다. 이 과정은 정보 작업자를 위한 것입니다.
 outlineSection: |-
-  ### Module 1&#58; SharePoint 365 Setup
-  This module explains how to set up SharePoint 365.
-  #### Lessons
+  ### 모듈 1&#58; SharePoint 365 설정
+  이 모듈에서는 SharePoint 365를 설정하는 방법을 설명합니다.
+  #### 레슨
   - SharePoint Online
 
-  After completing this module, students will be able to&#58;
-  - Set up the sample site for class.
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 수업을 위한 샘플 사이트를 설정합니다.
 
+  ### 모듈 2&#58; SharePoint 365 소개
+  SharePoint 365는 그 핵심에 있는 공동 작업 도구입니다. 주요 목표는 사용자가 쉽게 정보를 찾고 공유할 수 있도록 하는 것이며, 이를 용이하게 하기 위해 SharePoint에 기본으로 제공되는 많은 기능이 있습니다. SharePoint's의 라이브러리 시스템 기능은 기존 파일 서버에 대한 탁월한 대안을 제공할 수 있습니다.  SharePoint 목록은 스프레드시트 파일이나 보다 형식적인 데이터베이스 테이블을 공유하는 것에 대한 디자인하기 쉽고, 사용하기 쉬운 대안이 될 수 있습니다. 목록과 라이브러리 모두 사용자 정의하고 확장하여 향상된 모양과 기능을 제공할 수 있습니다. 이 모든 협업은 브라우저 인터페이스를 통해 수행할 수 있습니다.
 
-  ### Module 2&#58; SharePoint 365 Introduction
-  SharePoint 365 is a collaboration tool at its heart. Its primary goal is to make it easy for users to find and share information, and there are many features built into SharePoint to facilitate this. SharePoint's library system feature can provide a superior alternative to the traditional file server. SharePoint lists can be an easy-to-design and easy-to-use alternative to sharing spreadsheet files or more formal database tables. Both lists and libraries can be customized and extended to provide enhanced appearances and functionality. All of this collaboration can be done through a browser interface.
-
-  #### Lessons
+  #### 레슨
   - SharePoint Online
-  - Site Layout and Navigation
-  - Layout
-  - Navigation
+  - 사이트 레이아웃 및 탐색
+  - 레이아웃
+  - 탐색
+
+  #### 랩 &#58; 팀 사이트 탐색
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SharePoint online에 대해 알아봅니다.
+  - SharePoint 사이트 계층 구조에 대해서 알아봅니다.
+
+  ### 모듈 3&#58; SharePoint 목록 기본 사항
+  목록은 사용자가 데이터를 저장하고 볼 수 있는 방법을 제공하는 SharePoint의 기본적인 구성 요소입니다. SharePoint는 사용하기 쉬운 미리 정의된 많은 목록 템플릿과 함께 "즉시 사용 가능한" 으로 제공됩니다. 거의 모든 유형의 정보를 저장할 열을 추가하여 목록을 추가로 사용자 지정할 수 있습니다. 또한, 목록 열의 유효성을 검사하고 다른 목록 간에 연결할 수 있습니다. 목록은 SharePoint에서 아주 유연하고 강력한 도구입니다. 
+
+  #### 레슨
+  - 목록 템플릿을 사용하여 앱 만들기
+  - 목록 만들기
+  - 목록 템플릿을 사용하여 목록 만들기
+  - 목록 열
+  - 목록 열 만들기
+  - 열 확인
+  - 목록 열 검증
 
 
-  #### Lab &#58; Team Site Navigation
-  After completing this module, students will be able to&#58;
-  - Learn abbout SharePoint online.
-  - Learn about SharePoint site hierarchy.
+  #### 랩 &#58; 팀 사이트 목록으로 작업
+
+  #### 랩 &#58; 사용자 지정 목록 및 열 만들기
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 목록 템플릿으로 작업합니다.
+  - 팀 사이트에서 기본 목록으로 작업합니다.
+  - 목록 템플릿에서 새 목록을 만듭니다.
+  - 사용자 지정 목록을 만듭니다.
+  - 목록에 열을 추가합니다.
+  - 목록 필드에 입력을 제어하고 검증합니다.
+  - 별도의 목록에서 데이터 연결
+
+  ### 모듈 4&#58; 라이브러리 기본 사항
+  SharePoint 라이브러리는 몇 가지 예를 들어 열, 보기 및 유효성 검사와 같은 SharePoint 목록과 동일한 특성을 공유합니다. SharePoint 라이브러리를 구별하는 것은 라이브러리의 각 항목에 기본 문서가 있다는 것입니다. 따라서 라이브러리 열에 저장된 데이터 외에도, 문서는 문서의 유형에 따라 자체 데이터를 저장합니다. 필터링과 검색에 사용될 수 있는 열에 저장될 수 있는 추가 데이터와 버전 관리와 같은 기능으로 인해, 라이브러리는 더 전통적인 파일 서버 시스템에 대한 훌륭한 대체품으로 간주됩니다. 라이브러리는, 목록과 마찬가지로, SharePoint 사이트의 기본적인 구성 요소입니다.
+
+  #### 레슨
+  - 라이브러리 템플릿
+  - 라이브러리 만들기
+  - 문서 라이브러리 만들기 및 열 추가
+  - 문서 관리 및 버전 관리
+  - 서류 확인
+  - 문서 삭제 및 복원
+  - 버전 관리
 
 
-  ### Module 3&#58; SharePoint List Basics
-  Lists are a fundamental building block in SharePoint that provides a way for users to store and view data. SharePoint comes "out of the box" with many predefined list templates that are easy to use. Lists can be further customized by adding columns to store just about any type of information. Additionally, list columns can be validated as well as linked between other lists. Lists are a very flexible and powerful tool in SharePoint.
+  #### 랩 &#58; 팀 사이트 라이브러리로 작업
 
-  #### Lessons
-  - Creating Apps Using List Templates
-  - Creating Lists
-  - Creating Lists Using List Templates
-  - List Columns
-  - Creating List Columns
-  - Column Validation
-  - Validating a List Column
+  #### 랩 &#58; 라이브러리 만들기
 
-
-  #### Lab &#58; Working with Team Site Lists
-
-  #### Lab &#58; Create Custom Lists and Columns
-  After completing this module, students will be able to&#58;
-  - Work with List Templates.
-  - Work with default lists in a Team Site.
-  - Create a new list from a List Template.
-  - Create a custom list.
-  - Add columns to a list.
-  - Control and validate input into list fields.
-  - Link data from separate lists
+  #### 랩 &#58; 문서 버전 관리
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 라이브러리 템플릿을 사용하여 새 라이브러리를 만듭니다.
+  - 기본 팀 사이트에서 다양한 라이브러리로 작업합니다. 
+  - 라이브러리에 열을 추가합니다.
+  - 편집을 위한 문서를 확인합니다.
+  - 문서 라이브러리에서 문서를 삭제 및 복원합니다.
+  - 라이브러리에서 버전 관리를 활성화합니다. 
+  - 라이브러리 문서를 이전 버전으로 돌립니다.
 
 
-  ### Module 4&#58; Library Basics
-  SharePoint Libraries share the same characteristics as SharePoint lists such as columns, views, and validation to name a few. What distinguishes SharePoint libraries is that each item in a library has an underlying document. So in addition to the data stored in library columns, the document stores its own data based on the type of document. Because of the extra data that can be stored in columns that can be used to filter and search by and features such as versioning, libraries are considered a great replacement for the more traditional file server system. Libraries are, like lists, a fundamental building block in a SharePoint site.
+  ### 모듈 5&#58; 목록 및 라이브러리 보기로 작업
+  보기는 읽기 쉽고 사용하기 쉬운 방식으로 SharePoint 목록 및 라이브러리 데이터를 표시하는 유연한 시스템을 제공합니다. 모든 SharePoint 목록 및 라이브러리는 여러 보기를 만들고 구성할 수 있고, 일부 목록 및 라이브러리 템플릿에는 미리 구성된 특별 보기가 함께 제공됩니다. 보기는 개인용 또는 공유용으로 정의될 수 있습니다. 
 
-  #### Lessons
-  - Library Templates
-  - Creating Libraries
-  - Creating a Document Library and Adding Columns
-  - Managing Documents and Versioning
-  - Checking Out Documents
-  - Deleting and Restoring Documents
-  - Versioning
+  #### 레슨
+  - 기본 보기
+  - 기본 보기 탐색
+  - 사용자 지정 보기
+  - 사용자 지정 보기를 만드는 방법
 
 
-  #### Lab &#58; Working with Team Site Libraries
+  #### 랩 &#58; 팀 사이트 만들기
 
-  #### Lab &#58; Creating Libraries
-
-  #### Lab &#58; Document Versioning
-  After completing this module, students will be able to&#58;
-  - Create new libraries using library templates.
-  - Work with the different libraries in a default Team Site.
-  - Add columns to a library.
-  - Check out documents for editing.
-  - Delete and restore documents from document libraries.
-  - Enable versioning on a library.
-  - Revert a library document to an earlier version.
+  #### 랩 &#58; 블로그 사이트 만들기
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 목록 및 라이브러리에 내장된 기본 보기를 사용합니다.
+  - 개인용 보기를 만듭니다.
+  - 공유 보기를 만듭니다.
+  - 보기를 구성합니다.
+  - 목록 또는 라이브러리에 대한 기본 보기를 설정합니다.
 
 
-  ### Module 5&#58; Working with Lists and Library Views
-  Views provide a flexible system to display SharePoint list and library data in an easy-to-read and easy-to-use manner. Every SharePoint list and library can have multiple views created and configured, and some list and library templates come with special views preconfigured. Views can be defined for personal use or shared use.
+  ### 모듈 6&#58; 사이트로 작업
+  모든 SharePoint 콘텐츠는 사이트를 통해 액세스 됩니다. SharePoint 사이트는 목록 및 라이브러리의 컨테이너이며 기본적인 관리에 대한 시작점을 제공합니다. 사이트의 콘텐츠, 목록, 라이브러리, 및 기본 모양과 느낌은 사이트를 만드는 데 사용된 사이트 템플릿에 의해 처음으로 결정됩니다.
 
-  #### Lessons
-  - Default Views
-  - Explore Default Views
-  - Custom Views
-  - How to Create a Custom View
+  #### 레슨
+  - 사이트 템플릿
+  - 사이트 만들기
+  - 팀 사이트 만들기
+  - 사이트 탐색
+  - 사이트 탐색 관리
 
+  #### 랩 &#58; 팀 사이트 만들기
 
-  #### Lab &#58; Creating Team Sites
+  #### 랩 &#58; 블로그 사이트 만들기
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 사이트 템플릿이 무엇인지 이해합니다.
+  - SharePoint와 함께 "즉시 사용 가능한" 다양한 유형의 사이트 템플릿을 이해합니다.
+  - 사이트 템플릿을 사용하여 새로운 사이트를 만듭니다.
+  - 프로젝트 사이트를 만듭니다.
+  - 팀 사이트를 만듭니다.
+  - 블로그 사이트를 만듭니다.
+  - 상단 링크 바에 나열된 사이트를 관리합니다.
 
-  #### Lab &#58; Creating a Blog Site
-  After completing this module, students will be able to&#58;
-  - Use default views built into lists and libraries.
-  - Create personal views.
-  - Create shared views.
-  - Configure views.
-  - Set the default view for a list or library.
+  ### 모듈 7&#58; 페이지 콘텐츠
+  SharePoint는 사이트 페이지에 콘텐츠를 추가하는 몇 가지 방법을 제공합니다. 가장 최근 기술과 팀 사이트 템플릿에 의해 구현된 기술은 wiki 스타일 페이지를 통한 것입니다. 다른 방법은 처음부터 SharePoint의 일부였던 다른 방법은 Web Parts와 Web Part 페이지를 사용하는 것입니다. 두 가지 기술 모두 만들 수 있는 출력이 비슷하며, Web Part 페이지와 wiki 페이지 모두 Web Parts를 추가하는 기능을 공유합니다.
 
+  #### 레슨
+  - Wiki 라이브러리 페이지
+  - Web Part 페이지
+  - Web Part 페이지 만들기
+  - Web Parts로 작업
 
-  ### Module 6&#58; Working with Sites
-  All SharePoint content is accessed through a site. A SharePoint site is the container for lists and libraries and provides a starting point for basic administration. The content, lists, libraries, and basic look and feel of a site is initially determined by the Site Template used to create the site.
+  #### 랩 &#58; Wiki 페이지로 작업
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - wiki 페이지가 무엇인지 이해합니다.
+  - Web Part 페이지와 Web Parts가 무엇인지 이해합니다.
+  - 팀 사이트 홈 페이지에 콘텐츠를 추가합니다.
+  - 팀 사이트 홈 페이지의 레이아웃을 변경합니다.
+  - Wiki 페이지를 만듭니다.
+  - Web Part 페이지를 만듭니다.
+  - Web Parts를 추가합니다.
 
-  #### Lessons
-  - Site Templates
-  - Creating Sites
-  - Creating a Team Site
-  - Site Navigation
-  - Managing Site Navigation
+  ### 모듈 8&#58; 사이트 열 및 콘텐츠 유형
+  사이트나, 사이트 모음 또는 모든 팜 전체에서 재사용할 수 있는 방식으로, SharePoint를 사용자 지정하는 한 가지 방법은, 사이트 열 및 콘텐츠 유형을 만드는 것입니다. 사이트 열은 가장 간단한 요소입니다; 사이트 수준에서 만든 다음 해당 사이트와 하위 사이트 전체에 걸쳐 사용될 수 있다는 점을 제외하면 목록 및 라이브러리 열과 기본적으로 동일합니다. 콘텐츠 유형은 사이트 열과 문서 템플릿 및 워크플로와 같은 추가 설정 및 정보의 조합입니다. 콘텐츠 유형은, 일단 만들어지면, 목록과 라이브러리에 연결할 수 있습니다.
 
+  #### 레슨
+  - 사이트 열 갤러리
+  - 사이트 열 만들기
+  - 사이트 콘텐츠 유형 갤러리
+  - 콘텐츠 유형 만들기
 
-  #### Lab &#58; Creating Team Sites
+  #### 랩 &#58; 콘텐츠 유형 만들기 및 작업
 
-  #### Lab &#58; Creating a Blog Site
-  After completing this module, students will be able to&#58;
-  - Understand what Site Templates are.
-  - Understand the different types of Site Templates that come "out of the box" with SharePoint.
-  - Create a new site using Site Templates.
-  - Create a Project site.
-  - Create a Team site.
-  - Create a Blog site.
-  - Manage the sites listed in the top link bar.
+  #### 랩 &#58; 콘텐츠 유형을 라이브러리에 추가
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 콘텐츠 유형을 이해합니다.
+  - 사이트 열을 만듭니다.
+  - 콘텐츠 유형을 만듭니다.
+  - 콘텐츠 유형을 위한 문서 템플릿을 만듭니다.
+  - 콘텐츠 유형을 목록이나 라이브러리에 할당합니다.
+  - 사용자 지정 콘텐츠 유형을 기반으로 신규 항목을 만듭니다.
 
+  ### 모듈 9&#58; 사무실 통합
+  SharePoint의 좋은 기능 중 하나는 Microsoft Office 애플리케이션과 통합하는 기능입니다. 이 챕터에서는 Office 문서를 만들고 수정할 수 있는 Office의 브라우저-기반 버전, Office Online 제품과의 통합을 살펴봅니다. 제한이 있고 로컬에 설치된 대응 제품처럼 정확히 수행하지는 않습니다 
+  #### 레슨
+  - Outlook 통합
 
-  ### Module 7&#58; Page Content
-  SharePoint offers a couple of ways to add content to the pages in a site. The latest technique and the one implemented by the Team Site template is through wiki style pages. Another method that has been part of SharePoint since the beginning is the use of Web Parts and Web Part pages. Both techniques are similar in the output that can be created, and both Web Part pages and wiki pages share the ability to add Web Parts to them.
-  #### Lessons
-  - Wiki Library Pages
-  - Web Part Pages
-  - Creating a Web Part Page
-  - Working with Web Parts
+  #### 랩 &#58; Outlook 통합
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 경고를 만듭니다.
 
+  ### 모듈 10&#58; SharePoint 사이트 권한 관리
+  SharePoint 사이트 상의 권한은 사이트를 만들 때 할당됩니다. 기본값은 사이트 모음의 루트에 할당된 권한이 하위 사이트에 상속된다는 것입니다. 언제든지, 사이트, 목록, 라이브러리, 또는 목록이나 라이브러리의 항목 수준에서조차 권한 상속이 해제될 수 있습니다. 권한 자체는  SharePoint 그룹, 개인 사용자, 또는 Windows 그룹과 같이 SharePoint의 밖에서 만들어진 그룹에 할당될 수 있습니다.
 
-  #### Lab &#58; Working with Wiki Pages
-  After completing this module, students will be able to&#58;
-  - Understand what wiki pages are.
-  - Understand what Web Part pages and Web Parts are.
-  - Add content to the Team Site Home page.
-  - Change the layout of the Team Site Home page.
-  - Create a Wiki page.
-  - Create a Web Part page.
-  - Add Web Parts.
+  #### 레슨
+  - SharePoint 그룹
+  - 권한 할당
+  - 권한 상속
 
+  #### 랩 &#58; SharePoint 권한으로 작업
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SharePoint 그룹을 이해합니다.
+  - SharePoint 그룹을 만듭니다.
+  - SharePoint에서 권한을 할당합니다.
+  - 사이트 수준에서 권한 상속을 관리합니다.
+  - 목록이나 라이브러리 수준에서 권한 상속을 관리합니다.
 
-  ### Module 8&#58; Site Columns and Content Types
-  One method of customizing SharePoint, in a way that can be reused throughout the site or site collection or even the whole farm, is to create Site Columns and Content Types. Site columns are the simplest element; they are essentially the same as list and library columns except that you create them at the site level and then they can be used throughout that site and any child site. Content Types are a combination of Site Columns as well as additional settings and information such as document templates and workflows. Content Types, once created, can then be linked to lists and libraries.
-  #### Lessons
-  - Site Column Gallery
-  - Creating Site Columns
-  - Site Content Type Gallery
-  - Creating Content Types
-
-
-  #### Lab &#58; Creating and Working with Content Types
-
-  #### Lab &#58; Adding a Content Type to a Library
-  After completing this module, students will be able to&#58;
-  - Understand Content Types.
-  - Create Site Columns.
-  - Create Content Types.
-  - Create a document template for a Content Type.
-  - Assign a Content Type to a list or library.
-  - Create new items based on a custom Content Type.
-
-
-  ### Module 9&#58; Office Integration
-  One of the nice features of SharePoint is its ability to integrate with Microsoft Office applications. Note that this chapter explores integration with Office Online products, a browser-based version of Office that allows you to create and modify office documents. There are limits and they do not perform exactly as their locally installed counterparts.
-  #### Lessons
-  - Outlook Integration
-
-
-  #### Lab &#58; Outlook Integration
-  After completing this module, students will be able to&#58;
-  - Create an alert.
-
-
-  ### Module 10&#58; Managing SharePoint Site Permissions
-  Permissions on a SharePoint site are assigned when a site is created. The default is that permissions assigned to the root of a site collection are inherited by child sites. At any time, permissions inheritance can be turned off at a site, list, library, or even at the item level in a list or library. The permissions themselves can be assigned to either SharePoint groups, individual users, or groups created outside of SharePoint such as Windows groups.
-
-  #### Lessons
-  - SharePoint Groups
-  - Assigning Permissions
-  - Permissions Inheritance
-
-
-  #### Lab &#58; Working with SharePoint Permissions
-  After completing this module, students will be able to&#58;
-  - Understand SharePoint groups.
-  - Create SharePoint groups.
-  - Assign permission in SharePoint.
-  - Manage permission inheritance at the site level.
-  - Manage permission inheritance at the list or library level.

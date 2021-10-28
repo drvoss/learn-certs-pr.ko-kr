@@ -8,10 +8,10 @@ courseNumber: '55247-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Create SQL Server and Microsoft Azure data solutions
-- skill: Create Security solutions for on-premises and cloud databases
-- skill: Configure High-Availability, Disaster Recovery and Scalability options for databases
-- skill: Monitor, Manage and Automate database solutions
+- skill: SQL Server 및 Microsoft Azure 데이터 솔루션 만들기
+- skill: 온-프레미스 및 cloud 데이터베이스를 위한 보안 솔루션 만들기
+- skill: 데이터베이스를 위한 고가용성, 재해 복구 및 확장성 옵션 구성
+- skill: 데이터베이스 솔루션 모니터링, 관리 및 자동화
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -22,87 +22,84 @@ roles:
 products:
 - azure
 summary: |-
-  This three-day instructor-led course is intended for data professionals who want to design and implement database solutions in SQL Server and on Microsoft Azure. Security, Availability, Disaster Recovery, Scalability, Monitoring and Troubleshooting options will also be demonstrated.
+  이 3-일 강사-주도 과정은 SQL Server 및 Microsoft Azure에서 데이터베이스 솔루션을 디자인하고 구현하려는 데이터 전문가들을 대상으로 합니다. 보안, 가용성, 재해 복구, 확장성, 모니터링 및 문제 해결 옵션도 시연됩니다.
 
-  #### Audience profile
-  This course is intended for experienced data professionals who design and implement on-premises and Microsoft Azure data solutions.
+  #### 구독자 프로필
+  이 과정은 온-프레미스 및 Microsoft Azure 데이터 솔루션을 디자인하고 구현하는 숙련된 데이터 전문가들을 대상으로 합니다.
 prerequisitesSection: |-
-  - Experience working with databases
-  - Experience using SQL
+  - 데이터베이스로 작업한 경험
+  - SQL을 사용한 경험
 outlineSection: |-
-  ### Module 1&#58; Designing and Implementing Database Solutions for SQL Server and Microsoft Azure
-  This module explains how to design a database solution for SQL Server and Microsoft Azure databases.
-  #### Lessons
-  - Design and Implement Hybrid SQL Server solutions
-  - Design and Implement Azure SQL Database solutions
-  - Design and Implement MySQL and PostgreSQL database solutions in Azure
-  - Review
+  ### 모듈 1&#58; SQL Server 및 Microsoft Azure를 위한 데이터베이스 솔루션 디자인 및 구현
+  이 모듈은 SQL Server와 Microsoft Azure를 위한 데이터베이스 솔루션을 디자인하는 방법을 설명합니다.
 
+  #### 레슨
+  - 하이브리드 SQL Server 솔루션 디자인 및 구현
+  - Azure SQL Database 솔루션 디자인 및 구현
+  - Azure에서 MySQL 및 PostgreSQL 데이터베이스 솔루션 디자인 및 구현
+  - 검토
 
-  #### Lab &#58; Designing and Implementing Database Solutions for SQL Server and Microsoft Azure
-  - Implement a Hybrid SQL Server solution
-  - Implement an Azure SQL Database solution
-  - Implement a MySQL database solution
-  - Implement a PostgreSQL database solution
+  #### 랩 &#58; SQL Server 및 Microsoft Azure를 위한 데이터베이스 솔루션 디자인 및 구현
+  - 하이브리드 SQL Server 솔루션 구현
+  - Azure SQL Database 솔루션 구현
+  - MySQL 데이터베이스 솔루션 구현
+  - PostgreSQL 데이터베이스 솔루션 구현
 
-  After completing this module, students will be able to&#58;
-  - Install and configure SQL Server on an Azure VM
-  - Install and configure Azure databases
-  - Install and configure MySQL and PostgreSQL databases
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure VM에 SQL Server 설치 및 구성
+  - Azure 데이터베이스 설치 및 구성
+  - MySQL 및 PostgreSQL 데이터베이스 설치 및 구성
 
+  ### 모듈 2&#58; 데이터베이스 보안 관리, 디자인 및 구현 
+  이 모듈은 온-프레미스 또는 Azure 데이터베이스를 위한 보안을 설정하는 방법을 설명합니다.
 
-  ### Module 2&#58; Manage, Design and Implement Database Security
-  This module explains how to setup security for an on-premises or Azure database.
-  #### Lessons
-  - Design and Implement SQL Server database security
-  - Design and Implement Azure SQL Database security
-  - Review
+  #### 레슨
+  - SQL Server 데이터베이스 보안 디자인 및 구현
+  - Azure SQL Database 보안 디자인 및 구현
+  - 검토
 
+  #### 랩 &#58; 데이터베이스 보안 관리, 디자인 및 구현 
+  - SQL Server 데이터베이스 보안 구현
+  - Azure SQL Database 보안 구현
 
-  #### Lab &#58; Manage, Design and Implement Database Security
-  - Implement SQL Server database security
-  - Implement Azure SQL Database security
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SQL Server 데이터베이스 보안 구성
+  - Azure SQL Database 보안 구성
 
-  After completing this module, students will be able to&#58;
-  - Configure SQL Server database security
-  - Configure Azure SQL Database security
+  ### 모듈 3&#58; 고가용성, 재해 복구 및 확장성을 위한 디자인 
+  이 모듈은 고가용성, 재해 복구 및 확장성을 위한 데이터베이스 솔루션을 구성하는 방법을 설명합니다.
 
+  #### 레슨
+  - 고가용성 솔루션 디자인 및 구현
+  - 재해 복구 솔루션 디자인 및 구현
+  - 확장성 솔루션 디자인 및 구현
+  - 검토
 
-  ### Module 3&#58; Design for High-Availability, Disaster Recovery and Scalability
-  This module explains how to configure database solutions for High-Availability, Disaster Recovery and Scalability.
-  #### Lessons
-  - Design and Implement High-Availability Solutions
-  - Design and Implement Disaster Recovery Solutions
-  - Design and Implement Scalability Solutions
-  - Review
+  #### 랩 &#58; Python을 사용하여 Microsoft Azure 데이터 개체 만들기
+  - 고가용성 솔루션 구현 
+  - 재해 복구 솔루션 구현
+  - 확장성 솔루션 구현
 
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 고가용성 솔루션 구성
+  - 재해 복구 솔루션 구성
+  - 확장성 솔루션 구성
 
-  #### Lab &#58; Create Microsoft Azure Data Objects using Python
-  - Implement a High-Availability Solution
-  - Implement a Disaster Recovery Solution
-  - Implement a Scalability Solution
+  ### 모듈 4&#58; Azure에서 데이터베이스 구현 모니터링 및 문제 해결
+  이 모듈은 데이터베이스 구현을 모니터링하고 문제를 해결하는 방법을 설명합니다.
 
-  After completing this module, students will be able to&#58;
-  - Configure a High-Availability solution
-  - Configure a Disaster Recovery Solution
-  - Configure a Scalability Solution
+  #### 레슨
+  - Azure에서 SQL Server VMs 모니터링 및 문제 해결
+  - Azure SQL Databases 모니터링 및 문제 해결
+  - 검토
 
+  #### 랩 &#58; Python을 사용하여 Microsoft Azure 데이터 프로세스 만들기
+  - SQL Server 모니터링 및 문제 해결
+  - Azure SQL Databases 모니터링 및 문제 해결
 
-  ### Module 4&#58; Monitor and Troubleshoot Database Implementations in Azure
-  This module explains how to monitor and troubleshoot database implementations.
-  #### Lessons
-  - Monitor and Troubleshoot SQL Server VMs on Azure
-  - Monitor and Troubleshoot Azure SQL Databases
-  - Review
+  이 모듈을 완료한 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SQL Servers 모니터링 및 문제 해결
+  - Azure SQL Databases 모니터링 및 문제 해결
 
-
-  #### Lab &#58; Create Microsoft Azure Data Processes using Python
-  - Monitor and Troubleshoot SQL Server
-  - Monitor and Troubleshoot Azure SQL Databases
-
-  After completing this module, students will be able to&#58;
-  - Monitor and Troubleshoot SQL Servers
-  - Monitor and Troubleshoot Azure SQL Databases
-
-  #### Additional Reading
-  Courses 552241A and 552242A
+  #### 참고 자료
+  코드 552241A 및 552242A
