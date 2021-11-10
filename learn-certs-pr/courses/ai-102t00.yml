@@ -6,7 +6,7 @@ metadata:
   iltScheduling: false
 uid: course.ai-102t00
 courseNumber: 'AI-102T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: AI-지원 애플리케이션 개발에 대한 고려사항 설명

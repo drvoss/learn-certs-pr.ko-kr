@@ -1214,8 +1214,8 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
 
 * 2016년 4월 18일 중단된 코스웨어
 
-    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
-    | --- | --- | --- | --- | --- |
+    | 과정 번호 | 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | 일본어 | 2016년 4월 18일
     | 37 | Office 2013 and Office 365 Demonstration Sessions | 스페인어 | 2016년 4월 18일
     | 36 | Office 2013 and Office 365 Demonstration Sessions | 독일어 | 2016년 4월 18일
