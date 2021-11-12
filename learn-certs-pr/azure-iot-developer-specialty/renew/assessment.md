@@ -4,11 +4,10 @@ page_type: learn
 page_kind: certificationRenewalAssessment
 title: 인증 갱신 평가
 description: 인증 갱신 평가
-ms.prod: non-product-specific
-ms.openlocfilehash: 7c99bf5d0073f70d87e9dde79d162e8dc77ab9e9
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.openlocfilehash: 0f4fb9e025abef2d74e36c6d282d53d421cdc907
+ms.sourcegitcommit: 073cf120a67a147b75e4524603169d2aa2a0bd56
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132106781"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "132112866"
 ---

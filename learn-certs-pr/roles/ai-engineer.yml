@@ -1,35 +1,41 @@
-### YamlMime:Role 
-title: AI  엔지니어 
-metadata: 
-  title: AI  엔지니어 
+### YamlMime:Role
+title: AI 엔지니어
+metadata:
+  title: AI 엔지니어
   description: AI 엔지니어는 Cognitive Services, Machine Learning 및 Knowledge Mining을 사용하여 Microsoft AI 솔루션을 설계하고 구현합니다.
-uid: role.ai-engineer 
-summary: | 
+  ms.openlocfilehash: 2ba8117ba7e64fd54cb6d9876872dd7aaf176461
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111433"
+uid: role.ai-engineer
+summary: >
   AI 엔지니어는 Cognitive Services, Machine Learning 및 Knowledge Mining을 사용하여 Microsoft AI 솔루션을 설계하고 구현합니다.
 subTitle: AI 엔지니어는 Cognitive Services, Machine Learning 및 Knowledge Mining을 사용하여 Microsoft AI 솔루션을 설계하고 구현합니다.
-certificationPaths: 
+certificationPaths:
 - title: Azure AI Engineer
   linkedInKeywords: Azure AI Engineer
-  uid: certification-path.azure-ai-engineer 
-  prerequisites: 
+  uid: certification-path.azure-ai-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-ai-engineer
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-ai-engineer
   requiredExams:
   - uid: exam.ai-102
 resources:
 - title: Microsoft 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 교육 및 인증 포스터
   description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
   href: https://aka.ms/traincertposter
 - title: 인증 지원
   href: ../help.md
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.

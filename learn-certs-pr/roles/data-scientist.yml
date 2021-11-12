@@ -1,35 +1,41 @@
-### YamlMime:Role 
-title: 데이터 과학자 
-metadata: 
-  title: 데이터 과학자 
-  description: 데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 교육, 평가 및 배포합니다.  
-uid: role.data-scientist 
-summary: | 
-  데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 교육, 평가 및 배포합니다.
-subTitle: 데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 교육, 평가 및 배포합니다.
-certificationPaths: 
-- title: Azure Data Scientist
+### YamlMime:Role
+title: 데이터 과학자
+metadata:
+  title: 데이터 과학자
+  description: 데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 학습, 평가 및 배포합니다.
+  ms.openlocfilehash: acce0563f14601d3dcdd5424da729fbff3a8be91
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132112043"
+uid: role.data-scientist
+summary: >
+  데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 학습, 평가 및 배포합니다.
+subTitle: 데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 학습, 평가 및 배포합니다.
+certificationPaths:
+- title: Azure 데이터 과학자
   linkedInKeywords: Azure Data Scientist
-  uid: certification-path.azure-data-scientist 
-  prerequisites: 
+  uid: certification-path.azure-data-scientist
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-data-scientist
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-data-scientist
   requiredExams:
-    - uid: exam.dp-100
+  - uid: exam.dp-100
 resources:
 - title: Microsoft 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 교육 및 인증 포스터
   description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 인증 지원
   href: ../help.md
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
