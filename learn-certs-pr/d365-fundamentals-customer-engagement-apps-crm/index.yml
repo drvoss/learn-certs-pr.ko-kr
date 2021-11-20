@@ -1,35 +1,34 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+title: 'Microsoft 인증: Dynamics 365 기본 사항 (CRM)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
-  description: '비즈니스 운영, 고객 관계 관리 (CRM),에 대해 잘 알고 있고, IT 를 잘 알고 있다면—일반적으로든 업무 경험을 통해서든—이 인증을 활용하여 이러한 기술들을 강조하십시오. 업무 경력을 향상하기 위해 Dynamics 365 의 고객 참여 기능에 대한 광범위한 노출을 검증하십시오.'
+  title: 'Microsoft 인증: Dynamics 365 기본 사항 (CRM)'
+  description: 비즈니스 운영, CRM (고객 관계 관리)에 대해 잘 알고 있는 경우, 일반적으로 또는 작업 환경을 통해이 인증을 활용 하 여 이러한 기술을 강조 표시 합니다. Dynamics 365의 고객 참여 기능에 대해 광범위 한 노출을 확인 하 여 경력을 개선 하세요.
+  ms.openlocfilehash: 370d9b9e521d6b83750e2cdae537d3e07b111b73
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106701"
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  비즈니스 운영, 고객 관계 관리 (CRM),에 대해 잘 알고 있고, IT 를 잘 알고 있다면—일반적으로든 업무 경험을 통해서든—이 인증을 활용하여 이러한 기술들을 강조하십시오. 업무 경력을 향상하기 위해 Dynamics 365 의 고객 참여 기능에 대한 광범위한 노출을 검증하십시오.
-  
-  다양한 역할과 그들의 경력의 다양한 단계에 있는 사람들은 이 기본 인증의 혜택을 받을 수 있습니다. 여기 몇 가지 예시입니다&#58;
-  - 작업하는 애플리케이션에 대한 일반적인 이해를 보여 주고싶은 IT 전문가들 
-  - Dynamics 365를 알고 그들의 기술과 경험을 검증하기를 원하는 비즈니스 이해 관계자들 및 그 외
-  - 비즈니스 운영 및 CRM에 대한 이해를 강조하고 싶은 개발자들 
-  - Dynamics 365 고객 참여 기능을 최대한으로 활용하여 다음 단계로 올라가고 싶은 학생, 최근 졸업생 및 직업을 바꾸는 사람들
-subTitle: '비즈니스 운영, 고객 관계 관리 (CRM),에 대해 잘 알고 있고, IT 를 잘 알고 있다면—일반적으로든 업무 경험을 통해서든—이 인증을 활용하여 이러한 기술들을 강조하십시오. 업무 경력을 향상하기 위해 Dynamics 365 의 고객 참여 기능에 대한 광범위한 노출을 검증하십시오.'
+summary: "비즈니스 운영, CRM (고객 관계 관리)에 대해 잘 알고 있는 경우, 일반적으로 또는 작업 환경을 통해이 인증을 활용 하 여 이러한 기술을 강조 표시 합니다. Dynamics 365의 고객 참여 기능에 대해 광범위 한 노출을 확인 하 여 경력을 개선 하세요.\n\n다른 역할 및 해당 경력의 다양 한 단계에 있는 사람들은 이러한 기본 인증의 이점을 누릴 수 있습니다. 다음은 몇 가지 예입니다&#58;\n- 작업 하는 응용 프로그램에 대 한 일반적인 이해를 원하는 IT 전문가 \n- Dynamics 365을 인식 하 고 자신의 기술 및 경험을 검증 하려는 비즈니스 관련자 및 기타 사용자\n- 비즈니스 운영 및 CRM의 이해를 강조 하려는 개발자\n- 학생, 최근 졸업생 및 사용자를 변경 하 여 대부분의 Dynamics 365 고객 참여 기능을 다음 수준으로 전환 하려는 사용자"
+subTitle: 비즈니스 운영, CRM (고객 관계 관리)에 대해 잘 알고 있는 경우, 일반적으로 또는 작업 환경을 통해이 인증을 활용 하 여 이러한 기술을 강조 표시 합니다. Dynamics 365의 고객 참여 기능에 대해 광범위 한 노출을 확인 하 여 경력을 개선 하세요.
 levels:
 - beginner
 skills:
-- Dynamics 365 Marketing 설명
-- Dynamics 365 Sales 설명
-- Dynamics 365 Customer Service 설명
-- Dynamics 365 Field Service 설명
-- 프로젝트 운영 설명
-- 공유 기능 설명
+- Describe Dynamics 365 Marketing
+- Describe Dynamics 365 Sales
+- Describe Dynamics 365 Customer Service
+- Describe Dynamics 365 Field Service
+- Describe Project Operations
+- Describe shared features
 roles:
 - business-owner
 - business-user
 - functional-consultant
 - student
 type: fundamentals
-products: 
+products:
 - dynamics-365
 - dynamics-customer-engagement
 courses:
@@ -45,26 +44,26 @@ exams:
 - uid: exam.mb-910
 resources:
 - title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  description: Dynamics 365 및 전원 플랫폼에 대 한 기본 사항, 역할 기반 및 전문 인증을 비롯 한 개요를 확인 하세요.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 인증 과정
-  description: 인증을 받기 위한 단계와 준비에 도움을 주는 리소스를 살펴보십시오.
+- title: 인증으로의 여행
+  description: 준비 하는 데 도움이 되는 인증 및 리소스를 가져오는 단계를 살펴보세요.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 살펴보세요.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 학습 경로
-  description: 필수 시험을 준비하고 인증을 획득하는 데 도움을 주는 권장 훈련 리소스 입니다. 
+  description: 필수 시험을 준비 하 고 인증을 받을 수 있도록 권장 되는 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
-- title: 시험 재응시
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+- title: 시험 재생
+  description: 성공의 가능성을 높이는 데 도움이 되는 두 가지 좋은 제품을 참조 하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약 된 약속, 인증서 및 성적 증명서를 검토 하 고 관리 합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼을 통해 도움을 받으세요. 포럼 중재자는 영업일, 월요일 ~ 금요일에 응답 합니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 네트워크를 사용 하 여 이룰 있었습니다를 축. Microsoft 인증 배지를 요청 하 고 LinkedIn, 이력서 등에 추가 합니다.
   href: ../badges.md

@@ -2,29 +2,37 @@
 title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
-  description: 'Dynamics 365 Supply Chain Management 기능 컨설턴트는 고객을 위해 비용 회계, 재고 관리, 마스터 계획 및 웨어하우스 관리를 간소화합니다.'
+  description: Dynamics 365 Supply Chain Management 기능 컨설턴트는 클라이언트에 대한 비용 회계, 재고 관리, 마스터 계획 및 웨어하우스 관리를 간소화합니다.
+  ms.openlocfilehash: 77a8e2cd27c90464988fc97b93f74fc996890b83
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106717"
 uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  이 인증의 응시자들은 비즈니스 요구 사항을 분석하고 해당 요구 사항을 업계 모범 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 응시자들은 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 구성하는 데 있어 핵심 리소스 역할을 합니다.
-  
-  이 인증의 응시자들은 회계 원칙 및 비즈니스 재무 운영, 고객 서비스, 현장 서비스, 제조, 소매, 및 공급망 관리 개념에 대한 기본적인 이해가 있어야 합니다. 일반적으로 재무, 제조, 및 공급망 관리를 포함하는 재무 및 운영 앱에 대한 하나 이상의 기능 세트를 전문으로 합니다.
-  
-  응시자들은 조달, 무역, 물류, 창고 관리, 및 운송 관리를 포함한, 공급망 관리 관행에 대한 지식이 반드시 있어야합니다. 
-subTitle: 'Dynamics 365 Supply Chain Management 기능 컨설턴트는 고객을 위해 비용 회계, 재고 관리, 마스터 계획 및 웨어하우스 관리를 간소화합니다.'
+summary: >-
+  이 인증 후보는 비즈니스 요구 사항을 분석하고 해당 요구 사항을 업계 모범 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 후보는 비즈니스 요구 사항을 충족하도록 애플리케이션을 구현하고 구성하는 핵심 리소스 역할을 합니다.
+
+
+  이 인증 후보는 비즈니스, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념의 회계 원칙 및 재무 운영에 대한 기본적인 이해를 갖고 있습니다. 일반적으로 재무, 제조 및 공급망 관리를 포함하여 하나 이상의 재무 및 운영 앱 기능 집합을 특수화합니다.
+
+
+  후보는 조달, 거래, 물류, 웨어하우스 관리 및 운송 관리를 포함하여 공급망 관리 사례에 대한 지식이 있어야 합니다.
+subTitle: Dynamics 365 Supply Chain Management 기능 컨설턴트는 클라이언트에 대한 비용 회계, 재고 관리, 마스터 계획 및 웨어하우스 관리를 간소화합니다.
 levels:
 - intermediate
 skills:
-- 재무 및 운영 앱을 설명하고, Microsoft Power Platform 기술을 사용하여 앱 확장  
-- 관리 기능 및 워크플로 구성  
-- 재무 및 운영 데이터 관리  
-- 솔루션 검증 및 지원  
-- 제품 정보 관리 구현
-- 재고 관리 구현 
-- Supply Chain 프로세스 구현 및 관리
-- 창고 관리 및 운송 관리 구현 
-- 계획 최적화 구현
+- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
+- Configure administrative features and workflows
+- Manage finance and operations data
+- Validate and support solutions
+- Implement product information management
+- Implement inventory management
+- Implement and manage Supply Chain processes
+- Implement warehouse management and transportation management
+- Implement Planning Optimization
 roles:
 - functional-consultant
 type: role-based
@@ -52,27 +60,26 @@ exams:
 - uid: exam.mb-330
 resources:
 - title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  description: Dynamics 365 및 Power Platform 대한 기본 사항, 역할 기반 및 전문 인증을 포함한 개요를 확인하세요.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 인증으로의 여정
-  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+- title: 인증에 대한 여정
+  description: 인증을 받는 단계와 준비하는 데 사용할 수 있는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 살펴봅니다.
   href: https://aka.ms/TrainingCertDeck
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+- title: 인증 학습 경로
+  description: 필수 시험을 준비하고 인증을 획득하는 데 도움이 되는 권장 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+- title: 시험 재생
+  description: 성공 확률을 높이는 데 도움이 되는 두 가지 훌륭한 제안을 참조하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 기록을 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼을 통해 도움을 받으세요. 포럼 중재자는 월요일-금요일 1 영업일에 응답합니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 네트워크로 여러분의 첫 번째 일조를 하세요. Microsoft 인증 배지를 클레임하고 LinkedIn, ésumé 등에 추가합니다.
   href: ../badges.md
-

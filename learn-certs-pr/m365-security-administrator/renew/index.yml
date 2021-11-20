@@ -1,28 +1,33 @@
 ### YamlMime:CertificationRenewal
-title: 'Microsoft 365 Certified: Security Administrator Associate 인증 갱신'
+title: 'Microsoft 365 인증 갱신: 보안 관리자 연결'
 metadata:
-  title: 'Microsoft 365 Certified: Security Administrator Associate 인증 갱신'
-  description: '본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다.'
+  title: 'Microsoft 365 인증 갱신: 보안 관리자 연결'
+  description: 이 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다.
+  ms.openlocfilehash: 926f6b238a694e7500940519c09d928bb815057e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105525"
 uid: renewal.m365-security-administrator
 certificationUid: certification.m365-security-administrator
 assessmentId: a5e8873e-f61e-4c5b-8f88-845a09bbd070
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Microsoft 365 업데이트 내용을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 갱신을 준비할 수도 있습니다.
+summary: 이 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Microsoft 365 업데이트를 최신 상태로 유지한 것을 표시합니다. 큐레이팅된 학습 모듈 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
 skills:
-- Azure Advanced Threat Protection으로 환경 보호
-- Azure Information Protection에서 Microsoft Information Protection으로 전환
-- Microsoft 365의 규정 준수 관리 기능 설명
-- Azure Active Directory로 인증(조건부 액세스) 강화
-- Azure Active Directory로 제로 트러스트 수용
-- 민감도 레이블로 데이터 보호
-- Microsoft Defender Advanced Threat Protection으로 위협 보호
-- Microsoft 365에서 통신 규정 준수 준비
+- Safeguard your environment with Azure Advanced Threat Protection
+- Transition from Azure Information Protection to Microsoft Information Protection
+- Describe the compliance management capabilities of Microsoft 365
+- Strengthen authentication (conditional access) with Azure Active Directory
+- Embrace Zero Trust with Azure Active Directory
+- Protect your data with sensitivity labels
+- Protect against threats with Microsoft Defender Advanced Threat Protection
+- Prepare communication compliance in Microsoft 365
 examsPassed:
 - ms-500
-studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft 365 Certified: Security Administrator Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
+studyGuideDescription: '이 학습 모듈 컬렉션을 사용하여 Microsoft 365 Certified: 보안 관리자 연결 갱신 평가를 준비할 수 있습니다.'
 resources:
 - title: 인증 갱신 정보
-  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  summary: 온라인으로 인증을 갱신하기 위한 프로세스 및 요구 사항 이해
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

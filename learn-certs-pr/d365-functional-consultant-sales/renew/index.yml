@@ -1,26 +1,31 @@
 ### YamlMime:CertificationRenewal
-title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate 인증 갱신'
+title: 'Microsoft 인증을 위한 갱신: Dynamics 365 판매 기능 컨설턴트 연결'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate 인증 갱신'
-  description: '본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다.'
+  title: 'Microsoft 인증을 위한 갱신: Dynamics 365 판매 기능 컨설턴트 연결'
+  description: 이 인증을 보유 하 고 6 개월 이내에 만료 되는 경우 갱신할 수 있습니다.
+  ms.openlocfilehash: b6252ebb1ff87f9adca586f11a3eda220d651634
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106728"
 uid: renewal.d365-functional-consultant-sales
 certificationUid: certification.d365-functional-consultant-sales
 assessmentId: 77790b05-d9dc-40d9-a754-61322b6ab014
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Dynamics 365 Customer Insights 및 Sales Insights 업데이트 내용을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 갱신을 준비할 수도 있습니다.
+summary: 이 인증을 보유 하 고 6 개월 이내에 만료 되는 경우 갱신할 수 있습니다. 갱신 평가를 전달 하 여 최신 Dynamics 365 Customer Insights 및 판매 Insights 업데이트를 최신 상태로 유지 한다는 것을 보여 줍니다. 학습 모듈의 큐 레이트 컬렉션을 사용 하 여 갱신을 준비할 수도 있습니다.
 skills:
-- Dynamics 365 Sales으로 판매 주문 처리
-- Dynamics 365 Sales로 제품 카탈로그 관리 및 준비
-- Dynamics 365 Customer Insights에서 통합 고객 프로필 생성
-- Dynamics 365 Customer Insights 작업
-- Sales Insights 구성
-- Dynamics 365 Sales Insights 작업
+- Process sales orders with Dynamics 365 Sales
+- Manage and organize your product catalog with Dynamics 365 Sales
+- Create a unified customer profile in Dynamics 365 Customer Insights
+- Work with Dynamics 365 Customer Insights
+- Configure Sales Insights
+- Working with Dynamics 365 Sales Insights
 examsPassed:
 - pl-200, mb-210
-studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
+studyGuideDescription: 이 학습 모듈 컬렉션을 사용 하 여 Microsoft 인증을 준비 하는 데 도움이 되는 Dynamics 365 판매 기능 컨설턴트는 갱신 평가를 연결 합니다.
 resources:
 - title: 인증 갱신 정보
-  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  summary: 온라인으로 인증을 갱신 하기 위한 프로세스 및 요구 사항 이해
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

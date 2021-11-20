@@ -1,27 +1,36 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
+title: 'Microsoft 365 인증: Teamwork 관리자 연결'
 metadata:
-  title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: 'Microsoft 365 Teamwork 관리자는 효율적이고 효과적인 협업에 초점을 맞춘 SharePoint(Online, 온-프레미스, 하이브리드), OneDrive 및 Teams와 같은 Office 365 워크로드를 구성, 배포 및 관리합니다.'
+  title: 'Microsoft 365 인증: Teamwork 관리자 연결'
+  description: Microsoft 365 Teamwork 관리자는 SharePoint(온라인, 온-프레미스 및 하이브리드), OneDrive 및 Teams 같이 효율적이고 효과적인 협업에 초점을 맞춘 Office 365 워크로드를 구성, 배포 및 관리합니다.
+  ms.openlocfilehash: d58e64f1bc97c3c9dbc4fec2f3d2388489681ab8
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105488"
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   <div>
-  <div><strong>이 인증은 2020 년 08 월 31 일에 만료되었습니다. 중단 일자 전에 취득한 모든 자격증은 에 있는 성적표에 계속 표시됩니다 <a href="https://www.microsoft.com/learning/dashboard.aspx">Certification Dashboard</a>.</strong><br/><br/></div>
+
+  <div><strong>이 인증은 2020년 8월 31일에 사용 중지되었습니다. 해당 만료 날짜 이전에 획득한 모든 인증은 <a href="https://www.microsoft.com/learning/dashboard.aspx">인증 대시보드</a>의 대본에 계속 표시됩니다.</strong><br/><br/></div>
+
   </div>
 
-  Microsoft 365 Teamwork 관리자는 효율적이고 효과적인 협업에 초점을 맞춘 SharePoint(Online, 온-프레미스, 하이브리드), OneDrive 및 Teams와 같은 Office 365 워크로드를 구성, 배포 및 관리합니다.
-subTitle: Microsoft 365 Teamwork 관리자는 효율적이고 효과적인 협업에 초점을 맞춘 SharePoint(Online, 온-프레미스, 하이브리드), OneDrive 및 Teams와 같은 Office 365 워크로드를 구성, 배포 및 관리합니다.
+
+  Microsoft 365 Teamwork 관리자는 SharePoint(온라인, 온-프레미스 및 하이브리드), OneDrive 및 Teams 같이 효율적이고 효과적인 협업에 초점을 맞춘 Office 365 워크로드를 구성, 배포 및 관리합니다.
+subTitle: Microsoft 365 Teamwork 관리자는 SharePoint(온라인, 온-프레미스 및 하이브리드), OneDrive 및 Teams 같이 효율적이고 효과적인 협업에 초점을 맞춘 Office 365 워크로드를 구성, 배포 및 관리합니다.
 levels:
 - intermediate
 skills:
-- SharePoint Online 구성 및 관리
-- 비즈니스용 OneDrive 구성 및 관리
-- Teams 구성 및 관리
-- 워크로드 통합 구성 및 관리
-- SharePoint 온-프레미스 구성 및 관리
-- 하이브리드 시나리오 구성 및 관리
-- SharePoint Online으로의 마이그레이션
+- Configure and manage SharePoint Online
+- Configure and manage OneDrive for Business
+- Configure and manage Teams
+- Configure and manage workload integrations
+- Configure and manage SharePoint On-Premises
+- Configure and manage hybrid scenarios
+- Migrate to SharePoint Online
 roles:
 - administrator
 type: role-based
@@ -31,15 +40,6 @@ products:
 - office-onedrive
 - office-teams
 - office-yammer
-courses:
-- uid: course.ms-300t01
-- uid: course.ms-300t02
-- uid: course.ms-300t03
-- uid: course.ms-300t04
-- uid: course.ms-301t01
-- uid: course.ms-301t02
-- uid: course.ms-301t03
-- uid: course.ms-301t04
 paths:
 - uid: learn-m365.m365-teams-sharepoint
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUE
@@ -47,25 +47,24 @@ exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
 resources:
-- title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Teamwork Administrator Associate.'
+- title: 인증 학습 경로
+  description: 'Microsoft Certified: Teamwork Administrator Associate가 될 학습 리소스를 검색합니다.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 살펴봅니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  description: 기본 사항, 역할 기반 및 전문 인증에 대한 개요를 확인하세요.
+  href: https://aka.ms/traincertposter
+- title: 시험 재생
+  description: 성공 확률을 높이는 데 도움이 되는 두 가지 훌륭한 제안을 참조하세요.
   href: ../deals.md
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼을 통해 도움을 받으세요. 포럼 중재자는 월요일-금요일 1 영업일에 응답합니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 기록을 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 네트워크로 여러분의 첫 번째 일조를 하세요. Microsoft 인증 배지를 클레임하고 LinkedIn, ésumé 등에 추가합니다.
   href: ../badges.md
-

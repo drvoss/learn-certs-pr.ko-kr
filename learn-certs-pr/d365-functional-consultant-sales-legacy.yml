@@ -1,30 +1,24 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (레거시)'
+title: 'Microsoft Certified: Dynamics 365 Sales 기능 컨설턴트 Associate(레거시)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (레거시)'
-  description: 'Microsoft Dynamics 365 Sales 기능 컨설턴트는 고객 연결 예측 및 계획, 처리 및 종료를 통한 거래 관리 및 데이터 분석을 사용하여 영업 팀의 성과를 가속화하는 솔루션을 구현합니다.'
+  title: 'Microsoft Certified: Dynamics 365 Sales 기능 컨설턴트 Associate(레거시)'
+  description: Microsoft Dynamics 365 Sales Functional Consultants는 고객 연결을 예상 및 계획하고, 처리 및 닫기를 통해 거래를 관리하고, 데이터 분석을 사용하여 영업 팀 성과를 가속화하는 솔루션을 구현합니다.
+  ms.openlocfilehash: 008eb7e85c5d58064ffad624aa65baf95b474fd3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106760"
 uid: certification.d365-functional-consultant-sales-erlr
-certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.<br/><br/></strong></font></div>
-  
-  만일 기능 컨설턴트, Microsoft Dynamics 365 Sales 를 사용하는 전문가이거나, 컨설팅 기술을 연마하려는 개발자라면, 이 인증이 경력을 향상시키는데 도움이 될 수 있습니다. 이는 프로젝트를 위해 자신을 보다 효과적으로 마케팅하고, 영업 인력을 강화하는데 Dynamics 365 Sales를 사용할 수 있는 것을 조직에 보여주게 합니다.
-  
-  이 인증의 응시자로서, Microsoft Power Platform 을 구성한 경험이 있고 Dynamics 365 모델-기반 애플리케이션 및 데이터-모델링 원칙을 알고있습니다. 조직의 이해관계자들과 요구사항을 수집하고 Dynamics 365 Sales 솔루션을 구현하기 위해 협력합니다. 리드, 기회, 견적 및 주문을 관리하고 제품 카탈로그와 가격 목록을 구성합니다. 또한 조직의 고유한 비즈니스 프로세스와 일치하도록 Dynamics 365 Sales 를 구성하고, Dynamics 365 Sales 데이터를 모델링합니다. Power Automate 및 Power Apps와 같은 Power Platform 구성요소를 사용하여 Dynamics 365 솔루션을 확장 할 수도 있습니다.
-  
-  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안사항이 있습니다&#58;
-  - Dynamics 365 모델-기반 앱 구현 프로젝스에서 작업합니다.
-  - Dynamics 365 Sales로 작업하는 기능 컨설턴트 혹은 솔루션 아키텍트를 쉐도우합니다.
-  - Microsoft Learn 에서 가능한 학습경로를 시작합니다.
-  - 강사 주도 교육 과정에 등록합니다.
-subTitle: Microsoft Dynamics 365 Sales 기능 컨설턴트는 고객 연결 예측 및 계획, 처리 및 종료를 통한 거래 관리 및 데이터 분석을 사용하여 영업 팀의 성과를 가속화하는 솔루션을 구현합니다.
+summary: "<div><font color=\"#D83B01\"><strong>이 버전의 인증은 더 이상 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 기록의 인증 기록 섹션으로 이동합니다.<br/><br/></strong></font></div>\n\n기능 컨설턴트, Microsoft Dynamics 365 Sales로 작업하는 전문가 또는 컨설팅 기술을 습득하려는 개발자인 경우 이 인증을 통해 경력을 향상할 수 있습니다. 이를 통해 프로젝트를 보다 효과적으로 마케팅할 수 있으며 Dynamics 365 Sales를 사용하여 영업 사원의 역량을 강화할 수 있음을 조직에 보여 줍니다. \n\n이 인증의 후보로 Microsoft Power Platform 구성한 경험이 있으며 Dynamics 365 모델 기반 애플리케이션 및 데이터 모델링 원칙을 알고 있습니다. 조직의 관련자와 협력하여 요구 사항을 수집하고 Dynamics 365 Sales 솔루션을 구현합니다. 잠재 고객, 기회, 견적 및 주문을 관리하고 제품 카탈로그 및 가격표를 구성합니다. 또한 조직의 고유한 비즈니스 프로세스와 일치하도록 Dynamics 365 Sales를 구성하고 Dynamics 365 Sales 데이터를 모델링합니다. Power Automate 및 Power Apps 같은 Power Platform 구성 요소를 사용하여 Dynamics 365 솔루션을 확장할 수도 있습니다.\n\n이 인증을 얻기 전에 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이&#58;\n- Dynamics 365 모델 기반 앱 구현 프로젝트에서 작업합니다.\n- Dynamics 365 Sales에서 작업하는 기능 컨설턴트 또는 솔루션 설계자를 섀도 처리합니다.\n- Microsoft Learn 사용 가능한 학습 경로를 활용합니다.\n- 강사가 진행하는 교육 과정에 등록합니다."
+subTitle: Microsoft Dynamics 365 Sales Functional Consultants는 고객 연결을 예상 및 계획하고, 처리 및 닫기를 통해 거래를 관리하고, 데이터 분석을 사용하여 영업 팀 성과를 가속화하는 솔루션을 구현합니다.
 hidden: true
 hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- 없음
+- None
 roles:
 - functional-consultant
 type: role-based
@@ -55,27 +49,26 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  description: Dynamics 365 및 Power Platform 대한 기본 사항, 역할 기반 및 전문 인증을 포함한 개요를 확인하세요.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 인증으로의 여정
-  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+- title: 인증에 대한 여정
+  description: 인증을 받는 단계와 준비하는 데 사용할 수 있는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 살펴봅니다.
   href: https://aka.ms/TrainingCertDeck
-- title: 인증서 학습 경로
-  description: 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+- title: 인증 학습 경로
+  description: 필수 시험을 준비하고 인증을 획득하는 데 도움이 되는 권장 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
-- title: 시험 재응시
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+- title: 시험 재생
+  description: 성공 확률을 높이는 데 도움이 되는 두 가지 훌륭한 제안을 참조하세요.
   href: deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 기록을 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼을 통해 도움을 받으세요. 포럼 중재자는 월요일-금요일 1 영업일에 응답합니다.
   href: help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 네트워크로 여러분의 첫 번째 일조를 하세요. Microsoft 인증 배지를 클레임하고 LinkedIn, ésumé 등에 추가합니다.
   href: badges.md
-
