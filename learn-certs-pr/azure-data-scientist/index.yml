@@ -2,24 +2,32 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: 'Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다.'
+  description: Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다.
+  ms.openlocfilehash: 9431631dd2ae27025b23535290a6458a75b97c57
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132112002"
 uid: certification.azure-data-scientist
 certificationRenewalUid: renewal.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
+  Azure Data Scientist Associate 인증의 응시자는 데이터 과학 및 기계 학습을 적용하여 Azure에서 기계 학습 워크로드를 구현하고 실행하는 전문 지식이 있어야 합니다.
+
+
+  이 역할이 담당하는 대표적인 일은 Azure에서의 데이터 과학 워크로드에 적합한 작업 환경을 계획하고 조성하는 것입니다. 이 역할은 데이터 실험을 실행하고 예측 모델을 훈련시킵니다. 또한 기계 학습 모델을 관리 및 최적화하고 프로덕션에 배포합니다.
+
+
   Azure Data Scientist Associate 인증의 응시자들은, Azure의 기계 학습 워크로드를 구현하고 실행하기 위해 데이터 과학 및 기계 학습을 적용하는 주제 전문 지식이 있어야합니다.
-  
-  이 역할에 대한 책임은 Azure의 데이터 과학 워크로드에 대한 적합한 작업 환경을 계획하고 만드는것을 포함합니다. 데이터 실험을 실행하고 예측 모델을 훈련합니다. 또한, 기계 학습 모델을 관리, 최적화 및 프로덕션에 배포합니다.
-  
-  이 인증의 후보자는 데이터 과학 및 Azure Machine Learning과 Azure Databricks 사용에 대한 지식과 경험이 있어야합니다.
 subTitle: Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다.
 levels:
 - intermediate
 skills:
-- 기계 학습에 대한 Azure 리소스 관리
-- 실험 실행 및 모델 훈련
-- 기계 학습 솔루션 배포 및 운영
-- 책임감있는 기계 학습 구현
+- Manage Azure resources for machine learning
+- Run experiments and train models
+- Deploy and operationalize machine learning solutions
+- Implement responsible machine learning
 roles:
 - data-scientist
 type: role-based
@@ -47,7 +55,7 @@ resources:
   description: Azure Data Scientist Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -59,9 +67,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

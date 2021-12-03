@@ -3,19 +3,24 @@ title: 'Microsoft Office Specialist: Microsoft Excel 2016'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Excel 2016'
   description: 'Microsoft Office Specialist: Microsoft Excel 2016'
+  ms.openlocfilehash: 56d213e6d2049a69186958e2821e558599037fd9
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111708"
 uid: certification.mos-excel-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Microsoft Office Specialist (MOS) 2016 인증을 취득하여 Excel을 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다. Microsoft Office Specialist Excel 2016 인증 응시자는 Excel 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다.
+summary: MOS(Microsoft Office Specialist) 2016 인증을 취득하여 Excel을 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요. Microsoft Office Specialist Excel 2016 인증 응시자는 Excel 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다.
 subTitle: 이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
 levels:
 - intermediate
 skills:
-- 워크시트 및 워크북 만들기 및 관리
-- 데이터 셀 및 범위 관리
-- 표 만들기
-- 수식 및 함수를 통한 연산 수행
-- 차트 및 개체 만들기
+- Create and manage worksheets and workbooks
+- Manage data cells and ranges
+- Create tables
+- Perform operations with formulas and functions
+- Create charts and objects
 roles:
 - business-user
 type: mos
@@ -26,8 +31,8 @@ exams:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 시험 재응시
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -37,6 +42,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

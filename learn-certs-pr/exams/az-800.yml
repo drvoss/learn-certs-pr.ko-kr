@@ -1,17 +1,25 @@
 ### YamlMime:Examination
-title: Administering Windows Server Hybrid Core Infrastructure (beta)
+title: Administering Windows Server Hybrid Core Infrastructure(베타)
 metadata:
-  title: 'Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)'
-  description: 'Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)'
+  title: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
+  description: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
+  ms.openlocfilehash: 223fddecdf2b691e33c11a87bdc0b288505451a1
+  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "132112514"
 uid: exam.az-800
 displayName: AZ-800
-summary: |-
-  이 시험의 응시자들은 온-프레미스, 하이브리드 및 cloud 기술을 사용하여 핵심 Windows Server 워크로드를 관리합니다. 이러한 전문가들은 ID, 관리, 컴퓨팅, 네트워킹 및 스토리지와 같은 온-프레미스 및 하이브리드 솔루션을 구현하고 관리하는 데 있어 전문성을 갖추어야 합니다. 이들은 Windows Admin Center, PowerShell, Azure Arc, 및 IaaS 가상 머신 관리와 같은, 관리 도구 및 기술을 사용합니다.
-  
-  이 시험의 응시자는 Windows Server 운영 시스템 작업에 대한 광범위한 경험이 있어야 합니다. 
-  
-  <div><br/><font color='red'><strong>참고: 이 시험은 2021년 12월에 시행됩니다.</strong></font></div>
-subTitle: '이 시험은 2021년 12월에 시행됩니다. 이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 온-프레미스 및 cloud 환경에서 Active Directory Domain Services (AD DS) 배포 및 관리; 하이브리드 환경에서 Windows Servers 및 워크로드 관리; 가상 머신 및 컨테이너 관리; 온-프레미스 및 하이브리드 네트워킹 인프라 구현 및 관리; 스토리지 및 파일 서비스 관리.'
+summary: >-
+  이 시험의 응시자는 온-프레미스, 하이브리드, 클라우드 기술을 사용하여 핵심 Windows Server 워크로드를 관리합니다. 이러한 전문가는 ID, 관리, 컴퓨팅, 네트워킹, 스토리지와 같은 온-프레미스 및 하이브리드 솔루션 구현과 관리에 대한 전문 지식이 있어야 합니다. Windows Admin Center, PowerShell, Azure Arc 및 IaaS 가상 머신 관리와 같은 관리 도구와 기술을 사용합니다.
+
+
+  이 시험의 응시자는 Windows Server 운영 체제를 사용한 경험이 풍부해야 합니다.
+
+
+  <div><br/><font color='red'><strong>참고: 본 시험은 2021년 12월에 응시할 수 있습니다.</strong></font></div>
+subTitle: 본 시험은 2021년 12월에 응시할 수 있습니다. 이 시험에서는 온-프레미스 및 클라우드 환경에서 Active Directory Domain Services(AD DS) 배포 및 관리 기술 작업을 수행하는 능력, 하이브리드 환경에서 Windows Server 및 워크로드를 관리하는 능력, 가상 머신 및 컨테이너를 관리하는 능력, 온-프레미스 및 하이브리드 네트워킹 인프라를 구현하는 능력, 스토리지 및 파일 서비스를 관리하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
 locales:
@@ -19,11 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 온-프레미스 및 cloud 환경에서 Active Directory Domain Services (AD DS) 배포 및 관리 (30-35%)
-- 하이브리드 환경에서 Windows Servers 및 워크로드 관리 (10-15%)
-- 가상 머신 및 컨테이너 관리 (15-20%)
-- 온-프레미스 및 하이브리드 네트워킹 인프라 구현 및 관리 (15-20%) 
-- 스토리지 및 파일 서비스 관리 (15-20%)
+- Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments (30-35%)
+- Manage Windows Servers and workloads in a hybrid environment (10-15%)
+- Manage virtual machines and containers (15-20%)
+- Implement and manage an on-premises and hybrid networking infrastructure (15-20%)
+- Manage storage and file services (15-20%)
 roles:
 - administrator
 - identity-access-admin
@@ -72,6 +80,6 @@ resources:
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

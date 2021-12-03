@@ -1,53 +1,59 @@
 ---
-title: '귀하의 Certification Dashboard에 접근 | Microsoft Docs'
-description: '귀하의 Certification Dashboard에 접근' 
-documentationcenter: NA 
-author: venkatorugantimsft
+title: 인증 대시보드에 액세스 | Microsoft Docs
+description: 귀하의 Certification Dashboard에 접근
+documentationcenter: NA
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: venkato
+ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 57d22322e84905c3233363cfc230d8176e23dcca
+ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "132112563"
 ---
-# 귀하의 Certification Dashboard에 접근
+# <a name="access-your-certification-dashboard"></a>귀하의 Certification Dashboard에 접근
 
-## Certification Dashboard는 무엇입니까?
+## <a name="what-is-the-certification-dashboard"></a>인증 대시보드란?
 
-귀하의 [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)는 귀하의 모든 개인 인증-관련 정보에 대한 홈입니다. 프로필을 업데이트하고, Microsoft Certification identification number (MCID)를 찾고, Microsoft Certification 성적 증명서를 받기 위해 여기로 오게 됩니다. 인증과 관련된 모든것을 찾을 수 있는 좋은 장소입니다.  
+[Microsoft 인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)는 모든 개인 인증 관련 정보가 있는 곳입니다. 여기에서 프로필을 업데이트하고, MCID(Microsoft 인증 ID 번호)를 찾고, Microsoft 인증 성적 증명서를 받을 수 있습니다. 인증에 관련된 모든 항목을 찾기에 좋은 장소입니다.
 
-## Certification Dashboard에 접근하는 방법
+## <a name="how-to-access-your-certification-dashboard"></a>인증 대시보드에 액세스하는 방법
 
-1. 다음중 어느 위치에서도 Certification Dashboard에 접근할 수 있습니다:
-    - Microsoft Learn의 어느 인증이나 시험 세부 정보 페이지에 대한 설명 아래
+1. 다음 위치 중 하나에서 인증 대시보드에 액세스할 수 있습니다.
+    - 다음은 Microsoft Learn의 모든 인증 또는 시험 세부 정보 페이지에 대한 설명입니다.
 <br/>
 <br/>
-![설명 아래 인증 대시 보드에 접근](images/access-certification-dashboard-1.png)
+![설명 아래에서 인증 대시보드에 액세스](images/access-certification-dashboard-1.png)
 <br/>
 <br/>
-    - 인증 개요의, 오른쪽 상단에, “Certification Dashboard로 이동” 링크가 있습니다. 
+    - 인증 개요의 오른쪽 위 모서리에 "인증 대시보드로 이동" 링크가 있습니다.
 <br/>
 <br/>
-![인증 개요의 인증 대시 보드에 접근](images/access-certification-dashboard-2.png)
+![인증 개요에서 인증 대시보드에 액세스](images/access-certification-dashboard-2.png)
 <br/>
 <br/>
-    - Microsoft Learn 프로필의 "인증" 섹션에서
+    - Microsoft Learn 프로필의 "인증" 섹션에서.
 <br/>
 <br/>
-![Microsoft Learn 프로파일의 인증 섹션에서 인증 대시 보드에 접근](images/access-certification-dashboard-3.png)
+![Microsoft Learn 프로필의 인증 섹션에서 인증 대시보드에 액세스](images/access-certification-dashboard-3.png)
 <br/>
 <br/>
 
-2. Microsoft Certification 프로필을 만드는데 사용한 Microsoft 계정 및 비밀번호로 로그인 합니다. 
+2. Microsoft 인증 프로필을 만들 때 사용한 Microsoft 계정 및 암호로 로그인합니다.
 
-## 인증 프로필 업데이트하는 방법 
+## <a name="how-to-update-your-certification-profile"></a>인증 프로필을 업데이트하는 방법
 
-자세한 지침은: [인증 프로필 관리](/learn/certifications/manage-certification-profile)를 방문하십시오.
+자세한 지침은 [인증 프로필 관리](/learn/certifications/manage-certification-profile)를 참조하세요.
 
-## Microsoft 계정 활성 유지
+## <a name="keeping-your-microsoft-account-active"></a>Microsoft 계정 활성 상태로 유지
 
-Certification Dashboard에 대한 접근을 유지하려면, 귀하의 Microsoft 계정을 활성 상태로 유지해야합니다. 최소 2년에 한 번 귀하의 Microsoft 계정에 로그인하여 활성 상태를 유지할 수 있습니다. 계정이 비활성화되면 인증 정보에 다시 접근할 수 있는 복구 프로세스를 지원받기 위해 지원팀에 문의해야 할 수 있습니다.  
+인증 대시보드에 대한 액세스를 유지하려면 Microsoft 계정을 활성 상태로 유지해야 합니다. 적어도 2년에 한 번 Microsoft 계정에 로그인하면 계정을 활성 상태로 유지할 수 있습니다. 계정이 비활성화된 경우 고객 지원팀에 문의하여 복구 프로세스를 지원 받아 인증 정보에 다시 액세스해야 할 수 있습니다.
 
-## 분실하거나 잊어버린 Microsoft Certification 자격 복구 
+## <a name="recover-your-lost-or-forgotten-microsoft-certification-credentials"></a>분실하거나 잊어버린 Microsoft 인증 자격 증명 복구
 
-조정 된 지원 포럼에서 지원을 요청할 수 있습니다. 자세한 지침은: [인증 지원](/learn/certifications/help)을 방문하십시오.
+중재 지원 포럼에서 지원을 요청할 수 있습니다. 자세한 내용은 [인증 지원](/learn/certifications/help)을 참조하세요.

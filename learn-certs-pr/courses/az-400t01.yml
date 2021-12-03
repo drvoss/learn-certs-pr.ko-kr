@@ -1,15 +1,21 @@
 ### YamlMime:Course
 title: Implementing DevOps Development Processes
 metadata:
-  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
-  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  title: '과정 AZ-400T01-A: Implementing DevOps Development Processes'
+  description: '과정 AZ-400T01-A: Implementing DevOps Development Processes'
+  ms.openlocfilehash: 40c8c51019ad92aa670102d9527f84424da4222c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107629"
 uid: course.az-400t01
-courseNumber: 'AZ-400T01-A'
+courseNumber: AZ-400T01-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 소스 제어 사용의 혜택 설명
-- skill: TFVC에서 Git에로 마이그레이션
+- skill: 소스 제어 사용의 이점 설명
+- skill: TFVC에서 Git으로 마이그레이션
 - skill: Enterprise DevOps 용 Scale Git
 - skill: 빌드 인프라 구현 및 관리
 - skill: 애플리케이션 구성 및 비밀 관리
@@ -29,79 +35,138 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  본 과정에서는 DevOps 프로세스를 구현하기 위한 지식과 기술을 제공합니다. 소스 제어 사용, 엔터프라이즈용 확장 Git, 빌드 인프라 구현 및 관리 방법에 대해 설명합니다.
-  #### 대상 그룹 프로필
+summary: >-
+  이 과정에서는 DevOps 프로세스를 구현하기 위한 지식과 기술을 제공합니다. 수강생은 소스 제어를 사용하고, 엔터프라이즈용 Git를 확장하고, 빌드 인프라를 구현 및 관리하는 방법을 배웁니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
   본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
-prerequisitesSection: |-
-  Azure, 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
-outlineSection: |-
-  ### 모듈 1&#58; 소스 제어 시작하기
-  #### 단원
+prerequisitesSection: Azure, 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
+outlineSection: >-
+  ### <a name="module--158-getting-started-with-source-control"></a>모듈 1&#58; 소스 제어 시작하기
+
+  #### <a name="lessons"></a>단원
+
   - 소스 제어란?
-  - 소스 제어의 혜택
+
+  - 소스 제어의 이점
+
   - 소스 제어 시스템의 유형
+
   - Azure Repos 소개
-  - Team Foundation 버전 제어(TFVC)를 Git로 마이그레이션
-  - Git Repos 인증
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  - TFVC(Team Foundation 버전 제어)에서 Git로 마이그레이션
+
+  - Git Repos에 인증
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 소스 제어 사용의 혜택 설명
-  - TFVC에서 Git으로의 마이그레이션
 
-  ### 모듈 2&#58; 엔터프라이즈 DevOps를 위한 Git 확장
-  #### 단원
-  - Git repo 구조화 방법
+  - TFVC에서 Git으로 마이그레이션
+
+
+
+  ### <a name="module--258-scaling-git-for-enterprise-devops"></a>모듈 2&#58; 엔터프라이즈 DevOps를 위한 Git 확장
+
+  #### <a name="lessons"></a>단원
+
+  - Git Repo 구조화 방법
+
   - Git 분기 워크플로
-  - 끌어오기 요청과 협력
-  - GitHooks에 관심을 가져야 하는 이유?
-  - 내부 오픈 소스 돕기
-  - Git 버전
-  - 공용 프로젝트
-  - Git 내 파일들
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 끌어오기 요청으로 협업
+
+  - GitHooks에 관심을 둬야 하는 이유
+
+  - 내부 오픈 소스 촉진
+
+  - Git 버전
+
+  - 공용 프로젝트
+
+  - Git의 파일
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - Enterprise DevOps 용 Scale Git
 
 
-  ### 모듈 3&#58; 빌드 인프라 구현 및 관리
-  #### 단원
+
+  ### <a name="module--358-implement--manage-build-infrastructure"></a>모듈 3&#58; 빌드 인프라 구현 및 관리
+
+  #### <a name="lessons"></a>단원
+
   - DevOps에서 파이프라인의 개념
+
   - Azure Pipelines
-  - 호스트 에이전트 대 사용자 에이전트 사용 평가
+
+  - 호스트 에이전트와 프라이빗 에이전트 사용 비교 평가
+
   - 에이전트 풀
+
   - 파이프라인 및 동시성
+
   - Azure DevOps 및 오픈 소스 프로젝트
-  - Azure Pipelines YAML vs Visual Designer
-  - 사용자 에이전트 설정
-  - Jenkins를 Azure Pipelines과 통합
-  -  외부 소스 제어를 Azure Pipelines와 통합
+
+  - Azure Pipelines YAML과 비주얼 디자이너 비교
+
+  - 프라이빗 에이전트 설정
+
+  - Azure Pipelines와 Jenkins 통합
+
+  - 외부 소스 제어와 Azure Pipelines 통합
+
   - Docker 다단계 빌드 분석 및 통합
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 빌드 인프라 구현 및 관리
 
 
-  ### 모듈 4&#58; 애플리케이션 구성 및 비밀 관리
-  #### 단원
+
+  ### <a name="module--458-managing-application-config--secrets"></a>모듈 4&#58; 애플리케이션 구성 및 비밀 관리
+
+  #### <a name="lessons"></a>단원
+
   - 보안 소개
+
   - 보안 및 규정 준수 개발 프로세스 구현
+
   - 애플리케이션 구성 데이터 재고
+
   - 시크릿, 토큰, 인증서 관리
+
   - 파이프라인 보안 관리 및 규정 준수 도구 구현
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 애플리케이션 구성 및 비밀 관리
 
 
-  ### 모듈 5&#58; 모바일 DevOps 전략 구현
-  #### 단원
+
+  ### <a name="module--558-implement-a-mobile-devops-strategy"></a>모듈 5&#58; 모바일 DevOps 전략 구현
+
+  #### <a name="lessons"></a>단원
+
   - Mobile DevOps 소개
+
   - Visual Studio App Center 소개
+
   - 모바일 대상 장치 세트 및 배포 그룹 관리
+
   - 대상 UI 테스트 장치 세트 관리
-  - 배포용 테스터 장치 프로비저닝
-  - 퍼블릭 배포 그룹 및 프라이빗 배포 그룹 생성
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 배포용 테스터 디바이스 프로비저닝
+
+  - 퍼블릿 배포 그룹 및 프라이빗 배포 그룹 생성
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 모바일 DevOps 전략 구현
-

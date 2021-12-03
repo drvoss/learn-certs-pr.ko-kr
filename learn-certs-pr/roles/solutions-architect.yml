@@ -1,55 +1,61 @@
-### YamlMime:Role 
-title: Solutions Architect 
-metadata: 
-  title: Solutions Architect
-  description: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다. 
-uid: role.solution-architect  
-summary: | 
+### YamlMime:Role
+title: 솔루션 설계자
+metadata:
+  title: 솔루션 설계자
+  description: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
+  ms.openlocfilehash: 243a932c9851ea1979962b5d66a9e6e9e2cfa4cd
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132112019"
+uid: role.solution-architect
+summary: >
   솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
 subTitle: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
-certificationPaths: 
+certificationPaths:
 - title: Azure Solutions Architect
   linkedInKeywords: Azure Solutions Architect
-  uid: certification-path.azure-solutions-architect 
-  prerequisites: 
+  uid: certification-path.azure-solutions-architect
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-solutions-architect
     levels:
-    - advanced    
-- title: Dynamics 365 Finance and Operations Apps Solution Architect
+    - advanced
+- title: Dynamics 365 금융 및 운영 앱 솔루션 아키텍처
   linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
   uid: certification-path.d365-finance-and-operations-apps-solution-architect-expert
-  prerequisites: 
-  - uid: certification.d365-fundamentals
+  prerequisites:
+  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-financials
     levels:
-    - intermediate  
+    - intermediate
   - uid: certification.d365-functional-consultant-manufacturing
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-functional-consultant-supply-chain-management
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
-    - advanced  
-- title: Dynamics 365 + Power Platform Solution Architect
-  linkedInKeywords: Dynamics 365 + Power Platform Solution Architect
-  uid: certification-path.power-apps-and-d365-solution-architect-expert
-  prerequisites: 
+    - advanced
+- title: Power Platform Solution Architect
+  linkedInKeywords: Power Platform Solution Architect
+  uid: certification-path.power-platform-solution-architect-expert
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
@@ -62,17 +68,6 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-field-service
     levels:
     - intermediate
-  - uid: certification.power-apps-and-d365-solution-architect-expert
-    levels:
-    - advanced
-- title: Power Platform Solution Architect
-  linkedInKeywords: Power Platform Solution Architect
-  uid: certification-path.power-platform-solution-architect-expert
-  prerequisites: 
-  - uid: certification.power-platform-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
   - uid: certification.power-platform-functional-consultant-associate
     levels:
     - intermediate

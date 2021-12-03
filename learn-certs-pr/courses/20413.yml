@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Designing and Implementing a Server Infrastructure
 metadata:
-  title: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
-  description: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+  title: '과정 20413-C: Designing and Implementing a Server Infrastructure'
+  description: '과정 20413-C: Designing and Implementing a Server Infrastructure'
+  ms.openlocfilehash: 07a5c9f50afe4a53a74afc2060f47efc1cb3bbe3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132110656"
 uid: course.20413
-courseNumber: '20413-C'
+courseNumber: 20413-C
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -31,246 +37,406 @@ products:
 - windows-server
 exams:
 - uid: exam.70-413
-summary: |-
-  실습 교육받기 및 5일간의 Microsoft 공식 과정에서 물리적 및 논리적 Windows Server® 2012 R2 엔터프라이즈 인프라 계획, 설계 및 배포 연습하기. 본 과정은 엔터프라이즈 환경에서 Windows Server 2012 R2 인프라 설계 및 구현에 필요한 기술 및 지식을 제공하는 총 2부의 과정 중 1부입니다. 2개 과정에서는 엔터프라이즈 서버 인프라 설계, 계획, 배포, 보안, 모니터링, 자동화 및 가상화를 전체적으로 다룹니다. 본 과정에서는 지원 파일 및 저장소 서비스를 포함한 물리 및 가상 환경에서 서버 설치를 수동 및 자동으로 지원하는 엔터프라이즈 솔루션 제공에 필요한 지식과 기술을 다룹니다. DHCP, IPAM, VPN 및 DirectAccess 등 엔터프라이즈 네트워킹 솔루션 제공에 필요한 기술도 학습합니다. 다중 도메인/포리스트 및 지점 시나리오를 포함한 포리스트 및 도메인 인프라 설계 및 구현에 필요한 기술도 학습합니다. 이 과정은 MCSE&#58; Server Infrastructure 인증에 필요한 5가지 시험 중 4번째인 Microsoft Certified Solutions Expert (MCSE)&#58; Exam 413&#58; Designing and Implementing and Server Infrastructure에 직접 매핑되며 실습 준비를 위해 선호되는 선택입니다. 
-
-  참고&#58; 이 과정의 랩은 Windows Server 2012 R2 및 System Center 2012 R2를 기반으로 합니다. 이 과정은 중견기업 및 대기업을 지원하며 Windows Server 2012 R2 관리 경험이 있고 MCSA&#58; Windows Server 2012 인증 또는 이와 동등한 기술을 갖춘 숙련된 IT 전문가를 대상으로 합니다.
-
-  #### 대상 그룹 프로필
-  이 과정은 필요한 네트워크 서비스를 포함한 물리 및 논리 Windows Server 2012 엔터프라이즈 AD DS (Active Directory® Domain Services) 인프라 계획, 설계 및 배포를 담당하는 IT 전문가를 대상으로 합니다. 이전 Windows Server 운영 체제 경험이 있으며 Windows Server 2012 인증 MCSA(Microsoft Certified Solutions Associate) 또는 이와 동등한 기술을 보유하고 있습니다. 이 과정은 독립으로 혹은 Microsoft Certified Solutions Expert (MCSE)&#58; Server Infrastructure Certification 요구 사항의 일부분으로 Exam 70-413&#58; Designing and Implementing a Server Infrastructure에 응시하려는 IT 전문가를 대상으로 합니다.
-prerequisitesSection: |-
+summary: "실습 교육받기 및 5일간의 Microsoft 공식 과정에서 물리적 및 논리적 Windows Server® 2012 R2 엔터프라이즈 인프라 계획, 설계 및 배포 연습하기. 본 과정은 엔터프라이즈 환경에서 Windows Server 2012 R2 인프라 설계 및 구현에 필요한 기술 및 지식을 제공하는 총 2부의 과정 중 1부입니다. 2개 과정에서는 엔터프라이즈 서버 인프라 설계, 계획, 배포, 보안, 모니터링, 자동화 및 가상화를 전체적으로 다룹니다. 본 과정에서는 지원 파일 및 저장소 서비스를 포함한 물리 및 가상 환경에서 서버 설치를 수동 및 자동으로 지원하는 엔터프라이즈 솔루션 제공에 필요한 지식과 기술을 다룹니다. DHCP, IPAM, VPN 및 DirectAccess 등 엔터프라이즈 네트워킹 솔루션 제공에 필요한 기술도 학습합니다. 다중 도메인/포리스트 및 지점 시나리오를 포함한 포리스트 및 도메인 인프라 설계 및 구현에 필요한 기술도 학습합니다. 이 과정은 MCSE: Server Infrastructure 인증에 필요한 5가지 시험 중 4번째인 Microsoft Certified Solutions Expert (MCSE): Exam 413: Designing and Implementing and Server Infrastructure에 직접 매핑되며 실습 준비를 위해 선호되는 선택입니다. \n\n참고: 이 과정의 랩은 Windows Server 2012 R2 및 System Center 2012 R2를 기반으로 합니다. 이 과정은 중견기업 및 대기업을 지원하며 Windows Server 2012 R2 관리 경험이 있고 MCSA: Windows Server 2012 인증 또는 이와 동등한 기술을 갖춘 숙련된 IT 전문가를 대상으로 합니다.\n\n#### <a name=\"audience-profile\"></a>잠재 고객 프로파일\n이 과정은 필요한 네트워크 서비스를 포함한 물리 및 논리 Windows Server 2012 엔터프라이즈 AD DS (Active Directory® Domain Services) 인프라 계획, 설계 및 배포를 담당하는 IT 전문가를 대상으로 합니다. 이전 Windows Server 운영 체제 경험이 있으며 Windows Server 2012 인증 MCSA(Microsoft Certified Solutions Associate) 또는 이와 동등한 기술을 보유하고 있습니다. 이 과정은 독립으로 혹은 Microsoft Certified Solutions Expert (MCSE): Server Infrastructure Certification 요구 사항의 일부분으로 Exam 70-413: Designing and Implementing a Server Infrastructure에 응시하려는 IT 전문가를 대상으로 합니다."
+prerequisitesSection: >-
   이 과정의 응시자는 애플리케이션 구성 경험과 함께 풍부한 Windows 클라이언트 및 서버 운영 체제 지식을 갖추고 있으며 중소기업(SMB) 환경에서 기본 AD DS 및 네트워킹 경험이 있습니다.
 
-  실무 경험 이외에 이 교육에 참가하는 학생들은 다음 기술적 지식을 갖추어야 합니다&#58;
-  - TCP/IP 기초 및 네트워킹 개념 충분한 이해.
-  - Windows Server 2012 R2 및 AD DS (Active Directory® Domain Services) 충분한 실무 지식. 예&#58; 도메인 사용자 계정, 도메인 대 로컬 사용자 계정, 사용자 프로필 및 그룹 구성원.
-  - 스크립트 및 배치 파일 충분한 이해.
-  - 인증 및 권한 부여 등 보안 개념 확실한 이해.
+
+  실무 경험 이외에 이 교육에 참가하는 학생들은 다음 기술적 지식을 갖추어야 합니다.
+
+  - TCP(Transmission Control Protocol)/IP(Internet Protocol) 기초 및 네트워킹 개념의 충분한 이해.
+
+  - Windows Server 2012 R2 및 AD DS(Active Directory® Domain Services)에 대한 충분한 실무 지식. 예: 도메인 사용자 계정, 도메인 대 로컬 사용자 계정, 사용자 프로필 및 그룹 구성원.
+
+  - 스크립트 및 일괄 처리 파일에 대한 충분한 이해.
+
+  - 인증 및 권한 부여 등 보안 개념에 대한 확실한 이해.
+
   - 배포, 패키징 및 이미징 도구에 능숙.
+
   - 팀/가상 팀에서 일할 수 있는 능력.
-  - 우수한 서류 작성 능력 및 적절한 의사소통 기술을 통한 제안서 작성 및 예산 건의 능력.
+
+  - 우수한 서류 작성 능력 및 적절한 의사 소통 기술을 통한 제안서 작성 및 예산 건의 능력.
+
   - Windows 2012 R2 MCSA와 동등한 지식.
 
-  이 교육을 수강하는 학생들은 다음의 과정을 수강하거나 동등한 지식과 기술을 습득하여 전제 조건을 충족할 수 있습니다&#58;
-  - 20410D&#58; Windows Server 2012 설치 및 구성
-  - 20411D&#58; Windows Server 2012 관리
-  - 20412D&#58; 고급 Windows Server 2012 서비스 구성
+
+  이 교육을 수강하는 학생들은 다음의 과정을 수강하거나 동등한 지식과 기술을 습득하여 전제 조건을 충족할 수 있습니다:
+
+  - 20410D&#58; Installing and Configuring Windows Server 2012
+
+  - 20411D&#58; Administering Windows Server 2012
+
+  - 20412D&#58; Configuring Advanced Windows Server 2012 Services
+
 
   또는
 
-  - 20417D&#58; MCSA Windows Server 2012에 대한 기술 업그레이드
-outlineSection: |-
-  ### 모듈 1&#58; 서버 업그레이드 및 이동 계획
+
+  - 20417D&#58; Upgrading Your Skills to MCSA Windows Server 2012
+outlineSection: >-
+  ### <a name="module-158-planning-server-upgrade-and-migration"></a>모듈 1&#58; 서버 업그레이드 및 마이그레이션 계획
+
   본 모듈에서는 서버 업그레이드 및 이동 전략 계획 방법을 설명합니다.
-  #### 단원
-  - 업그레이드 및 이동 고려 사항
-  - 서버 업그레이드 및 이동 계획 생성
+
+  #### <a name="lessons"></a>단원
+
+  - 업그레이드 및 마이그레이션 고려 사항
+
+  - 서버 업그레이드 및 마이그레이션 계획 만들기
+
   - 가상화 계획
 
 
-  #### 랩 &#58; 서버 업그레이드 및 이동 계획
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 서버 업그레이드 및 이동 수행 시 고려해야 할 요소 설명.
-  - 서버 업그레이드 및 이동 계획 생성.
+  #### <a name="lab-58-planning-a-server-upgrade-and-migration"></a>랩&#58; 서버 업그레이드 및 마이그레이션 계획
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 서버 업그레이드 및 마이그레이션 수행 시 고려해야 할 요소 설명.
+
+  - 서버 업그레이드 및 마이그레이션 계획 생성.
+
   - 서버 가상화 계획.
 
 
-  ### 모듈 2&#58; 서버 배포 전략 계획 및 구현
+
+  ### <a name="module-258-planning-and-implementing-a-server-deployment-strategy"></a>모듈 2&#58; 서버 배포 전략 계획 및 구현
+
   이 모듈에서는 자동화된 서버 설치 전략 설계 및 서버 배포 인프라 계획 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 적절한 서버 배포 전략 선택
+
   - 자동화된 배포 전략 구현
 
 
-  #### 랩 &#58; 서버 배포 인프라 계획 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-planning-and-implementing-a-server-deployment-infrastructure"></a>랩&#58; 서버 배포 인프라 계획 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 적절한 서버 배포 전략 선택.
+
   - 자동화된 배포 전략 구현.
 
 
-  ### 모듈 3&#58; 가상 머신 매니저를 사용한 서버 계획 및 배포
+
+  ### <a name="module-358-planning-and-deploying-servers-using-virtual-machine-manager"></a>모듈 3: Virtual Machine Manager를 사용한 서버 계획 및 배포
+
   이 모듈에서는 서버 배포를 위한 VMM(가상 머신 매니저) 계획 및 배포 방법을 설명합니다.
-  #### 단원
-  - System Center 2012 R2 가상 머신 매니저 개요
-  - 가상 머신 매니저 라이브러리 및 프로필 구현
-  - 가상 머신 매니저 서비스 계획 및 배포
+
+  #### <a name="lessons"></a>단원
+
+  - System Center 2012 R2 Virtual Machine Manager 개요
+
+  - Virtual Machine Manager 라이브러리 및 프로필 구현
+
+  - Virtual Machine Manager 서비스 계획 및 배포
 
 
-  #### 랩 &#58; 가상 머신 매니저를 사용한 가상 머신 계획 및 배포
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-planning-and-deploying-virtual-machines-by-using-virtual-machine-manager"></a>랩 &#58; Virtual Machine Manager를 사용한 가상 머신 계획 및 배포
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 핵심 VMM 아키텍처 및 구성 요소 설명.
+
   - VMM 라이브러리 및 프로필 구현.
+
   - VMM 서비스 계획 및 배포.
 
 
-  ### 모듈 4&#58; IP 구성 및 주소 관리 솔루션 설계 및 유지 관리
+
+  ### <a name="module-458-designing-and-maintaining-an-ip-configuration-and-address-management-solution"></a>모듈 4&#58; IP 구성 및 주소 관리 솔루션 설계 및 유지 관리
+
   이 모듈에서는 IPAM(IP 주소 관리) 및 DHCP(Dynamic Host Configuration Protocol) 솔루션 설계 및 유지 관리 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - DHCP 서버 설계
+
   - DHCP 범위 계획
-  - IPAM 프로비저닝 전략 설계
+
+  - IPAM 프로비전 전략 설계
+
   - IPAM을 사용한 서버 및 주소 공간 관리
 
 
-  #### 랩 &#58; IP 구성 및 IP 주소 관리 솔루션 설계 및 유지 관리
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-designing-and-maintaining-an-ip-configuration-and-ip-address-management-solution"></a>랩&#58; IP 구성 및 IP 주소 관리 솔루션 설계 및 유지 관리
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - DHCP 서버 구현 설계.
+
   - DHCP 범위 구성 및 옵션 계획.
-  - IPAM 프로비저닝 전략 설계.
+
+  - IPAM 프로비전 전략 설계.
+
   - IPAM을 사용한 서버 및 주소 공간 관리.
 
 
-  ### 모듈 5&#58; 이름 분석 설계 및 구현
+
+  ### <a name="module-558-designing-and-implementing-name-resolution"></a>모듈 5&#58; 이름 확인 설계 및 구현
+
   이 모듈에서는 이름 분석 전략 설계 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - DNS 서버 구현 전략 설계
+
   - DNS 네임스페이스 설계
-  - DNS 영역 설계
+
+  - DNS 영역 디자인
+
   - DNS 영역 복제 및 위임 설계
+
   - DNS 서버 최적화
+
   - DNS 고가용성 및 보안 설계
 
 
-  #### 랩 &#58; 이름 분석 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - DNS(Domain Name System) 서버-구현 전략 설계.
+  #### <a name="lab-58-designing-and-implementing-name-resolution"></a>랩&#58; 이름 확인 설계 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - DNS(Domain Name System) 서버 구현 전략 설계.
+
   - DNS 네임스페이스 설계.
+
   - DNS 영역 전략 설계 및 구현.
+
   - DNS 영역 복제 및 위임 설계 및 구성.
+
   - DNS 서버 구성 최적화.
-  - 고가용성 및 보안용 DNS 설계.
+
+  - DNS 고가용성 및 보안 설계.
 
 
-  ### 모듈 6&#58; Active Directory Domain Services 포리스트 및 도메인 인프라 설계 및 구현
+
+  ### <a name="module-658-designing-and-implementing-an-active-directory-domain-services-forest-and-domain-infrastructure"></a>모듈 6&#58; Active Directory Domain Services 포리스트 및 도메인 인프라 설계 및 구현
+
   이 모듈에서는 AD DS 포리스트 및 도메인 인프라 설계 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - Active Directory 포리스트 설계
+
   - Active Directory 포리스트 트러스트 설계 및 구현
+
   - Windows Azure Active Directory와 Active Directory 통합 설계
+
   - Active Directory 도메인 설계 및 구현
+
   - Active Directory 환경에서 DNS 네임스페이스 설계
+
   - Active Directory 도메인 트러스트 설계
 
 
-  #### 랩 &#58; Active Directory 도메인 서비스 포리스트 인프라 설계 및 구현
 
-  #### 랩 &#58; Active Directory 도메인 인프라 설계 및 구현
+  #### <a name="lab-58-designing-and-implementing-an-active-directory-domain-services-forest-infrastructure"></a>랩&#58; Active Directory 도메인 서비스 포리스트 인프라 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  #### <a name="lab-58-designing-and-implementing-an-active-directory-domain-infrastructure"></a>랩&#58; Active Directory 도메인 인프라 설계 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - Active Directory 포리스트 설계.
+
   - Active Directory 포리스트 트러스트 설계 및 구현.
+
   - Windows Azure Active Directory와 Active Directory 통합 설계.
+
   - Active Directory 도메인 설계 및 구현.
+
   - Active Directory 환경에서 DNS 네임스페이스 설계.
+
   - Active Directory 도메인 포리스트 트러스트 설계 및 구현.
 
 
-  ### 모듈 7&#58; AD DS 조직 구성단위 인프라 설계 및 구현
+
+  ### <a name="module-758-designing-and-implementing-an-ad-ds-organizational-unit-infrastructure"></a>모듈 7&#58; AD DS 조직 구성 단위 인프라 설계 및 구현
+
   이 모듈에서는 OU 인프라 및 AD DS 사용 권한 모델 설계 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - Active Directory 관리 작업 위임 모델 계획
+
   - OU 구조 설계
+
   - AD DS 그룹 전략 설계 및 구현
 
 
-  #### 랩 &#58; Active Directory OU 인프라 및 위임 모델 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-designing-and-implementing-an-active-directory-ou-infrastructure-and-delegation-model"></a>랩&#58; Active Directory OU 인프라 및 위임 모델 설계 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - Active Directory 관리 작업 위임 모델 계획.
+
   - OU 구조 설계.
+
   - AD DS 그룹 전략 설계 및 구현.
 
 
-  ### 모듈 8&#58; 그룹 정책 개체 전략 설계 및 구현
+
+  ### <a name="module-858-designing-and-implementing-a-group-policy-object-strategy"></a>모듈 8&#58; 그룹 정책 개체 전략 설계 및 구현
+
   이 모듈에서는 GPO(그룹 정책 개체) 전략 설계 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - GPO 설계에 필요한 정보 수집
+
   - GPO 설계 및 구현
+
   - GPO 처리 설계
+
   - 그룹 정책 관리 계획
 
 
-  #### 랩 &#58; 그룹 정책 개체 전략 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - GPO 설계에 용이한 필수 정보 수집 및 분석.
+  #### <a name="lab-58-designing-and-implementing-a-group-policy-object-strategy"></a>랩&#58; 그룹 정책 개체 전략 설계 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - GPO 설계를 용이하게 하는 데 필요한 정보 수집 및 분석.
+
   - GPO 설계 생성 및 구현.
+
   - GPO 처리 설계 생성.
+
   - GPO 관리 계획.
 
 
-  ### 모듈 9&#58; AD DS 물리 토폴로지 설계 및 구현
+
+  ### <a name="module-958-designing-and-implementing-an-ad-ds-physical-topology"></a>모듈 9&#58; AD DS 물리 토폴로지 설계 및 구현
+
   이 모듈에서는 AD DS 사이트 토폴로지 및 도메인 컨트롤러 배치 전략 설계 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - Active Directory 사이트 설계 및 구현
+
   - Active Directory 복제 설계
+
   - 도메인 컨트롤러 배치 설계
-  - 도메인 컨트롤러용 가상화 고려 사항
+
+  - 도메인 컨트롤러 가상화 고려 사항
+
   - 고가용성 도메인 컨트롤러 설계
 
 
-  #### 랩 &#58; Active Directory 도메인 서비스 물리 토폴로지 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-designing-and-implementing-an-active-directory-domain-services-physical-topology"></a>랩&#58; Active Directory 도메인 서비스 물리 토폴로지 설계 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - Active Directory 사이트 설계 및 구현.
+
   - Active Directory 복제 설계 및 구현.
+
   - 도메인 컨트롤러 배치 설계.
+
   - 도메인 컨트롤러 역할 가상화 계획.
+
   - 고가용성 도메인 컨트롤러 배포 설계.
 
 
-  ### 모듈 10&#58; 저장소 및 파일 서비스 계획 및 구현
+
+  ### <a name="module-1058-planning-and-implementing-storage-and-file-services"></a>모듈 10&#58; 스토리지 및 파일 서비스 계획 및 구현
+
   이 모듈에서는 저장소 및 파일 서비스 계획 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - iSCSI SAN 계획 및 구현
+
   - 저장소 공간 계획 및 구현
+
   - 지점을 위한 파일 서비스 최적화
 
 
-  #### 랩 &#58; 저장소 계획 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - iSCSI (인터넷 소형 컴퓨터 시스템 인터페이스) SAN 계획 및 구현.
+  #### <a name="lab-58-planning-and-implementing-storage"></a>랩&#58; 스토리지 계획 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - iSCSI(인터넷 소형 컴퓨터 시스템 인터페이스) SAN 계획 및 구현.
+
   - 저장소 공간 계획 및 구현.
+
   - 지점을 위한 파일 서비스 최적화.
 
 
-  ### 모듈 11&#58; 네트워크 보호 설계 및 구현
+
+  ### <a name="module-1158-designing-and-implementing-network-protection"></a>모듈 11&#58; 네트워크 보호 설계 및 구현
+
   이 모듈에서는 네트워크 보호 설계 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 네트워크 보안 설계 개요
+
   - Windows 방화벽 전략 설계 및 구현
+
   - NAP 인프라 설계 및 구현
 
 
-  #### 랩 &#58; 네트워크 보호 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-designing-and-implementing-network-protection"></a>랩&#58; 네트워크 보호 설계 및 구현
 
-  - 네트워크 보안용 설계 과정 설명.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+
+  - 네트워크 보안 설계 프로세스 설명.
+
   - Windows 방화벽 전략 설계 및 구현.
+
   - NAP(네트워크 액세스 보호) 설계 및 구현.
 
 
-  ### 모듈 12&#58; 원격 액세스 서비스 설계 및 구현
+
+  ### <a name="module-1258-designing-and-implementing-remote-access-services"></a>모듈 12&#58; 원격 액세스 서비스 설계 및 구현
+
   이 모듈에서는 원격 액세스 서비스 설계 및 구현 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - DirectAccess 계획 및 구현
+
   - VPN 계획 및 구현
+
   - 웹 애플리케이션 프록시 계획 및 구현
+
   - 복잡한 원격 액세스 인프라 계획
 
 
-  #### 랩 &#58; 네트워크 액세스 서비스 설계 및 구현
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  #### <a name="lab-58-designing-and-implementing-network-access-services"></a>랩&#58; 네트워크 액세스 서비스 설계 및 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - DirectAccess 계획 및 구현.
-  - VPN(가상 사설망) 계획 및 구현.
-  - 웹 응애플리케이션 프록시 계획 및 구현.
-  - 복잡한 원격 액세스 인프라 계획.
 
+  - VPN(가상 사설망) 계획 및 구현.
+
+  - 웹 애플리케이션 프록시 계획 및 구현.
+
+  - 복잡한 원격 액세스 인프라 계획.

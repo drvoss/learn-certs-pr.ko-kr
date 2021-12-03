@@ -3,18 +3,23 @@ title: 'Microsoft Office Specialist: Word 2013 Expert'
 metadata:
   title: 'Microsoft Office Specialist: Word 2013 Expert'
   description: 'Microsoft Office Specialist: Word 2013 Expert'
+  ms.openlocfilehash: 74f101028e93c239e5c95dd7fcfcb15ef8270920
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132112123"
 uid: certification.mos-word-2013-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  본 인증을 통해 Microsoft Office Specialist Expert 인증을 통해 Microsoft Word 2013의 고급 기술을 보유하고 있음을 입증합니다. 응시자는 애플리케이션 내에서 고급 기능과 특수 기능의 사용을 알고 입증해야 합니다. 응시자는 다양한 특수 목적과 상황을 위해 전문적인 문서를 작성, 관리 및 배포 할 수 있어야 합니다.
-subTitle: 본 인증을 통해 Microsoft Office Specialist Expert 인증을 통해 Microsoft Word 2013의 고급 기술을 보유하고 있음을 입증합니다.
+summary: 이 인증은 Microsoft Office Specialist Expert 인증을 획득하여 Microsoft Word 2013의 고급 기술이 있음을 입증합니다. 응시자는 애플리케이션 내의 고급 기능과 특수 기능 사용 방법을 알고 입증해야 합니다. 응시자는 다양한 특수 목적과 상황을 위해 전문적인 문서를 작성, 관리 및 배포 할 수 있어야 합니다.
+subTitle: 이 인증은 Microsoft Office Specialist Expert 인증을 획득하여 Microsoft Word 2013의 고급 기술이 있음을 입증합니다.
 levels:
 - intermediate
 skills:
-- 문서 관리 및 공유
-- 고급 문서 설계
-- 고급 참고 문서 만들기
-- 사용자 정의 Word 요소 만들기
+- Manage and share documents
+- Design advanced documents
+- Create advanced references
+- Create custom Word elements
 roles:
 - business-user
 type: mos
@@ -27,8 +32,8 @@ exams:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 시험 재응시
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -38,6 +43,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

@@ -1,24 +1,30 @@
 ### YamlMime:Course
 title: Implementing Continuous Integration
 metadata:
-  title: 'Course AZ-400T02-A: Implementing Continuous Integration'
-  description: 'Course AZ-400T02-A: Implementing Continuous Integration'
+  title: '과정 AZ-400T02-A: Implementing Continuous Integration'
+  description: '과정 AZ-400T02-A: Implementing Continuous Integration'
+  ms.openlocfilehash: 8f198a82959980d166039e61b49b4fa7a5d073f0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107624"
 uid: course.az-400t02
-courseNumber: 'AZ-400T02-A'
+courseNumber: AZ-400T02-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 지속적 통합이 중요한 이유 설명
-- skill: Azure DevOps을 사용한 지속적 통합 구현
-- skill: 빌드 및 가능한 옵션 구성
-- skill: 자동화 빌드 워크플로 생성
-- skill: 기타 빌드 툴링을 Azure DevOps와 통합
-- skill: 하이브리드 빌드 프로세스 생성
-- skill: 코드 품질의 의미와 측정 방법 설명
+- skill: 연속 통합이 중요한 이유 설명
+- skill: Azure DevOps을 사용한 연속 통합 구현
+- skill: 빌드 및 사용 가능한 옵션 구성
+- skill: 자동화된 빌드 워크플로 만들기
+- skill: 다른 빌드 도구를 Azure DevOps와 통합
+- skill: 하이브리드 빌드 프로세스 만들기
+- skill: 코드 품질 및 측정 방법의 의미 설명
 - skill: 코드 스멜 검색
-- skill: 코드 품질을 위한 자동화된 데스트 통합
-- skill: 테스트 중 코드 커버리지에 대한 보고
-- skill: 기술적 부채 측정을 위한 툴링 추가
+- skill: 자동 코드 품질 테스트 통합
+- skill: 테스트 중 코드 검사에 대한 보고
+- skill: 기술적 문제를 측정하는 도구 추가
 - skill: 오픈 소스 및 기타 라이선스 문제 검색
 - skill: 컨테이너 빌드 전략 구현
 learningPartnersLink: /learn/certifications/partners
@@ -36,52 +42,84 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  본 과정에서는 지속적 통합에 대한 DevOps 관행을 구현할 수 있는 지식과 기술을 제공합니다. Azure DevOps 파이프라인에서 지속적 통합을 구현하는 방법, 코드 품질 및 보안 원칙을 관리하는 방법, 컨테이너 빌드 전략을 구현하는 방법을 설명합니다.
-  #### 대상 그룹 프로필
-  본 과정의 수강자는 DevOps 지속적 통합 프로세스에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
-prerequisitesSection: |-
-  - 수강자들은 Azure, 버전 제어, 신속한 소프트웨어 개발 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식을 소유해야 합니다. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
-  - IDE에서 작업한 경험과 Azure 포털에 대한 지식이 갖는 것이 좋습니다. 그러나, 이러한 기술에 대한 기술적 배경은 없지만, 문화의 변화로서 DevOps 관행을 궁금해하는 수강생들은, 어떤 식으로든 지속적 통합에 대한 절차적, 설명에 따를 수 있어야 합니다.
-outlineSection: |-
-  ### 모듈 1&#58; Azure DevOps Pipeline에서 지속적 통합 구현
-  본 모듈에서는 혜택, 챌린지, 모범 사례 구축 및 구현 단계를 포함한 지속적 통합 원칙을 소개합니다. 또한 워크플로, 트리거, 에이전트 및 도구를 사용하여 빌드 전략을 구현하는 방법에 대해서도 설명합니다.
-  #### 단원
-  - 지속적 통합 개요
+summary: >-
+  이 과정에서는 연속 통합의 DevOps 사례를 구현할 수 있는 지식과 기술을 제공합니다. 수강생은 Azure DevOps 파이프라인에서 연속 통합을 구현하는 방법, 코드 품질 및 보안 원칙을 관리하는 방법, 컨테이너 빌드 전략을 구현하는 방법을 배웁니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  본 과정은 DevOps 프로세스 구현이나 Microsoft Azure DevOps 솔루션 인증 시험 합격에 관심이 있는 수강생을 대상으로 합니다.
+prerequisitesSection: >-
+  - Azure, 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식이 있어야 합니다. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
+
+  - IDE에서의 작업 경험뿐 아니라 Azure Portal에 대한 어느 정도의 지식이 있는 것이 좋습니다. 하지만 이러한 기술적 배경이 없더라도 문화적 변화로서의 DevOps 관행에 관심이 있다면 그럼에도 불구하고 연속 통합에 대한 절차적 설명과 해설적 설명을 따를 수 있습니다.
+outlineSection: >-
+  ### <a name="module--158-implementing-continuous-integration-in-an-azure-devops-pipeline"></a>모듈 1&#58; Azure Pipeline에서 연속 통합 구현
+
+  이 모듈에서는 이점, 과제, 빌드 모범 사례, 구현 단계를 포함하여 연속 통합 원칙을 소개합니다. 워크플로, 트리거, 에이전트, 도구를 사용한 빌드 전략 구현에 대해서도 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 연속 통합 개요
+
   - 빌드 전략 구현
 
-  #### 랩 &#58; Azure Pipelines과의 지속적 통합 활성화
-
-  #### 랩 &#58; Jenkins Build Job 생성 및 CI 트리거
-  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
-  - 지속적 통합이 중요한 이유 설명
-  - Azure DevOps을 사용한 지속적 통합 구현
 
 
-  ### 모듈 2&#58; 코드 품질 및 보안 정책 관리
-  본 모듈에서는 기술 부채, SonarCloud 및 기타 툴링 솔루션을 포함하여 코드 품질을 관리하는 방법에 대해 설명합니다. 또한 오픈 소스, OWASP 및 WhiteSource Bolt를 사용하여 보안 정책을 관리하는 방법에 대해서도 설명합니다.
-  #### 단원
+  #### <a name="lab-58-enabling-continuous-integration-with-azure-pipelines"></a>랩 &#58; Azure Pipelines를 사용한 연속 통합 사용
+
+
+  #### <a name="lab-58-creating-a-jenkins-build-job-and-triggering-ci"></a>랩 &#58; Jenkins 빌드 작업 만들기 및 CI 트리거
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+
+  - 연속 통합이 중요한 이유 설명
+
+  - Azure DevOps을 사용한 연속 통합 구현
+
+
+
+  ### <a name="module--258-managing-code-quality-and-security-policies"></a>모듈 2&#58; 코드 품질 및 보안 정책 관리
+
+  이 모듈에서는 기술적인 문제, SonarCloud, 기타 도구 솔루션을 포함한 코드 품질 관리 방법을 알아봅니다. 오픈 소스, OWASP, WhiteSource Bolt를 사용하여 보안 정책을 관리하는 방법도 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 코드 품질 관리
+
   - 보안 정책 관리
 
 
-  #### 랩 &#58; Azure DevOps 및 SonarCloud으로 기술적 문제 관리
 
-  #### 랩 &#58; WhiteSource Bolt 및 Azure DevOps을 사용한 취약성 확인
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 기술 문제 SonarCloud 및 기타 툴링 솔루션을 포함한 코드 품질 관리.
-  - 오픈 소스, OWASP 및 WhiteSource Bolt를 사용하여 보안 정책 관리.
-  - 기술 문제 SonarCloud 및 기타 툴링 솔루션을 포함한 코드 품질 관리.
+  #### <a name="lab-58-managing-technical-debt-with-azure-devops-and-sonarcloud"></a>랩 &#58; Azure DevOps 및 SonarCloud로 기술적인 문제 관리
 
 
-  ### 모듈 3&#58; 컨테이너 빌드 전략 구현
-  본 모듈에서는 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략을 구현하는 방법에 대해 설명합니다. 또한 Docker를 사용하여 컨테이너를 구현하는 방법도 설명합니다.
-  #### 단원
+  #### <a name="lab-58-checking-vulnerabilities-using-whitesource-bolt-and-azure-devops"></a>실습 &#58; WhiteSource Bolt 및 Azure DevOps를 사용하여 취약점 확인
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 기술적인 문제, SonarCloud, 기타 도구 솔루션을 포함한 코드 품질 관리
+
+  - 오픈 소스, OWASP 및 WhiteSource Bolt를 사용하여 보안 정책 관리
+
+  - 기술적인 문제, SonarCloud, 기타 도구 솔루션을 포함한 코드 품질 관리
+
+
+
+  ### <a name="module--358-implementing-a-container-build-strategy"></a>모듈 3&#58; 컨테이너 빌드 전략 구현
+
+  이 모듈에서는 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략 구현 방법을 알아봅니다. Docker를 사용하여 컨테이너를 구현하는 방법에 대해서도 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 컨테이너 빌드 전략 구현
 
 
-  #### 랩 &#58; Azure 및 Docker Images를 포함한 기존 .NET 애플리케이션
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략 구현.
-  - Docker를 사용하는 컨테이너 구현.
 
+  #### <a name="lab-58-existing-net-applications-with-azure-and-docker-images"></a>랩 &#58; Azure 및 Docker 이미지를 사용한 기존 .NET 애플리케이션
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략 구현
+
+  - Docker를 사용하여 컨테이너 구현

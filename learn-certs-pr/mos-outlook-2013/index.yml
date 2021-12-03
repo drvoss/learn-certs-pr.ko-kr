@@ -3,18 +3,23 @@ title: 'Microsoft Office Specialist: Outlook 2013'
 metadata:
   title: 'Microsoft Office Specialist: Outlook 2013'
   description: 'Microsoft Office Specialist: Outlook 2013'
+  ms.openlocfilehash: e8c10557f2e95f319552c63605984802e4711b0b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111259"
 uid: certification.mos-outlook-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  본 인증을 통해 Microsoft Outlook 2013 환경을 기본적으로 이해하고 작업을 독립적으로 수행할 수 있는 능력이 있음을 입증합니다. 응시자는 Outlook 2013의 주요 기능의 정확한 적용 방법을 알고 이를 입증할 수 있어야 합니다.
-subTitle: 본 인증을 통해 Microsoft Outlook 2013 환경을 기본적으로 이해하고 작업을 독립적으로 수행할 수 있는 능력이 있음을 입증합니다. 응시자는 Outlook 2013의 주요 기능의 정확한 적용 방법을 알고 이를 입증할 수 있어야 합니다.
+summary: 이 인증은 Microsoft Outlook 2013 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있음을 보여 줍니다. 응시자는 Outlook 2013의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다.
+subTitle: 이 인증은 Microsoft Outlook 2013 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있음을 보여 줍니다. 응시자는 Outlook 2013의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다.
 levels:
 - intermediate
 skills:
-- Outlook 환경 관리
-- 메시지 관리
-- 일정 관리
-- 연락처 및 그룹 관리
+- Manage the Outlook environment
+- Manage messages
+- Manage schedules
+- Manage contacts and groups
 roles:
 - business-user
 type: mos
@@ -27,8 +32,8 @@ exams:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 시험 재응시
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -38,6 +43,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

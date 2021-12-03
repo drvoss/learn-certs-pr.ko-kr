@@ -1,47 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist 2013 Master'
+title: Microsoft Office Specialist 2013 Master
 metadata:
-  title: 'Microsoft Office Specialist 2013 Master'
-  description: 'Microsoft Office Specialist 2013 Master'
+  title: Microsoft Office Specialist 2013 Master
+  description: Microsoft Office Specialist 2013 Master
+  ms.openlocfilehash: c4af7cc05879b127916ba00b8fd025b23b55b726
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111271"
 uid: certification.microsoft-office-specialist-master-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft Office Specialist 2013 Master 인증을 통해 Office 프로그램을 능숙하게 사용하는 데 필요한 가장 심오한 수준의 기술을 보유하고 있음을 입증합니다.
-  
-  Microsoft Office Specialist 2013 Master 인증을 취득하려면, 다음 경로 중 하나를 완료하십시오&#58; 
-  
-  <div><br/><strong>선택 사항 1 (Word Expert + Excel Core + Elective)</strong></div>
-  - 다음 세 가지 필수 시험에 합격해야 합니다&#58;
-    - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
-    - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
-    - [77-420&#58; Microsoft Excel 2013 Core](/learn/certifications/exams/77-420)
-  - 다음 선택 시험 중 하나를 통과하십시오&#58;
-    - [77-421&#58; Microsoft OneNote 2013](/learn/certifications/exams/77-421)
-    - [77-422&#58; Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)
-    - [77-423&#58; Microsoft Outlook 2013](/learn/certifications/exams/77-423)
-    - [77-424&#58; Microsoft Access 2013](/learn/certifications/exams/77-424)
-    - [77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419) (2020년 6월 만료됩니다)
-  
-  <div><br/><strong>선택 사항 2 (Excel Expert + Word Core + Elective)</strong></div>
-  - 다음 세 가지 필수 시험에 합격해야 합니다&#58;
-    - [77-427&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-427)
-    - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
-    - [77-418&#58; Microsoft Word 2013 Core](/learn/certifications/exams/77-418)
-  - 다음 선택 시험 중 하나를 통과하십시오&#58;
-    - [77-421&#58; Microsoft OneNote 2013](/learn/certifications/exams/77-421)
-    - [77-422&#58; Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)
-    - [77-423&#58; Microsoft Outlook 2013](/learn/certifications/exams/77-423)
-    - [77-424&#58; Microsoft Access 2013](/learn/certifications/exams/77-424)
-    - [77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419) (2020년 6월 만료됩니다)
-  
-  <div><br/><strong>선택 사항 3 (Word Expert + Excel Expert)</strong></div>
-  
-  - 다음 네 가지 필수 시험에 합격해야 합니다 (본 경로에는 선택 과목이 필요 없음)&#58;
-    - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
-    - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
-    - [77-427&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-427)
-    - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
-subTitle: 이 인증은 Microsoft Office Specialist Master 인증을 획득하여 Office 프로그램을 능숙하게 사용하는 데 필요한 가장 높은 수준의 기술을 보유하고 있음을 논증합니다.
+summary: "Microsoft Office Specialist 2013 Master 인증은 Office 프로그램을 능숙하게 사용하는 데 필요한 가장 깊은 수준의 기술을 갖추고 있음을 입증합니다.\n\nMicrosoft Office Specialist 2013 Master 인증을 받으려면 다음 경로 중 하나를 완료하세요. \n\n\n\n<div><br/><strong>옵션 1(Word Expert + Excel Core + 선택적)</strong></div>\n\n\n- 다음 세 개의 필수 시험에 합격해야 합니다.\n  - [77-425: Microsoft Word 2013 Expert 1부](/learn/certifications/exams/77-425)\n  - [77-426: Microsoft Word 2013 Expert 2부](/learn/certifications/exams/77-426)\n  - [77-420: Microsoft Excel 2013 Core](/learn/certifications/exams/77-420)\n- 다음 선택적 시험 중 하나에 합격해야 합니다.\n  - [77-421: Microsoft OneNote 2013](/learn/certifications/exams/77-421)\n  - [77-422: Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)\n  - [77-423: Microsoft Outlook 2013](/learn/certifications/exams/77-423)\n  - [77-424: Microsoft Access 2013](/learn/certifications/exams/77-424)\n  - [77-419: Microsoft SharePoint 2013](/learn/certifications/exams/77-419)(2020년 6월 사용 중지)\n\n<div><br/><strong>옵션 2(Excel Expert + Word Core + 선택적)</strong></div>\n\n\n- 다음 세 개의 필수 시험에 합격해야 합니다.\n  - [77-427: Microsoft Excel 2013 Expert 1부](/learn/certifications/exams/77-427)\n  - [77-428: Microsoft Excel 2013 Expert 2부](/learn/certifications/exams/77-428)\n  - [77-418: Microsoft Word 2013 Core](/learn/certifications/exams/77-418)\n- 다음 선택적 시험 중 하나에 합격해야 합니다.\n  - [77-421: Microsoft OneNote 2013](/learn/certifications/exams/77-421)\n  - [77-422: Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)\n  - [77-423: Microsoft Outlook 2013](/learn/certifications/exams/77-423)\n  - [77-424: Microsoft Access 2013](/learn/certifications/exams/77-424)\n  - [77-419: Microsoft SharePoint 2013](/learn/certifications/exams/77-419)(2020년 6월 사용 중지)\n\n<div><br/><strong>옵션 3(Word Expert + Excel Expert)</strong></div>\n\n\n- 다음 네 개의 필수 시험에 합격합니다(이 경로에는 선택적 시험이 필요하지 않음).\n  - [77-425: Microsoft Word 2013 Expert 1부](/learn/certifications/exams/77-425)\n  - [77-426: Microsoft Word 2013 Expert 2부](/learn/certifications/exams/77-426)\n  - [77-427: Microsoft Excel 2013 Expert 1부](/learn/certifications/exams/77-427)\n  - [77-428: Microsoft Excel 2013 Expert 2부](/learn/certifications/exams/77-428)\n  "
+subTitle: 이 인증서를 받으려면 Microsoft Office Specialist Master 인증을 사용하여 Office 프로그램을 사용하여 수천 가지 기술을 종합하십시오.
 levels:
 - intermediate
 skills:
@@ -65,11 +36,11 @@ exams:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 시험 재응시
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -79,6 +50,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

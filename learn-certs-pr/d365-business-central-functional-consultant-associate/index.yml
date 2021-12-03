@@ -2,29 +2,43 @@
 title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
-  description: 본 인증은 2020년 10월 6일 경에 사용할 수 있습니다. Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+  description: Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+  ms.openlocfilehash: 80be32c374b0cdcb3bee49ecdabd595bef1f831b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106920"
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  중소기업들을 위한 핵심 Microsoft Dynamics 365 Business Central 설정 프로세스를 구현하는 기능 컨설턴트인 경우, 이 인증이 적합합니다. 통찰력, 단서, 작업 타일, 보고서 및 차트 조정을 포함하여 Dynamics 365 Business Central 역할 센터를 구성한 경험이 있어야합니다. 그리고 Microsoft Power Platform 구성 요소를 사용하여 비즈니스 센트럴을 확장 할 수 있어야 합니다.
-  
-  비즈니스 센트럴에 대한 지식을 반드시 적용해야하며, 업계 용어, 우선 순위, 표준, 방법론 및 모범 사례를 이해해야합니다. 이러한 지식이 있고, 관리자, 품질 보증, DevOps, 개발자, UX 디자이너, 또는 솔루션 아키텍트와 같은 역할을 맡고 있는 경우, Dynamics 365 Business Central Functional Consultant Associate 인증이 아주 적합할 수 있습니다. 
-  
-  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안이 있습니다&#58;
-  - 하나 이상의 프로젝스트에서 비즈니스 센트럴 기능 컨설턴트로 일합니다.
-  - 비즈니스 센트럴 컨설팅 프로젝트에 기여하거나, 비즈니스 센트럴 구현을 제공합니다.
-  - 멘토를 찾으십시오.
+summary: >-
+  이 인증은 중소기업을 위해 핵심 Microsoft Dynamics 365 Business Central 설정 프로세스를 구현하는 기능 컨설턴트에게 적합합니다. 인사이트, 신호, 작업 타일, 보고서, 차트 조정 등 Dynamics 365 Business Central 역할 센터를 구성한 경험이 필요합니다. Microsoft Power Platform 구성 요소를 사용하여 Business Central을 확장할 수 있어야 합니다.
+
+
+  Business Central 지식을 적용한 경험이 있어야 하며, 업계 용어, 우선 순위, 표준, 방법론, 모범 사례를 이해해야 합니다. 이러한 지식이 있고 관리자, 품질 보증, DevOps, 개발자, UX 디자이너 또는 솔루션 설계자와 같은 역할을 맡고 있는 경우, Dynamics 365 Business Central 기능 컨설턴트 인증이 적합할 수 있습니다.
+
+
+  이 인증을 얻기 전에 더 많은 경험이 필요하다면 다음 제안을 고려해 보세요.
+
+  - 하나 이상의 프로젝트에서 Business Central 기능 컨설턴트로 일합니다.
+
+  - Business Central 컨설팅 프로젝트에 참여하거나 Business Central 구현을 제공합니다.
+
+  - 멘토를 찾습니다.
+
   - [Dynamics 365 Community](https://community.dynamics.com/)에 가입합니다.
-  - Microsoft Learn,에서 가능한 학습 경로를 수강하고, 더 많은 실습을 완료합니다.
-  - 강사-주도 교육 과정에 등록합니다.
-subTitle: 본 인증은 2020년 10월 6일 경에 사용할 수 있습니다. Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+
+  - Microsoft Learn에서 사용 가능한 학습 경로를 밟고, 더 많은 실습을 완료합니다.
+
+  - 강사 진행 교육 과정에 등록합니다.
+subTitle: Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
 levels:
 - intermediate
 skills:
-- Business Central 설정
-- 재무 구성
-- 판매 및 구매 구성
-- Business Central Operations 수행
+- Set up Business Central
+- Configure financials
+- Configure sales and purchasing
+- Perform Business Central operations
 roles:
 - functional-consultant
 type: role-based
@@ -59,7 +73,7 @@ resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
@@ -69,6 +83,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

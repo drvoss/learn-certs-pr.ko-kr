@@ -1,26 +1,32 @@
 ---
-title: 'Exam reschedule and cancellation policy | Microsoft Docs'
-description: '시험 일정 변경 및 취소 정책'
-documentationcenter: NA 
-author: venkatorugantimsft
+title: 시험 일정 변경 및 취소 정책 | Microsoft Docs
+description: 시험 일정 변경 및 취소 정책
+documentationcenter: NA
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/11/2020
-ms.author: venkato
+ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: ed64d8c323c6760f2984de9c7b585e578c9cb3bc
+ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "132112570"
 ---
-# 시험 일정 변경 및 취소 정책
+# <a name="exam-reschedule-and-cancellation-policy"></a>시험 일정 변경 및 취소 정책
 
-## 일정 변경 및 취소 정책 세부 정보
+## <a name="rescheduling-and-cancellation-policy-details"></a>일정 변경 및 취소 정책 세부 정보
 
-최소한 시험 날짜 24시간 전에 일정을 변경하고 취소해야 합니다. 시험 날짜 24시간 이내에 일정을 변경하거나 취소한 응시자에게는 응시료가 반환되지 않습니다. 또한, 응시자가 회사가 구매한 쿠폰을 사용한 경우 응시자가 시험 날짜 24시간 이내에 일정을 변경하거나 취소할 때에는 회사에게 요금이 부과됩니다.
+적어도 시험 약속 24시간 전에 일정을 변경하고 취소해야 합니다. 약속 시간 전 24시간 내에 일정을 변경하거나 취소하는 응시자의 응시료는 반환되지 않습니다. 또한 응시자가 회사에서 구매한 무료 쿠폰을 사용한 경우, 응시자가 약속 시간 전 24시간 내에 일정을 변경하거나 취소하면 해당 회사에 요금이 부과될 수 있습니다.
 
-## 시험 일정 변경 또는 취소하는 방법
+## <a name="how-to-reschedule-or-cancel-your-exam"></a>시험 일정 변경 또는 취소 방법
 
-Certification Dashboard를 통해서 예정된 시험 일정을 변경하거나 취소할 수 있습니다. 
+인증 대시보드를 통해 예약된 시험 약속의 일정을 변경하거나 취소할 수 있습니다.
 
-1. [Certification Dashboard.](https://aka.ms/CertDashboard) 에 로그인합니다.
-2. "일정" 섹션에서, 취소하거나 일정을 변경하려는 약속을 찾습니다. 
-3. 최소/ 일정 변경”을 선택합니다.
-4. 시험을 취소하거나 일정을 변경하기 위해 시험 제공 업체의 사이트로 이동됩니다. 
+1. [인증 대시보드](https://aka.ms/CertDashboard)에 로그인합니다.
+2. "약속" 섹션에서 취소하거나 변경하려는 약속을 찾습니다.
+3. "취소/일정 변경"을 선택합니다.
+4. 시험 제공업체의 시험 취소 또는 일정 변경 사이트로 리디렉션됩니다.
