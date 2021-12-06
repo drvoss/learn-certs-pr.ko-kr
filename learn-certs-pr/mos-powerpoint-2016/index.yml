@@ -3,19 +3,24 @@ title: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
   description: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
+  ms.openlocfilehash: a92a768ea696baf8eae2d4a3d633421aeb3baf5c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132112139"
 uid: certification.mos-powerpoint-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Microsoft Office Specialist (MOS) 2016 인증을 취득하여 PowerPoint를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다. 성공적으로 응시한 대상자는 PowerPoint의 환경에 대한 근본적인 이해를 갖추고 PowerPoint 2016의 적합한 응용 방법을 입증하게 됩니다.
+summary: MOS(Microsoft Office Specialist) 2016 인증을 취득하여 PowerPoint를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여주세요. 성공적으로 응시한 대상자는 PowerPoint의 환경에 대한 근본적인 이해를 갖추고 PowerPoint 2016의 적합한 응용 방법을 입증하게 됩니다.
 subTitle: 이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
 levels:
 - intermediate
 skills:
-- 프레젠테이션 만들기 및 관리
-- 텍스트, 도형 및 이미지 삽입 및 서식 지정
-- 표, 차트, SmartArt 및 미디어 삽입
-- 전환 및 애니메이션 적용
-- 다수 프레젠테이션 관리
+- Create and manage presentations
+- Insert and format text, shapes, and images
+- Insert tables, charts, SmartArt, and media
+- Apply transitions and animations
+- Manage multiple presentations
 roles:
 - business-user
 type: mos
@@ -26,8 +31,8 @@ exams:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 시험 재응시
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -37,6 +42,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 네트워크에서 첫 번째 성취를 축하하세요. Microsoft 인증 배지를 클레임하고 LinkedIn, 이력서 등에 추가하세요.
   href: ../badges.md
-

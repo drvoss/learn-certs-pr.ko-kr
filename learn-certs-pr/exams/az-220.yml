@@ -1,21 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  title: '시험 AZ-220: Microsoft Azure IoT Developer'
+  description: '시험 AZ-220: Microsoft Azure IoT Developer'
+  ms.openlocfilehash: 92d0e78131d0b400b5a07ea4c7e7bd116f611965
+  ms.sourcegitcommit: 8cad4571f4ed5db8e51cccdc1cf6355526195802
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/26/2021
+  ms.locfileid: "132112643"
 uid: exam.az-220
 displayName: AZ-220
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
-  
-  이 시험의 응시자들은 IoT 솔루션의 cloud 및 edge 부분을 만들고 유지하는데 필요한 구성 및 코딩 작업을 구현하는 주제 전문 지식을 갖추어야 합니다.
-  
-  이 시험의 응시자들은 데이터 저장소 옵션, 데이터 분석, 데이터 처리, AI, 및 기타 서비스형 플랫폼(PaaS) 옵션을 포함하여, 장치 유형 및 Azure services에 대한 일반적인 이해가 있어야 합니다. 응시자들은 반드시 최소한 하나의 Azure IoT 소프트웨어 개발 키트–지원 (SDK–지원) 언어로 프로그래밍 할 수 있어야 합니다. 
-subTitle: '이 시험은 IoT 솔루션 인프라를 설정하는 능력을 측정합니다; 장치 제공 및 관리; IoT Edge 구현; 데이터 처리 및 관리; IoT 솔루션 모니터링, 문제해결 및 최적화; 그리고 보안을 구현합니다.'
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수: 700. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
+
+
+  이 시험의 응시자는 IoT 솔루션의 클라우드 및 에지 부분을 만들고 유지 관리하는 데 필요한 구성 및 코딩 작업을 구현하는 것과 관련된 전문 지식이 있어야 합니다.
+
+
+  이 시험의 응시자는 데이터 스토리지 옵션, 데이터 분석, 데이터 처리, AI 및 기타 PaaS(platform as a service) 옵션을 포함한 디바이스 유형 및 Azure 서비스에 대한 일반적인 이해를 갖추어야 합니다. 지원되는 언어(SDK 지원 언어)로 하나 이상의 Azure IoT 소프트웨어 개발 키트를 프로그래밍할 수 있어야 합니다.
+subTitle: 이 시험은 IoT 솔루션 인프라를 설정하는 능력을 측정합니다; 장치 제공 및 관리; IoT Edge 구현; 데이터 처리 및 관리; IoT 솔루션 모니터링, 문제해결 및 최적화; 그리고 보안을 구현합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
 - ja
@@ -32,13 +40,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- IoT 솔루션 인프라 설정 (10-15%)
-- 장치 제공 및 관리 (15-20%)
-- IoT Edge 구현 (15-20%)
-- 비즈니스 통합 구현 (5-10%)
-- IoT 솔루션 모니터링, 문제 해결 및 최적화 (15-20%)
-- 보안 구현 (10-15%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Set up the IoT solution infrastructure (10-15%)
+- Provision and manage devices (15-20%)
+- Implement IoT Edge (15-20%)
+- Implement business integration (5-10%)
+- Process and manage data (15-20%)
+- Monitor, troubleshoot, and optimize IoT solutions (15-20%)
+- Implement security (10-15%)
 roles:
 - developer
 products:
@@ -66,7 +75,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -75,10 +84,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

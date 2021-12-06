@@ -1,22 +1,27 @@
 ### YamlMime:CertificationRenewal
-title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate 인증 갱신'
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate 갱신'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate 인증 갱신'
-  description: '본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다.'
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate 갱신'
+  description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
+  ms.openlocfilehash: 929981c10030ec1c03a5719801595607ccc468df
+  ms.sourcegitcommit: 6a68287748568f3e44bbf5064f3b2ecfb73db636
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/24/2021
+  ms.locfileid: "132112618"
 uid: renewal.d365-functional-consultant-customer-service
 certificationUid: certification.d365-functional-consultant-customer-service
 assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Dynamics 365 Customer Service 업데이트 사항을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 갱신을 준비할 수도 있습니다.
+summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Dynamics 365 Customer Service 업데이트 상태를 유지하고 있음을 보여주세요. 학습 모듈의 큐레이팅된 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
 skills:
-- Microsoft Dynamics 365 Customer Service 대기열을 사용한 사례 워크로드 관리
-- Omnichannel for Customer Service 시작
-- Power Virtual Agents 봇을 Omnichannel for Customer Service와 통합
-- Omnichannel for Dynamics 365 Customer Service로 채팅 위젯 배포
-- Omnichannel for Dynamics 365 Customer Service에서 라우팅 및 작업 배포
-- Dynamics 365 Customer Voice로 설문 조사 만들기
+- Use Microsoft Dynamics 365 Customer Service queues to manage case workloads
+- Get started with Omnichannel for Customer Service
+- Integrate a Power Virtual Agents bot with Omnichannel for Customer Service
+- Deploy chat widgets with Omnichannel for Dynamics 365 Customer Service
+- Routing and work distribution in Omnichannel for Dynamics 365 Customer Service
+- Create surveys with Dynamics 365 Customer Voice
 examsPassed:
 - pl-200, mb-230
 studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'

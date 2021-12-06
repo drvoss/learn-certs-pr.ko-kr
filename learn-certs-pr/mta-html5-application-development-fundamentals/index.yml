@@ -3,20 +3,27 @@ title: 'MTA: HTML5 Application Development Fundamentals'
 metadata:
   title: 'MTA: HTML5 Application Development Fundamentals'
   description: 'MTA: HTML5 Application Development Fundamentals'
+  ms.openlocfilehash: 9c151ef33a368cc5529dc7e50539681e12955ee0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111127"
 uid: certification.mta-html5-application-development-fundamentals
 iconUrl: /media/learn/certification/badges/mta-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 MTA 인증은 2022년 6월 30일 중단됩니다. 관련 시험에 대한 바우처 판매는 2021년 6월 31일 종료되었습니다. 아래 “Pearson VUE으로 예약” 또는 “Certiport으로 예약” 버튼을 사용하여 구매한 바우처를 확인하고 시험을 예약하십시오. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs">FAQ</a>를 참조하십시오.</strong></font></br></br></div>
+summary: >-
+  <div><font color='red'><strong>이 MTA 인증은 2022년 6월 30일 중단됩니다. 관련 시험에 대한 쿠폰 판매는 2021년 6월 30일 종료되었습니다. 아래 “Pearson VUE으로 예약” 또는 “Certiport으로 예약” 버튼을 사용하여 구매한 쿠폰을 사용하고 시험을 예약하세요. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs">FAQ</a>를 참조하세요.</strong></font></br></br></div>
 
-  MTA 인증은 기술 분야 커리어를 시작하고자 하는 분에게 적합합니다. MTA 인증은 광범위한 기본 기술 개념을 다루며, 핵심 기술 지식을 평가 검증하고 기술적 능력에 관한 신뢰도를 상승시킵니다. 참고&#58; MTA 시험은 MCP 인증과 연계되지 않으며 MCSA 또는 MCSD 인증과도 연계되지 않습니다.
+
+  MTA 인증은 기술 분야 커리어를 시작하고자 하는 분에게 적합합니다. MTA 인증은 광범위한 기본 기술 개념을 다루며, 핵심 기술 지식을 평가 검증하고 기술적 능력에 관한 신뢰도를 상승시킵니다. 참고: MTA 시험은 MCP 인증과 연계되지 않으며 MCSA 또는 MCSD 인증과도 연계되지 않습니다.
 subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분에게 적합합니다. MTA 인증은 광범위한 기본 기술 개념을 다루며, 핵심 기술 지식을 평가 검증하고 기술적 능력에 관한 신뢰도를 상승시킵니다. 참고: MTA 시험은 MCP 인증과 연계되지 않으며 MCSA 또는 MCSD 인증과도 연계되지 않습니다.'
 levels:
 - beginner
 skills:
-- 애플리케이션 수명 주기 관리
-- HTML5를 사용한 유저 인터페이스(UI) 구축 
-- CSS(Cascading Style Sheets)를 사용한 UI 양식 지정 
-- JavaScript 코딩
+- Manage the application life cycle
+- Build the user interface (UI) by using HTML5
+- Format the user interface by using Cascading Style Sheets (CSS)
+- Code by using JavaScript
 roles:
 - developer
 type: mta
@@ -27,20 +34,20 @@ exams:
 - uid: exam.98-375
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 네트워크에서 첫 번째 성취를 축하하세요. Microsoft 인증 배지를 클레임하고 LinkedIn, 이력서 등에 추가하세요.
   href: ../badges.md

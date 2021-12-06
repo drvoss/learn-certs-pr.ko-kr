@@ -1,24 +1,30 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals (ERP)
+title: Microsoft Dynamics 365 Fundamentals(ERP)
 metadata:
-  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
-  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
+  title: '시험 MB-920: Microsoft Dynamics 365 Fundamentals(ERP)'
+  description: '시험 MB-920: Microsoft Dynamics 365 Fundamentals(ERP)'
+  ms.openlocfilehash: 54a5c657a39bc51d4700d2a57aa60217fe33bc1b
+  ms.sourcegitcommit: 8efdff2be87da0b59692d23bde711be33f9e6a17
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/28/2021
+  ms.locfileid: "132112651"
 uid: exam.mb-920
 displayName: MB-920
-summary: |-
-  이 시험은 Microsoft Dynamics 365 재무 및 운영 앱의 기능 및 역량을 다룹니다.
-  
-  이 시험의 응시자들은 정보 기술 (IT) 환경에 대한 일반적인 지식이나 관련 업무 경험이 있어야 합니다. 또한 재무 원칙 및 비즈니스 운영에 대한 기본적인 이해가 있어야 합니다.
-  
+summary: >-
+  이 시험에서는 Microsoft Dynamics 365 재무 및 운영 앱의 특징과 기능을 다룹니다.
+
+
+  이 시험의 응시자는 IT(정보 기술) 환경에서 일반적인 지식 또는 관련 실무 경험을 갖추고 있어야 합니다. 또한 재무 원칙 및 비즈니스 운영을 기본적으로 이해하고 있어야 합니다.
 subTitle: '이 시험은 다음을 설명하는 귀하의 능력을 측정합니다: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; 프로젝트 운영; 및 공유 기능.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
 practiceTestUrl: https://www.mindhub.com/mb-920-microsoft-dynamics-365-fundamentals-erp-/p/MU-MB-920?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -35,12 +41,12 @@ locales:
 levels:
 - beginner
 skills:
-- Dynamics 365 Supply Chain Management 설명 (25-30%)
-- Dynamics Finance 설명 (20-25%)
-- Dynamics 365 Commerce 설명 (10-15%)
-- Dynamics 365 Human Resources 설명 (5-10%)
-- Project Operations 설명 (10-15%)
-- 공유 기능 설명 (10-15%)
+- Describe Dynamics 365 Supply Chain Management (25-30%)
+- Describe Dynamics Finance (20-25%)
+- Describe Dynamics 365 Commerce (10-15%)
+- Describe Dynamics 365 Human Resources (5-10%)
+- Describe Project Operations (10-15%)
+- Describe shared features (10-15%)
 roles:
 - business-owner
 - business-user
@@ -61,8 +67,8 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 resources:
-- title: 인증 학습 경로
-  description: 필수 시험을 준비하고 인증을 획득하는 데 도움을 주는 권장 훈련 리소스 입니다. 
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -76,9 +82,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

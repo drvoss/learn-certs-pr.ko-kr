@@ -2,29 +2,45 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: 기능 컨설턴트로서, 이 인증을 사용하여 프로젝트와 기타 계약들은 더 효과적으로 마케팅하십시오. Microsoft Power Platform Functional Consultant Associate 인증은 귀하가 —코드 없이 또는 낮은 코드—일반적으로 개발 전문지식이 필요한 솔루션을 구출할 수 있음을 조직이 알수있게 합니다. 
+  description: 기능 컨설턴트는 이 인증을 사용하여 프로젝트 및 기타 참여 기회를 위해 자신을 보다 효과적으로 홍보해야 합니다. Microsoft Power Platform Functional Consultant Associate 인증을 사용하면 조직은 여러분이 코드를 이용하지 않거나 로우 코드를 이용해, 개발자 전문 지식이 필요한 솔루션을 빌드할 수 있음을 알 수 있습니다.
+  ms.openlocfilehash: 23dec4ee7796bcdb17d25a26823cfcbb7371a2b9
+  ms.sourcegitcommit: 9d7c87bf1eec1cc6ecfd48c6997265bb0f47352f
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "132112723"
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  컨설팅 및 구성 기술을 연마하려는 기능 컨설턴트, 데이터 분석가 혹은 개발자이거나, 솔루션 아키텍트 인증을 받기 위한 솔루션 아키텍트입니까? 아니면 Microsoft Power Platform 구성에 대한 지식과 경험이 있는 IT 전문가일 수도 있습니다. 여기에 해당이 되고 Power Platform 구성 요소를 사용하여 Teams, Dynamics 365, Excel, 및 Word와 같은 Microsoft 앱 및 서비스를 확장하고 사용자 지정하는데 익숙한 경우, Microsoft Power Platform Functional Consultant Associate 인증이 귀하의 경력과 귀하가 팀의 핵심 구성원이 되는데 어떻게 도움을 주는지 알아보십시오. 이 인증은 귀하가 Power Apps, Power BI, 및 Power Virtual Agents를 사용하는 솔루션을 구축하고 구현할 수 있는 자격이 있다고 전 세계에 보여줍니다. 
-  
-  이 인증의 후보자로서, 조직의 이해 관계자 및 솔루션 아키텍트, 개발자 및 검사관과 같은 주제 전문가와 작업하여 요구사항을 수집한 후, Microsoft Power Platform 솔루션을 구현합니다. 모델 기반, canvas, 및 포털 앱을 구축합니다. 그리고 Power Automate 흐름을 만들고, Power Virtual Agents을 사용하여 챗봇을 디자인하며, Power BI 시각화 및 대시보드를 사용하여 데이터를 분석합니다. 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화도 만들 수 있습니다.
-  
-  기능 컨설턴트로서, 이 인증을 사용하여 프로젝트와 기타 계약들은 더 효과적으로 마케팅하십시오. Microsoft Power Platform Functional Consultant Associate 인증은 귀하가 —코드 없이 또는 낮은 코드—일반적으로 개발 전문지식이 필요한 솔루션을 구출할 수 있음을 조직이 알수있게 합니다.
-  
-  이 인증을 받기 전 좀 더 많은 경험이 필요한 경우, 여기 몇 가지 제안사항이 있습니다&#58;
-  - Power BI을 사용하여 기본 대시보드 구축하기.
-  - Microsoft Learn에서 사용가능한 학습경로 시작하기.
-  - 강사 주도 교육 과정에 등록하기.
-subTitle: 기능 컨설턴트로서, 이 인증을 사용하여 프로젝트와 기타 계약들은 더 효과적으로 마케팅하십시오. Microsoft Power Platform Functional Consultant Associate 인증은 귀하가 —코드 없이 또는 낮은 코드—일반적으로 개발 전문지식이 필요한 솔루션을 구출할 수 있음을 조직이 알수있게 합니다. 
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 10월 1일에 업데이트됩니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/pl-200">시험 PL-200</a>페이지에 있는 기술 측정 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
+  컨설팅 및 구성 기술을 연마하려는 기능 컨설턴트, 데이터 분석가 또는 개발자이신가요? 아니면 솔루션 설계자 인증 과정을 밟고 있는 솔루션 설계자이신가요? Microsoft Power Platform 구성 관련 지식과 경험이 있는 IT 전문가이실지도 모릅니다. 여기에 해당하며 Power Platform 구성 요소를 이용해 Teams, Dynamics 365, Excel, Word 같은 Microsoft 앱과 서비스를 확장하고 사용자 지정하는 데 익숙하다면, Microsoft Power Platform Functional Consultant Associate 인증을 이용해 경력을 개선하고 팀의 핵심 멤버가 되는 방법을 확인해 보세요. 이 인증은 Power Apps, Power BI 및 Power Virtual Agents 사용하는 솔루션을 빌드하고 구현할 자격이 있다고 전 세계에 알리는 역할을 합니다.
+
+
+  이 인증의 후보자인 여러분은 조직의 이해관계자와 솔루션 설계자, 개발자, 테스터 같은 실무 전문가와 함께 작업하여 요구 사항을 수집하고 Microsoft Power Platform 솔루션을 구현합니다. 여러분은 모델 기반, 캔버스 및 포털 앱을 빌드합니다. 또한 Power Automate 흐름을 만들고, Power Virtual Agents를 사용하여 챗봇을 설계하고, Power BI 가상화 및 대시보드를 사용하여 데이터를 분석하기도 합니다. 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 생성하는 분도 있습니다.
+
+
+  기능 컨설턴트는 이 인증을 사용하여 프로젝트 및 기타 참여 기회를 위해 자신을 보다 효과적으로 홍보해야 합니다. Microsoft Power Platform Functional Consultant Associate 인증을 사용하면 조직은 여러분이 코드를 이용하지 않거나 로우 코드를 이용해, 개발자 전문 지식이 필요한 솔루션을 빌드할 수 있음을 알 수 있습니다.
+
+
+  이 인증을 얻기 전에 더 많은 경험이 필요하다면 다음 제한을 고려해 보세요.
+
+  - Power BI 사용하여 기본 대시보드를 빌드합니다.
+
+  - Microsoft Learn에서 사용 가능한 학습 경로를 밟습니다.
+
+  - 강사 진행 교육 과정에 등록합니다.
+subTitle: 기능 컨설턴트는 이 인증을 사용하여 프로젝트 및 기타 참여 기회를 위해 자신을 보다 효과적으로 홍보해야 합니다. Microsoft Power Platform Functional Consultant Associate 인증을 사용하면 조직은 여러분이 코드를 이용하지 않거나 로우 코드를 이용해, 개발자 전문 지식이 필요한 솔루션을 빌드할 수 있음을 알 수 있습니다.
 levels:
 - intermediate
 skills:
-- Microsoft Dataverse 구성
-- Power Apps을 사용한 앱 생성
-- Power Automate 생성 및 관리
-- Power Virtual Agents 챗봇 구현
-- Power Apps를 다른 앱 및 서비스와 통합
+- Configure Microsoft Dataverse
+- Create apps by using Microsoft Power Apps
+- Create and manage Microsoft Power Automate
+- Implement Microsoft Power Virtual Agents chatbots
+- Integrate Microsoft Power Apps with other apps and services
+- Manage solutions
 roles:
 - business-analyst
 - developer
@@ -68,7 +84,7 @@ resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
@@ -78,6 +94,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 여러분이 달성한 성취를 지인들과 함께 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

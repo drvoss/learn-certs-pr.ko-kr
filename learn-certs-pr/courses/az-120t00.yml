@@ -1,24 +1,27 @@
 ### YamlMime:Course
 title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
-  title: 'Course AZ-120T00-A: Planning and Administering Microsoft Azure for SAP Workloads'
-  description: 'Course AZ-120T00-A: Planning and Administering Microsoft Azure for SAP Workloads'
+  title: '과정 AZ-120T00--A: Planning and Administering Microsoft Azure for SAP Workloads'
+  description: '과정 AZ-120T00--A: Planning and Administering Microsoft Azure for SAP Workloads'
+  ms.openlocfilehash: a0533254edb6f56e7ee71efe2b148d7595a3e17a
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113498"
 uid: course.az-120t00
-courseNumber: 'AZ-120T00-A'
+courseNumber: AZ-120T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: SAP Workloads를 Azure로 마이그레이션
-- skill: Azure 솔루션을 디자인하여 SAP Workloads 지원
-- skill: SAP Workloads를 위한 Azure 구축 및 배포
-- skill: SAP Workloads를 위한 Azure 인프라 검증
-- skill: Azure SAP Architecture 운영화
+- skill: Azure로 SAP 워크로드 마이그레이션
+- skill: SAP 워크로드를 지원하는 Azure 솔루션 설계
+- skill: SAP 워크로드용 Azure 구축 및 배포
+- skill: SAP 워크로드용 Azure 인프라 유효성 검사
+- skill: Azure SAP 아키텍처 조작화
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
-- zh-cn
-- ko
 levels:
 - advanced
 roles:
@@ -27,82 +30,114 @@ products:
 - azure
 exams:
 - uid: exam.az-120
-summary: |-
-  본 과정에서는 SAP 솔루션에 경험이 있는 IT 전문가들이 가상 머신, 가상 네트워크, 저장소 계정 및 하이브리드 ID 구현 및 관리를 포함하는 Azure AD의 배포 및 구성을 포함하는 Azure 리소스를 활용하는 방법에 대해 설명합니다. 본 과정에서는 개념, 시나리오, 절차 및 실습 랩을 통해 Azure에서 SAP 솔루션의 마이그레이션 및 운영을 가장 잘 계획하고 구현하는 방법을 설명합니다. 또한 Azure 구독 관리, 가상 머신 생성 및 확장, 저장소 솔루션 구현, 가상 네트워킹 구성, 데이터 백업 및 공유, Azure 및 온-프레미스 사이트 연결, 네트워크 트래픽 관리, Azure Active Directory 구현, ID 보안 및 솔루션 모니터링 방법을 설명합니다.
+summary: >-
+  이 과정에서는 SAP 솔루션 관련 경험이 있는 IT 전문가에게 가상 머신, 가상 네트워크, 스토리지 계정 및 Azure AD(하이브리드 ID 구현 및 관리 포함)의 배포 및 구성을 포함한, Azure 리소스를 활용하는 방법을 설명합니다. 이 과정을 수강하는 학생은 개념, 시나리오, 절차 및 실습 랩을 통해 Azure에서의 SAP 솔루션 마이그레이션 및 운영을 가장 잘 계획하고 구현하는 방법을 배웁니다. 구독, 가상 머신 만들기 및 크기 조정, 스토리지 솔루션 구현, 가상 네트워킹 구성, 데이터 백업 및 공유, Azure 및 온-프레미스 사이트 연결, 네트워크 트래픽 관리, Azure Active Directory 구현, ID 보안 및 솔루션 모니터링 관련 지침을 받을 수 있습니다.
 
-  #### 대상 그룹 프로필
-  본 과정의 참여자는 Azure에서 SAP 솔루션을 마이그레이션 및 관리하는 Azure 관리자입니다. Azure 관리자는 전체 IT 수명 주기에 걸쳐 각 서비스를 심층적으로 파악하여 저장소, 네트워킹 및 컴퓨팅 클라우드 기능에 걸쳐 클라우드 서비스를 관리합니다. 또한 새로운 클라우드 애플리케이션에 대한 최종 사용자의 요청을 받고 최적의 성능 및 확장을 위해 사용할 서비스를 추천하고 필요한 경우 프로비저닝, 크기 조정, 모니터링 및 적절한 리소스 조정을 수행합니다. 이 역할을 수행하려면 공급업체와 통신하고 조정해야 합니다. Azure 관리자는 Azure Portal을 사용하며, 점점 더 능숙해지면서 PowerShell 및 명령줄 인터페이스를 사용합니다.
-prerequisitesSection: |-
-  이 과정에 참여하기 전에, 학생들은 다음을 갖추어야 합니다:
 
-  *   VM, VNet, Load Balancers, 스토리지 (블롭, 파일, 디스크)를 포함한, Azure IaaS 및 PaaS 솔루션에 대한 실무 경험. 
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  *   온-프레미스 및 cloud 가상 기술에 대한 이해, 다음을 포함한: VMs, 가상 네트워킹, 및 가상 하드 디스크.
 
-  *   TCP/IP, Domain Name System (DNS), 가상 사설 네트워크(VPNs), 방화벽, 및 암호화 기술을 포함한, 네트워크 구성에 대한 이해.
+  이 과정은 Azure에서 SAP 솔루션을 마이그레이션하고 관리하는 Azure 관리자가 대상입니다. Azure 관리자는 전체 IT 수명 주기 동안 각 서비스에 대한 깊은 이해를 바탕으로 스토리지, 네트워킹 및 컴퓨팅 클라우드 기능을 포괄하는 클라우드 서비스를 관리합니다. 이들은 새 클라우드 애플리케이션에 대한 최종 사용자 요청을 접수하고, 서비스를 최적의 성능 및 규모로 사용하는 방법을 권장하며, 적절한 프로비전, 크기 조정, 모니터링 및 조정 작업도 수행합니다. 이 역할은 공급업체와 소통하고 조율하는 일도 담당합니다. Azure 관리자는 Azure Portal을 사용하며 PowerShell과 the Command Line 인터페이스를 능숙하게 사용합니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전 학생들은 다음 요소를 갖추어야 합니다.
+
+
+  *   VM, VNet, Load Balancer, Storage(Blob, 파일, 디스크) 등의 Azure IaaS 및 PaaS 솔루션 실습 경험.
+
+
+  *   VM, 가상 네트워킹 및 가상 하드 디스크를 포함한 온-프레미스 및 클라우드 가상화 기술 이해.
+
+
+  *   TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽 및 암호화 기술을 포함한 네트워크 구성 이해.
+
 
   *   Active Directory 개념에 대한 이해
 
-  *   Linux/Unix 환경에 대한 경험.
 
-  *   SAP 애플리케이션, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, OS에 대한 확실한 지식&nbsp; SAP 애플리케이션 및 데이터베이스를 위한 서버.
+  *   Linux/Unix 환경 관련 경험.
+
+
+  *   SAP 애플리케이션, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, SAP 애플리케이션 및 데이터베이스용 OS 서버에 대한 탄탄한 지식.
+
 
   *   SAP HANA 배포 및 구성에 대한 이해.
 
-  *   SAP HANA 관리에 대한 실무 경험.
 
-  필수 과정 (또는 동등한 지식 및 실무 경험):
-   * AZ-900 Azure Fundamentals
+  *   SAP HANA 관리 실습 경험.
+
+
+
+  필수 구성 요소 과정(또는 이와 동등한 지식과 실습 환경):
    * AZ-104 Azure Administrator
-   * AZ-303 Microsoft Azure Architect Technologies (권장)
-outlineSection: |-
-  ### 모듈 1&#58; SAP 워크로드용 Azure 소개
+   * SAP HANA 또는 SAP NetWeaver 같은 SAP 제품에 관한 지식
+outlineSection: >-
+  ### <a name="module-1-explore-azure-for-sap-workloads"></a>모듈 1: SAP 워크로드용 Azure 살펴보기
 
-  학생들은 Microsoft와 SAP 사이의 파트너십에 대해서 배우고, SAP workloads 용 Azure에 대한 개요를 살펴보고, Microsoft 구성 요소를 평가하고, 일반 용어 및 의미를 배우게 됩니다.
 
-  ### 모듈 2&#58; SAP 워크로드용 Azure의 기초
+  SAP 워크로드에서의 Azure, SAP와 Azure의 일반 용어 및 의미, SAP 인증 구성, Azure 가상 머신에서의 AnyDB 포함 SAP NetWeaver와 SAP S4 HANA의 아키텍처 관련 단원을 제공합니다.
 
-  Azure 컴퓨팅, Azure 스토리지, Azure 네트워킹, 식별 서비스 및 거버넌스 및 관리Identity 용이성에 대한 레슨이 포함되어 있습니다.
 
-  ### 모듈 3&#58; Azure의 SAP 인증 제품 
-  일반 사전 요구 사항(공용 클라우드 환경에서 SAP 지원), SAP 워크로드용 Azure 배포 옵션, Azure 용 SAP 제품별 지원, SAP 워크로드용 Azure 운영 체제 지원, SAP 워크로드용 Azure 저장소 지원, SAP용 네트워킹 지원, SAP용 데이터베이스 지원, SAP 용 고가용성 및 재해 복구 지원, SAP에 대한 모니터링 요구 사항에 대한 단원들이 포함되어 있습니다.
+  ### <a name="module-2-explore-the-foundations-of-infrastructure-as-a-service-iaas"></a>모듈 2: IaaS(Infrastructure as a Service)의 기초 살펴보기
 
-  #### 랩&#58; 온라인 랩&#58; Azure VM에서 Linux 클러스터링 구현
 
-  #### 랩&#58; 온라인 랩&#58; Azure VM에서 Windows 클러스터링 구현
+  Azure Compute, Azure Storage, Azure 네트워킹 및 Azure의 데이터베이스 관련 단원을 제공합니다.
 
-  ### 모듈 4&#58; SAP 워크로드를 위한 Azure 참조 아키텍처
 
-  Azure VMs의 AnyDB 및 Azure VMs의 SAP S4 HANA를 사용하는 SAP NetWeaver에 대한 레슨을 포함합니다.
+  ### <a name="module-3-explore-the-foundations-of-identity-and-governance"></a>모듈 3: ID 및 거버넌스의 기초 살펴보기
 
-  ### 모듈 5: Azure에서 SAP 솔루션 구현에 대해 계획하기
-  
-  Azure VM 컴퓨팅, 네트워크 및 스토리지 고려사항, Azure VM 고 가용성 및 재해 복구 고려사항, Azure VM 백업 고려사항, Azure VM 모니터링 고려사항, Azure VM 보안 고려사항, Azure VM 인증 및 액세스 제어 고려사항, Azure VM 라이선스, 가격 및 지원 고려사항에 대한 레슨을 포함합니다.
 
-  ### 모듈 6: SAP workloads를 Azure로 마이그레이션하기 위해 계획하기
-  
-  SAP 시스템을 Microsoft Azure 및 SAP 워크로드 계획 및 배포 체크리스트로 마이그레이션하기 위한 전략에 대한 단원들이 포함되어 있습니다.
+  ID 서비스, Azure 원격 관리, Azure 거버넌스 및 관리 가능성 관련 단원을 제공합니다.
 
-  ### 모듈 7: Azure VM-기반 SAP 솔루션 구현하기
-  
-  Azure VM 배포 방법론, 단일 인스턴스 구현(2-티어 and 3-티어), Azure VMs에서 AnyDB를 사용하여 HA SAP NetWeaver 구현, Azure VMs에서 Ha SAP HANA 구현, SAP용 Azure Enhanced Monitoring Extension 구성 및 AD와 Azure AD 기반 인증 구현에 대한 레슨을 포함합니다.
 
-  #### 랩 : 온라인 랩: Windows를 실행하는 Azure VMs에서 SAP 아키텍처 구현하기
+  #### <a name="lab--implementing-linux-clustering-on-azure-vms"></a>랩: Azure VM에서 Linux 클러스터링 구현
 
-  #### 랩 : 온라인 랩: Linux를 실행하는 Azure VMs에서 SAP 아키텍처 구현하기
 
-  ### 모듈 8&#58; Azure (Large Instances) (HLI)의 SAP HANA
-  
-  Azure(대규모 인스턴스) (HLI)에서 SAP HANA의 기초, HLI 인증 제품, HLI 샘플 아키텍처, HLI 계획 고려사항, HLI 고 가용성 및 재해 복구 계획, HLI 백업 고려사항, HLI 보안 고려사항, HLI 라이선스 및 지원, HLI 구현 및 배포, HLI 관리, HLI 모니터링 및 문제해결에 대한 레슨을 포함합니다.
+  ####
 
-  ### 모듈 9&#58; Azure로 SAP 워크로드 마이그레이션
-  
-  마이그레이션 옵션, DMO 방법론, 클라우드 마이그레이션 옵션 및 Azure로 초대형 데이터베이스 마이그레이션에 대한 레슨을 포함합니다.
 
-  ### 모듈 10&#58; SAP 워크로드 용 Azure 유지관리
-  
-  원격관리, 백업 및 복원 수행, 네트워킹 변경, OS 및 워크로드 업데이트, 수직 및 수평 확장, 재해 복구에 대한 레슨을 포함합니다.
+  #### <a name="lab--implementing-windows-clustering-on-azure-vms"></a>랩: Azure VM에서 Windows 클러스터링 구현
 
-  ### 모듈 11&#58; SAP 워크로드용 Azure 모니터링 및 문제해결
-  
-  Azure VMs 모니터링 및 문제해결, 지원 요청 제기에 대한 레슨을 포함합니다.
+
+  ####
+
+
+  ### <a name="module-4-deploy-sap-on-azure"></a>모듈 4: Azure에서 SAP 배포
+
+
+  단일 인스턴스 구현(2계층 및 3계층) 배포, Azure 가상 머신의 AnyDB를 통한 SAP NetWeaver에서의 고가용성 구현 관련 단원을 제공합니다.
+
+
+  #### <a name="lab--implement-sap-architecture-on-azure-vms-running-windows"></a>랩: Windows를 실행하는 Azure VM에서 SAP 아키텍처 구현
+
+
+  ####
+
+
+  #### <a name="lab--implement-sap-architecture-on-azure-vms-running-linux"></a>랩: Linux를 실행하는 Azure VM에서 SAP 아키텍처 구현
+
+
+  ####
+
+
+  ### <a name="module-5-ensure-business-continuity-and-implement-disaster-recovery-for-sap-solutions-on-azure"></a>모듈 5: Azure의 SAP 솔루션에 대한 비즈니스 연속성 보장 및 재해 복구 구현
+
+
+  Azure의 SAP 워크로드 고가용성 구현, Azure의 SAP 워크로드 재해 복구와 백업 및 복원 관련 단원을 제공합니다.
+
+
+  ### <a name="module-6-migrate-sap-workloads-to-azure"></a>모듈 6: Azure로 SAP 워크로드 마이그레이션
+
+
+  SAP 워크로드 계획 및 배포 검사 목록 사용, 마이그레이션 옵션(DMO(데이터베이스 마이그레이션 옵션) 방법론 및 클라우드 마이그레이션 옵션 포함), VLDB(초대형 데이터베이스)를 Azure로 마이그레이션하는 방법 관련 단원을 제공합니다.
+
+
+  ### <a name="module-7-monitor-and-troubleshoot-azure-for-sap-workloads"></a>모듈 7: SAP 워크로드용 Azure 모니터링 및 문제 해결
+
+
+  SAP 워크로드용 Azure 모니터링 요구 사항, SAP용 Azure 고급 모니터링 확장 구성, Azure 가상 머신 라이선싱과 가격 책정 및 지원 관련 단원을 제공합니다.
+
+
+  ### <a name="module-8-explore-sap-hana-on-azure-large-instances"></a>모듈 8: Azure의 SAP HANA(대규모 인스턴스) 살펴보기
+
+
+  Azure의 SAP HANA(대규모 인스턴스) 살펴보기, Azure의 SAP HANA(대규모 인스턴스) 인증 제품, Azure의 SAP HANA(대규모 인스턴스) 샘플 아키텍처, Azure의 SAP HANA(대규모 인스턴스) 계획 고려사항, Azure의 SAP HANA(대규모 인스턴스) 고가용성 및 재해 복구, Azure의 SAP HANA(대규모 인스턴스)의 &quot;백업, 보안, 라이선싱 및 지원&quot; 고려 사항, Azure의 SAP HANA(대규모 인스턴스) 구현 및 배포, Azure의 SAP HANA(대규모 인스턴스) 관리, Azure의 SAP HANA(대규모 인스턴스) 모니터링 및 문제 해결, 비즈니스 연속과 재해 복구 및 백업 구현 관련 단원을 제공합니다.

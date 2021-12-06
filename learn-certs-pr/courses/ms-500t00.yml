@@ -1,23 +1,29 @@
 ### YamlMime:Course
 title: Microsoft 365 Security Administration
 metadata:
-  title: 'Course MS-500T00-A: Microsoft 365 Security Administration'
-  description: 'Course MS-500T00-A: Microsoft 365 Security Administration'
+  title: '과정 MS-500T00-A: Microsoft 365 Security Administration'
+  description: '과정 MS-500T00-A: Microsoft 365 Security Administration'
+  ms.openlocfilehash: 82878a07b3eb799860adca492a385ad2f7ec3828
+  ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "132112571"
 uid: course.ms-500t00
-courseNumber: 'MS-500T00-A'
+courseNumber: MS-500T00-A
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Microsoft 365 사용자 및 그룹 액세스 관리.
 - skill: Azure Identity Protection 설명 및 관리.
 - skill: Azure AD Connect 계획 및 구현.
-- skill: 동기화 된 사용자 ID관리.
+- skill: 동기화된 사용자 ID 관리.
 - skill: 조건부 액세스 설명 및 사용.
 - skill: 사이버 공격 위협 벡터 설명.
-- skill: Microsoft 365용 보안 솔루션 설명.
-- skill: 보안 태세를 평가하고 개선하기위해 Microsoft Secure Score 사용.
+- skill: Microsoft 365 보안 솔루션 설명.
+- skill: Microsoft 보안 점수를 사용하여 보안 상태 평가 및 개선.
 - skill: 다양한 Microsoft 365 고급 위협 방지 서비스 구성.
-- skill: 보안 모바일 장치 계획 및 배포.
+- skill: 안전한 모바일 디바이스 계획 및 배포.
 - skill: 정보 권한 관리 구축.
 - skill: Office 365에 메시지 보안.
 - skill: 데이터 손실 방지(DLP) 정책 구성.
@@ -26,7 +32,7 @@ skillsGained:
 - skill: 데이터 아카이빙 및 보관 시스템 계획 및 배포.
 - skill: eDiscovery 조사 생성 및 관리.
 - skill: GDPR 데이터 주체 요청 관리.
-- skill: 보안 레이블 설명 및 사용.
+- skill: 민감도 레이블 설명 및 사용.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -41,306 +47,25 @@ products:
 - m365
 exams:
 - uid: exam.ms-500
-summary: |-
-  이 과정에서는 조직의 리소스에 대한 사용자 액세스를 보안하는 방법을 배웁니다. 이 과정에서는 사용자 암호 보호, 다단계 인증, Azure ID 보호를 활성화 하는 방법, Azure AD Connect를 설정하고 사용하는 방법을 다루고, Microsoft 365의 조건부 액세스를 소개합니다. Microsoft 365 환경을 보호하는데 도움이 되는 위협 방지 기술에 대해 알아봅니다. 특히, 위협 벡터와 위협 완화를 위한 Microsoft의 보안 솔루션에 대해 알아봅니다. Secure Score, Exchange Online 보호, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection, 그리고 위협 관리에 대해 배웁니다. 이 과정에서는 Microsoft 356환경을 보호하는데 도움이 되는 정보 보호 기술에 대해 알아봅니다. 이 과정에서는 정보 권한 관리 콘텐츠, 메시지 암호화, 데이터 손실 방지 및 정보 보호를 지원하는 레이블, 정책 및 규칙에 대해 설명합니다. 마지막으로, 데이터 거버넌스 및 콘텐츠 검색 및 조사 수행 방법과 Microsoft 365의 보관 및 보존에 대해 알아봅니다. 이 과정은 데이터 보존 정책 및 태크, SharePoint에 대한 내부 레코드 관리, 이메일 보존 그리고 eDiscovery를 지원하는 콘텐츠 검색을 수행하는 방법을 다룹니다.
+summary: >-
+  본 과정에서는 조직 리소스에 대한 사용자 액세스를 보호하는 방법을 학습합니다. 이 과정에서는 Microsoft 365의 사용자 암호 보호, 다단계 인증, Azure ID 보호 활성화 방법, Azure AD Connect 설정 및 사용 방법을 다루고 나서 조건부 액세스를 소개합니다. Microsoft 365 환경을 보호하는 데 도움이 되는 위협 보호 기술을 학습합니다. 특히, 위협 벡터 및 위협 완화를 위해 Microsoft 보안 솔루션을 학습합니다. 보안 점수, Exchange Online Protection, Azure Advanced Threat Protection, Windows Defender Azure Advanced Threat Protection 및 위협 관리 사용 방법을 학습합니다. 본 과정에서는 Microsoft 365 환경을 보호하는 데 도움이 되는 정보 보호 기술에 대해 알아봅니다. 본 과정에서는 정보 손실 관리 및 정보 보호를 지원하는 레이블, 정책 및 규칙뿐만 아니라 정보 권한 관리 콘텐츠 및 메시지 암호화를 설명합니다. 드디어, 본 과정에서는 Microsoft 365의 아카이빙 및 보존, 데이터 거버넌스 및 콘텐츠 검색 및 조사 수행 방법을 학습합니다. 본 과정에서는 데이터 정책 및 태그, SharePoint의 인플레이스 기록 관리, 이메일 보존 및 eDiscovery 조사를 지원하는 콘텐츠 검색을 수행하는 방법을 다룹니다.
 
-  #### 대상 그룹 프로필
-  Microsoft 365 Security 관리자는 Microsoft 365 Enterprise Administrator, 비즈니스 이해 관계자 및 기타 작업관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인합니다. 이 역할은 Microsoft 365 엔터프라이즈 환경을 사전에 보호합니다. 책임은 위협에 대한 대응, Microsoft 356 환경에 대한 보안 및 규정 준수 솔루션 구현, 관리 및 모니터링이 포함됩니다. 그들은 사건, 조사 및 데이터 거버넌스 시행에 대응합니다. Microsoft 365 Security 관리자는 Microsoft 365 워크로드 및 하이브리드 환경에 익숙합니다. 이 역할은 신원 보호, 정보 보호, 위협 보호, 보안 관리 및 데이터 거버넌스에 대한 강력한 기술과 경험을 가지고 있습니다.
-prerequisitesSection: |-
-  학습자는 이미 다음의 기술을 갖추고 본 과정을 시작해야 합니다&#58;
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  Microsoft 365 Security Administrator는 Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인합니다. Microsoft 365 Enterprise 환경을 사전에 보호하는 역할을 합니다. 위협에 대응하고 Microsoft 365 환경의 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링하는 업무을 포함합니다. 인시던트, 조사 및 데이터 거버넌스 시행에 대응합니다. Microsoft 365 보안 관리자는 Microsoft 365 워크로드 및 하이브리드 환경을 잘 알고 있습니다. 이 역할을 하는 사람은 ID 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다.
+prerequisitesSection: >-
+  학습자는 이미 다음의 기술을 갖추고 본 과정을 시작해야 합니다:
+
   - Microsoft Azure에 대한 기본 개념 이해.
-  - Windows 10 디바이스 경험.
-  - Office 365 경험.
+
+  - Windows 10 디바이스 경험
+
+  - Office 365 경험
+
   - 권한 부여 및 인증에 대한 기본 이해.
+
   - 컴퓨터 네트워크에 대한 기본 지식.
-  - 모바일 장치 관리에 대한 실무 지식.
-outlineSection: |-
-  ### 모듈 1&#58; 사용자 및 그룹 관리
-  이 모듈은 Microsoft 365에서 사용자 계정과 그룹을 관리하는 방법을 설명합니다. 인증과 함께 Zero Trust 개념을 소개합니다. 이 모듈은 나머지 과정의 기초가 됩니다.
-  #### 단원
-  - ID 및 액세스 관리 개념
-  - Zero Trust 모델
-  - ID 및 인증 솔루션 계획
-  - 사용자 계정 및 역할
-  - Azure AD ID 보호
 
-
-  #### 랩&#58; 테넌트 초기화 – 사용자 및 그룸
-  - Microsoft 365 테넌트 설정
-  - 사용자 및 그룹 관리
-
-
-  #### 랩&#58; 패스워드 관리
-  - Azure AD에서 사용자 계정에 대한 셀프 서비스 패스워드 재설정(SSPR) 구성
-  - Azure AD Smart Lockout 배포
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 사용자 계정 생성 및 관리.
-  - Microsoft 365 관리자 역할 설명 및 사용.
-  - 패스워드 정책 및 인증 계획.
-  - 제로 트러스트 보안 개념 설명
-  - Zero Trust 모델 설명합니다.
-
-
-  ### 모듈 2&#58; ID 동기화 및 보호
-  이 모듈에서는 Microsoft 365의 ID 동기화와 관련된 개념을 설명합니다. 특히 Azure AD Connect 및 정당한 사람이 Microsoft 365 시스템에 접속하도록 디렉터리 동기화 관리에 중점을 둡니다.
-  #### 단원
-  - 디렉터리 동기화 계획
-  - 동기화 된 ID 구성 및 관리
-  - Azure AD Identity Protection
-
-
-  #### 랩&#58; ID 동기화 구현
-  - ID 동기화를 위한 조직 설정
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 디렉터리 동기화 설명.
-  - 디렉터리 동기화 계획.
-  - Azure AD Connect 설명 및 사용.
-  - Azure AD Connect 전제 조건 구성.
-  - 디렉토리 동기화로 사용자 및 그룹 관리.
-  - Active Directory 페더레이션 설명.
-  - Azure Identity Protection 활성화
-
-
-  ### 모듈 3&#58; 신원 및 액세스 관리
-  이 모듈에서는 Microsoft 365의 조건부 액세스 및 조직의 리소스에 대한 액세스를 제어하는 ​​데 사용되는 방법을 설명합니다. 본 모듈에서는 역할 기반 액세스 제어 (RBAC) 및 외부 액세스 솔루션에 대해서도 설명합니다. 개념으로서의 ID 거버넌스와 그 구성 요소에 대해 논의합니다.
-  #### 단원
-  - 애플리케이션 관리
-  - ID 거버넌스
-  - 장치 액세스 관리
-  - 역할 기반 액세스 제어 (RBAC)
-  - 외부 액세스용 솔루션
-  - Privileged Identity Management
-
-
-  #### 랩&#58; 조건부 액세스를 사용한 MFA 활성화
-  - MFA 인증 파일럿(특정 앱 MFA 요구)
-  - MFA 조건부 액세스(MFA 롤아웃 완료)
-
-  #### 랩&#58; Privileged Identity Management 구성
-  - Azure 리소스 관리
-  - 디렉터리 역할 할당
-  - PIM 역할 활성화 및 비활성화
-  - 디렉터리 역할
-  - PIM 리소스 워크 플로
-  - PIM에서 Azure AD 역할에 대한 감사 기록 보기
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 조건부 액세스 개념 설명.
-  - 조건부 액세스 정책 설명 및 사용.
-  - 장치 준수 계획.
-  - 조건부 사용자 및 그룹 구성.
-  - 역할 기반 액세스 제어 구성.
-  - ID 거버넌스 개념의 설명.
-  - Privileged Identity Management 구성 및 사용.
-
-
-  ### 모듈 4&#58; Microsoft 365 보안
-  이 모듈에서는 존재하는 다양한 사이버 공격 위협을 설명합니다. 그런 다음 이러한 위협 완화를 위해 사용되는 Microsoft 솔루션을 소개합니다. 본 모듈은 Microsoft 보안 점수에 대한 설명과 조직의 보안 상태를 평가 및 보고하는데 사용할 수 있는 방법으로 끝납니다.
-  #### 단원
-  - 위협 벡터 및 데이터 침해
-  - 보안 전략 및 원칙
-  - Microsoft 보안 솔루션
-  - Microsoft Secure Score
-
-
-  #### 랩&#58; Microsoft Secure Score 사용
-  - Microsoft 365 보안 센터에서 보안 점수 향상
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 공격자가 이메일을 통해 사용자 계정을 손상시키는데 사용하는 몇 가지 기술 설명.
-  - 공격자가 리소스를 제어하기 위해 사용하는 기술 설명.
-  - Office 365용 EOP 및 Microsoft Defender를 사용하여 피할 수 있는 위협 유형을 나열합니다.
-  - 보안 점수 혜택 및 분석할 수 있는 서비스 종류 설명.
-  - 현재 Microsoft 365 보안 상태에서 갭 식별을 위한 Secure Score 사용 방법 설명.
-
-
-  ### 모듈 5&#58; Advanced Threat Protection
-  이 모듈에서는 Microsoft 365에서 사용할 수 있는 다양한 위협 방지 기술 및 서비스를 설명합니다. 이 모듈은 Exchange Online Protection, ID용 Microsoft Defender 및 Endpoint용 Microsoft Defender를 통한 메시지 보호를 다룹니다.
-  #### 단원
-  - Exchange Online Protection (EOP)
-  - Microsoft Defender for Office 365
-  - 안전한 첨부 파일 관리
-  - 안전한 링크 관리
-  - Microsoft Defender for Identity
-  - Microsoft Defender for Endpoint
-
-
-  #### 랩&#58; Microsoft 365 Security Services 관리
-  - Microsoft Defender Policies 구현
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Exchange Online 보호에서 이메일 분석 시 맬웨어 방지 파이프 라인 설명.
-  - 안전 첨부 파일을 사용하여 이메일 첨부 파일 및 문서에서 제로 데이 맬웨어 차단 방법 설명.
-  - 안전한 링크가 이메일 및 문서에 포함된 악성 URL로부터 사용자를 보호하는 방법 설명.
-  - ID용 Microsoft Defender 구성.
-  - Endpoint용 Microsoft Defender 구성.
-
-
-  ### 모듈 6&#58; 위협 관리
-  이 모듈에서는 사이버 위협 평가 및 해결과 대응 방법 고안 도구를 제공하는 Microsoft 위협 관리를 설명합니다. Microsoft 365 용 보안 대시보드 및 Azure Sentinel 사용 방법을 학습합니다. 이 모듈에서는 Microsoft 고급 위협 분석을 설명하고 구성합니다.
-  #### 단원
-  - 보안 대시 보드 사용
-  - 위협 조사 및 대응
-  - Azure Sentinel
-  - 고급 위협 분석 구성
-
-
-  #### 랩&#58; 공격 시뮬레이터 사용
-  - 모의 스피어 피싱 공격 수행
-  - 모의 비밀번호 공격 수행
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 위협 탐색기를 사용한 위협 조사 및 테넌트 보호 방법 설명.
-  - 보안 대시보드를 사용하여 C 레벨 경영진에게 주요 위험, 트랜드 제공 방법 설명.
-  - 고급 위협 분석 (ATA) 개념 및 배포 시 필요한 요구 사항 설명.
-  - 고급 위협 분석 구성.
-  - Microsoft 365에서 공격 시뮬레이터 사용.
-  - Microsoft 365에서 Azure Sentinel 사용 방법 설명.
-
-
-  ### 모듈 7&#58; Microsoft Cloud Application Security
-  이 모듈은 Microsoft 365의 클라우드 애플리케이션 보안에 중점을 둡니다. 이 모듈은 클라우드 검색, 앱 커넥터, 정책 및 경고에 대해 설명합니다. 이러한 기능이 클라우드 애플리케이션을 보호하기 작동하는 방법을 배우게 됩니다.
-  #### 레슨
-  - Cloud Application Security 배포
-  - 클라우드 애플리케이션 보안 정보 사용
-
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Cloud App Security 설명.
-  - Cloud App Security 배포하는 방법 설명.
-  - 정책으로 Cloud Apps 제어.
-  - Cloud App Catalog 사용.
-  - Cloud Discovery 대시보드 사용.
-  - 클라우드 앱 권한 관리.
-
-  ### 모듈 8&#58; 유동성
-  이 모듈에서는 Azure Information Protection 및 Windows Information Protection을 구현하는 방법을 설명합니다.
-  #### 단원
-  - Mobile Application Management (MAM)
-  - Mobile Device Management (MDM)
-  - 모바일 장치 서비스 배포
-  - Mobile Device Management에 장치 등록
-
-
-  #### 랩&#58; 장치관리
-  - Azure Information Protection 구현
-  - Windows Information Protection 구현
-  - 규정 준수 및 조건부 액세스 정책 생성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure Information Protection용 레이블 및 정책 구성.
-  - 권한 관리 서비스 (RMS) 템플릿용 고급 AIP 서비스 설정 구성.
-  - Windows Information Protection 정책 배포 계획.
-
-
-  ### 모듈 9&#58; 정보 보호 및 거버넌스
-  이 모듈은 Microsoft 365의 데이터 손실 방지에 중점을 둡니다. 데이터를 보호하기 위해 정책을 만들고, 규칙을 편집하고, 사용자 알림을 사용자 지정하는 방법에 대해 알아봅니다.
-  #### 단원
-  - 정보 보호 개념
-  - 거버넌스 및 기록 관리
-  - 보안 레이블
-  - Microsoft 365에서 보관
-  - Microsoft 365에 보존
-  - Microsoft 365 Compliance Center의 보존 정책
-  - Exchange의 보관 및 보존
-  - SharePoint에서 내부 레코드 관리
-
-
-  ### 랩&#58; 보관 및 보존
-  - 규정 준수 초기화
-  - 보존 태그 및 정책 구성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 보안 레이블 구성.
-  - Microsoft 365에서 보관 및 보존 구성.
-  - 기록 관리 계획 및 구성.
-
-
-  ### 모듈 10&#58; 데이터 손실 방지
-  이 모듈은 Microsoft 365의 데이터 손실 방지에 중점을 둡니다. 데이터 보호를 위해 정책 생성, 규칙 편집 및 사용자 알림 사용자 지정 방법을 학습합니다.
-  #### 단원
-  - Information Rights Management (IRM)
-  - Secure Multipurpose Internet Mail Extension (S-MIME)
-  - Office 365 Message Encryption
-
-
-  #### 랩&#58; 데이터 손실 방지 정책 구현
-  - DLP 정책 관리
-  - MRM 및 DLP 정책 테스트
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 데이터 손실 방지(DLP) 설명.
-  - 정책 템플릿을 사용하여 일반적으로 사용되는 정보에 대한 DLP 정책 구현.
-  - 콘텐츠 보호를 위한 올바른 규칙 구성.
-  - 기존 DLP 정책 규칙을 수정하는 방법 설명.
-  - 사용자 재정의 옵션을 DLP 규칙으로 구성.
-  - SharePoint Online이 문서에서 크롤링 속성을 만드는 방법 설명.
-
-
-  ### 모듈 11&#58; Cloud Application Security
-  이 모듈은 Microsoft 365의 클라우드 애플리케이션 보안에 중점을 둡니다. 본 모듈에서는 클라우드 검색, 앱 커넥터, 정책 및 경고를 설명합니다. 클라우드 애플리케이션 보호를 위해 이러한 기능이 어떻게 작동하는지 학습합니다.
-  #### 단원
-  - 데이터 손실 방지 기본사항
-  - DLP 정책 만들기
-  - DLP 정책 사용자 지정
-  - 문서를 보호하기 위한 DLP 정책 만들기
-  - 정책 팁
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Cloud App Security 설명.
-  - Cloud App Security 배포 방법 설명.
-  - 정책으로 클라우드 앱 제어.
-  - 클라우드 앱 카탈로그 사용.
-  - 클라우드 디스커버리 대시 보드 사용.
-  - 클라우드 앱 권한 관리.
-
-
-  ### 모듈 12&#58; 준법 경영
-  이 모듈에서는 Microsoft의 Compliance 센터에 대해 설명합니다. 규정 준수 스코어의 구성 요소에 대해 논의합니다.
-  #### 단원
-  - Compliance 센터
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 규정 준수 스코어를 사용하여 조직의 결정을 내리는 방법을 설명합니다.
-  - 규정 준수 스코어를 결정하기 위해 평가가 어떻게 사용되는지 설명합니다.
-
-
-  ### 모듈 13&#58; Insider Risk Management 
-  이 모듈은 Microsoft 365 내의 내부자 위험 관련 기능에 중점을 둡니다. 규정 준수 센터의 위험 관리뿐 만이 아니라 정보 장벽 및 권한이 있는 액세스 관리도 다룹니다.
-
-  #### 단원
-  - 내부자 위험
-  - 권한이 있는 액세스
-  - 정보 장벽
-  - Exchange Online에서 윤리적 장벽 구축
-
-
-  #### 랩&#58; 권한이 있는 액세스 관리
-  - 권한이 있는 접근 관리 설정 및 요청 처리
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Microsoft 365에서 Insider Risk Management 설명 및 구성.
-  - 글로벌 관리자에 대한 권한 있는 액세스 요청을 구성하고 승인.
-  - 조직 규정을 준수하기 위해 정보 장벽 구성 및 사용.
-  - Exchange Online에서 윤리적 벽 구축.
-  - Customer Lockbox 구성.
-
-
-  ### 모듈 14&#58; 발견 및 대응
-  이 모듈은 컨텐츠 검색 및 조사에 중점을 둡니다. 이 모듈에서는 eDiscovery를 사용하여 Microsoft 365 데이터에 대한 고급 조사를 수행하는 방법을 다룹니다. 또한 감사 로그를 다루고 GDPR 데이터 주체 요청을 설명합니다.
-  #### 단원
-  - 콘텐츠 검색
-  - 감사 로그 조사
-  - Advanced eDiscovery
-
-
-  #### 랩&#58; 검색 및 조사 관리
-  - Microsoft 365 데이터 조사
-  - 데이터 주체 요청 수행
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Microsoft 365에서 콘텐츠 검색 수행.
-  - 로그 조사를 수행하고 감사합니다.
-  - 감사 로깅을 위해 Microsoft 365 사용.
-  - Advanced eDiscovery 사용.
+  - 모바일 디바이스 관리에 대한 실무 지식.
+outlineSection: "\n### <a name=\"module-158-user-and-group-management\"></a>모듈 1&#58; 사용자 및 그룹 관리\n본 모듈에서는 Microsoft 365에서 사용자 계정 및 그룹을 관리하는 방법을 설명합니다. 인증뿐만 아니라 제로 트러스트 개념을 소개합니다. 본 모듈에서는 나머지 과정의 기초를 다질 수 있습니다.\n#### <a name=\"lessons\"></a>단원\n- ID 및 액세스 관리 개념\n- 제로 트러스트 모델\n- ID 및 인증 솔루션 계획\n- 사용자 계정 및 역할\n- 암호 관리\n\n\n#### <a name=\"lab-58-initialize-your-tenant---users-and-groups\"></a>랩 &#58; 테넌트 초기화 - 사용자 및 그룹\n- Microsoft 365 테넌트 설정\n- 사용자 및 그룹 관리\n\n\n#### <a name=\"lab-58-password-management\"></a>랩 &#58; 암호 관리\n- Azure AD에서 사용자 계정에 대한 SSPR(셀프 서비스 암호 재설정) 구성\n- Azure AD Smart Lockout 배포\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 사용자 계정 생성 및 관리.\n- Microsoft 365 관리자 역할 설명 및 사용.\n- 암호 정책 및 인증 계획.\n- 제로 트러스트 보안 개념 설명.\n- 제로 트러스트 모델 설명.\n\n### <a name=\"module-258-identity-synchronization-and-protection\"></a>모듈 2&#58; ID 동기화 및 보호\n이 모듈에서는 Microsoft 365의 ID 동기화와 관련된 개념을 설명합니다. 특히 Azure AD Connect 및 정당한 사람이 Microsoft 365 시스템에 접속하도록 디렉터리 동기화 관리에 중점을 둡니다.\n#### <a name=\"lessons\"></a>단원\n- 디렉터리 동기화 계획\n- 동기화된 ID 구성 및 관리\n- Azure AD ID 보호\n\n\n#### <a name=\"lab-58-implement-identity-synchronization\"></a>랩 &#58; ID 동기화 구현\n- ID 동기화를 위한 조직 설정\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 디렉터리 동기화 설명.\n- 디렉터리 동기화 계획.\n- Azure AD Connect 설명 및 사용.\n- Azure AD Connect 필수 구성 요소 구성.\n- 디렉터리 동기화로 사용자 및 그룹 관리.\n- Active Directory 페더레이션 설명.\n- Azure ID 보호 사용\n\n\n### <a name=\"module-358-identity-and-access-management\"></a>모듈 3&#58; ID 및 액세스 관리\n이 모듈에서는 Microsoft 365의 조건부 액세스 및 조직의 리소스에 대한 액세스를 제어하는 ​​데 사용되는 방법을 설명합니다. 본 모듈에서는 역할 기반 액세스 제어 (RBAC) 및 외부 액세스 솔루션에 대해서도 설명합니다. ID 거버넌스 개념 및 해당 구성 요소를 논의합니다.\n#### <a name=\"lessons\"></a>단원\n- 애플리케이션 관리\n- ID 거버넌스\n- 디바이스 액세스 관리\n- 역할 기반 Access Control(RBAC)\n- 외부 액세스용 솔루션\n- Privileged Identity Management\n\n\n#### <a name=\"lab-58-use-conditional-access-to-enable-mfa\"></a>랩 &#58; 조건부 액세스를 사용한 MFA 활성화\n- MFA 인증 파일럿(특정 앱 MFA 요구)\n- MFA 조건부 액세스(MFA 롤아웃 완료)\n\n\n#### <a name=\"lab-58-configure-privileged-identity-management\"></a>랩 &#58; Privileged Identity Management 구성\n- Azure 리소스 관리\n- 디렉터리 역할 할당\n- PIM 역할 활성화 및 비활성화\n- 디렉터리 역할\n- PIM 리소스 워크플로\n- PIM에서 Azure AD 역할에 대한 감사 기록 보기\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 조건부 액세스 개념 설명.\n- 조건부 액세스 정책 설명 및 사용.\n- 디바이스 규정 준수 계획.\n- 조건부 사용자 및 그룹 구성.\n- 역할 기반 액세스 제어 구성\n- ID 거버넌스의 개념 설명\n- Privileged Identity Management 구성 및 사용\n\n\n### <a name=\"module-458-security-in-microsoft-365\"></a>모듈 4 &#58; Microsoft 365 보안\n이 모듈에서는 존재하는 다양한 사이버 공격 위협을 설명합니다. 그런 다음 이러한 위협 완화를 위해 사용되는 Microsoft 솔루션을 소개합니다. 본 모듈은 Microsoft 보안 점수에 대한 설명과 조직의 보안 상태를 평가 및 보고하는데 사용할 수 있는 방법으로 끝납니다.\n#### <a name=\"lessons\"></a>단원\n- 위협 벡터 및 데이터 침해\n- 보안 전략 및 원칙\n- Microsoft 보안 솔루션\n- 보안 점수\n\n\n#### <a name=\"lab-58-use-microsoft-secure-score\"></a>랩 &#58; Microsoft 보안 점수 사용\n- Microsoft 365 보안 센터에서 보안 점수 향상\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 공격자가 이메일을 통해 사용자 계정을 손상시키는 데 사용하는 몇 가지 기술 설명.\n- 공격자가 리소스를 제어하기 위해 사용하는 기술 설명.\n- EOP 및 Microsoft Defender for Office 365를 사용하여 피할 수 있는 위협 유형 나열.\n- 보안 점수 혜택 및 분석할 수 있는 서비스 종류 설명.\n- 현재 Microsoft 365 보안 상태에서 격차 식별을 위한 보안 점수 사용 방법 설명.\n\n\n### <a name=\"module-558-threat-protection\"></a>모듈 5&#58; 위협 방지\n이 모듈에서는 Microsoft 365에서 사용할 수 있는 다양한 위협 방지 기술 및 서비스를 설명합니다. 이 모듈에서는 Exchange Online Protection, Microsoft Defender for Identity 및 엔드포인트용 Microsoft Defender를 통한 메시지 보호를 다룹니다.\n#### <a name=\"lessons\"></a>단원\n- Exchange Online Protection(EOP)\n- Office 365용 Microsoft Defender\n- 안전한 첨부 파일 관리\n- 안전한 링크 관리\n- Microsoft Defender for Identity\n- 엔드포인트에 대한 Microsoft Defender\n\n\n#### <a name=\"lab-58-manage-microsoft-365-security-services\"></a>랩 &#58; Microsoft 365 보안 서비스 관리\n- Microsoft Defender 정책 구현\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Exchange Online Protection에서 이메일 분석 시 맬웨어 방지 파이프라인 설명.\n- 안전 첨부 파일을 사용하여 이메일 첨부 파일 및 문서에서 제로 데이 맬웨어 차단 방법 설명.\n- 안전한 링크가 이메일 및 문서에 포함된 악성 URL로부터 사용자를 보호하는 방법 설명.\n- Microsoft Defender for Identity 구성.\n- 엔드포인트용 Microsoft Defender를 구성합니다. \n\n\n### <a name=\"module-658-threat-management\"></a>모듈 6 &#58; 위협 관리\n이 모듈에서는 사이버 위협 평가 및 해결과 대응 방법 고안 도구를 제공하는 Microsoft 위협 관리를 설명합니다. Microsoft 365 용 보안 대시보드 및 Azure Sentinel 사용 방법을 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- 보안 대시보드\n- 위협 조사 및 대응\n- Azure Sentinel\n- Advanced Threat Analytics\n\n\n#### <a name=\"lab-58-using-attack-simulator\"></a>랩 &#58; 공격 시뮬레이터 사용\n- 모의 스피어 피싱 공격 수행\n- 모의 암호 공격 수행\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 위협 탐색기를 사용한 위협 조사 및 테넌트 보호 방법 설명.\n- 보안 대시보드를 사용하여 C 레벨 경영진에게 주요 위험, 트랜드 제공 방법 설명.\n- 고급 위협 분석(ATA) 개념 및 배포 시 필요한 요구 사항 설명.\n- 고급 위협 분석 구성.\n- Microsoft 365에서 공격 시뮬레이터 사용.\n- Microsoft 365에서 Azure Sentinel 사용 방법 설명.  \n\n\n### <a name=\"module-758-microsoft-cloud-application-security\"></a>모듈 7 &#58; Microsoft 클라우드 애플리케이션 보안\n이 모듈은 Microsoft 365의 클라우드 애플리케이션 보안에 중점을 둡니다. 본 모듈에서는 클라우드 검색, 앱 커넥터, 정책 및 경고를 설명합니다. 클라우드 애플리케이션 보호를 위해 이러한 기능이 어떻게 작동하는지 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- 클라우드 애플리케이션 보안 배포\n- 클라우드 애플리케이션 보안 정보 사용\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Cloud App Security 설명.\n- Cloud App Security 배포 방법 설명.\n- 정책으로 클라우드 앱 제어.\n- 클라우드 앱 카탈로그 사용.\n- 클라우드 디스커버리 대시보드 사용.\n- 클라우드 앱 권한 관리.\n\n\n### <a name=\"module-858-mobility\"></a>모듈 8 &#58; 모바일\n이 모듈은 모바일 장치 및 응용 프로그램 보안에 관한 것입니다. 모바일 장치 관리 및 Microsoft Intune과의 작동 방식에 대해 학습합니다. Intune 및 Azure AD를 사용하여 모바일 응용 프로그램을 보호하는 방법을 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- MAM(모바일 애플리케이션 관리)\n- MDM(모바일 디바이스 관리)\n- 모바일 디바이스 서비스 배포\n- MDM에 디바이스 등록\n\n\n#### <a name=\"lab-58-device-management\"></a>랩 &#58; 디바이스 관리\n- 디바이스 관리 활성화\n- Azure AD for Intune 구성\n- 규정 준수 및 조건부 액세스 정책 생성\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 모바일 애플리케이션 고려 사항 설명.\n- MDM으로 디바이스 관리.\n- MDM용 도메인 구성.\n- 디바이스 보안 정책 관리.\n- MDM에 디바이스 등록.\n- 디바이스 등록 관리자 역할 구성.\n\n\n### <a name=\"module-958-information-protection-and-governance\"></a>모듈 9&#58; 정보 보호 및 거버넌스\n이 모듈은 Microsoft 365의 데이터 손실 방지에 중점을 둡니다. 데이터 보호를 위해 정책 생성, 규칙 편집 및 사용자 알림 사용자 지정 방법을 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- 정보 보호 개념\n- 거버넌스 및 레코드 관리\n- 민감도 레이블\n- Microsoft 365 보관\n- Microsoft 365 보존\n- Microsoft 365 규정 준수 센터에서 보존 정책\n- Exchange 아카이빙 및 보존\n- SharePoint 현재 위치 레코드 관리\n\n\n### <a name=\"lab-58-archiving-and-retention\"></a>랩 &#58; 보관 및 보존\n- 규정 준수 초기화\n- 보존 태그 및 정책 구현\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 민감도 레이블 구성.\n- Microsoft 365에서 보관 및 보존 구성.\n- 레코드 관리 계획 및 구성\n\n\n### <a name=\"module-1058-rights-management-and-encryption\"></a>모듈 10 &#58; 권한 관리 및 암호화\n본 모듈에서는 Exchange 및 SharePoint의 정보 권한 관리에 대해 설명합니다. 이 모듈에서는 메시지 보안에 사용되는 암호화 기술에 대해서도 설명합니다.\n#### <a name=\"lessons\"></a>단원\n- IRM(정보 권한 관리)\n- S-MIME(Secure Multipurpose Internet Mail Extension)\n- Office 365 메시지 암호화\n\n\n#### <a name=\"lab-58-configure-office-365-message-encryption\"></a>랩 &#58; Office 365 메시지 암호화 구성\n- Office 365 메시지 암호화 구성\n- 정보 권한 관리 유효성 검사\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 다양한 Microsoft 365 암호화 옵션 설명.\n- S/MIME의 사용 설명.\n- Office 365 메시지 암호화 설명 및 활성화.\n\n\n### <a name=\"module-1158-data-loss-prevention\"></a>모듈 11 &#58; 데이터 손실 방지\n이 모듈은 Microsoft 365의 데이터 손실 방지에 중점을 둡니다. 데이터 보호를 위해 정책 생성, 규칙 편집 및 사용자 알림 사용자 지정 방법을 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- 데이터 손실 방지 기초\n- DLP 정책 만들기\n- DLP 정책 사용자 지정\n- 문서 보호를 위한 DLP 정책 생성\n- 정책 팁\n\n\n#### <a name=\"lab-58-implement-data-loss-prevention-policies\"></a>랩 &#58; 데이터 손실 방지 정책 구현\n- DLP 정책 관리\n- MRM 및 DLP 정책 테스트\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 데이터 손실 방지(DLP) 설명.\n- 정책 템플릿을 사용하여 일반적으로 사용되는 정보에 대한 DLP 정책 구현.\n- 콘텐츠 보호를 위한 올바른 규칙 구성.\n- 기존 DLP 정책 규칙을 수정하는 방법 설명.\n- 사용자 재정의 옵션을 DLP 규칙으로 구성.\n- SharePoint Online이 문서에서 크롤링 속성을 만드는 방법 설명.\n\n\n### <a name=\"module-1258-compliance-management\"></a>모듈 12 &#58; 규정 준수 관리\n이 모듈에서는 Microsoft 365의 규정 준수 센터에 대해 설명합니다. 규정 준수 점수의 구성 요소에 대해 설명합니다.\n#### <a name=\"lessons\"></a>단원\n- 규정 준수 센터\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 규정 준수 점수를 사용하여 조직의 의사 결정을 내리는 방법을 설명합니다.\n- 평가를 사용하여 규정 준수 점수를 확인하는 방법을 설명합니다.\n\n\n### <a name=\"module-1358-insider-risk-management\"></a>모듈 13 &#58; 내부 위험 관리\n이 모듈은 Microsoft 365 내부 위험 관련 기능을 중점적으로 다룹니다. 규정 준수 센터의 내부 위험 관리뿐만 아니라 정보 장벽 및 권한 있는 액세스 관리도 다룹니다.\n#### <a name=\"lessons\"></a>단원\n- 내부 위험\n- 권한 있는 액세스\n- 정보 장벽\n- Exchange Online 교신 차단 영역 구축\n\n\n#### <a name=\"lab-58-privileged-access-management\"></a>랩 &#58; Privileged Access Management\n- 권한 있는 액세스 관리 설정 및 요청 처리\n\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Microsoft 365에서 내부 위험 관리 설명 및 구성.\n- 전역 관리자에 대한 권한 있는 액세스 요청 구성 및 승인.\n- 조직의 규정을 준수하기 위해 정보 장벽 구성 및 사용.\n- Exchange Online 교신 차단 영역 구축\n- 고객 Lockbox 구성\n\n\n### <a name=\"module-1458-discover-and-respond\"></a>모듈 14 &#58; 검색 및 응답\n이 모듈은 컨텐츠 검색 및 조사에 중점을 둡니다. 이 모듈에서는 eDiscovery를 사용하여 Microsoft 365 데이터에 대한 고급 조사를 수행하는 방법을 다룹니다. 또한 감사 로그를 다루고 GDPR 데이터 주체 요청을 설명합니다.\n#### <a name=\"lessons\"></a>단원\n- 콘텐츠 검색\n- 감사 로그 조사\n- 고급 eDiscovery\n\n\n#### <a name=\"lab--manage-search-and-investigation\"></a>랩: 검색 및 조사 관리\n- Microsoft 365 데이터 조사\n- 데이터 주체 요청 수행\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Microsoft 365에서 콘텐츠 검색 수행\n- 로그 조사 수행 및 감사.\n- 감사 로깅을 위해 Microsoft 365 구성.\n- 고급 eDiscovery 사용"

@@ -1,24 +1,30 @@
 ### YamlMime:Course
-title: 'Automating Administration with PowerShell '
+title: 'PowerShell을 사용한 관리 자동화 '
 metadata:
-  title: 'Course AZ-040T00--A: Automating Administration with PowerShell '
-  description: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+  title: '과정 AZ-040T00--A: Automating Administration with PowerShell '
+  description: '과정 AZ-040T00--A: Automating Administration with PowerShell '
+  ms.openlocfilehash: dfa46579ad7deb72bc8f050425571310e9410d1e
+  ms.sourcegitcommit: d9db2822e2366a78d5a15a2ccf2b715c667ee05f
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "132112595"
 uid: course.az-040t00
-courseNumber: 'AZ-040T00'
+courseNumber: AZ-040T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Windows PowerShell의 기능을 설명하고 이를 사용하여 기본 명령을 실행하고 찾습니다.
-- skill: 로컬 시스템 관리를 위한 cmdlets을 식별하고 실행합니다.
+- skill: Windows PowerShell 기능을 설명하고 이를 사용하여 기본 명령을 실행하고 찾습니다.
+- skill: 로컬 시스템 관리를 위한 cmdlet을 식별하고 실행합니다.
 - skill: Windows PowerShell 파이프라인으로 작업합니다.
-- skill: PSProviders 및 PSDrives를 사용하여 다른 형태의 저장소와 작업합니다. 
-- skill: WMI와 CIM를 사용하여 시스템 정보를 쿼리합니다. 
-- skill: 변수, 배열, 및 해시 테이블로 작업합니다.
-- skill: Windows PowerShell에서 기본 스크립트를 만듭니다. 
-- skill: Windows PowerShell로 원격 컴퓨터를 관리합니다. 
-- skill: PowerShell로 Azure 리소스를 관리합니다. 
-- skill: PowerShell로 Microsoft 365 서비스를 관리합니다. 
-- skill: 백그라운드 작업 및 정기 작업을 사용합니다. 
+- skill: PSProvider 및 PSDrive를 사용하여 다른 형태의 스토리지로 작업합니다.
+- skill: WMI 및 CIM을 사용하여 시스템 정보를 쿼리합니다.
+- skill: 변수, 배열 및 해시 테이블로 작업합니다.
+- skill: Windows PowerShell에서 기본 스크립트를 만듭니다.
+- skill: Windows PowerShell을 사용하여 원격 컴퓨터를 관리합니다.
+- skill: PowerShell을 사용하여 Azure 리소스를 관리합니다.
+- skill: PowerShell을 사용하여 Microsoft 365 서비스를 관리합니다.
+- skill: 백그라운드 작업 및 예약된 작업을 사용합니다.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -28,348 +34,495 @@ roles:
 - administrator
 products:
 - windows-server
-summary: |-
-  이 과정은 Windows servers 관리 및 자동화를 위해 PowerShell을 사용하기 위한 기본적인 지식 및 기술을 학생들에게 제공합니다. 이 과정은 학생들에게 특정 작업을 수행하는 데 필요한 명령을 식별하고 구축하기 위한 기술을 제공합니다. 또한, 학생들은 반복 작업 자동화 및 보고서 생성과 같은 고급 작업을 수행하기 위한 스크립트를 구축하는 방법을 배웁니다. 이 과정은 Windows Server, Windows Client, Microsoft Azure, 및 Microsoft 365를 포함한, 광범위한 Microsoft 제품을 지원하는 필수 기술을 제공합니다. 이러한 목표를 유지하는 데 있어, 이 과정은 이러한 제품 중 하나에 중점을 두지 않을 것이지만, 이러한 모든 제품의 공통 플랫폼인 Windows Server는, 이 과정에서 가르치는 기술에 대한 예가 될 것입니다.
+summary: >-
+  이 과정에서는 학생들에게 Windows 서버의 관리 및 관리 자동화를 위해 PowerShell을 사용하는 것에 관한 기본적인 지식과 기술을 제공합니다. 이 과정에서는 학생들에게 특정 작업을 수행하는 데 필요한 명령을 식별하고 빌드할 수 있는 기술을 제공합니다. 또한 학생은 반복적인 작업 자동화 및 보고서 생성과 같은 고급 작업을 수행하는 스크립트를 빌드하는 방법을 학습합니다. 이 과정에서는 Windows Server, Windows 클라이언트, Microsoft Azure 및 Microsoft 365를 포함하여 광범위한 Microsoft 제품을 지원하는 필수 기술을 제공합니다. 이러한 목표를 달성하기 위해 이 과정에서는 해당 제품 중 하나에 집중하지 않지만, 이러한 모든 제품에 대한 공통 플랫폼인 Windows Server가 이 과정에서 설명한 기술에 대한 예제로 사용될 것입니다.
 
-  #### 구독자 프로필
 
-  이 과정은 이미 일반적인 Windows Server, Windows client, Azure, 및 Microsoft 365 관리에 경험이 있고, 관리를 위해 Windows PowerShell을 사용하는 것에 대해 더 알아보려는 IT 전문가를 대상으로 합니다. 모든 버전의 PowerShell 또는 모든 스크립팅 언어에 대한 사전 경험이 없다고 가정합니다.  이 과정은 또한 Microsoft Exchange Server, Microsoft SharePoint Server, 및 Microsoft SQL Server를 포함하여, 이미 서버 관리에 경험이 있는 IT 전문가에게도 적합합니다. 
-prerequisitesSection: |-
+  #### <a name="audience-profile"></a>대상 프로필
+
+
+  이 과정은 이미 일반 Windows Server, Windows 클라이언트, Azure 및 Microsoft 365 관리 경험이 있고, 관리에 Windows PowerShell을 사용하는 방법에 대해 자세히 알아보려는 IT 전문가를 대상으로 합니다. PowerShell 버전 또는 스크립팅 언어에 대한 이전 경험이 없는 것으로 가정합니다. 이 과정은 또한 Microsoft Exchange Server, Microsoft SharePoint Server 및 Microsoft SQL Server를 포함하여 이미 서버 관리 관련 경험을 갖춘 IT 전문가에게 적합합니다.
+prerequisitesSection: >-
   이 과정에 참여하기 전, 학생들은 반드시 다음을 갖추어야 합니다:
-   * Windows 네트워킹 기술 및 구현 경험.
-   * Windows Server 관리, 유지, 및 문제 해결 경험.
-outlineSection: |-
-  ### 모듈 1: Windows PowerShell 시작하기
+   * Windows 네트워킹 기술 및 구현 경험
+   * Windows Server 관리, 유지 관리 및 문제 해결에 대한 경험
+outlineSection: >-
+  ### <a name="module-1-getting-started-with-windows-powershell"></a>모듈 1: Windows PowerShell 시작하기
 
-  이 모듈은 Windows PowerShell을 소개하고 제품의 기능에 대한 개요를 제공합니다. 이 모듈은 Windows PowerShell을 열고 구성하는 방법을 설명합니다. 또한 Windows PowerShell에서 명령을 실행하고 내장된 도움말 시스템을 사용하는 방법도 설명합니다. 
 
-  #### 레슨
+  이 모듈에서는 Windows PowerShell을 소개하고 제품 기능에 대한 개요를 제공합니다. 이 모듈은 Windows PowerShell을 열고 구성하는 방법을 설명합니다. 또한 명령을 실행하고 Windows PowerShell의 기본 제공 도움말 시스템을 사용하는 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
   *   Windows PowerShell 개요
-  *   Windows PowerShell 명령어 구문 이해
-  *   Windows PowerShell에서 명령어 찾기 및 도움 받기
 
-  #### 랩 : Windows PowerShell 구성, 및 명령어 찾기 및 실행
+
+  *   Windows PowerShell 명령 구문 이해
+
+
+  *   명령을 찾고 Windows PowerShell에서 도움말 확인
+
+
+
+  #### <a name="lab--configuring-windows-powershell-and-finding-and-running-commands"></a>랩: Windows PowerShell 구성, 명령 찾기 및 실행
+
 
   ####
-  *   Windows PowerShell 콘솔 애플리케이션 구성
-  *   Windows PowerShell ISE 애플리케이션 구성
-  *   Windows PowerShell 명령어 찾기 및 실행
-  *   정보 파일 사용
+     *   Windows PowerShell 콘솔 애플리케이션 구성
+     *   Windows PowerShell ISE 애플리케이션 구성
+     *   Windows PowerShell 명령 찾기 및 실행
+     *   파일 정보 사용
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  *   Windows PowerShell의 주요 기능을 설명하고, 이를 열고 구성합니다.
 
-  *   Windows PowerShell의 주요 기능을 설명하고, 이를 열고 구성합니다. 
 
   *   Windows PowerShell 명령을 검색, 학습 및 실행합니다.
 
-  *   특정 작업을 수행하기 위한 Windows PowerShell 명령을 찾습니다. 
+
+  *   특정 작업을 수행하기 위한 Windows PowerShell 명령을 찾습니다.
 
 
-  ### 모듈 2: 로컬 시스템 관리를 위한 Windows PowerShell 
 
-  이 모듈은 시스템 관리를 위해 일반적으로 사용되는 다양한 유형의 cmdlets를 소개합니다. 작업을 수행해야 할 때마다 cmdlets를 검색할 수 있지만, 이러한 cmdlets에 대한 기본적인 이해가 있는 것이 더 효율적입니다. 이 모듈은 또한 PowerShell을 사용하여 Windows 10을 관리하는 방법도 설명합니다. 
+  ### <a name="module-2-windows-powershell-for-local-systems-administration"></a>모듈 2: 로컬 시스템 관리를 위한 Windows PowerShell
 
-  #### 레슨
 
-  *   Active Directory Domain Services 관리 cmdlets
+  이 모듈에서는 시스템 관리에 일반적으로 사용되는 다양한 유형의 cmdlet을 소개합니다. 작업을 수행해야 할 때마다 cmdlet을 검색할 수 있지만 이러한 cmdlet을 기본적으로 이해하는 것이 더 효율적입니다. 이 모듈에서는 PowerShell을 사용하여 Windows 10을 관리하는 방법도 설명합니다.
 
-  *   네트워크 구성 cmdlets
 
-  *   서버 관리 cmdlets
+  #### <a name="lessons"></a>단원
+
+
+  *   Active Directory Domain Services 관리 cmdlet
+
+
+  *   네트워크 구성 cmdlet
+
+
+  *   서버 관리 cmdlet
+
 
   *   Windows 10의 Windows PowerShell
 
 
-  #### 랩 : PowerShell로 로컬 시스템 관리 수행
+
+  #### <a name="lab--performing-local-system-administration-with-powershell"></a>랩: PowerShell을 사용하여 로컬 시스템 관리 수행
+
 
   ####
-  *   Active Directory 객체 만들기 및 관리
-  *   Windows Server에서 네트워크 설정 구성
-  *   웹사이트 만들기
+     *   Active Directory 개체 만들기 및 관리
+     *   Windows Server에서 네트워크 설정 구성
+     *   웹 사이트 만들기
 
-  ####
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
-  *   AD DS 관리를 위한 cmdlets을 식별하고 사용합니다.
+  *   AD DS 관리를 위한 cmdlet을 식별하고 사용합니다.
 
-  *   네트워크 구성을 위한 cmdlets을 식별하고 사용합니다.
 
-  *   서버 관리 작업을 위한 cmdlets을 식별하고 사용합니다.
+  *   네트워크 구성을 위한 cmdlet을 식별하고 사용합니다.
+
+
+  *   서버 관리 작업을 위한 cmdlet을 식별하고 사용합니다.
+
 
   *   PowerShell을 사용하여 Windows 10 관리
 
 
-  ### 모듈 3: Windows PowerShell 파이프라인으로 작업하기
 
-  이 모듈은 Windows PowerShell의 파이프라인 기능을 소개합니다. 파이프라인 기능은 Windows 운영 시스템에서의 명령 프롬프트와 같은 여러 명령-줄 셸에 포함되어 있습니다. 그러나, Windows PowerShell의 파이프라인 기능은 다른 셸에 비교해서 더 복잡하고, 유연하며, 유능한 기능을 제공합니다. 이 모듈은 Windows PowerShell을 보다 효과적이고 효율적으로 사용하는 데 도움이 되는 기술과 지식을 제공합니다.
+  ### <a name="module-3-working-with-the-windows-powershell-pipeline"></a>모듈 3: Windows PowerShell 파이프라인 작업
 
-  #### 레슨
+
+  이 모듈에서는 Windows PowerShell의 파이프라인 기능을 소개합니다. 파이프라인 기능은 Windows 운영 체제의 명령 프롬프트와 같은 여러 명령줄 셸에 포함되어 있습니다. 하지만 Windows PowerShell 파이프라인 기능은 다른 셸에 비해 더욱 복잡하고 유연하며 사용 가능한 기능을 제공합니다. 이 모듈에서는 Windows PowerShell을 보다 효과적이고 효율적으로 사용하는 데 도움이 되는 기술과 지식을 제공합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   파이프라인 이해
 
-  *   객체 선택, 정렬, 및 측정
 
-  *   파이프라인에서 객체 필터링
+  *   개체 선택, 정렬 및 측정
 
-  *   파이프라인의 객체 열거 
+
+  *   파이프라인에서 개체 필터링
+
+
+  *   파이프라인에서 개체 열거
+
 
   *   파이프라인 데이터를 출력으로 보내고 전달
 
 
-  #### 랩 : PowerShell 파이프라인 사용
+
+  #### <a name="lab--using-powershell-pipeline"></a>랩: PowerShell 파이프라인 사용
+
 
   ####
-  *   데이터 선택, 정렬, 및 표시
-  *   객체 필터링
-  *   객체 열거
-  *   객체 변환
+     *   데이터 선택, 정렬 및 표시
+     *   개체 필터링
+     *   개체 열거
+     *   개체 변환
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-  *   Windows PowerShell 파이프라인의 목적을 설명합니다.
 
-  *   파이프라인에서 객체를 선택, 정렬 및 측정합니다.
+  *   Windows PowerShell 파이프라인의 용도를 설명합니다.
 
-  *   파이프라인에서 객체를 필터링합니다.
 
-  *   파이프라인에서 객체를 열거합니다.
+  *   파이프라인에서 개체를 선택, 정렬 및 측정합니다.
+
+
+  *   파이프라인에서 개체를 필터링합니다.
+
+
+  *   파이프라인에서 개체를 열거합니다.
+
 
   *   파이프라인 데이터로 구성된 출력을 보냅니다.
 
 
-  ### 모듈 4: PSProviders 및 PSDrives 사용하기
 
-  이 모듈은 PSProviders 및 PSDrives 어댑터를 소개합니다. PSProvider는 기본적으로 저장소의 일부 형태를 디스크 드라이브와 유사하게 만드는 Windows PowerShell 어댑터입니다. PSDrive는 저장소의 형태에 대한 실제 연결입니다. 이 두 어댑터를 사용하여 파일 시스템을 관리하는데 사용하는 것과 동일한 명령 및 기술을 사용하여 다양한 형태의 저장소로 작업할 수 있습니다.
-
-  #### 레슨
-
-  *   PSProviders 사용하기
-
-  *   PSDrives 사용하기
+  ### <a name="module-4-using-psproviders-and-psdrives"></a>모듈 4: PSProvider 및 PSDrive 사용
 
 
-  #### 랩 : PowerShell과 함께 PSProviders 및 PSDrives 사용 
+  이 모듈에서는 PSProvider 및 PSDrive 어댑터를 소개합니다. PSProvider는 기본적으로 하드 드라이브와 비슷한 형태의 스토리지를 만드는 Windows PowerShell 어댑터입니다. PSDrive는 스토리지 형태에 대한 실제 연결입니다. 파일 시스템을 관리하는 데 사용하는 것과 동일한 명령과 기술을 사용하여 이러한 두 기술을 사용하여 다양한 형태의 스토리지로 작업할 수 있습니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   PSProvider 사용
+
+
+  *   PSDrive 사용
+
+
+
+  #### <a name="lab--using-psproviders-and-psdrives-with-powershell"></a>랩: PowerShell에서 PSProvider 및 PSDrive 사용
+
 
   ####
-  *   원격 컴퓨터에서 파일 및 폴더 만들기
-  *   향후 스크립트를 위한 레지스트리 키 만들기
-  *   새로운 Active Directory 그룹 만들기
+     *   원격 컴퓨터에서 파일 및 폴더 만들기
+     *   향후 스크립트에 대한 레지스트리 키 만들기
+     *   새 Active Directory 그룹 만들기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-  *   PSProviders를 사용합니다. 
 
-  *   PSDrives를 사용합니다. 
+  *   PSProvider를 사용합니다.
 
-  ### 모듈 5: CIM 및 WMI를 사용하여 관리 정보 쿼리하기
 
-  이 모듈은 두 가지 병렬 기술을 소개합니다: Windows Management Instrumentation (WMI) 및 Common Information Model (CIM). 이 두 기술 모두 운영 시스템, 컴퓨터 하드웨어, 및 설치된 소프트웨어로부터 사용할 수 있는 강력한 정보에 대한 액세스를 포함하여 관리 정보의 저장소에 대한 원격 액세스를 제공합니다. 
+  *   PSDrive를 사용합니다.
 
-  #### 레슨
+
+
+  ### <a name="module-5-querying-management-information-by-using-cim-and-wmi"></a>모듈 5: CIM 및 WMI를 사용하여 관리 정보 쿼리
+
+
+  이 모듈에서는 두 가지 병렬 기술인 WMI(Windows Management Instrumentation) 및 CIM(Common Information Model)을 소개합니다. 이러한 두 기술은 모두 운영 체제, 컴퓨터 하드웨어 및 설치된 소프트웨어에서 사용할 수 있는 강력한 정보에 대한 액세스를 포함하여 관리 정보의 리포지토리에 대한 로컬 및 원격 액세스를 제공합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   CIM 및 WMI 이해
 
+
   *   CIM 및 WMI를 사용하여 데이터 쿼리
+
 
   *   CIM 및 WMI를 사용하여 변경
 
 
-  #### 랩 : WMI 및 CIM을 사용하여 정보 조회
+
+  #### <a name="lab--querying-information-by-using-wmi-and-cim"></a>랩: WMI 및 CIM을 사용하여 시스템 정보 쿼리
+
 
   ####
-  *   WMI를 사용하여 정보 조회
-  *   CIM을 사용하여 정보 조회
-  *   호출 방법
+     *   WMI를 사용하여 시스템 정보 쿼리
+     *   CIM을 사용하여 시스템 정보 쿼리
+     *   메서드 호출
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
-
-  *   CIM과 WMI를 구별합니다. 
-
-  *   CIM와 WMI를 사용하여 관리 정보를 쿼리합니다. 
-
-  *   CIM와 WMI를 사용하여 방법을 호출합니다. 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  ### 모듈 6: 변수, 배열, 및 해시 테이블로 작업하기
+  *   CIM과 WMI를 구분합니다.
 
-  변수는 스크립트의 필수 구성 요소입니다. 단일 명령을 사용하여 완료할 수 없는 복잡한 작업을 수행하는 데 변수를 사용할 수 있습니다. 이 모듈은 Windows PowerShell 스크립트를 만드는 방법을 배우는 단계로 변수, 배열, 및 해시 테이블로 작업하는 방법을 설명합니다.
 
-  #### 레슨
+  *   CIM 및 WMI를 사용하여 관리 정보를 쿼리합니다.
+
+
+  *   CIM 및 WMI를 사용하여 메서드를 호출합니다.
+
+
+
+  ### <a name="module-6-working-with-variables-arrays-and-hash-tables"></a>모듈 6: 변수, 배열 및 해시 테이블 작업
+
+
+  변수는 스크립트의 필수 구성 요소입니다. 변수를 사용하여 단일 명령으로 완료할 수 없는 복잡한 작업을 수행할 수 있습니다. 이 모듈에서는 Windows PowerShell 스크립트를 만드는 방법을 학습하는 단계로 변수, 배열 및 해시 테이블 작업 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   변수 사용
 
+
   *   변수 조작
+
 
   *   배열 및 해시 테이블 조작
 
 
-  #### 랩 : PowerShell에서 변수, 배열, 및 해시 테이블 사용
+
+  #### <a name="lab--using-variables-arrays-and-hash-tables-in-powershell"></a>랩: PowerShell에서 변수, 배열 및 해시 테이블 사용
+
 
   ####
-  *   변수 유형으로 작업
-  *   배열 사용
-  *   해시 테이블 사용
+     *   변수 형식 작업
+     *   배열 사용
+     *   해시 테이블 사용
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
 
   *   변수에 값을 할당합니다.
 
+
   *   변수를 조작하는 방법을 설명합니다.
 
-  *   배열과 해시 테이블을 조작하는 방법을 설명합니다.
 
-  ### 모듈 7: Windows PowerShell 스크립팅
+  *   배열 및 해시 테이블을 조작하는 방법을 설명합니다.
 
-  이 모듈은 스크립트에서 Windows PowerShell 명령을 패키지하는 방법을 설명합니다. 스크립트를 사용하면 단일 명령으로 완수할 수 없는 반복적인 작업과 더 복잡한 작업을 수행할 수 있습니다. 
 
-  #### 레슨
+
+  ### <a name="module-7-windows-powershell-scripting"></a>모듈 7: Windows PowerShell 스크립팅
+
+
+  이 모듈에서는 스크립트에서 Windows PowerShell 명령을 패키지하는 방법을 설명합니다. 스크립트를 사용하면 단일 명령에서 수행할 수 없는 보다 반복적이면서 복잡한 작업을 수행할 수 있습니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Windows PowerShell을 사용한 스크립팅 소개
 
-  *   스크립트 구성
+
+  *   스크립트 구문
+
 
   *   파일에서 데이터 가져오기
 
+
   *   사용자 입력 수락
 
-  *   문제 해결 및 오류 처리하기
+
+  *   문제 해결 및 오류 처리
+
 
   *   함수 및 모듈
 
-  #### 랩 : PowerShell로 스크립트 사용
 
-  * 스크립트 서명하기
-  * ForEach 루프로 배열 처리하기
-  * If 문을 사용하여 항목 처리하기
-  * CSV 파일 기반 사용자 만들기
-  * 원격 컴퓨터에서 디스크 정보 쿼리하기
-  * 대체 자격 증명을 사용하기 위해 스크립트 업데이트하기
+
+  #### <a name="lab--using-scripts-with-powershell"></a>랩: PowerShell에서 스크립트 사용
+
 
   ####
+     *   스크립트 서명
+     *   ForEach 루프를 통해 배열 처리
+     *   If 문을 사용하여 항목 처리
+     *   CSV 파일을 기반으로 사용자 만들기
+     *   원격 컴퓨터에서 디스크 정보 쿼리
+     *   대체 자격 증명을 사용하도록 스크립트 업데이트
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
 
   *   Windows PowerShell 스크립트를 실행합니다.
-  *   Windows PowerShell 스크립팅 구성을 사용합니다.
+
+
+  *   Windows PowerShell 스크립팅 구문을 사용합니다.
+
+
   *   파일에서 데이터를 가져옵니다.
+
+
   *   스크립트에 대한 사용자 입력을 수락합니다.
+
+
   *   스크립트에 대한 오류 처리를 구현합니다.
-  *   기능과 모듈을 설명합니다.
 
 
-  ### 모듈 8: Windows PowerShell으로 원격 컴퓨터 관리하기
+  *   함수 및 모듈을 설명합니다.
 
-  이 모듈은 하나 이상의 원격 컴퓨터에 연결하고 사용자를 대신하여 명령을 실행하도록 지시할 수 있는 Windows PowerShell 원격 기술을 소개합니다.  
 
-  #### 레슨
+
+  ### <a name="module-8-administering-remote-computers-with-windows-powershell"></a>모듈 8: Windows PowerShell을 사용하여 원격 컴퓨터 관리
+
+
+  이 모듈에서는 하나 이상의 원격 컴퓨터에 연결하고 사용자 대신 명령을 실행하도록 지시할 수 있는 Windows PowerShell 원격 기술을 소개합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   기본 Windows PowerShell 원격 사용
 
+
   *   고급 Windows PowerShell 원격 기술 사용
 
-  *   PSSessions 사용
+
+  *   PSSession 사용
 
 
-  #### 랩 : PowerShell로 원격 관리 수행
+
+  #### <a name="lab--performing-remote-administration-with-powershell"></a>랩: PowerShell을 사용하여 원격 관리 수행
+
 
   ####
-  *   로컬 컴퓨터에서 원격 활성화
-  *   일-대-일 원격 수행
-  *   일-대-다 원격 수행
-  *   암시적 원격 사용
+     *   로컬 컴퓨터에서 원격 사용
+     *   일대일 원격 수행
+     *   일대다 원격 수행
+     *   암시적 원격 사용
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  *   원격 아키텍처 및 보안에 대해 설명합니다.
 
-  *   원격 아키텍처 및 보안을 설명합니다.
 
   *   고급 Windows PowerShell 원격 기술을 사용합니다.
 
-  *   지속적인 원격 세션을 만들고 관리합니다.
 
-  ### 모듈 9: PowerShell로 Azure 리소스 관리하기
+  *   영구 원격 세션을 만들고 관리합니다.
 
-  이 모듈은 cloud 서비스 관리에 필요한 모듈을 설치하는 것에 대한 정보를 제공합니다. PowerShell 명령어를 사용하여 Azure virtual machines (VMs), Azure storage 계정, 및 Azure 구독과 같은 cloud 리소스에서 간단한 관리 작업을 수해하는 방법을 설명합니다. 이 모듈은 또한 Azure Cloud Shell 환경을 사용하여 Azure 포털에서 직접 PowerShell-기반 또는 Bash-기반 관리를 수행하는 방법도 설명합니다.
 
-  #### 레슨
+
+  ### <a name="module-9-managing-azure-resources-with-powershell"></a>모듈 9: PowerShell을 사용하여 Azure 리소스 관리
+
+
+  이 모듈에서는 클라우드 서비스 관리에 필요한 모듈을 설치하는 것에 대한 정보를 제공합니다. PowerShell 명령을 사용하여 Azure VM(가상 머신), Azure 스토리지 계정 및 Azure 구독과 같은 클라우드 리소스에서 몇 가지 간단한 관리 작업을 수행하는 방법을 설명합니다. 이 모듈에서는 Azure Cloud Shell 환경을 사용하여 Azure Portal에서 직접 PowerShell 기반 또는 Bash 기반 관리를 수행하는 방법에 대해서도 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Azure PowerShell
 
+
   *   Azure Cloud Shell 소개
 
-  *   PowerShell로 Azure VMs 관리
 
-  *   저장소 및 구독 관리
+  *   PowerShell을 사용하여 Azure VM 관리
 
 
-  #### 랩 : PowerShell로 Azure 리소스 관리
+  *   스토리지 및 구독 관리
+
+
+
+  #### <a name="lab--azure-resource-management-with-powershell"></a>랩: PowerShell을 사용하여 Azure 리소스 관리
+
 
   ####
-  *   Azure 구독 활성화 및 PowerShell Az 모듈 설치
-  *   Azure Cloud Shell 사용
-  *   Azure PowerShell로 Azure 리소스 관리
+     *   Azure 구독 활성화 및 PowerShell AZ 모듈 설치
+     *   Azure Cloud Shell 사용
+     *   Azure PowerShell을 사용하여 Azure 리소스 관리
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-  *   Azure PowerShell 환경 설명, 설치, 및 사용
+
+  *   Azure PowerShell 환경을 설명, 설치 및 사용합니다.
+
+
   *   Azure Cloud Shell을 설명하고 사용합니다.
-  *   PowerShell로 Azure VMs을 관리합니다.
-  *   Azure PowerShell로 Azure 스토리지 계정 및 구독을 관리합니다. 
 
 
-  ### 모듈 10: PowerShell로 Microsoft 365 서비스 관리하기
+  *   PowerShell을 사용하여 Azure VM을 관리합니다.
 
-  이 모듈은 PowerShell을 사용하여 Microsoft 365 사용자 계정, 라이선스, 및 그룹, Exchange Online, SharePoint Online, 및 Microsoft Teams를 관리하는 방법을 설명합니다.
 
-  #### 레슨
+  *   Azure PowerShell을 사용하여 Azure 스토리지 계정 및 구독을 관리합니다.
 
-  *   PowerShell로 Microsoft 365 사용자 계정, 라이선스, 및 그룹 관리 
 
-  *   PowerShell로 Exchange Online 관리
 
-  *   PowerShell로 SharePoint Online 관리
+  ### <a name="module-10-managing-microsoft-365-services-with-powershell"></a>모듈 10: PowerShell을 사용하여 Microsoft 365 서비스 관리
 
-  *   PowerShell로 Microsoft Teams 관리
 
-  #### 랩 : PowerShell로 Microsoft 365 관리
+  이 모듈에서는 PowerShell을 사용하여 Microsoft 365 사용자 계정, 라이선스, 그룹, Exchange Online, SharePoint Online 및 Microsoft Teams를 관리하는 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   PowerShell을 사용하여 Microsoft 365 사용자 계정, 라이선스 및 그룹 관리
+
+
+  *   PowerShell을 사용하여 Exchange Online 관리
+
+
+  *   PowerShell을 사용하여 SharePoint Online 관리
+
+
+  *   PowerShell을 사용하여 Microsoft Teams 관리
+
+
+
+  #### <a name="lab--managing-microsoft-365-with-powershell"></a>랩: PowerShell을 사용하여 Microsoft 365 관리
+
 
   ####
-  *   Azure AD에서 사용자 및 그룹 관리 
-  *   Exchange Online 관리 
-  *   SharePoint 관리 
-  *   Microsoft Teams 관리 
+     *   Azure AD에서 사용자 및 그룹 관리
+     *   Exchange Online 관리
+     *   SharePoint 관리
+     *   교실 및 온라인 교육 찾기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-  *   Azure AD에서 사용자, 그룹, 및 라이선스를 관리하기 위해 PowerShell 사용
 
-  *   PowerShell로 Exchange Online을 관리합니다.
+  *   PowerShell을 사용하여 Azure AD에서 사용자, 그룹 및 라이선스를 관리합니다.
 
-  *   PowerShell로 SharePoint Online을 관리합니다.
 
-  *   PowerShell로 Microsoft Teams를 관리합니다.
+  *   PowerShell을 사용하여 Exchange Online을 관리합니다.
 
-  ### 모듈 11: 백그라운드 작업 및 정기 작업 사용하기
 
-  이 모듈은 백그라운드 작업과 정기 작업을 사용하는 방법을 설명합니다. 또한 정기 작업을 만들고 작업 결과를 검색하는 방법을 설명합니다.
+  *   PowerShell을 사용하여 SharePoint Online을 관리합니다.
 
-  #### 레슨
+
+  *   PowerShell을 사용하여 Microsoft Teams를 관리합니다.
+
+
+
+  ### <a name="module-11-using-background-jobs-and-scheduled-jobs"></a>모듈 11: 백그라운드 작업 및 예약된 작업 사용
+
+
+  이 모듈에서는 백그라운드 작업 및 예약된 작업을 사용하는 방법을 설명합니다. 또한 예약된 작업을 만들고 작업 결과를 검색하는 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   백그라운드 작업 사용
 
-  *   정기 작업 사용
+
+  *   예약된 작업 사용
 
 
-  #### 랩 : PowerShell로 작업 관리
+
+  #### <a name="lab--jobs-management-with-powershell"></a>랩: PowerShell을 사용하여 작업 관리
+
 
   ####
-  *   작업 시작 및 관리
-  *   정기 작업 만들기
+     *   작업 시작 및 관리
+     *   예약된 작업 만들기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-  *   백그라운드 작업을 만들고 관리합니다. 
-  *   정기 작업을 만들고 관리합니다. 
 
+  *   백그라운드 작업을 만들고 관리합니다.
+
+
+  *   예약된 작업을 만들고 관리합니다.
