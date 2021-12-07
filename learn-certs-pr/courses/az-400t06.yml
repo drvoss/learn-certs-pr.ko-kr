@@ -1,25 +1,31 @@
 ### YamlMime:Course
 title: Implementing Continuous Feedback
 metadata:
-  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
-  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  title: '과정 AZ-400T06-A: Implementing Continuous Feedback'
+  description: '과정 AZ-400T06-A: Implementing Continuous Feedback'
+  ms.openlocfilehash: c8116f08906e97a0e68e5ac183ff13f6ddbf934a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107600"
 uid: course.az-400t06
-courseNumber: 'AZ-400T06-A'
+courseNumber: AZ-400T06-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 최종 사용자 만족도를 측정하는 방법 설계
 - skill: 외부 소스에서 받은 사용자 피드백 확보 및 분석 프로세스 설계
-- skill: 클라이언트 애플리케이션 오작동 보고서 데이터의 라우팅 설계
+- skill: 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 설계
 - skill: 모니터링 도구 및 기술 추천
-- skill: 시스템 및 기능 사용 추적 도구 추천
+- skill: 시스템 및 기능 사용 현황 추적 도구 권장
 - skill: 클라이언트 애플리케이션 충돌 보고서 통합 구성
-- skill: 모니터링 및 상태 대시 보드 개발
-- skill: 클라이언트 애플리케이션 오작동 보고서 데이터의 라우팅 구현
-- skill: 시스템 사용, 기능 사용 및 흐름 추적 도구 구현
+- skill: 모니터링 및 상태 대시보드 개발
+- skill: 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 구현
+- skill: 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현
 - skill: 개발 팀의 업무 관리 시스템과 티켓 시스템 통합 및 구성
-- skill: 기준 설정을 위한 경고 분석
-- skill: 원격 분석을 통한 기준 설정
+- skill: 경고를 분석하여 기준선 설정
+- skill: 원격 분석 데이터를 분석하여 기준선 설정
 - skill: 실시간 사이트 검토 수행 및 시스템 중단 관련 피드백 확보
 - skill: 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
 learningPartnersLink: /learn/certifications/partners
@@ -37,58 +43,98 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  본 과정에서는 지속적 피드백을 구현하기 위한 지식과 기술을 제공합니다. 시스템 피드백 메커니즘을 권장 및 설계하고, 시스템 피드백을 개발 팀으로 라우팅하는 프로세스를 구현하며, 피드백 메커니즘을 최적화하는 방법을 설명합니다.
-  #### 대상 그룹 프로필
+summary: >-
+  이 과정에서는 지속적인 피드백을 구현하기 위한 지식과 기술을 제공합니다. 시스템 피드백 메커니즘을 추천 및 설계하고, 시스템 피드백을 개발 팀으로 라우팅하는 프로세스를 구현하고, 피드백 메커니즘을 최적화하는 방법을 배우게 됩니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
   본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
-prerequisitesSection: |-
-  본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
-outlineSection: |-
-  ### 모듈 1&#58; 시스템 피드백 메커니즘 권장 및 설계
-  #### 단원
+prerequisitesSection: 본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
+outlineSection: >-
+  ### <a name="module--158-recommend-and-design-system-feedback-mechanisms"></a>모듈 1: 시스템 피드백 메커니즘 추천 및 설계
+
+  #### <a name="lessons"></a>단원
+
   - 내부 루프
+
   - 지속적 실험 사고방식
+
   - 최종 사용자 만족도를 측정하는 방법 설계
+
   - 사용자 피드백 확보 및 분석 프로세스 설계
-  - 애플리케이션 분석 자동화 프로세스 설계
 
-  #### 랩 &#58; Azure DevOps 및 Teams 통합
+  - 애플리케이션 분석을 자동화하는 프로세스 설계
 
-  #### 랩 &#58; 기능 플래그
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+
+
+  #### <a name="lab-58-integration-between-azure-devops-and-teams"></a>랩: Azure DevOps와 Teams 통합
+
+
+  #### <a name="lab-58-feature-flags"></a>랩: 기능 플래그
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 최종 사용자 만족도를 측정하는 방법 설계
+
   - 외부 소스에서 받은 사용자 피드백 확보 및 분석 프로세스 설계
-  - 클라이언트 애플리케이션 오작동 보고서 데이터의 라우팅 설계
+
+  - 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 설계
+
   - 모니터링 도구 및 기술 추천
-  - 시스템 및 기능 사용 추적 도구 추천
+
+  - 시스템 및 기능 사용 현황 추적 도구 권장
 
 
-  ### 모듈 2&#58; 개발 팀에 시스템 피드백 라우팅을 위한 프로세스 구현
-  #### 단원
-  - 시스템 사용, 기능 사용 및 흐름 추적 도구 구현
+
+  ### <a name="module--258-implement-process-for-routing-system-feedback-to-development-teams"></a>모듈 2: 개발팀에 시스템 피드백 라우팅을 위한 프로세스 구현
+
+  #### <a name="lessons"></a>단원
+
+  - 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현
+
   - 모바일 애플리케이션 오작동 보고서 데이터의 라우팅 구현
-  - 모니터링 및 상태 대시 보드 개발
+
+  - 모니터링 및 상태 대시보드 개발
+
   - 티켓 시스템 통합 및 구성
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 클라이언트 애플리케이션 충돌 보고서 통합 구성
-  - 모니터링 및 상태 대시 보드 개발
-  - 클라이언트 애플리케이션 오작동 보고서 데이터의 라우팅 구현
-  - 시스템 사용, 기능 사용 및 흐름 추적 도구 구현
+
+  - 모니터링 및 상태 대시보드 개발
+
+  - 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 구현
+
+  - 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현
+
   - 개발 팀의 업무 관리와 티켓 시스템 통합 및 구성
 
 
-  ### 모듈 3&#58; 피드백 메커니즘 최적화
-  #### 단원
-  - Site Reliability Engineering
-  - 원격 분석을 통한 기준 설정
-  - 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
-  - 기준 설정을 위한 경고 분석
-  - Blameless PostMortems 및 Just Culture
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 기준 설정을 위한 경고 분석
-  - 원격 분석을 통한 기준 설정
+  ### <a name="module--358-optimize-feedback-mechanisms"></a>모듈 3: 피드백 메커니즘 최적화
+
+  #### <a name="lessons"></a>단원
+
+  - 사이트 안정성 엔지니어링
+
+  - 원격 분석 데이터를 분석하여 기준선 설정
+
+  - 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
+
+  - 경고를 분석하여 기준선 설정
+
+  - 비난하지 않는 사후 분석 및 공정한 문화
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 경고를 분석하여 기준선 설정
+
+  - 원격 분석 데이터를 분석하여 기준선 설정
+
   - 실시간 사이트 검토 수행 및 시스템 중단 관련 피드백 확보
-  - 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
 
+  - 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행

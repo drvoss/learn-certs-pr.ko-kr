@@ -1,23 +1,29 @@
 ### YamlMime:Course
 title: Microsoft 365 Security Management
 metadata:
-  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
-  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  title: '과정 MS-101T01-A: Microsoft 365 Security Management'
+  description: '과정 MS-101T01-A: Microsoft 365 Security Management'
+  ms.openlocfilehash: e18e0c7cfd7919b7227e136fb7f3d188bad90656
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107069"
 uid: course.ms-101t01
-courseNumber: 'MS-101T01-A'
+courseNumber: MS-101T01-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 보안 메트릭 관리
-- skill: Microsoft 365에서 보안 솔루션 구축
+- skill: Microsoft 365에서 보안 솔루션 구현
 - skill: Azure AD ID 보호 계획 및 구성
 - skill: Microsoft Secure Score 구현
 - skill: Exchange Online Protection 구현
 - skill: Advanced Threat Protection 구현
 - skill: 안전한 첨부 파일 및 안전한 링크 관리
-- skill: Office 365 위협 인텔리전스 구현
-- skill: Microsoft 365 보안 대시 보드 사용
-- skill: Advanced Threat Analytics 구성
+- skill: Microsoft 365 위협 인텔리전스 구현
+- skill: Microsoft 365 보안 대시보드 사용
+- skill: 고급 위협 분석 구성
 - skill: 클라우드 애플리케이션 보안 구현
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -32,37 +38,61 @@ products:
 - office-365
 exams:
 - uid: exam.ms-101
-summary: |-
-  보안 메트릭 관리 방법, Azure AD ID 보호 활성화 방법, Microsoft 365 보안 관리 서비스 구성 및 Microsoft 365 위협 인텔리전스 사용 방법을 포함하여 Microsoft 365 Security Management에 대해 알아 봅시다.
-  #### 대상 그룹 프로필
+summary: >-
+  보안 메트릭을 관리하는 방법, Azure AD ID 보호를 활성화하는 방법, Microsoft 365 보안 서비스를 구성하는 방법, 사용자 Microsoft 365 위협 인텔리전스 등 Microsoft 365 보안 관리에 대해 알아봅니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
   본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
-prerequisitesSection: |-
-  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 , 같은 역할 기반 관리자 과정을 이수했습니다.
-  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
+prerequisitesSection: >-
+  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 같은 역할 기반 관리자 과정을 이수.
+
+  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험
+
   - 일반적인 IT 관행에 대한 능숙한 이해
-outlineSection: |-
-  ### 모듈 1&#58; Microsoft 365 Tenant 디자인
-  #### 단원
+outlineSection: >-
+  ### <a name="module--158-designing-your-microsoft-365-tenant"></a>모듈 1: Microsoft 365 테넌트 설계
+
+  #### <a name="lessons"></a>단원
+
   - Microsoft 365 온-프레미스 인프라 계획
+
   - ID 및 인증 솔루션 계획
 
-  ### 모듈 2&#58; Microsoft 365 Tenant 구성
-  #### 단원
-  - Microsoft 365 Experience 계획
-  - Microsoft 365 Experience 구성
+
+
+  ### <a name="module--258-configuring-your-microsoft-365-tenant"></a>모듈 2: Microsoft 365 테넌트 구성
+
+  #### <a name="lessons"></a>단원
+
+  - Microsoft 365 환경 계획
+
+  - Microsoft 365 환경 구성
+
   - FastTrack 및 파트너 서비스 활용
-  - 도메인 서비스 구현
 
-  ### 모듈 3&#58; Microsoft 365 Tenant 관리
-  #### 단원
+  - 자체 도메인 서비스 구현
+
+
+
+  ### <a name="module--358-managing-your-microsoft-365-tenant"></a>모듈 3: Microsoft 365 테넌트 관리
+
+  #### <a name="lessons"></a>단원
+
   - 테넌트 역할 구성
-  - 테넌트 상태 및 서비스 구성
+
+  - 테넌트 상태 및 서비스 관리
 
 
-  ### 모듈 4&#58; 실습 교육
 
-  #### 랩 &#58; Microsoft 365 Security 관리
-  - 연습 1&#58; 랩 환경 설정
-  - 연습 2&#58; 고급 위협 보호(ATP) 안전한 링크 정책 변경 및 안전한 첨부 파일 정책 생성
-  - 연습 3&#58; 고급 위협 분석(ATA) 센터 활성화 및 설치
+  ### <a name="module--458-hands-on-lab"></a>모듈 4: 실습 랩
 
+
+  #### <a name="lab-58-managing-microsoft-365-security"></a>랩: Microsoft 365 보안 관리
+
+  - 연습 1: 랩 환경 설정
+
+  - 연습 2: ATP 안전한 링크 정책 편집 및 안전한 첨부 파일 정책 작성
+
+  - 연습 3: ATA 센터 활성화 및 설치

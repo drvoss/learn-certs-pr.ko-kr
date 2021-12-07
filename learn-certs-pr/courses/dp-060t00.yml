@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Migrate NoSQL workloads to Azure Cosmos DB
 metadata:
-  title: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
-  description: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+  title: '과정 DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+  description: '과정 DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+  ms.openlocfilehash: 932297ed517816bc895d7ccc002805a0720575b6
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107533"
 uid: course.dp-060t00
-courseNumber: 'DP-060T00-A'
+courseNumber: DP-060T00-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -23,84 +29,127 @@ roles:
 - data-engineer
 products:
 - azure
-summary: |-
+summary: >-
   이 과정에서는 학생들에게 Cosmos DB 개념과 MongoDB 및 Cassandra 워크로드를 Cosmos DB로 마이그레이션하는 방법을 알려줍니다.
 
-  #### 대상 그룹 프로필
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
   이 과정의 주요 대상 그룹은 MongoDB 또는 Cassandra DB 워크로드를 Cosmos DB를 사용하여 Azure로 마이그레이션하려는 데이터베이스 개발자입니다.
-prerequisitesSection: |-
-  성공적인 학생들은 클라우드 컴퓨팅 개념에 대한 기본 지식과 NoSQL 애플리케이션 구성에 대한 전문 경험을 바탕으로 이 역할을 시작합니다.
-  
-  구체적으로&#58;
-  - Cosmos DB API와 무관한 확장 가능한 NoSQL 애플리케이션을 구축 및 구성하기 위한 분할, 복제 및 리소스 거버넌스의 기본 개념.
-  - 리소스 배포 및 관리와 같은 Azure 경험
-  
-  이러한 기술을 습득하려면, 과정에 참석하기 전에 다음 무료 온라인 교육을 수강하십시오&#58;
-  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
-  - [Core cloud services – Azure compute options](/learn/modules/intro-to-azure-compute/)
-  - [사례 연구&#58; NoSQL databases 와 cloud object storage](/learn/modules/cmu-case-study-nosql-databases/)
-outlineSection: |-
-  ### 모듈 1&#58; Cosmos DB를 사용하여 전 세계에 분산된 애플리케이션 구축
+prerequisitesSection: "성공적인 학생은 클라우드 컴퓨팅 개념에 대한 기본 지식과 NoSQL 애플리케이션 구성에 대한 전문적 경험을 갖추고 이 역할을 시작합니다.\n\n구체적으로\n- Cosmos DB API 독립적인 확장 가능한 NoSQL 애플리케이션을 구축하고 구성하기 위한 파티셔닝, 복제 및 자원 관리의 기본 개념. \n-   Azure를 사용한 리소스 배포 및 관리 등의 경험\n\n이러한 기술을 배우려면 이 과정에 참여하기 전에 다음과 같은 무료 온라인 교육을 수강하세요.\n-   [Azure 데이터 기본 사항](/learn/certifications/azure-data-fundamentals)\n-   [핵심 클라우드 서비스 – Azure 컴퓨팅 옵션](/learn/modules/intro-to-azure-compute/)\n-   [사례 연구: NoSQL 데이터베이스 및 클라우드 개체 스토리지](/learn/modules/cmu-case-study-nosql-databases/)"
+outlineSection: >-
+  ### <a name="module-158-building-globally-distributed-applications-with-cosmos-db"></a>모듈 1: Cosmos DB를 사용하여 전 세계에 분산된 애플리케이션 구축
+
   본 모듈에서는 Cosmos DB의 혜택 및 아키텍처를 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - Cosmos DB 개요
-  - Cosmos DB APIs
-  - 프로비저닝 처리량
+
+  - Cosmos DB API
+
+  - 처리량 프로비전
+
   - 파티셔닝/샤딩 모범 사례
 
-  이 모듈 끝에서 학생들은 다음을 설명 할 수 있습니다&#58;
+
+  이 모듈 끝에서 학생들은 다음을 설명 할 수 있습니다:
+
   - Cosmos DB 개요
-  - Cosmos DB APIs
-  - 프로비저닝 처리량
+
+  - Cosmos DB API
+
+  - 처리량 프로비전
+
   - 파티셔닝/샤딩 모범 사례
 
 
-  ### 모듈 2&#58; MongoDB 워크로드를 Cosmos DB로 마이그레이션
+
+  ### <a name="module-258-migrate-mongodb-workloads-to-cosmos-db"></a>모듈 2: MongoDB 워크로드를 Cosmos DB로 마이그레이션
+
   MongoDB 워크로드를 Cosmos DB로 마이그레이션
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 마이그레이션 이점 이해
+
   - 마이그레이션 계획
+
   - 데이터 마이그레이션
+
   - 애플리케이션 마이그레이션
-  - 마이그레이션 이후 고려 사항
+
+  - 마이그레이션 후 고려 사항
 
 
-  #### 랩&#58; MongoDB 워크로드를 Cosmos DB로 마이그레이션
-  - 마이그레이션 프로젝트 생성
+
+  #### <a name="lab-58-migrating-mongodb-workloads-to-cosmos-db"></a>랩: MongoDB 워크로드를 Cosmos DB로 마이그레이션
+
+  - 마이그레이션 프로젝트 만들기
+
   - 원본 및 대상 정의
+
   - 마이그레이션 수행
+
   - 마이그레이션 검증
 
-  이 모듈을 끝내면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  이 모듈을 끝내면 학생들은 다음을 수행할 수 있습니다:
+
   - 마이그레이션 이점 이해
+
   - 마이그레이션 계획 수행
+
   - 데이터 마이그레이션 수행
-  - 응용 프로그램 마이그레이션 수행
+
+  - 애플리케이션 마이그레이션 수행
+
   - 마이그레이션 후 고려 사항 수행
 
 
-  ### 모듈 3&#58; Cassandra DB 워크로드를 Cosmos DB로 마이그레이션
+
+  ### <a name="module-358-migrate-cassandra-db-workloads-to-cosmos-db"></a>모듈 3: Cassandra DB 워크로드를 Cosmos DB로 마이그레이션
+
   이 모듈에서는 Cassandra DB 워크로드를 Cosmos DB로 마이그레이션할 때의 이점과 프로세스를 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 마이그레이션 이점 이해
+
   - 마이그레이션 계획
+
   - 데이터 마이그레이션
+
   - 애플리케이션 마이그레이션
-  - 마이그레이션 이후 고려 사항
+
+  - 마이그레이션 후 고려 사항
 
 
-  #### 랩&#58; Cassandra DB 워크로드를 Cosmos DB로 마이그레이션
+
+  #### <a name="lab-58-migrating-cassandra-db-workloads-to-cosmos-db"></a>랩: Cassandra DB 워크로드를 Cosmos DB로 마이그레이션
+
   - 스키마 내보내기
+
   - CQLSH COPY를 사용하여 데이터 이동
+
   - Spark를 사용하여 데이터 이동
+
   - 마이그레이션 검증
 
-  이 모듈을 끝내면 학생들은 다음을 수행할 수 있습니다&#58;
+
+  이 모듈을 끝내면 학생들은 다음을 수행할 수 있습니다:
+
   - 마이그레이션 이점 이해
+
   - 마이그레이션 계획 수행
+
   - 데이터 마이그레이션 수행
-  - 응용 프로그램 마이그레이션 수행
+
+  - 애플리케이션 마이그레이션 수행
+
   - 마이그레이션 후 고려 사항 수행
 
-  #### 추가 자료
+
+  #### <a name="additional-reading"></a>추가 자료
+
   이 과정을 수강하는 데 필요한 추가 읽기 자료는 없습니다.

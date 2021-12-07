@@ -1,17 +1,23 @@
 ### YamlMime:Course
 title: Microsoft Identity and Access Administrator
 metadata:
-  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
-  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  title: '과정 SC-300T00--A: Microsoft Identity and Access Administrator'
+  description: '과정 SC-300T00--A: Microsoft Identity and Access Administrator'
+  ms.openlocfilehash: efcc191b456e8d0dba29b1d048a0dbb0b8a393f0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106968"
 uid: course.sc-300t00
-courseNumber: 'SC-300T00-A'
+courseNumber: SC-300T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 신원 관리 솔루션 구현
-- skill: 인증 및 접근 관리 솔루션 구현
-- skill: 앱에 대한 접근 관리 구현
-- skill: 신원 거버넌시 전략 계획 및 구현
+- skill: ID 관리 솔루션 구현
+- skill: 인증 및 액세스 관리 솔루션 구현
+- skill: 앱의 액세스 관리 구현
+- skill: ID 거버넌스 전략 계획 및 구현
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,139 +32,360 @@ products:
 - azure
 exams:
 - uid: exam.sc-300
-summary: |-
-  이 과정은 IT 보안 전문가와 함께 IT 신원 및 접근 전문가에게 Microsoft Azure AD 및 연결된 신원 기술을 기반으로 신원 관리 솔루션을 구현하는데 필요한 지식과 기술을 제공합니다. 이 과정은 e includes identity content for Azure AD, 기업 애플리케이션 등록, 조건부 접근, 신원 거버넌스 및 기타 신원 도구에 대한 신원 콘텐츠가 포함됩니다. 
+summary: >-
+  이 과정에서는 IT ID 및 액세스 전문가 및 IT 보안 전문가에게 Microsoft Azure AD 및 연결된 ID 기술에 따라 ID 관리 솔루션을 구현하는 데 필요한 지식과 기술을 제공합니다. 이 과정에는 Azure AD의 ID 콘텐츠, 엔터프라이즈 애플리케이션 등록, 조건부 액세스, ID 거버넌스 및 기타 ID 도구가 포함되어 있습니다.
 
-  #### 구독자 프로필
-  이 과정은 관련 인증 시험에 응시할 계획이거나 일상 업무에서 신원 접근 관리 작업을 수행하는 신원 및 접근 관리자를 위한 것입니다. 이 과정은 또한 Azure-기반 솔루션을 위한 신원 솔루션 및 접근 관리 시스템을 전문으로 제공하려는 관리자 또는 엔지니어에게도 도움이됩니다; 조직을 보호하는 필수적인 역할을 합니다. 
-prerequisitesSection: |-
+
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
+  이 과정은 관련된 인증 시험에 응시할 계획이거나 일상 업무에서 ID 및 액세스 관리 작업을 수행하는 ID 및 액세스 관리자를 위한 것입니다. 또한 Azure 기반 솔루션에 ID 솔루션 및 액세스 관리 시스템을 제공하는 업무에 특화하여 조직 보호에 핵심 역할을 수행하려는 관리자 또는 엔지니어에게도 유용합니다.
+prerequisitesSection: >-
   이 과정에 참여하기 전, 학생들은 다음 사항에 대해 이해해야 합니다:
-  - 심층 방어, 최소 권한 접근, 책임 공유 및 제로트러스트 모델과 같은 보안 모범 사례 및 산업 보안 요구 사항.
-  - 인증, 권한 부여 및 활동 디렉터리와 같은 신원 개념에 익숙합니다. 
-  - Azure 워크로드 배포 경험이 있습니다. 이 과정에서는 Azure 관리의 기본을 다루지 않고, 대신 보안 특정 정보를 추가하여 해당 지식에 과정 콘텐츠를 구축합니다. 
-  - Windows 및 Linux 운영 체제 및 스크립팅 언어에 대한 경험이 있으면 도움이 되지만 필수는 아닙니다. 과정 랩에서는 PowerShell 및 CLI를 사용할 수 있습니다. 
-    
-  <div><strong>필수 과정 (또는 동등한 지식 및 실무 경험)&#58;</strong></div>
-  
-  이 무료 온라인 교육은 이 과정에서 성공하는 데 필요한 경험을 제공합니다.
-  - [SC-900 파트 1&#58; 보안, 규정 준수 및 신원의 개념 설명 - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
-  - [SC-900 파트 2&#58; Microsoft Identity 및 접근 관리 솔루션의 기능 설명 - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
-  - [SC-900 파트 3&#58; Microsoft security 솔루션의 기능 설명 - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
-  - [SC-900 파트 4&#58; Microsoft 규정 준수 솔루션의 기능 설명 - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
-  - [AZ-104&#58; Azure에서 신원 및 거버넌스 관리 - Learn | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
-outlineSection: |-
-  ### 모듈 1&#58; 신원 관리 솔루션 구현
-  초기 Azure Active Directory (Azure AD) 구현을 만들고 관리하며 솔루션을 실행하는 데 사용할 사용자, 그룹 및 외부 신원을 구성하는 방법을 배웁니다. 
-  #### 레슨
-  - Azure AD의 초기 구성 구현
-  - 신원 생성, 구성 및 관리
-  - 외부 신원 구현 및 관리
-  - 하이브리드 신원 구현 및 관리
 
-  #### 랩 &#58; 사용자 역할 관리
-  
-  #### 랩 &#58; 테넌트-전체 속성 설정
-  
-  #### 랩 &#58; 사용자에게 라이선스 할당
-  
-  #### 랩 &#58; 삭제 된 사용자 복원 또는 제거
-  
-  #### 랩 &#58; Azure AD에서 그룹 추가
-  
-  #### 랩 &#58; 그룹 라이선스 할당 변경
-  
-  #### 랩 &#58; 사용자 라이선스 할당 변경
-  
-  #### 랩 &#58; 외부 협업 구성
-  
-  #### 랩 &#58; 디렉터리에 게스트 사용자 추가
-  
-  #### 랩 &#58; 동적 그룹 탐색
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 사용자 지정 설정으로 초기 Azure AD 배포
-  - 내부 및 외부 신원 모두 관리
-  - 하이브리드 신원 솔루션 구현
-  
-  
-  ### 모듈 2&#58; 인증 및 접근 관리 솔루션 구현
-  Azure AD를 사용하여 접근 관리를 구현하고 관리합니다. MFA, 조건부 접근 및 신원 보호를 사용하여 신원 솔루션을 관리합니다.
-  #### 레슨
-  - MFA로 Azure AD 사용자 보호
-  - 사용자 인증 관리
-  - 조건부 접근 계획, 구현 및 관리
-  - Azure AD 신원 보호 관리
-  
-  #### 랩 &#58; Azure AD MFA 활성화
-  
-  #### 랩 &#58; 셀프-서비스 암호 재설정 (SSPR) 구성 및 배포
-  
-  #### 랩 &#58; 보안 기본값으로 작업
-  
-  #### 랩 &#58; 조건부 접근 정책, 역할 및 할당 구현
-  
-  #### 랩 &#58; 인증 세션 제어 구성
-  
-  #### 랩 &#58; Azure AD 스마트 잠금 값 관리
-  
-  #### 랩 &#58; 가입 위험 정책 활성화
-  
-  #### 랩 &#58; Azure AD MFA 인증 등록 정책 구성
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - MFA를 포함하여 사용자 인증 구성 및 관리
-  - 조건부 접근을 사용하여 리소스에 대한 접근 제어
-  - Azure AD 신원 보호를 사용하여 조직 보호  
-  
-  
-  ### 모듈 3&#58; 앱에 대한 접근 관리 구현
-  Azure AD에서 애플리케이션 등록으로 애플리케이션을 신원 및 접근 솔루션에 추가할 수 있고 추가해야하는 방법을 살펴봅니다. 
-  #### 레슨
-  - SSO를 위한 기업의 통합 계획 및 디자인 
-  - SSO를 위한 기업 앱의 통합 구현 및 모니터링 
-  - 앱 등록 구현
-  
-  #### 랩 &#58; 앱에 대한 접근 관리 구현
-  
-  #### 랩 &#58; 관리 앱 등록에 대한 맞춤형 역할 만들기
-  
-  #### 랩 &#58; 애플리케이션 등록
-  
-  #### 랩 &#58; 애플리케이션에 대한 테넌트-전체 관리 동의 부여 
 
-  #### 랩 &#58; 애플리케이션에 앱 역할 추가 및 토큰 받기 
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Azure AD에 신규 애플리케이션 등록
-  - 기업 애플리케이션을 위한 SSO 계획 및 구현
-  - 기업 애플리케이션 모니터링 및 유지
-  
-  
-  ### 모듈 4&#58; 신원 거버넌시 전략 계획 및 구현
-   권한 부여, 접근 검토, 권한있는 접근 및 Azure Active Directory (Azure AD) 모니터링을 사용하여 신원 솔루션에 대한 신원 거버넌스를 디자인하고 구현합니다.
-  #### 레슨
-  - 권한 관리 계획 및 구현
-  - 접근 검토 계획, 구현 및 관리
-  - 권한있는 접근 계획 및 구현
-  - Azure AD 모니터링 및 유지 관리
-  
-  #### 랩 &#58; Azure AD 권한으로 리소스 카탈로그 만들기 및 관리
-  
-  #### 랩 &#58; 이용 약관 동의 보고서 추가
-  
-  #### 랩 &#58; Azure AD 신원 거버넌스로 외부 사용자들의 수명 주기 관리
-  
-  #### 랩 &#58; 그룹 및 앱에 대한 접근 검토 만들기
-  
-  #### 랩 &#58; Azure AD 역할에 대한 PIM 구성
-  
-  #### 랩 &#58; PIM에서 Azure AD 역할 할당
-  
-  #### 랩 &#58; PIM에서 Azure 리소스 역할 할당
-  
-  #### 랩 &#58; Azure AD의 데이터를 Azure Sentinel에 연결
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 생성부터 솔루션까지 Azure AD 관리 및 유지
-  - Azure AD 유지를 위한 접근 검토 사용
-  - 권한 관리로 사용자에 접근 권한 부여
+  *   심층 방어, 최소 권한 액세스, 공동 책임 및 제로 트러스트 모델과 같은 보안 모범 사례 및 업계 보안 요구 사항.
+
+
+  *   인증, 권한 부여, Active Directory와 같은 ID 개념에 친숙.
+
+
+  *   Azure 워크로드 배포 경험 소유 본 과정에서는 Azure 관리 기본은 다루지 않는 대신에 과정 콘텐츠는 구체적인 보안 정보에 더한 해당 지식을 기반으로 합니다.
+
+
+  *   Windows 및 Linux 운영 체제와 스크립팅 언어에 대한 약간의 경험은 도움이 되지만 필수는 아닙니다. 과정 랩에서는 PowerShell및 CLI를 사용할 수도 있습니다.
+
+
+  선행 필수 조건 과정(또는 이와 동등한 지식 및 실무 경험):
+
+
+  이 무료 온라인 교육은 본 과정의 성공에 필요한 경험을 제공합니다.
+
+
+  *   [SC-900 1부: 보안, 규정 준수 및 ID 개념 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+
+
+  *   [SC-900 2부: Microsoft ID 및 액세스 관리 솔루션 기능 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+
+
+  *   [SC-900 3부: Microsoft 보안 솔루션 기능 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+
+
+  *   [SC-900 4부: Microsoft 규정 준수 솔루션 기능 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+
+
+  *   [AZ-104: Azure 내 ID 및 거버넌스 관리 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/)
+outlineSection: >-
+  ### <a name="module-1-implement-an-identity-management-solution"></a>모듈 1: ID 관리 솔루션 구현
+
+
+  초기 Azure AD(Azure Active Directory) 구현 생성 및 관리 방법과 솔루션을 실행하는 데 사용할 사용자, 그룹 및 외부 ID를 구성하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure AD 초기 구성 구현
+
+
+  *   ID 생성, 구성, 관리
+
+
+  *   외부 ID 구현, 관리
+
+
+  *   하이브리드 ID 구현 및 관리
+
+
+  #### <a name="lab--manage-user-roles"></a>랩: 사용자 역할 관리
+
+
+  ####
+
+
+  #### <a name="lab--setting-tenant-wide-properties"></a>랩: 테넌트 전체 속성 설정
+
+
+  ####
+
+
+  #### <a name="lab--assign-licenses-to-users"></a>랩: 사용자에게 라이선스 할당
+
+
+  ####
+
+
+  #### <a name="lab--restore-or-remove-deleted-users"></a>랩: 삭제된 사용자 복원 또는 제거
+
+
+  ####
+
+
+  #### <a name="lab--add-groups-in-azure-ad"></a>랩: Azure AD에서 그룹 추가
+
+
+  ####
+
+
+  #### <a name="lab--change-group-license-assignments"></a>랩: 그룹 라이선스 할당 변경
+
+
+  ####
+
+
+  #### <a name="lab--change-user-license-assignments"></a>랩: 사용자 라이선스 할당 변경
+
+
+  ####
+
+
+  #### <a name="lab--configure-external-collaboration"></a>랩: 외부 협업 구성
+
+
+  ####
+
+
+  #### <a name="lab--add-guest-users-to-the-directory"></a>랩: 디렉터리에 게스트 사용자 추가
+
+
+  ####
+
+
+  #### <a name="lab--explore-dynamic-groups"></a>랩: 동적 그룹 살펴보기
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   사용자 지정 설정으로 초기 Azure AD를 배포
+
+
+  *   내부 및 외부 ID를 모두 관리
+
+
+  *   하이브리드 ID 솔루션을 구현
+
+
+  ### <a name="module-2-implement-an-authentication-and-access-management-solution"></a>모듈 2: 인증 및 액세스 관리 솔루션 구현
+
+
+  Azure AD를 사용하여 액세스 관리를 구현하고 관리합니다. MFA, 조건부 액세스 및 id 보호를 사용하여 ID 솔루션을 관리합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   MFA를 사용하여 Azure AD 사용자 보호
+
+
+  *   사용자 인증 관리
+
+
+  *   조건부 액세스 계획, 구현, 관리
+
+
+  *   Azure AD ID 보호 관리
+
+
+  #### <a name="lab--configure-azure-ad-mfa-authentication-registration-policy"></a>랩: Azure AD MFA 인증 등록 정책 구성
+
+
+  ####
+
+
+  #### <a name="lab--enable-sign-in-risk-policy"></a>랩: 로그인 위험 정책 활성화
+
+
+  ####
+
+
+  #### <a name="lab--manage-azure-ad-smart-lockout-values"></a>랩: Azure AD 스마트 잠금 값 관리
+
+
+  ####
+
+
+  #### <a name="lab--configure-authentication-session-controls"></a>랩: 인증 세션 컨트롤 구성
+
+
+  ####
+
+
+  #### <a name="lab--implement-conditional-access-policies-roles-and-assignments"></a>랩: 조건부 액세스 정책 역할 및 할당 구현
+
+
+  ####
+
+
+  #### <a name="lab--work-with-security-defaults"></a>랩: 보안 기본값 작업
+
+
+  ####
+
+
+  #### <a name="lab--configure-and-deploy-self-service-password-reset-sspr"></a>랩: SSPR(셀프 서비스 암호 재설정) 구성 및 배포
+
+
+  ####
+
+
+  #### <a name="lab--enable-azure-ad-mfa"></a>랩: Azure AD MFA 활성화
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   MFA를 포함하여 사용자 인증 구성 및 관리
+
+
+  *   조건부 액세스를 사용하여 리소스에 대한 액세스 제어
+
+
+  *   Azure AD ID 보호를 사용하여 조직 보호
+
+
+  ### <a name="module-3-implement-access-management-for-apps"></a>모듈 3: 앱의 액세스 관리 구현
+
+
+  Azure AD에서 애플리케이션 등록을 사용하여 ID 및 액세스 솔루션에 애플리케이션을 추가하는 방법을 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   SSO용 엔터프라이즈 통합 계획 및 설계
+
+
+  *   SSO용 엔터프라이즈 앱 통합 구현 및 모니터링
+
+
+  *   앱 등록 구현
+
+
+  #### <a name="lab--implement-access-management-for-apps"></a>랩: 앱의 액세스 관리 구현
+
+
+  ####
+
+
+  #### <a name="lab--create-a-custom-role-to-management-app-registration"></a>랩: 앱 등록을 관리하는 사용자 지정 역할 만들기
+
+
+  ####
+
+
+  #### <a name="lab--register-an-application"></a>랩: 애플리케이션 등록
+
+
+  ####
+
+
+  #### <a name="lab--grant-tenant-wide-admin-consent-to-an-application"></a>랩: 애플리케이션에 대한 테넌트 전체 관리자 동의 부여
+
+
+  ####
+
+
+  #### <a name="lab--add-app-roles-to-applications-and-recieve-tokens"></a>랩: 애플리케이션에 앱 역할 추가 및 토큰 받기
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Azure AD에 새 애플리케이션을 등록
+
+
+  *   엔터프라이즈 애플리케이션에 대한 SSO를 계획 및 구현
+
+
+  *   엔터프라이즈 애플리케이션을 모니터링 및 유지 관리
+
+
+  ### <a name="module-4-plan-and-implement-an-identity-governancy-strategy"></a>모듈 4: ID 거버넌스 전략 계획 및 구현
+
+
+  권한, 액세스 검토, 권한 있는 액세스 및 Azure AD(Azure Active Directory) 모니터링을 사용하여 ID 솔루션의 ID 거버넌스를 설계하고 구현합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   권한 관리 계획 및 구현
+
+
+  *   액세스 검토 계획, 구현, 관리
+
+
+  *   권한 있는 액세스 계획 및 구현
+
+
+  *   Azure AD 모니터링 및 유지 관리
+
+
+  #### <a name="lab--configure-pim-for-azure-ad-roles"></a>랩: Azure AD 역할용 PIM 구성
+
+
+  ####
+
+
+  #### <a name="lab--assign-azure-ad-role-in-pim"></a>랩: PIM에서 Azure AD 역할 할당
+
+
+  ####
+
+
+  #### <a name="lab--assign-azure-resource-roles-in-pim"></a>랩: PIM에서 Azure 리소스 역할 할당
+
+
+  ####
+
+
+  #### <a name="lab--connect-data-from-azure-ad-to-azure-sentinel"></a>랩: Azure AD에서 Azure Sentinel로 데이터 연결
+
+
+  ####
+
+
+  #### <a name="lab--create-access-reviews-for-groups-and-apps"></a>랩: 그룹 및 앱에 대한 액세스 검토 만들기
+
+
+  ####
+
+
+  #### <a name="lab--manage-the-lifecycle-of-external-users-with-azure-ad-identity-governance"></a>랩: Azure AD ID 거버넌스를 사용하여 외부 사용자의 수명 주기 관리
+
+
+  ####
+
+
+  #### <a name="lab--add-terms-of-use-acceptance-report"></a>랩: 사용 약관 동의 보고서 추가
+
+
+  ####
+
+
+  #### <a name="lab--create-and-manage-a-resource-catalog-with-azure-ad-entitlement"></a>랩: Azure AD 권한을 사용하여 리소스 카탈로그 만들기 및 관리
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   만들기에서 솔루션까지 Azure AD 관리 및 유지 관리
+
+
+  *   액세스 검토를 사용하여 Azure AD 유지 관리
+
+
+  *   권한 관리를 통해 사용자에게 액세스 권한 부여

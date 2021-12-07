@@ -1,26 +1,32 @@
 ### YamlMime:Course
 title: Office 365 Administrator
 metadata:
-  title: 'Course MS-030T00-A: Office 365 Administrator'
-  description: 'Course MS-030T00-A: Office 365 Administrator'
+  title: '과정 MS-030T00-A: Office 365 Administrator'
+  description: '과정 MS-030T00-A: Office 365 Administrator'
+  ms.openlocfilehash: 7b9cab698c31a72d73975254618dd7a3029f6f55
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107128"
 uid: course.ms-030t00
-courseNumber: 'MS-030T00-A'
+courseNumber: MS-030T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Office 365 배포를 계획하고, Office 365 테넌트를 구성하고, 파일럿 배포를 계획합니다.
-- skill: Office 365 사용자, 그룹, 및 라이선스를 관리하고, 위임된 관리를 구성합니다.
-- skill: Office 365에 대한 클라이언트 연결을 계획하고 구성합니다. 
-- skill: Microsoft Azure AD와 온-프레미스 AD DS 사이의 디렉터리 동기화를 계획하고 구성합니다. 
-- skill: Office 365 ProPlus 배포를 계획하고 구현합니다.
-- skill: Microsoft Exchange Online 수신자 및 권한을 계획하고 관리합니다.
-- skill: Exchange Online 서비스를 계획하고 구성합니다.
-- skill: Microsoft Teams를 계획하고 구성합니다.
-- skill: Microsoft SharePoint Online을 계획하고 구성합니다.
-- skill: Office 365 공동 작업 솔루션을 계획하고 구성합니다.
-- skill: Office 365와 Microsoft Azure Information Protection 간의 통합을 계획하고 구성합니다. 
-- skill: Office 365 서비스를 모니터링하고 검토하며, Office 365 문제를 해결합니다.
-- skill: 온-프레미스 AD DS와 Azure AD 사이의 신원 연맹을 계획하고 구현합니다. 
+- skill: Office 365 배포를 계획하고, Office 365 테넌트를 구성하고, 파일럿 배포를 계획
+- skill: Office 365 사용자, 그룹 및 라이선스를 관리하고 위임된 관리를 구성
+- skill: Office 365에 대한 클라이언트 연결을 계획 및 구성
+- skill: Microsoft Azure AD와 온-프레미스 AD DS 간의 디렉터리 동기화를 계획 및 구성
+- skill: Office 365 ProPlus 배포를 계획 및 구현
+- skill: Microsoft Exchange Online 수신자 및 권한을 계획 및 관리
+- skill: Exchange Online 서비스를 계획 및 구성
+- skill: Microsoft Teams를 계획 및 구성
+- skill: Microsoft SharePoint Online을 계획 및 구성
+- skill: Office 365 협업 솔루션을 계획 및 구성
+- skill: Office 365와 Microsoft Azure Information Protection 간의 통합을 계획 및 구성
+- skill: Office 365 서비스를 모니터링 및 검토하고 Office 365 문제를 해결
+- skill: 온-프레미스 AD DS와 Azure AD 간의 ID 페더레이션을 계획 및 구현
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -30,257 +36,444 @@ roles:
 - developer
 products:
 - office-365
-summary: |-
-  이 과정은 신원, 종속성, 요구 사항 및 지원 기술을 포함하여, Microsoft Office 365 서비스를 평가, 계획, 배포 및 운영하는데 참여하는 IT 전문가의 요구를 대상으로 하는 5-일간의 강사-주도 교육 (ILT) 과정입니다. 이 과정은 기존 사용자 ID와 연맹을 포함한, Office 365 테넌트를 설정하는데 필요한 기술과, Office 365 테넌트 및 해당 사용자를 유지하는데 필요한 기술에 중점을 둡니다.
+summary: >-
+  ID, 종속성, 요구 사항, 지원 기술을 비롯하여 Microsoft Office 365 서비스의 평가, 계획, 배포 및 운영에 참여하는 IT 전문가의 요구를 대상으로 하는 5일 ILT(강사 진행 교육) 과정입니다. 이 과정에서는 기존 사용자 ID와의 페더레이션을 비롯하여 Office 365 테넌트를 설정하는 데 필요한 기술과 Office 365 테넌트 및 해당 사용자를 유지하는 데 필요한 기술에 중점을 둡니다.
 
-  #### 구독자 프로필
-  이 과정은 Office 365 환경을 계획하고, 구성하고, 관리하는 것을 담당하는 IT 전문가를 대상으로 합니다. 이 과정에 참여하는 학생들은 Domain Name System (DNS) 및 Active Directory Domain Services (AD DS)와 같은 여러 온-프레미스 기술에 대해 상당히 폭 넓게 이해하고 있어야 합니다. 또한, Microsoft Exchange Server, Microsoft Lync Server 또는 Skype for Business Server, 및 Microsoft SharePoint Server에 대한 일반적인 이해가 있어야 합니다. 
-prerequisitesSection: |-
-  이 과정에 참여하기 전에, 학생들은 다음을 반드시 갖추어야 합니다&#58;
-  - Windows Server 2012 또는 이상을 포함한, Windows Server 운영 시스템을 관리한 최소 2년의 경험.
-  - AD DS로 작업한 최소 1년의 경험.
-  - DNS를 포함, 이름 확인으로 작업한 최소 1년의 경험.
-  - 공개 키 인프라 (PKI) 인증서를 포함하여, 인증서로 작업한 경험.
-  - Windows PowerShell로 작업한 경험.
-  - Exchange Server 2013 또는 이상, Lync Server 2013 또는 Skype for Business Server 2015, 및 SharePoint Server 2013 또는 이상으로 작업한 경험은 유익하지만, 요구되지는 않습니다.
-outlineSection: |-
-  ### 모듈 1&#58; Office 365 계획하기 및 프로비저닝
-  이 모듈은 Office 365의 기능을 검토하고 서비스의 최근 개선 사항을 식별하고, Office 365 테넌트를 프로비저닝하는 프로세스를 설명합니다. 또한 이 모듈은 기존의 배포 프로세스를 계획, 준비 및 마이그레이션하는 것과 비교하여 Office 365 배포에 있어서의 과제와 Microsoft FastTrack for Office 365 접근 방식의 이점을 식별합니다.
-  #### 레슨
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  이 과정은 Office 365 환경의 계획, 구성 및 관리를 담당하는 IT 전문가를 대상으로 합니다. 이 과정을 수강하는 학생들은 DNS(Domain Name System), AD DS(Active Directory Domain Services) 같은 여러 온-프레미스 기술에 대한 광범위한 이해를 갖춰야 합니다. 또한 Microsoft Exchange Server, Microsoft Lync Server 또는 Skype for Business Server 및 Microsoft SharePoint Server에 대한 일반적인 이해를 갖춰야 합니다.
+prerequisitesSection: >-
+  이 과정에 참석하기 전에 학생들은 다음을 갖추어야 합니다:
+
+  - Windows Server 2012 이상을 포함하여 Windows Server 운영 체제를 관리한 경험 최소 2년
+
+  - AD DS 작업 경험 최소 1년
+
+  - DNS를 비롯한 이름 확인 작업 경험 최소 1년
+
+  - PKI(공개 키 인프라) 인증서를 비롯한 인증서 작업 경험
+
+  - Windows PowerShell 작업을 수행한 경험
+
+  - Exchange Server 2013 이상, Lync Server 2013 또는 Skype for Business Server 2015, SharePoint Server 2013 작업 경험이 도움이 되지만 반드시 필요한 것은 아닙니다.
+outlineSection: >-
+  ### <a name="module-158-planning-and-provisioning-office-365"></a>모듈 1: Office 365 계획 및 프로비전
+
+  이 모듈에서는 Office 365의 기능을 복습하고, 이 서비스에 대한 최신 개선 사항을 확인하고, Office 365 테넌트를 프로비전하는 프로세스를 설명합니다. 또한 본 모듈에서 Office 365 배포 시 과제를 설명하고 기존의 배포 계획, 준비 및 마이그레이션 프로세스와 비교하여 Microsoft FastTrack for Office 365 접근 방법의 이점을 파악합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Office 365 개요
-  - Office 365 테넌트 프로비저닝
-  - 파일럿 배포 계획하기
+
+  - Office 365 테넌트 프로비전
+
+  - 파일럿 배포 계획
 
 
-  #### 랩 &#58; Office 365 프로비저닝
-  - Office 365 테넌트 구성하기
-  - 사용자 지정 도메인 구성하기
-  - Office 365 관리자 인터페이스 탐색하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Office 365의 기능과 이점을 설명합니다. 
-  - 새 테넌트 계정을 프로비저닝합니다.
-  - Office 365의 파일럿 배포를 계획합니다. 
+  #### <a name="lab-58-provisioning-office-365"></a>랩: Office 365 프로비전
 
+  - Office 365 테넌트 구성
 
-  ### 모듈 2&#58; Office 365 사용자 및 그룹 관리하기
-  이 모듈은 Office 365 콘솔 및 Windows PowerShell 명령-줄 인터페이스를 사용하여 사용자, 그룹 및 라이선스를 관리하고 관리 액세스를 구성하는 방법을 설명합니다. 또한 이 모듈은 사용자 암호를 관리하고 다중 인증을 구성하는 방법을 설명합니다.  
-  #### 레슨
-  - 사용자 계정 및 라이선스 관리하기
-  - 암호 및 인증 관리하기
-  - Office 365에서 보안 그룹 관리하기
-  - Windows PowerShell로 Office 365 사용자 및 그룹 관리하기
-  - 관리 액세스 구성하기
+  - 사용자 지정 도메인 구성
+
+  - Office 365 관리자 인터페이스 살펴보기
 
 
-  #### 랩 &#58; Office 365 사용자 및 암호 관리하기
-  - Microsoft 365 관리 센터를 사용하여 Office 365 사용자 및 라이선스 관리하기
-  - Office 365 암호 정책 관리하기
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Office 365의 기능 및 이점 설명
+
+  - 새 테넌트 계정 프로비전
+
+  - Office 365의 파일럿 배포 계획
 
 
-  #### 랩 &#58; Office 365 그룹 및 관리 관리하기
-  - Office 365 그룹 관리하기
-  - Windows PowerShell을 사용하여 Office 365 사용자 및 그룹 관리하기
-  - 서비스 관리자 구성하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Microsoft 365 관리 센터를 사용하여 사용자 계정 및 라이선스를 관리합니다.
-  - 암호 및 인증을 관리합니다.
-  - Microsoft 365 관리 센터를 사용하여 보안 및 배포 그룹을 관리합니다.
-  - Windows PowerShell을 사용하여 Office 365 사용자 및 그룹을 관리합니다. 
-  - 관리 액세스를 구성합니다. 
+  ### <a name="module-258-managing-office-365-users-and-groups"></a>모듈 2: Office 365 사용자 및 그룹 관리
 
+  이 모듈에서는 Office 365 콘솔과 Windows PowerShell 명령줄 인터페이스를 사용하여 사용자, 그룹 및 라이선스를 관리하고 관리 액세스를 구성하는 방법을 설명합니다. 또한 이 모듈에서 사용자 암호를 관리하고 다단계 인증을 구성하는 방법도 설명합니다.
 
-  ### 모듈 3&#58; Microsoft Office 365에 대한 클라이언트 연결 구성하기
-  이 모듈은 Office 365에 연결하는 데 사용할 수 있는 다양한 유형의 클라이언트 소프트웨어를 다룹니다. 또한 다양한 유형의 Office 365 클라이언트를 구성하는 방법 외에도, 클라이언트가, Office 365에 연결하는 데 필요한 인프라 요구 사항에 대해서도 설명합니다.
-  #### 레슨
-  - Office 365 클라이언트 계획하기
-  - Office 365 클라이언트에 대한 연결 계획하기
-  - Office 365 클라이언트에 대한 연결 구성하기
+  #### <a name="lessons"></a>단원
+
+  - 사용자 계정 및 라이선스 관리
+
+  - 암호 및 인증 관리
+
+  - Office 365에서 보안 그룹 관리
+
+  - Windows PowerShell을 사용하여 Office 365 사용자 및 그룹 관리
+
+  - 관리 액세스 구성
 
 
-  #### 랩 &#58; Office 365에 대한 클라이언트 연결 구성하기
-  - Office 365 클라이언트에 대한 DNS 기록 구성하기
-  - Office 365 연결 분석 도구 실행하기
-  - Office 앱 연결하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Office 365 클라이언트 배포를 계획합니다.
-  - Office 365 클라이언트에 대한 연결을 계획하고 문제를 해결합니다.
-  - Office 365 클라이언트에 대한 연결을 구성합니다.
+  #### <a name="lab-58-managing-office-365-users-and-passwords"></a>랩: Office 365 사용자 및 암호 관리
+
+  - Microsoft 365 관리 센터를 사용하여 Office 365 사용자 및 라이선스 관리
+
+  - Office 365 암호 정책 관리
 
 
-  ### 모듈 4&#58; 디렉터리 동기화 계획 및 구성하기
-  이 모듈은 Office 365 배포에서 사용자 및 그룹 관리를 위한 방법론으로 디렉터리 동기화를 계획, 준비 및 구현하는 방법을 설명합니다. 온-프레미스 환경을 준비하고, 디렉터리 동기화를 설치 및 구성하는 방법을 설명합니다. 또한 디렉터리 동기화를 할 수 있게 한 후에 Office 365 ID를 관리하는 방법에 대해서도 설명합니다. 
-  #### 레슨
-  - 디렉터리 동기화 계획하고 준비하기
-  - Azure AD Connect를 사용하여 디렉터리 동기화 구현하기
-  - 디렉터리 동기화로 Office 365 ID 관리하기  
+
+  #### <a name="lab-58-managing-office-365-groups-and-administration"></a>랩: Office 365 그룹 및 관리 관리
+
+  - Office 365 그룹 관리
+
+  - Windows PowerShell을 사용하여 Office 365 사용자 및 그룹 관리
+
+  - 서비스 관리자 구성
 
 
-  #### 랩 &#58; 디렉터리 동기화 구성하기
-  - 디렉터리 동기화 준비하기
-  - 디렉터리 동기화 구성하기
-  - Active Directory 사용자 및 그룹 관리하기
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 디렉터리 동기화를 계획하고 준비합니다.
-  - Microsoft Azure Active Directory Connect (AD Connect)를 사용하여 디렉터리 동기화를 구현합니다. 
-  - 디렉터리 동기화로 Office 365 ID를 관리합니다.
+  - Microsoft 365 관리 센터를 사용하여 사용자 계정 및 라이선스를 관리
+
+  - 암호 및 인증을 관리
+
+  - Microsoft 365 관리 센터를 사용하여 보안 및 배포 그룹을 관리
+
+  - Windows PowerShell을 사용하여 Office 365 사용자 및 그룹을 관리
+
+  - 관리 액세스를 구성
 
 
-  ### 모듈 5&#58; Office 365 ProPlus 계획 및 배포하기
-  이 모듈은 클라이언트 배포를 계획하고 사용자가 Office 365와 효과적으로 상호 작용하는 데 필요한 도구를 받을 수 있도록 하는 방법을 설명합니다. 또한 계획 프로세스, 최종 사용자가 Office 365 ProPlus를 직접 사용할 수 있도록 하는 방법, 및 관리된 패키지로 배포하는 방법에 대해서도 설명합니다. 마지막으로, 관리자가 사용자가 Microsoft Office와 상호 작용하는 방식을 추적할 수 있도록 Office 원격 측정을 설정하는 방법을 설명합니다. 
-  #### 레슨
+
+  ### <a name="module-358-configuring-client-connectivity-to-microsoft-office-365"></a>모듈 3: Microsoft Office 365에 대한 클라이언트 연결 구성
+
+  이 모듈에서는 Office 365에 연결하는 데 사용할 수 있는 여러 유형의 클라이언트 소프트웨어에 대해 설명합니다. 다양한 유형의 Office 365 클라이언트를 구성하는 방법 외에 클라이언트에서 Office 365에 연결하는 데 필요한 인프라 요구 사항에 대해서도 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Office 365 클라이언트 계획
+
+  - Office 365 클라이언트에 대한 연결 계획
+
+  - Office 365 클라이언트에 대한 연결 구성
+
+
+
+  #### <a name="lab-58-configuring-client-connectivity-to-office-365"></a>랩: Office 365에 대한 클라이언트 연결 구성
+
+  - Office 365 클라이언트에 대한 DNS 레코드 구성
+
+  - Office 365 연결 분석기 도구 실행
+
+  - Office 앱 연결
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Office 365 클라이언트 배포를 계획
+
+  - Office 365 클라이언트에 대한 연결을 계획 및 문제 해결
+
+  - Office 365 클라이언트에 대한 연결을 구성
+
+
+
+  ### <a name="module-458-planning-and-configuring-directory-synchronization"></a>모듈 4: 디렉터리 동기화 계획 및 구성
+
+  이 모듈에서는 Office 365 배포에서 사용자 및 그룹 관리를 위한 방법으로 디렉터리 동기화를 계획, 준비, 구현하는 방법을 설명합니다. 온-프레미스 환경을 준비하고 디렉터리 동기화를 설치 및 구성하는 방법을 설명합니다. 또한 디렉터리 동기화를 활성화한 후 Office 365 ID를 관리하는 방법도 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 디렉터리 동기화 계획 및 준비
+
+  - Azure AD Connect를 사용한 디렉터리 동기화 구현
+
+  - 디렉터리 동기화를 통한 Office 365 ID 관리
+
+
+
+  #### <a name="lab-58-configuring-directory-synchronization"></a>랩: 디렉터리 동기화 구성
+
+  - 디렉터리 동기화 준비
+
+  - 디렉터리 동기화 구성
+
+  - Active Directory 사용자 및 그룹 관리
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 디렉터리 동기화를 계획 및 준비
+
+  - Microsoft Azure AD Connect(Active Directory Connect)를 사용하여 디렉터리 동기화를 구현
+
+  - 디렉터리 동기화를 통해 Office 365 ID를 관리
+
+
+
+  ### <a name="module-558-planning-and-deploying-office-365-proplus"></a>모듈 5: Office 365 ProPlus 계획 및 배포
+
+  이 모듈에서는 클라이언트 배포를 계획하고 사용자가 Office 365와 효과적으로 상호 작용하는 데 필요한 도구를 제공받는지 확인하는 방법을 설명합니다. 또한 계획 프로세스와 Office 365 ProPlus를 최종 사용자에게 직접 제공하는 방법 및 관리 패키지로 배포하는 방법도 설명합니다. 마지막으로, 관리자가 사용자가 Microsoft Office와 상호 작용하는 방법을 추적할 수 있도록 Office 원격 분석을 설정하는 방법을 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Office 365 ProPlus 개요
-  - 사용자-주도 Office 365 ProPlus 배포 계획 및 관리하기
-  - Office 365 ProPlus의 중앙 집중식 배포 계획 및 관리하기
-  - Office 원격 측정 및 보고하기
+
+  - 사용자 기반 Office 365 ProPlus 배포 계획 및 관리
+
+  - 중앙 집중식 Office 365 ProPlus 배포 계획 및 관리
+
+  - Office 원격 분석 및 보고
 
 
-  #### 랩 &#58; Office 365 ProPlus 설치 관리하기
-  - Office 365 ProPlus 관리된 설치 준비하기
-  - 사용자-주도 Office 365 ProPlus 설치 관리하기
-  - 중앙 집중식 Office 365 ProPlus 설치 관리하기
+
+  #### <a name="lab-58-managing-office-365-proplus-installations"></a>랩: Office 365 ProPlus 설치 관리
+
+  -  Office 365 ProPlus 관리되는 설치 준비
+
+  - 사용자 기반 Office 365 ProPlus 설치 관리
+
+  - 중앙 집중식 Office 365 ProPlus 설치 관리
 
 
-  - Office 365 ProPlus를 설명합니다. 
-  - 사용자-주도 Office 365 ProPlus 배포를 계획하고 관리합니다.
-  - Office 365 ProPlus에 대한 중앙 집중식 배포를 계획하고 관리합니다.
-  - Office Telemetry 및 보고에 대해 설명합니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  -  Office 365 ProPlus를 설명
+
+  - 사용자 기반 Office 365 ProPlus 배포를 계획 및 관리
+
+  - 중앙 집중식 Office 365 ProPlus 배포를 계획 및 관리
+
+  - Office 원격 분석 및 보고를 설명
 
 
-  ### 모듈 6&#58; Exchange Online 받는 사람 및 권한 계획하기 및 관리하기
-  이 모듈은 Exchange Online에 대해 설명하고, 받는 사람 객체를 만들고 관리하는 방법과, Exchange 보안을 관리하고 위임하는 방법을 설명합니다.
-  #### 레슨
+
+  ### <a name="module-658-planning-and-managing-exchange-online-recipients-and-permissions"></a>모듈 6: Exchange Online 수신자 및 권한 계획 및 관리
+
+  이 모듈에서는 Exchange Online에 대해 설명하고 수신자 개체를 만들고 관리하는 방법과 Exchange 보안을 관리하고 위임하는 방법을 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Exchange Online 개요
-  - Exchange Online 받는 사람 관리하기
-  - Exchange Online 권한 계획하기 및 구성하기
+
+  - Exchange Online 수신자 관리
+
+  - Exchange Online 권한 계획 및 구성
 
 
-  #### 랩 &#58; Exchange Online 받는 사람 및 권한 관리하기
-  - Exchange Online 받는 사람 구성하기
-  - 역할-기반 액세스 제어 구성하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Exchange Online에 대해 설명합니다
-  - Exchange Online 받는 사람을 관리합니다.
-  - 위임된 관리를 계획하고 구성합니다.
+  #### <a name="lab-58-managing-exchange-online-recipients-and-permissions"></a>랩: Exchange Online 수신자 및 권한 관리
+
+  - Exchange Online 수신자 구성
+
+  - 역할 기반 액세스 제어 구성
 
 
-  ### 모듈 7&#58; Exchange Online 서비스를 계획하고 구성하기
-  이 모듈은 Office 365에서 맬웨어-방지 및 스팸-방지 설정 외에도, 전자 메일 흐름을 계획하고 구성하는 방법을 설명합니다. 또한 Exchange 클라이언트에 대한 정책을 계획하고 구성하는 방법도 설명합니다. 이 밖에도, Exchange Online으로 마이그레이션을 계획하고 구성하는 방법에 대해 설명합니다.
-  #### 레슨
-  - Office 365에서 이메일 흐름을 계획하고 구성하기
-  - Office 365에서 이메일 보호를 계획하고 구성하기
-  - 클라이언트 액세스 정책을 계획하고 구성하기
-  - Exchange Online으로 마이그레이션하기
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Exchange Online을 설명
+
+  - Exchange Online 수신자를 관리
+
+  - 위임된 관리를 계획 및 구성
 
 
-  #### 랩 &#58; Exchange Online에서 메세지 전송 구성하기
-  - 메세지 전송 설정 구성하기
+
+  ### <a name="module-758-planning-and-configuring-exchange-online-services"></a>모듈 7: Exchange Online 서비스 계획 및 구성
+
+  이 모듈에서는 Office 365의 맬웨어 방지 및 스팸 방지 설정 외에도 이메일 흐름을 계획하고 구성하는 방법을 설명합니다. Exchange 클라이언트에 대한 정책을 계획하고 구성하는 방법도 설명합니다. 또한 Exchange Online으로 마이그레이션을 계획하고 구성하는 방법을 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Office 365에서 이메일 흐름 계획 및 구성
+
+  - Office 365에서 이메일 보호 계획 및 구성
+
+  - 클라이언트 액세스 정책 계획 및 구성
+
+  - Exchange Online으로 마이그레이션
 
 
-  #### 랩 &#58; 이메일 보호 및 클라이언트 정책 구성하기
-  - 이메일 보호 구성하기
-  - 클라이언트 액세스 정책 구성하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Office 365에서 이메일 흐름을 계획하고 구성합니다. 
-  - Office 365에서 맬웨어-방지 및 스팸-방지 설정을 계획하고 구성합니다. 
-  - Exchange 클라이언트에 대한 정책을 계획하고 구성합니다.
-  - Exchange Online으로의 마이그레이션을 계획하고 구성합니다. 
+  #### <a name="lab-58-configuring-message-transport-in-exchange-online"></a>랩: Exchange Online에서 메시지 전송 구성
+
+  - 메시지 전송 설정 구성
 
 
-  ### 모듈 8&#58; Microsoft Teams 계획하기 및 구성하기
-  이 모듈은 Teams를 계획하고 구성하는 방법을 설명합니다. Teams 사용자 설정 및 클라이언트를 구성하고, 음성 통합을 계획하는 방법을 설명합니다. 또한 Skype for Business에서 Teams로 전환하는 방법과 Teams를 다른 Office 365 서비스와 통합하는 방법도 설명합니다.
-  #### 레슨
+
+  #### <a name="lab-58-configuring-email-protection-and-client-policies"></a>랩: 이메일 보호 및 클라이언트 정책 구성
+
+  - 이메일 보호 구성
+
+  - 클라이언트 액세스 정책 구성
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Office 365에서 이메일 흐름을 계획 및 구성
+
+  - Office 365에서 맬웨어 방지 및 스팸 방지 설정을 계획 및 구성
+
+  - Exchange 클라이언트에 대한 정책을 계획 및 구성
+
+  - Exchange Online으로 마이그레이션을 계획 및 구성
+
+
+
+  ### <a name="module-858-planning-and-deploying-microsoft-teams"></a>모듈 8: Microsoft Teams 계획 및 배포
+
+  이 모듈에서는 Teams를 계획하고 구성하는 방법을 설명합니다. Teams 사용자 설정 및 클라이언트를 구성하고 음성 통합을 계획하는 방법을 설명합니다. 또한 비즈니스용 Skype를 Teams롤 전환하는 방법과 Teams를 다른 Office 365 서비스와 통합하는 방법도 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Teams 설명
-  - Teams 배포하기
+
+  -  Teams 배포
+
   - 인증 및 액세스
-  - Skype For Business를 Microsoft Teams로 전환하기
-  - 관리 및 보고하기
+
+  - 비즈니스용 Skype에서 Microsoft Teams로 전환
+
+  - 관리 및 보고
 
 
-  #### 랩 &#58; Teams 개요
-  - 회의 설정 관리
+
+  #### <a name="lab-58-teams-overview"></a>랩: Teams 개요
+
+  - 모임 설정 관리
+
   - 메시징 정책 관리
+
   - 음성 설정 관리
-  - 조직-전체 설정 관리
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Teams 계획 및 구성
-  - Teams 사용자 설정 및 채널 구성
-  - 음성 통합 관리
-  - Teams에서 조직 전체 설정 구성
+  - 조직 전체 설정 관리
 
 
-  ### 모듈 9&#58; SharePoint Online 계획하고 구성하기
-  이 모듈은 SharePoint Online 서비스를 구성하는 방법에 대해서 설명합니다. SharePoint 사이트 모음 및 외부 사용자 공유를 계획하고 구성하는 방법을 설명합니다. 또한 비디오 포털과 같은, 추가 포털에 대한 간략한 개요를 제공합니다.
-  #### 레슨
-  - SharePoint Online 서비스 구성하기
-  - SharePoint Online 사이트 모음 계획하고 구성하기
-  - 외부 사용자 공유 계획하고 구성하기
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Teams을 계획 및 구성
+
+  - Teams 사용자 설정 및 채널을 구성
+
+  - 음성 통합을 관리
+
+  - Teams에서 조직 전체 설정을 구성
 
 
-  #### 랩 &#58; SharePoint Online 구성하기
-  - SharePoint Online 설정 구성하기
-  - SharePoint Online 사이트 모음 만들고 구성하기
-  - 외부 사용자 공유 구성하고 확인하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - SharePoint Online 서비스를 구성합니다.
-  - SharePoint Online 사이트 모음을 계획하고 구성합니다.
-  - 외부 사용자 공유를 계획하고 구성합니다.
+  ### <a name="module-958-planning-and-configuring-sharepoint-online"></a>모듈 9: SharePoint Online 계획 및 구성
 
+  이 모듈에서는 SharePoint Online 서비스를 구성하는 방법을 설명합니다. SharePoint 사이트 모음 및 외부 사용자 공유를 계획하고 구성하는 방법을 설명합니다. 또한 비디오 포털과 같은 추가 포털에 대해서도 간략한 개요를 제공합니다.
 
-  ### 모듈 10&#58; Office 365 공동 작업 솔루션 계획하고 구성하기
-  이 모듈은 Yammer Enterprise를 활성화하고 구성하는 방법을 설명합니다. 또한 OneDrive for Business 및 Office 365 그룹을 구성하는 방법도 설명합니다.
-  #### 레슨
-  - Yammer Enterprise 계획하고 관리하기
-  - OneDrive for Business 계획하고 구성하기
-  - Office 365 그룹 구성하기
+  #### <a name="lessons"></a>단원
+
+  -  SharePoint Online 서비스 구성
+
+  - SharePoint Online 사이트 모음 계획 및 구성
+
+  - 외부 사용자 공유 계획 및 구성
 
 
-  #### 랩 &#58; Office 365 공동 작업 솔루션 계획하고 구성하기
-  - Yammer Enterprise 구성하기
-  - OneDrive for Business 구성하기
-  - Office 365 그룹 구성하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Yammer Enterprise을 활성화하고 구성합니다.
-  - Office 365 그룹을 구성합니다.
+  #### <a name="lab-58-configuring-sharepoint-online"></a>랩: SharePoint Online 구성
 
+  - SharePoint Online 설정 구성
 
-  ### 모듈 11&#58; Office 365에서 보안 및 규정 준수 계획하고 구성하기
-  이 모듈은 Office 365의 규정 준수 기능과 이를 관리하는 방법에 대해 설명합니다. Azure Information Protection을 계획하고 구성하는 방법을 설명합니다. 추가로, Office 365의 보안 기능을 설명합니다
-  #### 레슨
-  - Office 365의 규정 준수 기능 개요
-  - Office 365의 Azure Information Protection 계획하고 구성하기
-  - Office 365의 규정 준수 기능 관리하기
+  - SharePoint Online 사이트 모음 만들기 및 구성
+
+  - 외부 사용자 공유 구성 및 확인
 
 
-  #### 랩 &#58; 권한 관리 및 규정 준수 구성하기
-  - Office 365에서 권한 관리 구성하기
-  - 규정 준수 기능 구성하기
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Office 365의 규정 준수 기능을 설명합니다. 
-  - Office 365의 Azure Information Protection을 구성합니다. 
-  - Office 365의 규정 준수 기능을 관리합니다. 
+  - SharePoint Online 서비스를 구성
 
+  - SharePoint Online 사이트 모음을 계획 및 구성
 
-  ### 모듈 12&#58; Microsoft Office 365 모니터링하고 문제 해결하기
-  이 모듈은 Office 365 연결 및 서비스로 문제를 해결하는 방법과, Office 365 서비스 상태를 모니터링하는 방법을 설명합니다. 
-  #### 레슨
-  - Office 365 문제 해결하기
-  - Office 365 서비스 상태 모니터링하기
+  - 외부 사용자 공유를 계획 및 구성
 
 
-  #### 랩 &#58; Office 365 모니터링하고 문제 해결하기
-  - Office 365 모니터링하기
-  - 서비스 상태 모니터링 및 보고서 분석하기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Office 365 연결 및 서비스 문제를 해결합니다.  
-  - Office 365 서비스 상태를 모니터링합니다.
+  ### <a name="module-1058-planning-and-configuring-an-office-365-collaboration-solution"></a>모듈 10: Office 365 협업 솔루션 계획 및 구성
+
+  이 모듈에서는 Yammer Enterprise를 활성화하고 구성하는 방법을 설명합니다. 또한 비즈니스용 OneDrive 및 Office 365 그룹을 구성하는 방법도 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Yammer Enterprise 계획 및 관리
+
+  - 비즈니스용 OneDrive 계획 및 구성
+
+  - Office 365 그룹 구성
+
+
+
+  #### <a name="lab-58-planning-and-configuring-an-office-365-collaboration-solution"></a>랩: Office 365 협업 솔루션 계획 및 구성
+
+  - Yammer Enterprise 구성
+
+  - 비즈니스용 OneDrive 구성
+
+  - Office 365 그룹 구성
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Yammer Enterprise를 활성화 및 구성
+
+  - Yammer Enterprise를 활성화 및 구성
+
+  - Office 365 그룹을 구성
+
+
+
+  ### <a name="module-1158-planning-and-configuring-security-and-compliance-in-office-365"></a>모듈 11: Office 365에서 보안 및 규정 준수 계획 및 구성
+
+  이 모듈에서는 Office 365의 규정 준수 기능 및 이를 관리하는 방법을 설명합니다. Azure Information Protection을 계획하고 구성하는 방법을 설명합니다. 또한 Office 365의 보안 기능에 대해 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Office 365 규정 준수 기능 개요
+
+  - Office 365 Azure Information Protection 계획 및 구성
+
+  - Office 365 규정 준수 기능 관리
+
+
+
+  #### <a name="lab-58-configuring-rights-management-and-compliance"></a>랩: Rights Management 및 규정 준수 구성
+
+  - Office 365에서 Rights Management 구성
+
+  - 규정 준수 기능 구성
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Office 365의 규정 준수 기능을 설명
+
+  - Office 365에서 Azure Information Protection를 구성
+
+  - Office 365에서 규정 준수 기능을 관리
+
+
+
+  ### <a name="module-1258-monitoring-and-troubleshooting-microsoft-office-365"></a>모듈 12: Microsoft Office 365 모니터링 및 문제 해결
+
+  이 모듈에서는 Office 365 연결 및 서비스와 관련된 문제를 해결하는 방법과 Office 365 서비스 상태를 모니터링하는 방법을 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Office 365 문제 해결
+
+  - Office 365 서비스 상태 모니터링
+
+
+
+  #### <a name="lab-58-monitoring-and-troubleshooting-office-365"></a>랩: Office 365 모니터링 및 문제 해결
+
+  - Office 365 모니터링
+
+  - 서비스 상태 모니터링 및 보고서 분석
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Office 365 연결 및 서비스 문제를 해결
+
+  - Office 365 서비스 상태를 모니터링

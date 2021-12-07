@@ -1,11 +1,17 @@
 ### YamlMime:Course
 title: Office 365 Management
 metadata:
-  title: 'Course MS-100T01-A: Office 365 Management'
-  description: 'Course MS-100T01-A: Office 365 Management'
+  title: '과정 MS-100T01-A: Office 365 Management'
+  description: '과정 MS-100T01-A: Office 365 Management'
   iltScheduling: true
+  ms.openlocfilehash: 6e50345551130bdd319ac2e144c7827cf0ce09a0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107109"
 uid: course.ms-100t01
-courseNumber: 'MS-100T01-A'
+courseNumber: MS-100T01-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -26,49 +32,83 @@ products:
 - office-365
 exams:
 - uid: exam.ms-100
-summary: |-
-  Office 365의 주요 구성 요소, 조직을 Office 365로 이동하는 방법, Office 365 구성 방법 및 Office 365 ProPlus 배포 관리 방법을 포함한 Office 365 관리에 대해 알아 봅시다.
-  #### 대상 그룹 프로필
+summary: >-
+  Office 365의 주요 구성 요소, 조직을 Office 365로 이동하는 방법, Office 365를 구성하는 방법, Office 365 ProPlus 배포를 관리하는 방법 등 Office 365 관리에 대해 알아봅니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
   본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
-prerequisitesSection: |-
-  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 , 같은 역할 기반 관리자 과정을 이수했습니다.
-  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
+prerequisitesSection: >-
+  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 같은 역할 기반 관리자 과정을 이수.
+
+  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험
+
   - 일반적인 IT 관행에 대한 능숙한 이해
-outlineSection: |-
-  ### 모듈 1&#58; 조직을 Office 365로 이동
-  #### 단원
+outlineSection: >-
+  ### <a name="module--158-moving-your-organization-to-office-365"></a>모듈 1: 조직을 Office 365로 이동
+
+  #### <a name="lessons"></a>단원
+
   - Exchange Online
+
   - SharePoint Online
+
   - Teams
+
   - 추가 리소스
 
-  ### 모듈 2&#58; Microsoft 365 Tenant 구성
-  #### 단원
-  - Office 365로 네트워크 계획
-  - 서비스 설치 계획
+
+
+  ### <a name="module--258-configuring-your-microsoft-365-tenant"></a>모듈 2: Microsoft 365 테넌트 구성
+
+  #### <a name="lessons"></a>단원
+
+  - Office 365를 사용하여 네트워크 계획
+
+  - 서비스 설정 계획
+
   - 하이브리드 환경 계획
+
   - Office 365로 마이그레이션 계획
 
-  ### 모듈 3&#58; Office 365 구성
-  #### 단원
+
+
+  ### <a name="module--358-configuring-office-365"></a>모듈 3: Office 365 구성
+
+  #### <a name="lessons"></a>단원
+
   - Office 365 클라이언트 개요
-  - Office 365에 클라이언트 연결 구성
+
+  - Office 365에 대한 Office 클라이언트 연결 구성
 
 
-  ### 모듈 4&#58; Office 365 ProPlus 배포 관리
-  #### 단원
-  - 사용자 기반 클라이언트 배포 관리
+
+  ### <a name="module--458-managing-office-365-proplus-deployments"></a>모듈 4: Office 365 ProPlus 배포 관리
+
+  #### <a name="lessons"></a>단원
+
+  - 사용자 기반 클라이언트 설치 관리
+
   - 중앙 집중식 Office 365 ProPlus 배포 관리
-  - Office Telemetry 구성
+
+  - Office 원격 분석 구성
+
   - Microsoft Analytics 구성
 
 
-  ### 모듈 5&#58; 실습 교육
 
-  #### 랩 &#58; Office 365 관리
-  - 연습 1&#58; Microsoft 365 Tenant 평가판 설치
-  - 연습 2&#58; Office 365 ProPlus 관리형 설치 준비
-  - 연습 3&#58; 사용자 기반 Office 365 ProPlus 설치 관리
-  - 연습 4&#58; 중앙 집중식 Office 365 ProPlus 설치 관리
-  - 연습 5&#58; Office Telemetry 구성 요소 배포 및 구성
+  ### <a name="module--558-hands-on-lab"></a>모듈 5: 실습 랩
 
+
+  #### <a name="lab-58-managing-office-365"></a>랩: Office 365 관리
+
+  - 연습 1: Microsoft 365 평가판 테넌트 설치
+
+  - 연습 2: Office 365 ProPlus 관리되는 설치 준비
+
+  - 연습 3: 사용자 기반 Office 365 ProPlus 설치 관리
+
+  - 연습 4: 중앙 집중식 Office 365 ProPlus 설치 관리
+
+  - 연습 5: Office 원격 분석 구성 요소 배포 및 구성

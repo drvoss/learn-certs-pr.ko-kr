@@ -1,83 +1,53 @@
 ### YamlMime:Course
 title: Designing and Implementing Microsoft DevOps solutions
 metadata:
-  title: 'Course AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions'
-  description: 'Course AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions'
+  title: '과정 AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions'
+  description: '과정 AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions'
+  ms.openlocfilehash: bea3f9cb0a54a9471430cffa1f1b3f7644c0c6ff
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107637"
 uid: course.az-400t00
-courseNumber: 'AZ-400T00-A'
+courseNumber: AZ-400T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 공유 목표와 타임라인을 통해 변환 계획
-- skill: 프로젝트 선택 및 프로젝트 메트릭과 KPI 식별
-- skill: 팀 및 Agile 조직 구조 생성
+- skill: 프로젝트를 선택하고 프로젝트 메트릭 및 KPI(핵심 성과 지표)를 식별
+- skill: 팀 및 Agile 조직 구조 만들기
+- skill: 도구 통합 전략 설계
+- skill: '라이선스 관리 전략 설계(예: Azure DevOps 및 GitHub 사용자)'
+- skill: 작업 항목부터 작업 소프트웨어까지 종단 간 추적성을 위한 전략 설계
+- skill: 인증 및 액세스 전략 설계
+- skill: 온프레미스 및 클라우드 리소스 통합 전략 설계
 - skill: 소스 제어 사용의 혜택 설명
-- skill: TFVC에서 Git로 마이그레이션
-- skill: Enterprise DevOps 용 Scale Git
-- skill: 아티팩트 관리 도구 및 방법론 추천
-- skill: 공유 및 재사용 가능 공통 패키지 추출
-- skill: Artifacts 마이그레이션 및 통합
-- skill: 소스 제어 측정 마이그레이션 및 통합
-- skill: 애플리케이션 구성 및 비밀 관리
-- skill: 프로젝트 품질 전략 개발
-- skill: 안전한 개발 관행 및 컴플라이언스 규칙 계획
-- skill: 빌드 인프라 구현 및 관리
+- skill: Azure Repos 및 GitHub 설명
+- skill: TFVC에서 Git으로 마이그레이션
+- skill: 기술적인 문제, SonarCloud 및 기타 도구 솔루션을 포함한 코드 품질 관리
+- skill: 코드 품질에 관한 조직 지식 구축
+- skill: Git 리포지토리 구조화 방법 설명
+- skill: Git 분기 워크플로 설명
+- skill: 협업 및 코드 검토를 위한 끌어오기 요청 활용
+- skill: Git 후크를 활용한 자동화
+- skill: Git를 사용하여 조직 전체의 내부 소스 조성
+- skill: Azure Pipelines 및 해당 구성 요소의 역할 설명
+- skill: Azure Pipelines에서 사용하도록 Agents 구성
 - skill: 연속 통합이 중요한 이유 설명
-- skill: Azure DevOps을 사용한 연속 통합 구현
-- skill: 기술적인 문제, SonarCloud 및 기타 툴링 솔루션을 포함한 코드 품질 관리
-- skill: 오픈 소스, OWASP 및 WhiteSource Bolt를 사용하여 보안 정책 관리
-- skill: 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략 구현.
-- skill: Docker를 사용하여 컨테이너 구현
-- skill: 기업 표준을 준수하는 보안 및 라이센스 규정 준수를 위한 오픈 소스 소프트웨어 패키지 검사
-- skill: 패키지 보안 및 라이선스 등급 액세스 빌드 파이프라인 구성
-- skill: 패키지 피드 보안 액세스 구성
-- skill: 패키지로 변환 가능한 코드 종속성 식별용 코드베이스 검사
-- skill: 솔루션 전반에 걸쳐 표준화된 패키지 유형 및 버전 식별 및 추천
-- skill: 패키지 게시 버전 전략 구현을 위한 기존 빌드 파이프 라인 리팩토링
-- skill: 보안 및 규정 준수 관리
-- skill: 릴리스와 배포 구분
-- skill: 릴리스 파이프라인 구성요소 정의
-- skill: 릴리스 전략 설계 시 고려할 사항 설명
-- skill: 릴리스 대 릴리스 프로세스 분류 및 그들의 품질을 제어하는 방법 개략 설명
-- skill: 릴리스 게이트의 원칙과 릴리스 정보 및 문서 처리 방법 설명
-- skill: 전통적인 의미와 현대적 의미 모두에서 배포 패턴 설명
-- skill: 릴리스 관리 도구 선택
-- skill: Azure DevOps 및 기타 릴리스 관리 툴링에 사용되는 용어 설명
-- skill: 빌드 및 릴리스 과제가 무엇인지, 수행할 수 있는 작업 및 사용 가능한 몇 가지 배포 작업에 대해 설명
-- skill: 에이전트, 에이전트 큐 및 에이전트 풀 분류
-- skill: 하나의 릴리스 파이프라인에서 다중 릴리스 작업이 필요한 이유 설명
-- skill: 다중 에이전트 릴리스 작업과 다중 구성 릴리스 작업 구분
-- skill: 릴리스 파이프라인에서 릴리스 변수 및 단계 변수 사용
-- skill: 서비스 연결을 사용하여 환경에 안전하게 배포
-- skill: 파이프라인에 테스트 포함
-- skill: 알림, 서비스 후크 및 보고서를 사용하여 파이프라인의 상태를 검사하고 릴리스하는 다양한 방법 나열
-- skill: 릴리스 게이트 생성
-- skill: 배포 패턴 설명
-- skill: 블루 그린 배포 구현
-- skill: 카나리아 릴리스 구현
-- skill: 프로그레시브 노출 배포 구현
-- skill: 클라이언트 애플리케이션 충돌 보고서 통합 구성
-- skill: 모니터링 및 상태 대시 보드 개발
-- skill: 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 구현
-- skill: 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현
-- skill: 개발 팀의 업무 관리와 티켓 시스템 통합 및 구성
-- skill: 모바일 DevOps 전략 구현
-- skill: 인프라 및 구성을 코드 원칙으로 적용.
-- skill: ARM 템플릿, PowerShell, 및 Azure CLI 등의 Microsoft 자동화 기술을 사용한 인프라 배포 및 관리
-- skill: Azure로 제공되는 배포 모델 및 서비스 설명
-- skill: 관리되는 Kubernetes 클라스터 배포 및 구성
-- skill: Chef, Puppet, Ansible, SaltStack, 및 Terraform 등 Azure에서 제공되는 타사 도구 및 서비스를 사용한 인프라 배포 및 구성
+- skill: Azure Pipelines를 사용한 연속 통합 구현
+- skill: 사이트 안정성 엔지니어링 정의
+- skill: 최종 사용자 만족도를 측정하고 사용자 피드백을 분석하는 프로세스 설계
+- skill: 애플리케이션 분석 자동화 프로세스 설계
+- skill: 경고 관리 및 의미 없고 조치 불가능한 경고 축소
+- skill: 비난하지 않는 회고 수행 및 공정한 문화 조성
 - skill: 인프라 및 구성 전략과 릴리스 파이프라인 및 애플리케이션 인프라에 적합한 도구 집합 정의
 - skill: 애플리케이션 인프라에서 규정 준수 및 보안 구현
-- skill: 최종 사용자 만족도를 측정하는 방법 설계
-- skill: 외부 소스에서 받은 사용자 피드백 확보 및 분석 프로세스 설계
-- skill: 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 설계
-- skill: 모니터링 도구 및 기술 추천
-- skill: 시스템 및 기능 사용 추적 도구 추천
-- skill: 기준 설정을 위한 경고 분석
-- skill: 원격 분석을 통한 기준 설정
-- skill: 실시간 사이트 검토 수행 및 시스템 중단 관련 피드백 확보
-- skill: 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
+- skill: 오픈 소스 소프트웨어 통합으로 인한 잠재적 문제 설명
+- skill: 오픈 소스 소프트웨어 패키지에서 보안 및 라이선스 준수 검사
+- skill: 조직 보안 및 준수 정책 관리
+- skill: 라이선스 및 취약성 검색을 빌드 및 배포 파이프라인에 통합
+- skill: 패키지 보안 및 라이선스 등급에 액세스하도록 빌드 파이프라인 구성
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -96,351 +66,12 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
+summary: >-
   본 과정에서는 DevOps 프로세스 및 관행을 구현하기 위한 지식과 기술을 제공합니다. 응시자들은 DevOps 계획, 소스 제어 사용, 엔터프라이즈용 Git 확장, Artifacts 통합, 종속성 관리 전략 설계, 비밀 관리, 연속 통합 구현, 컨테이너 빌드 전략 구현, 릴리스 관리 워크플로우 설정, 배포 패턴 구현, 피드백 메커니즘 최적화 방법을 학습합니다.
 
-  #### 대상 그룹 프로필
-  본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
-prerequisitesSection: |-
-  Azure, 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
-outlineSection: |-
-  ### 모듈 1&#58; DevOps 계획
-  #### 단원
-  - 전환 계획
-  - 프로젝트 선택
-  - 팀 구조
-  - Azure DevOps로 마이그레이션
 
-  #### 랩&#58; Azure Boards를 통한 Agile 계획 및 포트폴리오 관리
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
-  - 공유 목표와 타임라인을 통해 변환 계획
-  - 프로젝트 선택 및 프로젝트 메트릭과 KPI 식별
-  - 팀 및 Agile 조직 구조 생성
-  - 도구 통합 전략 설계
-  - 라이선스 관리 전략 설계(예&#58; VSTS 사용자)
-  - 작업 항목부터 작업 소프트웨어까지 종단 간 추적성을 위한 전략 설계
-  - 인증 및 액세스 전략 설계
-  - 온 프레미스 및 Cloud 리소스를 통합하기 위한 전략 설계
-
-
-  ### 모듈 2&#58; 소스 제어 시작하기
-  #### 단원
-  - 소스 제어란
-  - 소스 제어의 혜택
-  - 소스 제어 시스템의 유형
-  - Azure Repos 소개
-  - GitHub 소개
-  - Azure Repos에서 Team Foundation 버전 제어(TFVC)를 Git로 마이그레이션
-  - Azure Repos에서 Git에 인증
-
-  #### 랩&#58; Git으로 버전 제어
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 소스 제어 사용의 혜택 설명 
-  - Azure Repos 및 GitHub 설명
-  - TFVC에서 Git로 마이그레이션 
-
-
-  ### 모듈 3&#58; 엔터프라이즈 DevOps를 위한 Git 확장
-  #### 단원
-  - Git Repo 구조화 방법
-  - Git 분기 워크플로
-  - Azure Repos에서 끌어오기 요청과 협업
-  - GitHooks에 관심을 둬야 하는 이유
-  - 내부 소스 발전
-
-  #### 랩&#58; 끌어오기 요청에 의한 코드 리뷰
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Git repos 구조화 방법 설명 
-  - Git 분기 워크플로 설명
-  - 협업 및 코드 검토를 위한 끌어오기 요청 활용 
-  - Git 후크를 활용한 자동화 
-  - Git를 사한 조직 전체의 내부 소스 조성
-
-
-  ### 모듈 4&#58; Artifacts 통합 및 종속성 관리 전략 설계 
-  #### 단원
-  - 종속성 패키징
-  - 패키지 관리
-  - Artifacts 마이그레이션 및 통합
-
-  #### 랩&#58; 패키지 업데이트
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 아티팩트 관리 도구 및 방법론 추천
-  - 공유 및 재사용 가능 공통 패키지 추출
-  - Artifacts 마이그레이션 및 통합
-  - 소스 제어 측정 마이그레이션 및 통합 
-
-
-  ### 모듈 5&#58; Azure Pipelines을 사용한 연속 통합 구현
-  #### 단원
-  - DevOps에서 파이프라인의 개념
-  - Azure Pipelines
-  - 호스트 에이전트 대 사용자 에이전트 사용 평가
-  - 에이전트 풀
-  - 파이프라인 및 동시성
-  - Azure DevOps 및 오픈 소스 프로젝트(공개 프로젝트)
-  - Azure Pipelines YAML 대 비주얼 디자이너
-  - 연속 통합 개요
-  - 빌드 전략 구현
-  - Azure Pipeline과의 통합
-  - 외부 소스 제어를 Azure Pipelines와 통합
-  - 사용자 에이전트 설정
-  - Docker 다단계 빌드 분석 및 통합
-
-  #### 랩&#58; Azure Pipelines을 사용한 연속 통합 사용
-
-  #### 랩&#58; 외부 소스 제어를 Azure Pipelines와 통합
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 빌드 인프라 구현 및 관리
-  - 연속 통합이 중요한 이유 설명
-  - Azure DevOps을 사용한 연속 통합 구현
-
-
-  ### 모듈 6&#58; 애플리케이션 구성 및 비밀 관리 
-  #### 단원
-  - 보안 소개
-  - 보안 및 규정 준수 개발 프로세스 구현
-  - 애플리케이션 구성 데이터 제고
-  - 시크릿, 토큰, 인증서 관리
-  - 파이프라인 보안 관리 및 규정 준수 도구 구현 
-
-  #### 랩&#58; Azure Key Vault와 Azure DevOps 통합
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 애플리케이션 구성 및 비밀 관리
-  - 파이프라인 보안 관리 및 규정 준수 도구 구현
-
-
-  ### 모듈 7&#58; 코드 품질 및 보안 정책 관리
-  #### 단원
-  - 코드 품질 관리
-  - 보안 정책 관리
-
-  #### 랩&#58; Azure DevOps 및 SonarCloud으로 기술적인 문제 관리
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 기술적인 문제 SonarCloud 및 기타 툴링 솔루션을 포함한 코드 품질 관리
-  - 오픈 소스 및 OWASP를 사용하여 보안 정책 관리
-
-
-  ### 모듈 8&#58; 컨테이너 빌드 전략 구현
-  #### 단원
-  - 컨테이너 빌드 전략 구현
-
-  #### 랩&#58; Azure로 기존 ASP.NET 앱 현대화
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략 구현
-  - Docker를 사용하여 컨테이너 구현
-
-
-  ### 모듈 9&#58; 아티팩트 버전, 보안 및 규정 준수 관리
-  #### 단원
-  - 패키지 보안
-  - 오픈 소스 소프트웨어
-  - 라이선스 및 취약성 스캔 통합
-  - 버전 관리 전략 구현 
-
-  #### 랩&#58; WhiteSource를 사용하여 오픈 소스 보안 및 라이선스 관리
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 기업 표준을 준수하는 보안 및 라이센스 규정 준수를 위한 오픈 소스 소프트웨어 패키지 검사
-  - 패키지 보안 및 라이선스 등급 액세스 빌드 파이프라인 구성
-  - 패키지 피드 보안 액세스 구성
-  - 패키지로 변환 가능한 코드 종속성 식별용 코드베이스 검사
-  - 솔루션 전반에 걸쳐 표준화된 패키지 유형 및 버전 식별 및 추천
-  - 패키지 게시 버전 전략 구현을 위한 기존 빌드 파이프라인 리팩토링
-  - 보안 및 규정 준수 관리
-
-
-  ### 모듈 10&#58; 릴리스 전략 설계
-  #### 단원
-  - 지속적인 업데이트 소개
-  - 릴리스 전략 추천
-  - 고품질 릴리스 파이프라인 구성
-  - 배포 패턴 선택
-  - 올바른 릴리스 관리 도구 선택 
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 릴리스와 배포 구분
-  - 릴리스 파이프라인 구성요소 정의
-  - 릴리스 전략 설계 시 고려할 사항 설명
-  - 릴리스 대 릴리스 프로세스 분류 및 그들의 품질을 제어하는 방법 개략 설명
-  - 릴리스 게이트의 원칙과 릴리스 정보 및 문서 처리 방법 설명
-  - 전통적인 의미와 현대적 의미 모두에서 배포 패턴 설명
-  - 릴리스 관리 도구 선택
-
-
-  ### 모듈 11&#58; 릴리스 관리 워크플로 설정
-  #### 단원
-  - 릴리스 파이프라인 생성
-  - 환경 프로비저닝 및 구성
-  - 과제 및 템플릿 관리 및 모듈화
-  - 비밀을 릴리스 파이프라인과 통합
-  - 자동화 통합 및 기능 테스트 자동화 구성
-  - 자동 상태 검사
-
-  #### 랩&#58; YAML을 사용한 코드로 파이프라인 구성
-
-  #### 랩&#58; Azure Key Vault를 사용하여 파이프라인에 암호 설정
-
-  #### 랩&#58; 기능 테스트 설정 및 실행 
-
-  #### 랩&#58; Azure Monitor를 릴리스 게이트로 사용
-
-  #### 랩&#58; 릴리스 대시보드 생성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure DevOps 및 기타 릴리스 관리 툴링에 사용되는 용어 설명
-  - 빌드 및 릴리스 과제가 무엇인지, 수행할 수 있는 작업 및 사용 가능한 몇 가지 배포 작업에 대해 설명
-  - 에이전트, 에이전트 큐 및 에이전트 풀 분류
-  - 하나의 릴리스 파이프라인에서 다중 릴리스 작업이 필요한 이유 설명
-  - 다중 에이전트 릴리스 작업과 다중 구성 릴리스 작업 구분
-  - 릴리스 파이프라인에서 릴리스 변수 및 단계 변수 사용
-  - 서비스 연결을 사용하여 환경에 안전하게 배포
-  - 파이프라인에 테스트 포함
-  - 알림, 서비스 후크 및 보고서를 사용하여 파이프라인의 상태를 검사하고 릴리스하는 다양한 방법 나열
-  - 릴리스 게이트 생성
-
-
-  ### 모듈 12&#58; 적절한 배포 패턴 구현
-  #### 단원
-  - 배포 패턴 소개
-  - 블루 그린 배포 구현
-  - 기능 토글
-  - 카나리아 릴리스
-  - Dark Launching
-  - AB 테스트
-  - 프로그레시브 노출 배포
-
-  #### 랩&#58; LaunchDarkly 및 Azure DevOps를 통한 기능 플래그 관리
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 배포 패턴 설명
-  - 블루 그린 배포 구현
-  - 카나리아 릴리스 구현
-  - 프로그레시브 노출 배포 구현
-
-
-  ### 모듈 13&#58; 개발팀에 시스템 피드백 라우팅을 위한 프로세스 구현
-  #### 단원
-  - 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현
-  - 모바일 애플리케이션 오작동 보고서 데이터의 라우팅 구현
-  - 모니터링 및 상태 대시 보드 개발
-  - 티켓 시스템 통합 및 구성
-
-  #### 랩&#58; 애플리케이션 성능 모니터링
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 클라이언트 애플리케이션 충돌 보고서 통합 구성
-  - 모니터링 및 상태 대시 보드 개발
-  - 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 구현
-  - 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현
-  - 개발 팀의 업무 관리와 티켓 시스템 통합 및 구성
-
-
-  ### 모듈 14&#58; Azure Tool 인프라 및 구성
-  #### 단원
-  - 코드로서의 인프라 및 구성 관리
-  - ARM 템플릿을 사용한 Azure 리소스 생성
-  - Azure CLI을 사용한 Azure 리소스 생성
-  - Azure PowerShell에 의한 Azure 리소스 생성
-  - Desired State Configuration (DSC)
-  - DevOps에 의한 Azure Automation
-  - 추가 자동화 도구 
-
-  #### 랩&#58; Resource Manager 템플릿을 사용한 Azure 배포
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 인프라 및 구성을 코드 원칙으로 적용
-  - ARM 템플릿, PowerShell, 및 Azure CLI 등의 Microsoft 자동화 기술을 사용한 인프라 배포 및 관리
-
-
-  ### 모듈 15&#58; Azure 배포 모델 및 서비스
-  #### 단원
-  - 배포 모듈 및 옵션
-  - Azure Infrastructure-as-a-Service (IaaS) 서비스
-  - Azure Platform-as-a-Service (PaaS) 서비스
-  - 서버리스 및 HPC 컴퓨터 서비스
-  - Azure Service Fabric 
-
-  #### 랩&#58; Docker화된 Java 앱을 컨테이너용 Azure 웹 앱에 배포
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure로 제공되는 배포 모델 및 서비스 설명
-
-
-  ### 모듈 16&#58; Kubernetes 서비스 인프라 생성 및 관리
-  #### 단원
-  - Azure Kubernetes Service
-
-  #### 랩&#58; Azure Cubernetes Service에 다중 컨테이너 애플리케이션 배포
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 관리되는 Kubernetes 클라스터 배포 및 구성
-
-
-  ### 모듈 17&#58; Azure와 함께 사용 가능한 코드 도구로서의 타사 인프라
-  #### 단원
-  - Chef
-  - Puppet
-  - Ansible
-  - Terraform
-
-  #### 랩&#58; 코드로서의 인프라
-
-  #### 랩&#58; Terraform 및 Azure Pipelines으로 클라우드에서 인프라 배포 자동화
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Chef, Puppet, Ansible, 및 Terraform 등 Azure에서 제공되는 타사 도구 및 서비스를 사용한 인프라 배포 및 구성
-
-
-  ### 모듈 18&#58; 인프라에서 규정 준수 및 보안 구현
-  #### 단원
-  - DevOps에 의한 보안 및 규정 준수 원칙
-  - Azure 보안 센터 
-
-  #### 랩&#58; Azure DevOps 파이프라인의 보안 및 규정 준수 구현
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 인프라 및 구성 전략과 릴리스 파이프라인 및 애플리케이션 인프라에 적합한 도구 집합 정의
-  - 애플리케이션 인프라에서 규정 준수 및 보안 구현
-
-
-  ### 모듈 19&#58; 시스템 피드백 메커니즘 권장 및 설계
-  #### 단원
-  - 내부 루프
-  - 지속적 실험 사고방식
-  - 최종 사용자 만족도를 측정하는 방법 설계
-  - 사용자 피드백 확보 및 분석 프로세스 설계
-  - 애플리케이션 분석 자동화 프로세스 설계 
-
-  #### 랩&#58; Azure DevOps 및 Teams 통합
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 최종 사용자 만족도를 측정하는 방법 설계
-  - 외부 소스에서 받은 사용자 피드백 확보 및 분석 프로세스 설계
-  - 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 설계
-  - 모니터링 도구 및 기술 추천
-  - 시스템 및 기능 사용 추적 도구 추천
-
-
-  ### 모듈 20&#58; 피드백 메커니즘 최적화
-  #### 단원
-  - 사이트 안정성 공학
-  - 원격 분석을 통한 기준 설정
-  - 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
-  - 기준 설정을 위한 경고 분석
-  - 떳떳한 회고 및 정당한 문화 
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 기준 설정을 위한 경고 분석
-  - 원격 분석을 통한 기준 설정
-  - 실시간 사이트 검토 수행 및 시스템 중단 관련 피드백 확보
-  - 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
-
+  이 과정의 학생들은 DevOps 프로세스를 디자인하고 구현하거나 Microsoft Azure DevOps Solutions 인증 시험을 통과하는데 관심이 있습니다.
+prerequisitesSection: "성공적으로 학습하려면 다음에 대한 사전 지식 및 이해가 필요합니다.\n- PaaS, SaaS 및 IaaS 구현에 대한 이해를 비롯한 클라우드 컴퓨팅 개념\n- 이러한 영역 중 하나 이상에서 검증된 전문 지식을 사용하는 Azure 관리 및 Azure 개발\n- 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.\n\nAzure 및 클라우드 컴퓨팅을 처음 접하는 경우 다음 리소스 중 하나를 고려하세요.\n- 무료 온라인: Azure Fundamentals(https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) \n- 강사 진행 과정: AZ-900: Azure Fundamentals(https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)\n\nAzure 관리를 처음 접하는 경우 다음 과정을 수강하는 것이 좋습니다.\n- 무료 온라인: Prerequisites for Azure Administrators(https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)\n- 강사 진행 과정: AZ-104: Microsoft Azure Administrator(https://docs.microsoft.com/en-us/learn/certifications/courses/az-104t00) 및 AZ-010: Azure Administration for AWS SysOps(https://docs.microsoft.com/en-us/learn/certifications/courses/az-010t00)\n\nAzure 개발자를 처음 접하는 경우 다음 과정을 수강하는 것이 좋습니다.\n- 무료 온라인: Create serverless applications(https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)\n- 강사 진행 과정: AZ-204: Developing Solutions for Microsoft Azure(https://docs.microsoft.com/en-us/learn/certifications/courses/az-204t00) 및 AZ-020: Microsoft Azure Solutions for AWS Developers(https://docs.microsoft.com/en-us/learn/certifications/courses/az-020t00)"
+outlineSection: "### <a name=\"module-158-planning-for-devops\"></a>모듈 1: DevOps 계획\n#### <a name=\"lessons\"></a>단원\n- 전환 계획\n- 프로젝트 선택\n- 팀 구조\n- Azure DevOps로 마이그레이션\n\n#### <a name=\"lab-58-agile-planning-and-portfolio-management-with-azure-boards\"></a>랩: Azure Boards를 통한 Agile 계획 및 포트폴리오 관리\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 공유 목표와 타임라인을 통해 변환 계획\n- 프로젝트를 선택하고 프로젝트 메트릭 및 KPI(핵심 성과 지표)를 식별\n- 팀 및 Agile 조직 구조 만들기\n- 도구 통합 전략 설계\n- 라이선스 관리 전략 설계(예: Azure DevOps 및 GitHub 사용자)\n- 작업 항목부터 작업 소프트웨어까지 종단 간 추적성을 위한 전략 설계\n- 인증 및 액세스 전략 설계\n- 온프레미스 및 클라우드 리소스 통합 전략 설계\n\n\n### <a name=\"module-258-getting-started-with-source-control\"></a>모듈 2: 소스 제어 시작하기\n#### <a name=\"lessons\"></a>단원\n- 소스 제어란\n- 소스 제어의 이점\n- 소스 제어 시스템의 유형\n- Azure Repos 소개\n- GitHub 소개\n- Azure Repos에서 TFVC(Team Foundation 버전 제어)를 Git로 마이그레이션\n\n#### <a name=\"lab-58-version-controlling-with-git-in-azure-repos\"></a>랩: Azure Repos에서 Git를 사용하여 버전 제어\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 소스 제어 사용의 혜택 설명 \n- Azure Repos 및 GitHub 설명\n- TFVC에서 Git으로 마이그레이션\n\n\n### <a name=\"module-358-managing-technical-debt\"></a>모듈 3: 기술적인 문제 관리\n#### <a name=\"lessons\"></a>단원\n- 기술적인 문제 식별\n- Teams 내에서 지식 공유\n- Codespaces를 사용하여 개발 환경 현대화\n\n#### <a name=\"lab-58-sharing-team-knowledge-using-azure-project-wikis\"></a>랩: Azure 프로젝트 wiki를 사용하여 팀 지식 공유\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 기술적인 문제, SonarCloud 및 기타 도구 솔루션을 포함한 코드 품질 관리\n- 코드 품질에 관한 조직 지식 구축\n\n\n### <a name=\"module-458-working-with-git-for-enterprise-devops\"></a>모듈 4: Enterprise DevOps용 Git 사용\n#### <a name=\"lessons\"></a>단원\n- Git Repo 구조화 방법\n- Git 분기 워크플로\n- Azure Repos에서 끌어오기 요청과 협업\n- Git 후크에 관심을 둬야 하는 이유\n- 내부 소스 발전\n- Git 리포지토리 관리\n\n#### <a name=\"lab-58-version-controlling-with-git-in-azure-repos\"></a>랩: Azure Repos에서 Git를 사용하여 버전 제어\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Git 리포지토리 구조화 방법 설명 \n- Git 분기 워크플로 설명\n- 협업 및 코드 검토를 위한 끌어오기 요청 활용 \n- Git 후크를 활용한 자동화 \n- Git를 사용하여 조직 전체의 내부 소스 조성\n\n\n### <a name=\"module-558-configuring-azure-pipelines\"></a>모듈 5: Azure Pipelines 구성\n#### <a name=\"lessons\"></a>단원\n- DevOps에서 파이프라인의 개념\n- Azure Pipelines\n- 호스트된 에이전트 및 자체 호스팅 에이전트 사용 비교 평가\n- 에이전트 풀\n- 파이프라인 및 동시성\n- Azure DevOps 및 오픈 소스 프로젝트(공개 프로젝트)\n- Azure Pipelines YAML과 비주얼 디자이너 비교\n\n#### <a name=\"lab-58-configuring-agent-pools-and-understanding-pipeline-styles\"></a>랩: 에이전트 풀 구성 및 파이프라인 스타일 이해\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Azure Pipelines 및 해당 구성 요소의 역할 설명\n- Azure Pipelines에서 사용하도록 Agents 구성\n\n\n### <a name=\"module-658-implementing-continuous-integration-using-azure-pipelines\"></a>모듈 6: Azure Pipelines를 사용한 연속 통합 구현\n#### <a name=\"lessons\"></a>단원\n- 연속 통합 개요\n- 빌드 전략 구현\n- Azure Pipelines와의 통합\n- 외부 소스 제어를 Azure Pipelines와 통합\n- 자체 호스팅 에이전트 설정\n\n#### <a name=\"lab-58-enabling-continuous-integration-with-azure-pipelines\"></a>랩: Azure Pipelines를 사용한 연속 통합 사용\n\n#### <a name=\"lab-58-integrating-external-source-control-with-azure-pipelines\"></a>랩: 외부 소스 제어를 Azure Pipelines와 통합\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 연속 통합이 중요한 이유 설명 \n- Azure Pipelines를 사용한 연속 통합 구현\n\n\n### <a name=\"module-758-managing-application-configuration-and-secrets\"></a>모듈 7: 애플리케이션 구성 및 비밀 관리\n#### <a name=\"lessons\"></a>단원\n- 보안 소개\n- 안전한 개발 프로세스 구현\n- 애플리케이션 구성 데이터 재고\n- 비밀, 토큰 및 인증서 관리\n- ID 관리 시스템과 통합\n- 애플리케이션 구성 구현\n\n#### <a name=\"lab-58-integrating-azure-key-vault-with-azure-devops\"></a>랩: Azure Key Vault를 Azure DevOps와 통합\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 애플리케이션 구성 및 비밀 관리\n- Azure Key Vault를 파이프라인과 통합 \n\n\n### <a name=\"module-858-implementing-continuous-integration-with-github-actions\"></a>모듈 8: GitHub Actions를 사용한 연속 통합 구현\n#### <a name=\"lessons\"></a>단원\n- GitHub 작업\n- GitHub Actions를 사용한 연속 통합\n- GitHub Actions용 비밀 보호\n\n#### <a name=\"lab-58-github-actions-continuous-integration\"></a>랩: GitHub Actions 연속 통합\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- GitHub Actions 및 워크플로 만들기 및 사용\n- GitHub Actions를 사용한 연속 통합 구현\n\n\n### <a name=\"module-958-designing-and-implementing-a-dependency-management-strategy\"></a>모듈 9: 종속성 관리 전략 설계 및 구현\n#### <a name=\"lessons\"></a>단원\n- 종속성 패키징\n- 패키지 관리\n- 아티팩트 마이그레이션 및 통합\n- 패키지 보안\n- 버전 관리 전략 구현\n\n#### <a name=\"lab-58-package-management-with-azure-artifacts\"></a>랩: Azure Artifacts를 사용한 패키지 관리\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 아티팩트 관리 도구 및 방법론 추천\n- 공유 및 재사용 가능 공통 패키지 추출\n- Artifacts 마이그레이션 및 통합\n- 소스 제어 측정 마이그레이션 및 통합\n\n\n### <a name=\"module-1058-designing-a-release-strategy\"></a>모듈 10: 릴리스 전략 설계\n#### <a name=\"lessons\"></a>단원\n- 지속적인 업데이트 소개\n- 릴리스 전략 권장 사항\n- 고품질 릴리스 파이프라인 빌드\n- 올바른 릴리스 관리 도구 선택\n\n#### <a name=\"lab-58-controlling-deployments-using-release-gates\"></a>랩: 릴리스 게이트를 사용하여 배포 제어\n\n#### <a name=\"lab-58-creating-a-release-dashboard\"></a>랩: 릴리스 대시보드 만들기\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 릴리스와 배포 구분\n- 릴리스 파이프라인 구성요소 정의\n- 릴리스 전략 설계 시 고려할 사항 설명\n- 릴리스 대 릴리스 프로세스 분류 및 그들의 품질을 제어하는 방법 개략 설명\n- 릴리스 게이트의 원칙과 릴리스 정보 및 문서 처리 방법 설명\n- 릴리스 관리 도구 선택\n\n\n### <a name=\"module-1158-implementing-continuous-deployment-using-azure-pipelines\"></a>모듈 11: Azure Pipelines를 사용한 지속적인 배포 구현\n#### <a name=\"lessons\"></a>단원\n- 릴리스 파이프라인 만들기\n- 환경 프로비저닝 및 구성\n- 작업 및 템플릿 관리 및 모듈화\n- 자동화된 통합 및 기능 테스트 자동화 구성\n- 상태 검사 자동화\n\n#### <a name=\"lab-58-configuring-pipelines-as-code-with-yaml\"></a>랩: YAML을 사용하여 코드로 파이프라인 구성\n\n#### <a name=\"lab-58-setting-up-and-running-functional-tests\"></a>랩: 기능 테스트 설정 및 실행\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Azure DevOps 및 기타 릴리스 관리 툴링에 사용되는 용어 설명\n- 빌드 및 릴리스 과제가 무엇인지, 수행할 수 있는 작업 및 사용 가능한 몇 가지 배포 작업에 대해 설명\n- 하나의 릴리스 파이프라인에서 다중 릴리스 작업이 필요한 이유 설명\n- 다중 에이전트 릴리스 작업과 다중 구성 릴리스 작업 구분\n- 릴리스 파이프라인에서 릴리스 변수 및 단계 변수 사용\n- 서비스 연결을 사용하여 환경에 안전하게 배포\n- 알림, 서비스 후크 및 보고서를 사용하여 파이프라인의 상태를 검사하고 릴리스하는 다양한 방법 나열\n\n\n### <a name=\"module-1258-implementing-an-appropriate-deployment-pattern\"></a>모듈 12: 적절한 배포 패턴 구현\n#### <a name=\"lessons\"></a>단원\n- 배포 패턴 소개\n- 블루 그린 배포 구현\n- 기능 토글\n- 카나리아 릴리스\n- Dark Launching\n- AB 테스트\n- 점진적 노출 배포\n\n#### <a name=\"lab-58-feature-flag-management-with-launchdarkly-and-azure-devops\"></a>랩: LaunchDarkly 및 Azure DevOps를 통한 기능 플래그 관리\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 배포 패턴 설명\n- 블루 그린 배포 구현\n- 카나리아 릴리스 구현\n- 프로그레시브 노출 배포 구현\n\n\n### <a name=\"module-1358-managing-infrastructure-and-configuration-using-azure-tools\"></a>모듈 13: Azure Tools를 사용하여 인프라 및 구성 관리\n#### <a name=\"lessons\"></a>단원\n- 코드로서의 인프라 및 구성 관리\n- ARM 템플릿을 사용하여 Azure 리소스 만들기\n- Azure CLI를 사용하여 Azure 리소스 만들기\n- DevOps에 의한 Azure Automation\n- DSC(필요한 상태 구성)\n\n#### <a name=\"lab-58-azure-deployments-using-resource-manager-templates\"></a>랩: Resource Manager 템플릿을 사용한 Azure 배포\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 인프라 및 구성을 코드 원칙으로 적용.\n- ARM 템플릿, PowerShell, 및 Azure CLI 등의 Microsoft 자동화 기술을 사용한 인프라 배포 및 관리 \n\n\n### <a name=\"module-1458-third-party-infrastructure-as-code-tools-available-with-azure\"></a>모듈 14: Azure와 함께 사용 가능한 코드 도구로서의 타사 인프라\n#### <a name=\"lessons\"></a>단원\n- Chef\n- Puppet\n- Ansible\n- Terraform\n\n#### <a name=\"lab-58-automating-infrastructure-deployments-in-the-cloud-with-terraform-and-azure-pipelines\"></a>랩: Terraform 및 Azure Pipelines로 클라우드에서 인프라 배포 자동화\n\n#### <a name=\"lab-58-deploying-apps-with-chef-on-azure\"></a>랩: Azure에서 Chef를 사용하여 앱 배포\n\n#### <a name=\"lab-58-deploy-app-with-puppet-on-azure\"></a>랩: Azure에서 Puppet을 사용하여 앱 배포\n\n#### <a name=\"lab-58-ansible-with-azure\"></a>랩: Azure를 사용하는 Ansible\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- Azure에서 Chef, Puppet, Ansible, Terraform 같은 타사 도구 및 서비스를 사용한 인프라 배포 및 구성\n\n\n### <a name=\"module-1558-managing-containers-using-docker\"></a>모듈 15: Docker를 사용하여 컨테이너 관리\n#### <a name=\"lessons\"></a>단원\n- 컨테이너 빌드 전략 구현\n- Docker 다단계 빌드 구현\n\n#### <a name=\"lab-58-modernizing-existing-aspnet-apps-with-azure\"></a>랩: Azure로 기존 ASP.NET 앱 현대화\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 컨테이너와 가상 머신의 차이점, 마이크로 서비스가 컨테이너를 사용하는 방법을 비롯한 컨테이너 전략 구현.\n- Docker를 사용하여 컨테이너 구현\n- Docker 다단계 빌드 구현\n\n\n### <a name=\"module-1658-creating-and-managing-kubernetes-service-infrastructure\"></a>모듈 16: Kubernetes 서비스 인프라 만들기 및 관리\n#### <a name=\"lessons\"></a>단원\n- Azure Kubernetes Service\n- Kubernetes 도구\n- AKS와 Pipelines 통합\n\n#### <a name=\"lab-58-deploying-a-multi-container-application-to-azure-kubernetes-service\"></a>랩: Azure Kubernetes Service에 다중 컨테이너 애플리케이션 배포\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 관리되는 Kubernetes 클라스터 배포 및 구성 \n\n\n\n### <a name=\"module-1758-implementing-feedback-for-development-teams\"></a>모듈 17: 개발 팀에 대한 피드백 구현\n#### <a name=\"lessons\"></a>단원\n- 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현\n- 모바일 애플리케이션 오작동 보고서 데이터의 라우팅 구현\n- 모니터링 및 상태 대시 보드 개발\n- 티켓 시스템 통합 및 구성\n\n#### <a name=\"lab-58-monitoring-application-performance-with-application-insights\"></a>랩: Application Insights를 사용하여 애플리케이션 성능 모니터링\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 시스템 사용량, 기능 사용량 및 흐름 추적 도구 구현\n- 클라이언트 애플리케이션 충돌 보고서 통합 구성\n- 클라이언트 애플리케이션 충돌 보고서 데이터의 라우팅 구현\n- 모니터링 및 상태 대시보드 개발\n- 개발 팀의 업무 관리와 티켓 시스템 통합 및 구성\n\n\n### <a name=\"module-1858-implementing-system-feedback-mechanisms\"></a>모듈 18: 시스템 피드백 메커니즘 구현\n#### <a name=\"lessons\"></a>단원\n- 사이트 안정성 엔지니어링\n- 최종 사용자 만족도 측정 방법 설계\n- 사용자 피드백 확보 및 분석 프로세스 설계\n- 애플리케이션 분석 자동화 프로세스 설계\n- 경고 관리\n- 비난하지 않는 회고 및 공정한 문화\n\n#### <a name=\"lab-58-integration-between-azure-devops-and-teams\"></a>랩: Azure DevOps와 Teams 통합\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 사이트 안정성 엔지니어링 정의\n- 최종 사용자 만족도를 측정하고 사용자 피드백을 분석하는 프로세스 설계\n- 애플리케이션 분석 자동화 프로세스 설계\n- 경고 관리 및 의미 없고 조치 불가능한 경고 축소\n- 비난하지 않는 회고 수행 및 공정한 문화 조성\n\n\n### <a name=\"module-1958-implementing-security-in-devops-projects\"></a>모듈 19: DevOps Projects에서 보안 구현\n#### <a name=\"lessons\"></a>단원\n- 파이프라인의 보안\n- Azure Security Center\n\n#### <a name=\"lab-58-implement-security-and-compliance-in-an-azure-devops-pipeline\"></a>랩: Azure DevOps 파이프라인의 보안 및 규정 준수 구현\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 인프라 및 구성 전략과 릴리스 파이프라인 및 애플리케이션 인프라에 적합한 도구 집합 정의\n- 애플리케이션 인프라에서 규정 준수 및 보안 구현\n\n\n\n### <a name=\"module-2058-validating-code-bases-for-compliance\"></a>모듈 20: 규정 준수를 위한 코드 베이스 유효성 검사\n#### <a name=\"lessons\"></a>단원\n- 오픈 소스 소프트웨어\n- 보안 및 준수 정책 관리\n- 라이선스 및 취약성 검사 통합\n\n#### <a name=\"lab-58-managing-technical-debt-with-sonarqube-and-azure-devops\"></a>랩: SonarQube 및 Azure DevOps를 사용하여 기술적인 문제 관리\n\n본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:\n- 오픈 소스 소프트웨어 통합으로 인한 잠재적 문제 설명\n- 오픈 소스 소프트웨어 패키지에서 보안 및 라이선스 준수 검사\n- 조직 보안 및 준수 정책 관리\n- 라이선스 및 취약성 검색을 빌드 및 배포 파이프라인에 통합\n- 패키지 보안 및 라이선스 등급에 액세스하도록 빌드 파이프라인 구성"

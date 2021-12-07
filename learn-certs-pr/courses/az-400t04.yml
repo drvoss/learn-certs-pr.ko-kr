@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Implementing Dependency Management
 metadata:
-  title: 'Course AZ-400T04-A: Implementing Dependency Management'
-  description: 'Course AZ-400T04-A: Implementing Dependency Management'
+  title: '과정 AZ-400T04-A: Implementing Dependency Management'
+  description: '과정 AZ-400T04-A: Implementing Dependency Management'
+  ms.openlocfilehash: 1c3934ec54dcd83d217eaa2cd2df9598e4eb3e18
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107613"
 uid: course.az-400t04
-courseNumber: 'AZ-400T04-A'
+courseNumber: AZ-400T04-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -32,38 +38,64 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  본 과정에서는 의존성 관리를 구현하기 위한 지식과 기술을 제공합니다. 의존성 관리 전략을 설계하고 보안 및 규정 준수를 관리하는 방법을 설명합니다.
-  #### 대상 그룹 프로필
-  본 과정의 수강자는 의존성 관리 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
-prerequisitesSection: |-
-  Azure, 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
-outlineSection: |-
-  ### 모듈 1&#58; 의존성 관리 전략 설계
-  #### 단원
+summary: >-
+  이 과정에서는 종속성 관리를 구현하기 위한 지식과 기술을 제공합니다. 종속성 관리 전략을 설계하고 보안 및 규정 준수를 관리하는 방법을 알아봅니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  이 과정의 학생들은 종속성 관리를 구현하거나 Microsoft Azure DevOps Solutions 인증 시험을 통과하는데 관심이 있습니다.
+prerequisitesSection: Azure, 버전 제어, Agile Software Development 및 핵심 소프트웨어 개발 원칙에 대한 기본적인 지식. 소프트웨어를 제공하는 조직에서 경험을 쌓은 것이 도움이 될 것입니다.
+outlineSection: >-
+  ### <a name="module--158-designing-a-dependency-management-strategy"></a>모듈 1: 종속성 관리 전략 설계
+
+  #### <a name="lessons"></a>단원
+
   - 소개
-  - 의존성 패키징
+
+  - 종속성 패키징
+
   - 패키지 관리
+
   - 버전 관리 전략 구현
-  #### 랩 &#58; 패키지 업데이트
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 아티팩트 관리 도구 및 관행 추천
+
+
+
+  #### <a name="lab-58-updating-packages"></a>랩: 패키지 업데이트
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 아티팩트 관리 도구 및 방법론 추천
+
   - 공유 및 재사용 가능 공통 패키지 추출
+
   - 패키지로 변환 가능한 코드 종속성 식별용 코드베이스 검사
+
   - 솔루션 전반에 걸쳐 표준화된 패키지 유형 및 버전 식별 및 추천
+
   - 패키지 게시 버전 전략 구현을 위한 기존 빌드 파이프 라인 리팩토링
+
   - 보안 및 규정 준수 관리
 
 
-  ### 모듈 2&#58; 보안 및 규정 준수 관리
-  #### 단원
+
+  ### <a name="module--258-manage-security-and-compliance"></a>모듈 2: 보안 및 규정 준수 관리
+
+  #### <a name="lessons"></a>단원
+
   - 소개
+
   - 패키지 보안
+
   - 오픈 소스 소프트웨어
-  - 라이선스 및 취약성 스캔 통합
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 라이선스 및 취약성 검사 통합
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - 기업 표준을 준수하는 보안 및 라이센스 규정 준수를 위한 오픈 소스 소프트웨어 패키지 검사
-  - 패키지 보안 및 라이선스 등급 액세스 빌드 파이프라인 구성
-  - 패키지 피드 보안 액세스 구성
 
+  - 패키지 보안 및 라이선스 등급 액세스 빌드 파이프라인 구성
+
+  - 패키지 피드 보안 액세스 구성

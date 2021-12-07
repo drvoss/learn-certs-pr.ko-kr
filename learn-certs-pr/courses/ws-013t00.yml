@@ -1,21 +1,27 @@
 ### YamlMime:Course
 title: Azure Stack HCI
 metadata:
-  title: 'Course WS-013T00-A: Azure Stack HCI'
-  description: 'Course WS-013T00-A: Azure Stack HCI'
+  title: '과정 WS-013T00-A: Azure Stack HCI'
+  description: '과정 WS-013T00-A: Azure Stack HCI'
+  ms.openlocfilehash: da8179d1635302b3bc2eb55284e3e3adf5c89a53
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106949"
 uid: course.ws-013t00
-courseNumber: 'WS-013T00-A'
+courseNumber: WS-013T00-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure Stack HCI, Azure Stack Hub 및 Azure Stack Edge를 포함하여, Azure Stack 포트폴리오 설명
-- skill: Azure Stack HCI 핵심 기술 및 관리 도구 설명
-- skill: 일반적인 Azure Stack HCI 구현 대한 프로세스 설명
-- skill: Azure Stack HCI 하이브리드 기능 확인
-- skill: Azure Stack HCI에서 워크로드를 구현, 관리 및 유지
-- skill: Storage QoS 및 Storage Replica를 포함하여, Azure Stack HCI Storage대한 계획 및 구현
-- skill: Azure Stack HCI Networking에 대한 계획
-- skill: Azure Stack HCI에서 Software Defined Networks 구현
+- skill: Azure Stack HCI, Azure Stack Hub 및 Azure Stack Edge를 포함하여 Azure Stack 포트폴리오 설명
+- skill: Azure Stack HCI 핵심 기술 및 관리 도구 설명.
+- skill: 일반적인 Azure Stack HCI 구현 프로세스 설명.
+- skill: Azure Stack HCI 하이브리드 기능 식별.
+- skill: Azure Stack HCI에서 워크로드 구현, 관리 및 유지 관리.
+- skill: 스토리지 QoS 및 스토리지 복제본을 포함한 Azure Stack HCI 스토리지 계획 및 구현.
+- skill: Azure Stack HCI 네트워킹 계획.
+- skill: Azure Stack HCI에서 소프트웨어 방식 네트워킹 구현.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -25,115 +31,205 @@ roles:
 - administrator
 products:
 - windows-server
-summary: |-
-  이 삼일 코스는 주로 온-프레미스 Window Server 환경 관리에 대해 이미 상당한 경험이 있는 IT 전문가를 대상으로 합니다. 
-  원도우 Server 소프트웨어 정의 데이터 센터, Azure Stack HCI 및 다른 Azure Stack 제품에 관련된 고급 주제를 다루는 것이 목적입니다. 코스는 또한 기존 마이크로소프트 System Center 제품의 사용하여 구현하는 것과 Window Server 2019로 소프트웨어-정의 데이터센터를 관리하는 부분도 설명합니다. 이 코스는 소프트웨어-정의 데이터 센터 및 하이퍼-컨버지 원칙을 사용하여 중간에서-대규모 Window Server 2019에 가상 워크로드를 실행하려는 사람들을 위해 고급화 되고 설계 되었습니다. 
+summary: >-
+  3일간 진행하는 본 과정은 주로 이미 상당한 온-프레미스 Windows Server 환경 관리 경험이 있는 IT 전문가를 대상으로 합니다. 과정의 목적은 Windows Server 소프트웨어 정의 데이터센터, Azure Stack HCI 및 기타 Azure Stack 제품과 관련된 고급 주제를 다루는 것입니다. 또한 기존 Microsoft System Center 제품을 사용하여 Windows Server 2019로 소프트웨어 정의 데이터센터를 구현하고 관리하는 방법도 설명합니다. 이 과정은 중견기업 및 대기업에서 소프트웨어 방식 데이터센터 및 하이퍼 컨버지드 원리를 사용하여 Windows Server 2019에서 가상 워크로드를 실행하려는 사람들을 대상으로 설계된 고급 과정입니다.
 
-  #### 시청자 프로파일
-  이 코스는 온-프레미스 Window Server 환경을 관리하고 Azure를 사용하여 Window Server 2019에서 Server 워크로드를 관리하고 가상 워크로드를 실행하려는 IT 전문가를 위한 것입니다. 이들은 또한 기존 마이크로소프트 System Center 제품을 사용하여 Window Server 2019로 소프트웨어-정의 데이터 센터를 구현하고 관리하기를 원합니다. 
-prerequisitesSection: |-
-  - 온-프레미스 시나리오에서 Window Server 운영 체계 및 Window Server 가상화된 워크로드 관리에 대한 중급 경험
-  - 공통의 Window Server 관리 도구에 대한 중급 경험 (첫 번째 필수 구성 요소에서 언급됨)
-  - 핵심 마이크로소프트 컴퓨팅, 저장소, 네트워킹 및 가상화 기술에 대한 중급 지식
-  - Window Server 기반 컴퓨팅 및 저장소 고- 효용성 기술에 대한 중급 지식
-  - 마이크로소프트 Azure에서 Infrastructure as a service (IaaS) 서비스 구현 및 관리에 대한 기본 경험
-  - Azure Active Directory (Azure AD)에 대한 기본 지식
-  - 마이크로소프트 가상화 보안-관련 기술에 대한 중급 지식
-  - PowerShell 스크립팅 및 PowerShell Desired State Configuration (DSC)에 대한 중급 지식
-outlineSection: |-
-  ### 모듈 1&#58; Azure Stack HCI 소개
-  이 모듈은 Azure Stack Hub 및 Azure Stack Edge를 포함하여, Azure Stack 포트폴리오의 일부인 피어 제품과 함께 Azure Stack HCI의 기본 특성을 설명합니다. 모듈은 또한 Azure Stack HCI 핵심 기술 및 관리 도구에 대한 개요와 일반적인 구현 프로세스의 높은 수준의 연습을 개요를 제공합니다. 마지막으로 모듈은 대부분 모듈 4에서 자세히 다루는, Azure Stack HCI 하이브리드 성능의 요약으로 끝을 맺습니다. 
-  #### 레슨
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  본 과정은 온-프레미스 Windows Server 환경을 관리하고 Azure를 사용하여 Windows Server 2019에서 서버 워크로드를 관리하고 가상 워크로드를 실행하려는 IT 전문가를 대상으로 합니다. 이들은 또한 기존 Microsoft System Center 제품을 사용하여 Windows Server 2019로 소프트웨어 방식 데이터센터를 구현하고 관리합니다.
+prerequisitesSection: >-
+  - 온-프레미스 시나리오에서 Windows Server 운영 체제 및 Windows Server 가상화 워크로드를 관리한 중급 경험
+
+  - 일반적인 Windows Server 관리 도구를 사용한 중급 경험(첫 번째 필수 요건에 내포된 요건)
+
+  - 핵심 Microsoft 컴퓨팅, 스토리지, 네트워킹 및 가상화 기술에 대한 중급 지식
+
+  - Windows Server 기반 컴퓨팅 및 스토리지 고가용성 기술에 대한 중급 지식
+
+  - Microsoft Azure에서 IaaS(서비스 제공 인프라) 서비스를 구현 및 관리한 기본 경험
+
+  - Azure AD(Azure Active Directory)에 대한 기본 지식
+
+  - Microsoft 가상화 보안 관련 기술에 대한 중급 지식
+
+  - PowerShell 스크립팅 및 PowerShell DSC(Desired State Configuration)에 대한 중급 지식
+outlineSection: >-
+  ### <a name="module-158-introducing-azure-stack-hci"></a>모듈 1: Azure Stack HCI 소개
+
+  본 모듈에서는 Azure Stack Hub 및 Azure Stack Edge를 포함한 Azure Stack 포트폴리오의 일부인 동등 제품과 함께 Azure Stack HCI의 기본 특성을 설명합니다. 본 모듈에서는 또한 Azure Stack 핵심 기술 및 관리 도구의 개요와 일반적인 구현 프로세스에 대한 자세한 설명을 제시합니다. 마지막으로 본 모듈에서는 Azure Stack HCI 하이브리드 기능을 요약하면서 마무리합니다. 이 기능의 대부분은 모듈 4에서 자세히 다룹니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure Stack HCI 개요
+
   - Azure Stack HCI 기술 개요
+
   - Azure Stack HCI 관리 도구 개요
+
   - Azure Stack HCI 하이브리드 기능 개요
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 마이크로소프트 Azure Stack 포트폴리오의 기본 기능 및 사용 사례 설명
-  - Azure Stack HCI 아키텍처의 핵심 구성 요소 확인
-  - 하이퍼 컨버지 인프라를 배포하고 관리하기 위해 사용되는 공통 관리 도구 확인
-  - Azure Arc의 목적 및 기능 설명
-  - 온-프레미스 환경으로 통합할 수 있는 Azure 인프라 서비스 식별
-  - 쿼럼 감시 유형으로 클라우드 감시 구성
-  - Azure Network Adapter로 Azure 가상 네트워크에 Point-to-Site VPN 설정하는 방법 설명
-  - Azure File Sync 및 Azure Monitor에 대한 특성 및 사용 사례 설명
-  - Azure Backup 및 Azure Site Recovery를 사용하여 비즈니스 연속성 유지를 위해 지금 설명
-  - Azure Update Management 사용 사례 및 아키텍처 설명
-  - Azure Stack HCI 구현 프로비저닝을 위해 높은 수준의 프로세스를 설명
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Microsoft Azure Stack 포트폴리오의 기본 기능 및 사용 사례를 설명
+
+  - Azure Stack HCI 아키텍처의 핵심 구성 요소를 식별
+
+  - 하이퍼 컨버지드 인프라 배포 및 관리에 사용되는 일반적인 관리 도구를 식별
+
+  - Azure Arc 목적 및 기능을 설명
+
+  - 온-프레미스 환경에 통합할 수 있는 Azure 인프라 서비스를 식별
+
+  - 쿼럼 감시 유형으로 클라우드 감시를 구성
+
+  - Azure Network Adapter로 지점 및 사이트 간 VPN을 Azure 가상 네트워크에 연결하는 방법을 설명
+
+  - Azure 파일 동기화 및 Azure Monitor 특징 및 사용 사례를 설명
+
+  - Azure Backup 및 Azure Site Recovery를 사용하여 비즈니스 연속성을 유지 관리하는 방법을 설명
+
+  - Azure 업데이트 관리 사용 사례 및 아키텍처를 설명
+
+  - Azure Stack HCI 인프라 프로비저닝을 위한 상위 수준 프로세스를 설명
 
 
-  ### 모듈 2&#58; Azure Stack HCI 운영 및 유지 관리
-  이 모듈은 Azure Stack HCI에서 워크로드를 구현, 관리 및 유지하는 방법을 설명합니다. 첫번째 모듈에서 설명한 바와 같이, Azure Stack HCO는 특정 유형의 워크로드에 대한 성능, 복원력 및 확장성을 최적화하도록 설계 되었습니다. 이러한 워크로드를 구현하는 것은 Window Server 2019 운영 체계를 실행하는 마이크로소프트에서 승인한 하드웨어의 상단에 가상화된 저장소 및 네트워킹 계층을 프로비저닝하는 초기 구성을 따릅니다. 이 모듈은 Window Server 2019와 Azure의 통합을 활용하여 이러한 워크로드를 관리하고 유지하는데 사용할 수 있는 각각의 Azure 서비스 및 Window Server 기능에 대한 개요를 제공합니다. 
-  #### 레슨
+
+  ### <a name="module-258-operating-and-maintaining-azure-stack-hci"></a>모듈 2: Azure Stack HCI 운영 및 유지 관리
+
+  본 모듈에서는 Azure Stack HCI에서 워크로드 구현, 관리 및 유지 관리 방법을 설명합니다. 첫 번째 모듈에서 설명한 대로, Azure Stack HCI는 특정 유형의 워크로드의 성능, 복원력 및 확장성을 최적화하도록 설계되었습니다. 이러한 워크로드 구현에는 초기 구성이 필요하며 Windows Server 2019 운영 체제에서 실행되는 Microsoft가 승인한 하드웨어 위에 가상화된 스토리지 및 네트워킹 계층을 프로비저닝이 수반됩니다. 본 모듈에서는 Windows Server 2019와 Azure의 통합을 활용하여 이러한 워크로드를 관리 및 유지 관리하는 데 사용되는 다양한 Azure 서비스 및 Windows Server 기능에 대한 개요를 제공합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure Stack HCI에서 워크로드 구현 및 관리
-  - Azure Stack HCI 유지
 
-  #### 랩&#58; 하이브리드 시나리오에서 Window Admin Center 사용
-  - Azure 서비스와 하이퍼 컨버지 인프라 통합
+  - Azure Stack HCI 유지 관리
+
+
+  #### <a name="lab-58-lab-b58-using-windows-admin-center-in-hybrid-scenarios"></a>랩: 랩 B: 하이브리드 시나리오에서 Windows Admin Center 사용
+
+  - 하이퍼 컨버지드 인프라를 Azure 서비스와 통합
+
   - Azure 통합 기능 검토
-  - 하이퍼 컨버지 인프라 업데이트 관리
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 공유 디스크로 공유 클러스터링 구현
-  - 보호된 VMs를 배포하는데 필요한 구성 요소 설명
-  - Virtual Desktop Infrastructure (VDI) 워크로드 구현
-  - Azure Stack HCI에서 컨테이너 기반 배포 호스팅
-  - Azure Network Adapter를 사용하여 Azure 가상 네트워크로 Pint-to Site (P2S) VPN 연결 생성
-  - Azure File Sync 아키텍처 설명
-  - 온-프레미스와 Azure 파일 공유 간에 파일을 복제하기위해 Azure File Sync 구현
-  - Azure Arc로 Azure Stack HCI 워크로드 관리
+  - 하이퍼 컨버지드 인프라 업데이트 관리
 
 
-  ### 모듈 3&#58; Azure Stack HCI 저장소에 대한 계획 및 구현
-  이 모듈은 Azure Stack HCI 저장소에 대해 계획하고 구현하는 방법을 설명합니다. 모듈은 핵심 HCI 저장소 기술을 자세히 다루며 Storage QoS 및 Storage Replica (Azure Stack HCI의 맥락에서)의 특정 범위를 포함합니다. 모듈은 Azure Stack HCI 저장소의 계획, 구현 및 관리 프로세스를 설명합니다. 
-  #### 레슨
-  - Azure Stack HCI 저장소 핵심 기술 개요
-  - Azure Stack HCI에서 Storage Spaces Direct 계획
-  - Storage Space Direct 기반 하이퍼-컨버지 인프라 구현
-  - Azure Stack HCI에서 Storage Spaces Direct 관리
-  - Storage QoS에 대한 계획 및 구현
-  - Storage Replica에 대한 계획 및 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
 
-  #### 랩&#58; Storage Spaces Direct 클러스터 구현
-  - Window PowerShell을 이용하여 Storage Spaced Direct 클러스터 구현
-  - Window Admin Center 및 Window PowerShell을 이용하여 Storage Spaces Direct 클러스터 관리
-  - Storage Spaces Direct 클러스터에 대한 복원력 관리 및 모니터링
-  - Storage Spaces Direct 클러스터 계층 관리
-  - Storage Spaces Direct 클러스터의 메타데이터 식별 및 분석 (옵션)
+  - 공유 디스크로 공유 클러스터링을 구현
 
-  이 모듈을 마친 후, 학생들은 할 수 있습니다&#58;
-  - Azure Stack HCI 저장소 핵심 기술 설명
-  - Azure Stack HCI에서 Storage Spaces Direct에 대해 계획
-  - Storage Spaces Direct 기반 Hyper-Converged Infrastructure 구현
-  - Azure Stack HCI에서 Storage Space Direct 관리
-  - Storage QoS에 대한 계획 및 구현
-  - Storage Replica에 대한 계획 및 구현
+  - 보호된 VM 배포에 필요한 구성 요소를 설명
+
+  - VDI(가상 데스크톱 인프라) 워크로드를 구현
+
+  - Azure Stack HCI에서 컨테이너 기반 배포를 호스트
+
+  - Azure Network Adapter로 P2S(지점 및 사이트 간) VPN 연결을 생성
+
+  - Azure 파일 동기화 아키텍처를 설명
+
+  - Azure 파일 동기화 구현으로 온-프레미스 및 Azure 파일 공유 간 파일을 복제
+
+  - Azure Arc로 Azure Stack HCI 워크로드를 관리
 
 
-  ### 모듈 4&#58; Azure Stack HCI 네트워킹 계획 및 구현
-  이 모듈은 Azure Stack HCI에서 Software Defined Networking을 계획하고 구현하는 방법을 설명합니다. 모듈은 기본 SDN관리 도구인 Window Admin Center에서 강조하는 기술 및 그 기본 기능에 중점을 둡니다. 모듈은 또한 Azure Stack HCI에서 사용 가능한 좀 더 자세한 SDN의 네 가지 특정 구성 요소도 다룹니다; Switch Embedded Teaming (SET), Software Load Balancing (SLB), Datacenter Firewall 및 RAS Gateways.
-  #### 레슨
-  - Azure Stack HCI 핵심 네트워킹 기술 개요
-  - 네트워크 가상화 및 Software0Defined Networking 개요
+
+  ### <a name="module-358-planning-for-and-implementing-azure-stack-hci-storage"></a>모듈 3: Azure Stack HCI 스토리지 계획 및 구현
+
+  본 모듈에서는 Azure Stack HCI 스토리지 계획 및 구현 방법을 설명합니다. 본 모듈에서는 핵심 HCI 스토리지 기술을 자세히 다루고 (Azure Stack HCI의 맥락에서) 스토리지 QoS 및 스토리지 복제본의 특정 범위를 포함합니다. 본 모듈에서는 Azure Stack HCI 스토리지 계획, 구현 및 관리의 프로세스를 설명합니다
+
+  #### <a name="lessons"></a>단원
+
+  - Azure Stack HCI 스토리지 핵심 기술 개요
+
+  - Azure Stack HCI에서 스토리지 공간 다이렉트 계획
+
+  - 스토리지 공간 다이렉트 기반 하이퍼 컨버지드 인프라 구현
+
+  - Azure Stack HCI에서 스토리지 공간 다이렉트 관리
+
+  - 스토리지 QoS 계획 및 구현
+
+  - 스토리지 복제본 계획 및 구현
+
+
+  #### <a name="lab-58-implementing-a-storage-spaces-direct-cluster"></a>랩: 스토리지 공간 다이렉트 클러스터 구현
+
+  - Windows PowerShell을 사용하여 스토리지 공간 다이렉트 클러스터 구현
+
+  - Windows Admin Center 및 Windows PowerShell을 사용하여 스토리지 공간 다이렉트 클러스터 관리
+
+  - 스토리지 공간 다이렉트 클러스터의 복원력 관리 및 모니터링
+
+  - 스토리지 공간 다이렉트 클러스터 계층 관리
+
+  - 스토리지 공간 다이렉트 클러스터의 메타데이터 식별 및 분석(선택 사항)
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure Stack HCI 스토리지 핵심 기술을 설명
+
+  - Azure Stack HCI에서 스토리지 공간 다이렉트를 계획
+
+  - 스토리지 공간 다이렉트 기반 하이퍼 컨버지드 인프라를 구현
+
+  - Azure Stack HCI에서 스토리지 공간 다이렉트를 관리
+
+  - 스토리지 QoS를 계획 및 구현
+
+  - 스토리지 복제본을 계획 및 구현
+
+
+
+  ### <a name="module-458-planning-for-and-implementing-azure-stack-hci-networking"></a>모듈 4: Azure Stack HCI 네트워킹 계획 및 구현
+
+  본 모듈에서는 Azure Stack HCI에서 소프트웨어 방식 네트워킹 계획 및 구현 방법을 설명합니다. 본 모듈에서는 주요 SDN 관리 도구인 Windows Admin Center를 강조하면서 본 기술과 기본 기능에 중점을 둡니다. 본 모듈에서는 또한 Azure Stack HCI에서 사용 가능한 SDN의 다음 네 가지 특정 구성 요소를 자세히 다룹니다. (SET(스위치 내장형 티밍), SLB(소프트웨어 부하 분산), 데이터센터 방화벽 및 RAS 게이트웨이)
+
+  #### <a name="lessons"></a>단원
+
+  - Azure Stack HCI 핵심 네트워크 기술 개요
+
+  - 네트워크 가상화 및 소프트웨어 정의 네트워킹 개요
+
   - Switch Embedded Teaming 계획 및 구현
-  - Datacenter Firewall 계획 및 구현
-  - Software Load Balancing 계획 및 구현
-  - RAS Gateways 계획 및 구현
 
-  #### 랩&#58; Software-Deined Networking 배포
-  - PowerShell을 사용하여 Software-Defined Networking 배포
-  - Window Admin Center와 PowerShell을 사용하여 가상 네트워크 관리
-  - Window Admin Center를 사용하여 SDN Access Control List 구현
-  - Window Admin Center 및 Window PowerShell을 사용하여 SDN Software Lad Balancing 구현
+  - 데이터 센터 방화벽 계획 및 구현
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Azure Stack HCI의 핵심 Software-Defined Networking (SDN) 구성 요소 설명
-  - Azure Stack HCI의 맥락에서 소프트웨어 전용과 하드웨어 전용 기능 구분
-  - Simplified SMB Multichannel 및 Multi-NIC Cluster Networks에 대한 사용 사례 설명
-  - Azure Stack HCI 맥락에서 네트워크 가상화 설명
-  - Azure Stack HCI에서 SDN 배포하는 프로세스 설명
-  - SET 계획 및 구현
-  - SLB기능 및 인프라를 설명하고 SLB 구현
-  - Datacenter Firewall 구현 및 구성
-  - RAS Gateway 구현, 구성 및 문제 해결
+  - 소프트웨어 부하 분산 계획 및 구현
+
+  - RAS 게이트웨이 계획 및 구현
+
+
+  #### <a name="lab-58-lab-a58-deploying-software-defined-networking"></a>랩: 랩 A: 소프트웨어 정의 네트워킹 배포
+
+  - PowerShell을 사용하여 소프트웨어 정의 네트워킹 배포
+
+  - Windows Admin Center 및 PowerShell을 사용하여 가상 네트워크 관리
+
+  - Windows Admin Center를 사용하여 SDN 액세스 제어 목록 구현
+
+  - Windos Admin Center 및 Windows PowerShell을 사용하여 SDN 소프트웨어 부하 분산 구현
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure Stack HCI의 핵심 SDN(소프트웨어 정의 네트워킹) 구성 요소를 설명
+
+  - Azure Stack HCI 맥락에서 소프트웨어 전용 기능과 하드웨어 전용 기능을 구분
+
+  - 간소화된 SMB 다중 채널 및 다중 NIC 클러스터 네트워크의 사용 사례를 설명
+
+  - Azure Stack HCI 맥락에서 네트워크 가상화를 설명
+
+  - Azure Stack HCI에서 SDN 배포 프로세스를 설명
+
+  - SET를 계획 및 구현
+
+  - SLB 기능 및 인프라를 설명하고 SLB를 구현
+
+  - 데이터 센터 방화벽을 구현 및 구성
+
+  - RAS 게이트웨이를 구현, 구성 및 문제 해결

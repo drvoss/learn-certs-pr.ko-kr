@@ -1,23 +1,29 @@
 ### YamlMime:Course
 title: Windows Server 2019 Hybrid and Azure IaaS
 metadata:
-  title: 'Course WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
-  description: 'Course WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+  title: '과정 WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+  description: '과정 WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+  ms.openlocfilehash: e19da41cb476328cdcdee4e1b0f916f2b662540b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106952"
 uid: course.ws-012t00
-courseNumber: 'WS-012T00-A'
+courseNumber: WS-012T00-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 컴퓨팅, 저장소 및 네트워킹을 포함하여, Azure IaaS의 기본 원칙 설명합니다.
-- skill: Window Admin Center 와 PowerShell을 포함하여, 하이브리드 솔루션을 구현하는데 사용되는 도구 확인합니다.
-- skill: Azure IaaS와 관리 AD DS의 Azure AD DS를 포함하여, 하이브리드 시나리오에서 식별을 구현합니다.
-- skill: Azure AD DS와 Azure AD 통합합니다.
-- skill: WAC, Azure Arc, Azure Automation 및 Azure Monitor를 사용하여 하이브리드 시나리오를 관리 및 모니터링합니다.
-- skill: Azure Security Center, Azure Sentinel 및 Window 업데이트 관리를 사용하여 하이브리드 보안 강화합니다.
-- skill: Azure Files와 Azure file Sync를 사용하여 하이브리드 시나리오에 File Services를 구현합니다.
-- skill: 하이브리드 및 클라우드 전용 마이그레이션, 백업 및 복구 시나리오를 계획하고 구현합니다.
-- skill: Window Server 2019를 실행하는 Azure VMs를 배포하고 네트워킹, 저장소 및 보안을 구성합니다.
-- skill: Window Server 2019를 실행하는 Azure VMs를 관리하고 유지합니다.
+- skill: 컴퓨팅, 스토리지 및 네트워킹을 포함한 Azure IaaS의 기본적인 원리 설명.
+- skill: Windows Admin Center 및 PowerShell를 포함한 하이브리드 솔루션 구축에 사용되는 도구 식별.
+- skill: Azure IaaS의 Azure AD DS 및 관리 AD DS를 포함한 하이브리드 시나리오에서 ID 구현.
+- skill: Azure AD DS를 Azure AD와 통합.
+- skill: WAC, Azure Arc, Azure Automation 및 Azure Monitor를 사용하여 하이브리드 시나리오 관리 및 모니터링.
+- skill: Azure Security Center, Azure Sentinel 및 Windows Update Management를 사용하여 하이브리드 보안 향상.
+- skill: Azure Files 및 Azure 파일 동기화를 사용하여 하이브리드 시나리오에서 파일 서비스 구현.
+- skill: 하이브리드 및 클라우드 전용 마이그레이션, 백업 및 복구 시나리오 계획 및 구현.
+- skill: Windows Server 2019에서 실행되는 Azure VM 배포 및 네트워킹, 스토리지 및 보안 구성.
+- skill: Windows Server 2019에서 실행되는 Azure VM 관리 및 유지 관리.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -27,182 +33,332 @@ roles:
 - administrator
 products:
 - windows-server
-summary: "이 삼일 코스는 주로 온-프레미스 Window Server 환경 관리 경험이 있는 IT 전문가를 대상으로 합니다. Azure IaaS 호스팅 Window Server 기반 워크로드를 포함하는 환경을 계획하고 구현하고 관리하기 위한 전문가를 양성이 목적입니다. 이 코스에서는 Azure의 하이브리드 기능을 활용하는 방법, Azure IaaS로 가상 및 물리적 Server 워크로드를 마이그레이션 하는 방법, 및 Window Server 2019를 실행하는 Azure VMs를 관리하고 보안하는 방법을 다룹니다. \n\n#### 시청자 프로파일\n이 삼일 코스는 온-프레미스 Window Server 환경을 관리하고 Azure를 사용하여 Window Server 2019에서 실행되는 Server 워크로드를 관리하고 가상 머신을 보안하는 IT 전문가를 대상으로 합니다. 두 번째로, 이 코스는 마이크로소프트 Azure Infrastructure as a Service (IaaS) 워크로드를 대상으로 하는 관리 및 운영 작업을 포함하는 모든 역할에 도움이 됩니다. "
-prerequisitesSection: |-
-  - AD DS, DNS, DFS, Hyper-V 그리고 File 및 저장소 서비스를 포함한, 온-프레미스 시나리오에서 Window Server 운영 체제 및 Window Server 워크로드 관리 경험
-  - 일반 Window Server 관리 도구에 대한 경험 (첫 번째 필수 구성 요소에서 언급됨)
-  - 핵심 마이크로소프트 컴퓨팅, 저장소, 네트워킹 및 가상화 기술에 대한 기본 지식 (첫 번째 필수 구성 요소에서 언급됨)
-  - 온-프레미스 복원 Window Server 기반 컴퓨팅 및 저장소 기술의 기본 지식 (장애 조치 클러스팅, 저장소 공간)
-  - 마이크로소프트 Azure에서 IaaS 서비스 구현 및 관리에 대한 기본 경험
+summary: >-
+  3일간 진행하는 본 과정은 주로 온-프레미스 Windows Server 환경 관리 경험이 있는 IT 전문가를 대상으로 합니다. 본 과정의 목적은 전문가에게 Azure IaaS 호스트형 Windows Server 기반 워크로드를 포함한 환경 계획, 구현 및 관리를 하도록 준비시키는 것입니다. 본 과정에서는 Azure의 하이브리드 기능 활용 방법, 가상 및 물리적 서버 워크로드를 Azure IaaS에 마이그레이션하는 방법 및 Windows Server 2019에서 실행되는 Azure VM 관리 및 보안 방법을 다룹니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  이 3일 과정은 온-프레미스 Windows Server 환경을 관리하고 Azure를 사용하여 서버 워크로드를 관리하고 Windows Server 2019에서 실행되는 가상 머신을 보호하려는 IT 전문가를 대상으로 합니다. 또한 이 과정은 Microsoft Azure IaaS(Infrastructure as a Service) 워크로드를 활용하는 관리 및 운영 작업이 수반되는 모든 역할에 도움이 됩니다.
+prerequisitesSection: >-
+  - AD DS, DNS, DFS, Hyper-V, 파일 및 스토리지 서비스와 같은 온-프레미스 시나리오에서 Windows Server 운영 체제 및 Windows Server 워크로드를 관리해 본 경험
+
+  - 일반적인 Windows Server 관리 도구를 사용해 본 경험(첫 번째 필수 요건에 내포된 요건)
+
+  - 핵심 Microsoft 컴퓨팅, 스토리지, 네트워킹 및 가상화 기술에 대한 기본 지식(첫 번째 필수 요건에 내포된 요건)
+
+  - 온-프레미스 복원력 Windows Server 기반 컴퓨팅 및 스토리지 기술(장애 조치, 스토리지 공간)에 대한 기본 지식
+
+  - Microsoft Azure에서 IaaS 서비스를 구현하고 관리해 본 기본적인 경험
+
   - Azure Active Directory에 대한 기본 지식
-  - 보안 관련 기술에 대한 기본 이해 (방화벽, 암호화, 다단계 인증, SIEM/SOAR)
+
+  - 보안 관련 기술(방화벽, 암호화, 다단계 인증, SIEM/SOAR)에 대한 기본적인 이해
+
   - PowerShell 스크립팅에 대한 기본 지식
 
-  Window Server 기술에 관련된 다음 개념에 대한 이해&#58;
+
+  다음과 같은 개념이 Windows Server 기술과 어떻게 관련되는지에 대한 이해:
+
   - 고가용성 및 재해 복구
+
   - 자동화
+
   - 모니터링
-outlineSection: |-
-  ### 모듈 1&#58; Azure Hybrid IaaS와 Window Server 2019 소개
-  이 모듈은 Azure IaaS (컴퓨팅, 저장소 및 네트워킹)의 원칙과 온-프레미스 환경을 Azure 및 Azure AD (네트워크, 파일 서비스, 관리, 모니터링, 백업 및 재해 복구, ID)와 통합하는 방법을 설명합니다. 모듈은 또한 하이브리드 관리 도구 (Window Admin Center, Azure 포털, PowerShell 및 Azure CLI)를 소개합니다. 입문 모듈로서 이런 주제의 대부분은 코스 후반에 더 심도 있게 다루어 집니다. 또한 모듈은 하이브리드 통합 관점에서 관련된 주제를 넘어서는 Window Server 2019 기술을 다루지 않습니다. 
-  #### 레슨
+outlineSection: >-
+  ### <a name="module-158-introducing-azure-hybrid-iaas-with-windows-server-2019"></a>모듈 1: Windows Server 2019에서의 Azure 하이브리드 IaaS 소개
+
+  본 모듈에서는 Azure IaaS(컴퓨팅, 스토리지 및 네트워킹) 원리, 온-프레미스 환경을 Azure 및 Azure AD(네트워크, 파일 서비스, 관리, 모니터링, 백업 및 재해 복구 및 ID)와 통합하는 방법을 설명합니다. 본 모듈에서는 또한 하이브리드 관리 도구(Windows Admin Center, Azure Portal, PowerShell 및 Azure CLI)를 소개합니다. 이 모듈은 입문 단계 모듈로서 대부분 주제는 본 과정에서 후반에 더 심도 있게 다룹니다. 또한, 본 모듈에서는 하이브리드 통합 관점에서 관련된 주제를 넘어선 핵심 Windows Server 2019 기술은 다루지 않습니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure IaaS 개요
+
   - Azure 하이브리드 모델 개요
-  - 하이브리드 관리 도구 사용
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 컴퓨팅, 저장소 및 네트워킹을 포함하여 Azure IaaS의 기본 원칙을 설명합니다. 
-  - Window 관리 센터 및 PowerShell을 포함하여 하이브리드 솔루션을 구현하는데 사용되는 도구를 확인합니다. 
+  - 하이브리드 관리자 도구 사용
 
 
-  ### 모듈 2&#58; 하이브리드 시나리오에서 ID 구현
-  이 모듈은 하이브리드 시나리오에서 ID 관리 및 인증을 통합하는 세 가지 주요 방법을 소개합니다; Azure VMs의 AD DS, Azure Active Directory와 통합된 AD DS 및 Azure AD DS.
-  #### 레슨 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 컴퓨팅, 스토리지 및 네트워킹을 포함한 Azure IaaS의 기본적인 원리 설명.
+
+  - Windows Admin Center 및 PowerShell를 포함한 하이브리드 솔루션 구축에 사용되는 도구 식별.
+
+
+
+  ### <a name="module-258-implementing-identity-in-hybrid-scenarios"></a>모듈 2: 하이브리드 시나리오에서 ID 구현
+
+  본 모듈에서는 하이브리드 시나리오에서 다음 세 가지 주요 ID 관리 및 인증 통합 방법을 제시합니다.(Azure VM의 AD DS, Azure Active Directory와 통합된 AD DS 및 Azure AD DS).
+
+  #### <a name="lessons"></a>단원
+
   - Azure IaaS에서 AD DS 구현
-  - AD DS와 Azure AD 통합
+
+  - AD DS를 Azure AD와 통합
+
   - 관리 AD DS 환경 구현
 
-  #### 랩 &#58; AD DS와 Azure AD의 통합 구현
+
+  #### <a name="lab-58-implementing-integration-between-ad-ds-and-azure-ad"></a>랩: AD DS와 Azure AD 간의 통합 구현
+
   - AD DS와 통합을 위해 Azure AD 준비
+
   - Azure AD 통합을 위해 온-프레미스 AD DS 준비
+
   - Azure AD Connect 다운로드, 설치 및 구성
-  - AD DS와 Azure AD의 통합 확인
+
+  - AD DS와 Azure AD 간의 통합 확인
+
   - AD DS에서 Azure AD 통합 기능 구현
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Azure IaaS에서 AD DS 구현
-  - AD DS와 Azure AD 통합
-  - 관리 AD DS 구현
 
-  ### 모듈 3&#58; 하이브리드 시나리오에서 하이브리드 관리 및 운영 모니터링 촉진
-  이 모듈은 Window Admin Center, Azure Arc, Azure Automation 및 Azure Monitor을 포함하여, 하이브리드 관리 및 운영 모니터링(모듈 4에서 다룬 보안 관련 모니터링과는 별도로)을 촉진하는 도구를 강조합니다. 
-  #### 레슨
-  - Window Admin Center
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure IaaS에서 AD DS 구현.
+
+  - AD DS를 Azure AD와 통합.
+
+  - 관리 AD DS 구현.
+
+
+
+  ### <a name="module-358-facilitating-hybrid-management-and-operational-monitoring-in-hybrid-scenarios"></a>모듈 3: 하이브리드 시나리오에서 하이브리드 관리 및 운영 모니터링 지원
+
+  본 모듈에서는 Windows Admin Center, Azure Arc, Azure Automation 및 Azure Monitor를 포함한 하이브리드 관리 및 운영 모니터링 (모듈 4에서 다루는 보안 관련 모니터링과는 별개로)을 수월하게 하는 도구를 강조합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Windows Admin Center
+
+  - Azure Arc
+
   - Azure Monitor
+
   - Azure Automation
 
-  #### 랩 &#58; 하이브리드 시나리오에서 Window Admin Center 사용
-  - Window Server 2019를 실행하는 Azure VMs 프로비저닝
-  - Azure Network Adapter를 통해 하이브리드 연결 구현
-  - Azure에서 Window Admin Center 게이트웨이 배포
-  - Azure에서 Window Admin Center 게이트웨이 기능 확인
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Window Admin Center 설명, 배포 및 구성
+  #### <a name="lab-58-using-windows-admin-center-in-hybrid-scenarios"></a>랩: 하이브리드 시나리오에서 Windows Admin Center 사용
+
+  - Windows Server 2019에서 실행되는 Azure VM 프로비전
+
+  - Azure 네트워크 어댑터를 통한 하이브리드 연결 구현
+
+  - Azure에서 Windows Admin Center 게이트웨이 배포
+
+  - Azure에서 Windows Admin Center 게이트웨이 기능 확인
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Windows Admin Center 설명, 배포 및 구성
+
   - Azure Arc 설명 및 구현
+
   - Azure Monitor 설명 및 관리
+
   - 서비스 맵 구현
-  - Azure Monitor와 Operations Manager 통합
+
+  - Azure Monitor를 Operations Manager와 통합
 
 
-  ### 모듈 4&#58; 하이브리드 시나리오에서 보안 솔루션 구현
-  이 모듈에서 Azure Security Center, Azure Sentinel 및 Window Update Management를 위한 Azure Monitor/ Azure Automation 기반 솔루션을 포함하여, 하이브리드 보안을 높이는 주요 기술 및 서비스를 설명합니다. 
-  #### 레슨
+
+  ### <a name="module-458-implementing-security-solutions-in-hybrid-scenarios"></a>모듈 4: 하이브리드 시나리오에서 보안 솔루션 구현
+
+  본 모듈에서는 Windows 업데이트 관리를 위해 Azure Security Center, Azure Sentinel 및 Azure Monitor/Azure Monitor기반 솔루션을 포함한 하이브리드 보안을 개선하는 주요 기술과 서비스를 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure Security Center
-  - Azure Sentinel
-  - Window 업데이트 관리
 
-  #### 랩 &#58; 하이브리드 시나리오에서 Azure Security Center 사용
-  - 위도우 Server 2019를 실행하는 Azure VMs 프로비저닝
+  - Azure Sentinel
+
+  - Windows 업데이트 관리
+
+
+  #### <a name="lab-58-using-azure-security-center-in-hybrid-scenarios"></a>랩: 하이브리드 시나리오에서 Azure Security Center 사용
+
+  - Windows Server 2019에서 실행되는 Azure VM 프로비전
+
   - Azure Security Center 구성
-  - 온-프레미스 Window Server 2019를 Azure Security Center로 온보딩
+
+  - 온-프레미스 Windows Server 2019를 Azure Security Center에 온보딩
+
   - Azure Security Center의 하이브리드 기능 확인
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 하이브리드 환경에서 Azure Security Center 설명 및 활성화
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure Security Center 설명 및 하이브리드 환경에서 사용
+
   - Azure Sentinel 설명 및 SIEM 기능 구현
+
   - Azure Sentinel에서 SOAR 솔루션 구현
+
   - Azure Automation에서 업데이트 관리 솔루션 구현
 
 
-  ### 모듈 5&#58; 하이브리드 시나리오에서 파일 서비스 구현
-  이 모듈은 온-프레미스 Window 파일 Server를 교체하거나 향상 시키기 위해 Azure File Service 를 활용하는 방법을 설명합니다. 모듈은 Azure Files과 Azure File Sync를 구현하는 것을 다룹니다. 
-  #### 레슨
+
+  ### <a name="module-558-implementing-file-services-in-hybrid-scenarios"></a>모듈 5: 하이브리드 시나리오에서 파일 서비스 구현
+
+  본 모듈에서는 Azure Files 서비스를 활용하여 온-프레미스 Windows 파일 서버를 바꾸거나 개선하는 방법을 설명합니다. 본 모듈에서는 Azure Files 및 Azure 파일 동기화 구현을 다룹니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure Files 구현
-  - Azure File Sync 구현
 
-  #### 랩 &#58; Azure File Sync 구현
+  - Azure 파일 동기화 구현
+
+
+  #### <a name="lab-58-implementing-azure-file-sync"></a>랩: Azure 파일 동기화 구현
+
   - 온-프레미스 환경에서 DFS 복제 구현
-  - 동기화 그룹 생성 및 구성
-  - DFS 복제를 File Sync 기반 복제로 대체
-  - 복제 확인 및 클라우드 계층화 활성화
-  - 복제 문제 해결
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 복제 문제 해결
-  - Azure File Sync 설명 및 구현
-  - 클라우드 계층화 관리
-  - DFSR에서 Azure File Sync로 마이그레이션
+  - 동기화 그룹 만들기 및 구성
+
+  - DFS 복제를 파일 동기화 기반 복제로 교체
+
+  - 복제 확인 및 클라우드 계층화 사용
+
+  - 복제 이슈 해결
 
 
-  ### 모듈 6&#58; Azure VMs 배포 및 구성
-  이 모듈은 Window Server 2019를 실행하는 Azure VMs가 배포하고 구성하는 방법을 설명합니다. 모듈은 Azure VM 네트워킹, 저장소 및 보안을 구성하는 방법을 다룹니다.
-  #### 레슨
-  - Azure VMs 배포
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 복제 이슈 해결
+
+  - Azure 파일 동기화 설명 및 구현
+
+  - 클라우드 계층화를 관리합니다.
+
+  - DFSR에서 Azure 파일 동기화로 마이그레이션합니다.
+
+
+
+  ### <a name="module-658-deploying-and-configuring-azure-vms"></a>모듈 6: Azure VM 배포 및 구성
+
+  본 모듈에서는 Windows Server 2019에서 실행되는 Azure VM 배포 및 구성 방법을 설명합니다. 본 모듈에서는 Azure VM 네트워킹, 스토리지 및 보안 구성 방법을 다룹니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Azure VM 배포
+
   - Azure VM 네트워킹 구성
-  - Azure VM 저장소 구성
+
+  - Azure VM 스토리지 구성
+
   - Azure VM 보안 구성
 
-  #### 랩 &#58; Azure VMs에서 Window Server 2019 배포 및 구성
-  - Azure VM 배포를 위한 ARM 템플릿 작성
+
+  #### <a name="lab-58-deploying-and-configuring-windows-server-2019-on-azure-vms"></a>랩: Azure VM에서 Windows Server 2019 배포 및 구성
+
+  - Azure VM 배포용 ARM 템플릿 권한 부여
+
   - VM 확장 기반 구성을 포함하도록 ARM 템플릿 수정
-  - ARM 템플릿을 사용하여 Window Server 2019를 실행하는 Azure VMs 배포
-  - Window Server 2019를 실행하는 Azure VMs에 관리 접근 구성
-  - Azure VMs에서 Window Server 2019 보안 구성
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - ARM 템플릿을 사용하여 Windows Server 2019에서 실행되는 Azure VM 배포
+
+  - Windows Server 2019에서 실행되는 Azure VM에 대한 관리자 액세스 구성
+
+  - Azure VM에서 Windows Server 2019 보안 구성
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
   - Azure VM 플랫폼 수준 복원력 구현
-  - Azure VMs에서 Window Server 2019 운영 체제 수준 복원력 구현
-  - Window Server 2019에 대한 Azure VM 확장 구현
+
+  - Azure VM에서 Windows Server 2019 운영 체제 시스템 수준 복원력 구현
+
+  - Windows Server 2019용 Azure VM 확장 구성
+
   - Azure VM 네트워킹 구성 및 최적화
+
   - Azure VM 디스크 구성
-  - Azure VM 저장소 확장
+
+  - Azure VM 스토리지 크기 조정
 
 
-  ### 모듈 7&#58; Azure VMs 관리 및 유지
-  이 모듈은 Window Server 2019를 실행하는 Azure VMs를 관리하고 유지하는 방법을 설명합니다. 
-  모듈은 Window Admin Center, Cloud Shell을 통한 PowerShell Remoting, Run Command, 직렬 콘솔 및 Guest Configuration 확장을 통한 Azure 정책을 포함하여 Azure VMs를 관리하고 유지하는 도구를 설명합니다. 
-  #### 레슨
-  - Window Server 2019를 실행하는 Azure VMs 관리
-  - Window Server 2019를 실행하는 Azure VMs 유지 관리
 
-  #### 랩 &#58; 원도우 Server 2019를 실행하는 Azure VMs 관리
-  - Window Server 2019를 실행하는 Azure VMs 프로비저닝
-  - Window Admin Center를 사용하여 Azure VMs에서 Window Server 2019 관리
-  - PowerShell Remoting을 사용하여 Cloud Shell로부터 Azure VMs에서 Window Server 2019 관리
-  - Run Command를 사용하여 Azure VMs에서 Window Server 2019 관리
-  - 직렬 콘솔을 사용하여 Azure VMs에서 Window Server 2019 관리
-  - Azure Policy Guest Configuration을 사용하여 Azure VMs에서 Window Server 2019 관리
+  ### <a name="module-758-managing-and-maintaining-azure-vms"></a>모듈 7: Azure VM 관리 및 유지 관리
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Azure VMs에서 Window Server 2019 관리
+  본 모듈에서는 Windows Server 2019에서 실행되는 Azure VM 관리 및 유지 관리 방법을 설명합니다. 본 모듈에서는 Windows Admin Center, Cloud Shell을 통한 PowerShell 원격, 실행 명령, 직렬 콘솔 및 게스트 구성 확장을 통한 Azure 정책을 포함한 Azure VM 관리 및 유지 관리용 도구를 설명합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Windows Server 2019에서 실행되는 Azure VM 관리
+
+  - Windows Server 2019에서 실행되는 Azure VM 유지 관리
+
+
+  #### <a name="lab-58-managing-azure-vms-running-windows-server-2019"></a>랩: Windows Server 2019에서 실행되는 Azure VM 관리
+
+  - Windows Server 2019에서 실행되는 Azure VM 프로비전
+
+  - Windows Admin Center를 사용하여 Azure VM에서 Windows Server 2019 관리
+
+  - Cloud Shell에서 PowerShell 원격을 사용하여 Azure VM에서 Windows Server 2019 관리
+
+  - 실행 명령을 사용하여 Azure VM에서 Windows Server 2019 관리
+
+  - 직렬 콘솔을 사용하여 Azure VM에서 Windows Server 2019 관리
+
+  - Azure Policy 게스트 구성을 사용하여 Azure VM에서 Windows Server 2019 관리
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure VM에서 Windows Server 2019 관리
+
   - Azure 정책 구현
-  - Window 업데이트 유지 관리
-  - Azure VM단계 및 디스크 단계 백업 및 복원 설명
-  - Azure VM 유효성 유지
+
+  - Windows 업데이트 유지 관리
+
+  - Azure VM 수준 및 디스크 수준 백업 및 복원 설명
+
+  - Azure VM 가용성 유지 관리
 
 
-  ### 모듈 8&#58; 하이브리드 시나리오에서 마이그레이션 및 복구 서비스 계획 및 구현
-  이 모듈은 원도우 Server 2019와 Azure 서비스를 활용하여 하이브리드 및 클라우드 전용 마이그레이션, 백업 및 복구 시나리오를 계획하고 구현하는 방법을 설명합니다. 이러한 서비스에는 Azure Migrate, Storage Migration Service, Azure Backup, Azure Site Recovery 및 Storage Replica가 포함됩니다. 
-  #### 레슨
+
+  ### <a name="module-858-planning-and-implementing-migration-and-recovery-services-in-hybrid-scenarios"></a>모듈 8: 하이브리드 시나리오에서 마이그레이션 및 복원 서비스 계획 및 구현
+
+  본 모듈에서는 Windows Server 2019 및 Azure 서비스를 활용하여 하이브리드 및 클라우드 전용 마이그레이션, 백업, 및 복구 시나리오 계획 구현 방법을 설명합니다. 이러한 서비스에는 Azure Migrate, 스토리지 마이그레이션 서비스, Azure Backup, Azure Site Recovery 및 저장소 복제본을 포함합니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure Migrate
-  - Storage Migration Server
+
+  - 스토리지 마이그레이션 서버
+
   - Azure Site Recovery
-  - Storage Replica
+
+  - 스토리지 복제본
+
   - Azure Backup
 
-  #### 랩 &#58; Azure 기반 복구 서비스 구현
+
+  #### <a name="lab-58-implementing-azure-based-recovery-services"></a>랩: Azure 기반 복구 서비스 구현
+
   - 랩 환경 구현
-  - Azure Site Recovery 모음 만들기 및 구성
-  - Azure Site Recovery 모음을 사용하여 Hyper-V VM 보호 구현
+
+  - Azure Site Recovery 자격 증명 모음 만들기 및 구성
+
+  - Azure Site Recovery 자격 증명 모음을 사용하여 Hyper-V VM 보호 구현
+
   - Azure Backup 구현
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Azure Migrate를 사용하여 Window Server 워크로드로 마이그레이션
-  - Storage Migration Service 설명 및 사용에 적합한 시나리오 확인
-  - Azure Site Recovery가 비즈니스 연속성 및 재해 복구를 지원하는 방법 설명
-  - Azure Site Recovery를 사용하여 Window Server를 Azure로 마이그레이션
-  - Storage Replica 설명 및 사용에 적합한 시나리오 설명
-  - Storage Replica를 사용하여 저장소를 Azure VMs로 복제
-  - Azure Backup을 사용하여 온-프레미스 워크로드를 백업
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure Migrate를 사용하여 Windows Server 워크로드 마이그레이션
+
+  - 스토리지 마이그레이션 서비스 설명 및 적절한 사용 시나리오 식별
+
+  - Azure Site Recovery의 비즈니스 연속성 및 재해 복구 지원 방법 설명
+
+  - Azure Site Recovery를 사용하여 Windows Server를 Azure로 마이그레이션.
+
+  - 스토리지 복제본 및 적절한 사용 시나리오 설명
+
+  - 스토리지 복제본을 사용하여 스토리지를 Azure VM으로 복제
+
+  - Azure Backup을 사용하여 온-프레미스 워크로드 백업

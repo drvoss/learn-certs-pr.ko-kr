@@ -1,17 +1,23 @@
 ### YamlMime:Course
-title: Microsoft Security, Compliance, and Identity Fundamentals
+title: Microsoft 보안, 규정 준수, ID 기본 사항
 metadata:
-  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
-  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  title: '과정 SC-900T00--A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: '과정 SC-900T00--A: Microsoft Security, Compliance, and Identity Fundamentals'
+  ms.openlocfilehash: 986d4df751bce831fe518e0fc998ed02a42f13dc
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106960"
 uid: course.sc-900t00
-courseNumber: 'SC-900T00-A'
+courseNumber: SC-900T00
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 보안, 규정 준수 및 신원의 기본 개념을 설명합니다.
-- skill: Microsoft 신원 및 접근 관리 솔루션의 개념과 기능을 설명합니다.  
-- skill: Microsoft 보안 솔루션의 기능을 설명합니다.
-- skill: Microsoft의 규정 준수 관리 기능을 설명합니다.
+- skill: 보안, 규정 준수 및 ID의 기본 개념 설명
+- skill: Microsoft ID 및 액세스 관리 솔루션의 기능 설명
+- skill: Microsoft 보안 솔루션의 기능 설명
+- skill: Microsoft의 규정 준수 관리 기능 설명
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -33,104 +39,274 @@ products:
 - azure
 exams:
 - uid: exam.sc-900
-summary: |-
-  이 과정은 보안, 규정 준수 및 신원 개념과 관련 cloud-기반 Microsoft 솔루션에 대한 기본 수준의 지식을 제공합니다. 
+summary: >-
+  이 과정에서는 보안, 규정 준수 및 ID 개념과 관련 클라우드 기반 Microsoft 솔루션에 대한 기본 수준 지식을 제공합니다.
 
-  #### 구독자 프로필
-  이 과정의 구독자는 cloud-기반 및 관련 Microsoft 서비스 전반에 걸쳐 보안, 규정 준수 및 신원 (SCI)의 기본 원칙에 친숙해 지려고합니다. 이 과정의 내용은 SC-900 목표 범위에 맞습니다. 응시자들은 Microsoft Azure 및 Microsoft 365에 대해 잘 알고 있어야하고 Microsoft 보안, 규정 준수 및 신원 솔루션이 이러한 솔루션 영역에 걸쳐 전체론적인 종단간 솔루션을 제공하는 방법을 이해해야 합니다. 
-prerequisitesSection: |-
-  이 과정에 참가하기 전에, 학생들은 반드시 다음을 갖추어야 합니다&#58;
-  - 네트워킹 및 cloud 컴퓨팅 개념의 일반적인 이해.
-  - 일반적인 IT 지식 또는 IT 환경에서 일하는 모든 일반적인 경험.
-  - Microsoft Azure 및 Microsoft 365의 일반적인 이해.
-outlineSection: |-
-  ### 모듈 1&#58; 보안, 규정 준수 및 신원의 기본 개념을 설명합니다. 
-  Zero-Trust, 책임 공유, ID 제공자의 역할, 등을 포함하여, 보안, 규정 준수, 및 식별 솔루션의 기초가 되는 핵심 개념 및 방법론에 대해서 알아봅니다. 
 
-  #### 레슨
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  *   보안 및 규정 준수 개념 및 방법론 설명 
+
+  이 과정의 대상 그룹은 클라우드 기반 및 관련 Microsoft 서비스에서 SCI(보안, 규정 준수 및 ID) 기본 사항에 익숙해지려는 사람입니다. 이 과정의 내용은 SC-900 시험 목표 도메인에 맞춰 조정됩니다. 이 인증은 cloud-기반 및 관련 Microsoft 서비스 전반에서 보안, 규정 준수 및 식별 (SCI)에 대한 기본 사항을 숙지하려는 사람들을 대상으로 합니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전, 학생들은 반드시 다음을 갖추어야 합니다:
+
+
+  *   네트워킹 및 클라우드 컴퓨팅 개념에 대한 전반적인 이해
+
+
+  *   일반 IT 지식 또는 IT 환경에서 작업한 일반적인 경험
+
+
+  *   Microsoft Azure 및 Microsoft 365에 대한 일반적인 이해
+outlineSection: >-
+  ### <a name="module-1-describe-basic-concepts-of-security-compliance-and-identity"></a>모듈 1: 보안, 규정 준수 및 ID의 기본 개념 설명
+
+
+  제로 트러스트, 공동 책임, ID 공급자의 역할 등 보안, 규정 준수 및 ID 솔루션의 기초가 되는 핵심 개념 및 방법론에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   보안 및 규정 준수 개념 및 방법론 설명
+
 
   *   ID 개념 설명
 
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
-  *   보안 및 규정 준수 개념 및 방법론 설명 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   보안 및 규정 준수 개념 및 방법론 설명
+
 
   *   ID 개념 설명
-  
-  
-  ### 모듈 2&#58; Microsoft 신원 및 접근 관리 솔루션의 개념과 기능 설명
-  Azure AD 서비스 및 신원 주체, 보안 인증, 접근 관리 기능, 신원 보호 및 거버넌스에 대해 배웁니다. 
-  #### 레슨
-  - Azure AD의 기본 서비스와 신원 유형 설명
-  - Azure AD의 인증 기능 설명
-  - Azure AD의 접근 관리 기능 설명
-  - Azure AD의 신원 보호 및 거버넌스 기능 설명
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
-  - Azure AD의 기본 서비스와 신원 유형을 설명합니다. 
-  - Azure AD의 인증 기능을 설명합니다.
-  - Azure AD의 접근 관리 기능을 설명합니다.
-  - Azure AD의 신원 보호 및 거버넌스 기능을 설명합니다.
-  
-  
-  ### 모듈 3&#58; Microsoft 보안 솔루션의 기능 설명
-  Microsoft의 보안 기능에 대해 배웁니다. 다루는 주제는 Azure, Azure 보안 관리 및 Sentinel의 네트워크와 플랫폼 기능을 포함합니다. Microsoft 365 Defender 및 Microsoft 365 보안 관리를 통한 위협 보호에 대해서 배우고 인튠으로 엔드포인트 보호를 살펴보게 됩니다. 
-  #### 레슨
-  - Azure의 기본 보안 기능 설명
-  - Azure의 보안 관리 기능 설명
-  - Azure Sentinel의 보안 기능 설명
-  - Microsoft 365의 위협 보호 기능 설명
-  - Microsoft 365의 보안 관리 기능 설명
-  - Microsoft Intune으로 엔드 포인트 보안 설명
 
-  #### 랩 : Microsoft Cloud App Security 살펴보기
 
-  #### 랩 : Azure Sentinel 살펴보기
 
-  #### 랩 : Azure Security Center 살펴보기
+  ### <a name="module-2-describe-the-concepts-and-capabilities-of-microsoft-identity-and-access-management-solutions"></a>모듈 2: Microsoft ID 및 액세스 관리 솔루션의 기능 설명
 
-  #### 랩 : Azure Network Security Groups (NSGs) 살펴보기
 
-  #### 랩 : Microsoft 365 Defender 포털 살펴보기
+  ID 보호 및 거버넌스 뿐만 아니라 Azure AD 서비스 및 ID 보안 주체, 보안 인증, 액세스 관리 기능에 대해 알아봅니다.
 
-  #### 랩 : Microsoft Intune 살펴보기
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
-  - Azure기본 보안 기능을 설명합니다.
-  - Azure의 보안 관리 기능을 설명합니다.
-  - Azure Sentinel의 보안 기능을 설명합니다.
-  - Microsoft 365의 위협 보호 기능을 설명합니다.
-  - Microsoft 365의 보안 관리 기능을 설명합니다. 
-  - Microsoft Intune으로 엔드 포인트 보안을 설명합니다. 
-  
-  
-  ### 모듈 4&#58; Microsoft 규정 준수 솔루션의 기능 설명
-  Microsoft에서 규정 준수 솔루션에 대해 배웁니다. 다루는 주제에는 규정 준수 센터, Microsoft 365의 정보 보호 및 거버넌스, 내부자 위험, 감사 및 eDiscovery 솔루션이 포함됩니다. 또한 Azure 리소스 거버넌스 기능도 다룹니다.
-  #### 레슨
-  - Microsoft에서 규정 준수 관리 기능 설명
-  - Microsoft 365의 정보 보호 및 거버넌스 기능 설명
-  - Microsoft 365에서 내부자 위험 기능 설명
-  - Microsoft 365의 eDiscovery와 감사 기능 설명
-  - Azure에서 리소스 거버넌스 기능 설명
-  
-  #### 랩 : Azure 정책 살펴보기
 
-  #### 랩 : Microsoft 365에서 내부자 위험 관리 살펴보기
+  #### <a name="lessons"></a>단원
 
-  #### 랩 : Service Trust Portal 살펴보기
 
-  #### 랩 : Microsoft 365 규정 준수 센터 살펴보기&amp; 규정 준수 관리자
+  *   Azure AD의 기본 서비스 및 ID 유형 설명
 
-  #### 랩 : Microsoft 365에서 민감도 레이블 살펴보기
 
-  #### 랩 : Microsoft 365에서 내부자 위험 관리 살펴보기
+  *   Azure AD의 인증 기능 설명
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
-  - Microsoft에서 규정 준수 관리 기능을 설명합니다.
-  - Microsoft 365의 정보 보호 및 거버넌스 기능을 설명합니다. 
-  - Microsoft 365에서 내부자 위험 기능을 설명합니다. 
-  - Microsoft 365의 eDiscovery 및 감사 기능을 설명합니다. 
-  - Azure에서 리소스 거버넌스 기능을 설명합니다. 
+
+  *   Azure AD의 액세스 관리 기능 설명
+
+
+  *   Azure AD의 ID 보호 및 거버넌스 기능 설명
+
+
+
+  #### <a name="lab--explore-azure-active-directory"></a>랩: Azure Active Directory 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-azure-ad-authentication-with-self--service-password-rese"></a>랩: 셀프 서비스 암호 재설정을 사용하는 Azure AD 인증 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-access-management-in-azure-ad-with-conditional-access"></a>랩: Azure AD에서 조건부 액세스를 사용하는 액세스 관리 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-identity-governance-in-azure-ad-with-privileged-identity-management"></a>랩: Azure AD에서 Privileged Identity Management의 ID 거버넌스 살펴보기
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Azure AD의 기본 서비스 및 ID 유형 설명
+
+
+  *   Azure AD의 인증 기능 설명
+
+
+  *   Azure AD의 액세스 관리 기능 설명
+
+
+  *   Azure AD의 ID 보호 및 거버넌스 기능 설명
+
+
+
+  ### <a name="module-3-describe-the-capabilities-of-microsoft-security-solutions"></a>모듈 3: Microsoft 보안 솔루션의 기능 설명
+
+
+  Microsoft의 보안 기능에 대해 알아봅니다. 다루는 주제에는 Azure의 네트워크 및 플랫폼 기능, Azure 보안 관리 및 Sentinel이 포함됩니다. Microsoft 365 Defender 및 Microsoft 365 보안 관리를 사용하는 위협 방지에 대해 알아보고 Intune을 통한 엔드포인트 보호를 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure의 기본 보안 기능 설명
+
+
+  *   Azure 보안 관리 기능 설명
+
+
+  *   Azure Sentinel의 보안 기능 설명
+
+
+  *   Microsoft 365의 위협 방지 기능 설명
+
+
+  *   Microsoft 365의 보안 관리 기능 설명
+
+
+  *   Microsoft Intune을 사용하여 엔드포인트 보안 설명
+
+
+
+  #### <a name="lab--explore-microsoft-cloud-app-security"></a>랩: Microsoft Cloud App Security 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-azure-sentinel"></a>랩: Azure Sentinel 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-azure-security-center"></a>랩: Azure Security Center 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-azure-network-security-groups-nsgs"></a>랩: Azure NSG(네트워크 보안 그룹) 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-the-microsoft-365-defender-portal"></a>랩: Microsoft 365 Defender 포털 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-microsoft-intune"></a>랩: Microsoft Intune 살펴보기
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Azure의 기본 보안 기능을 설명
+
+
+  *   Azure의 보안 관리 기능을 설명
+
+
+  *   Azure Sentinel의 보안 기능을 설명
+
+
+  *   Microsoft 365의 위협 방지 기능을 설명
+
+
+  *   Microsoft 365의 보안 관리 기능을 설명
+
+
+  *   Microsoft Intune을 사용하는 엔드포인트 보안을 설명
+
+
+
+  ### <a name="module-4-describe-the-capabilities-of-microsoft-compliance-solutions"></a>모듈 4: Microsoft 규정 준수 솔루션의 기능 설명
+
+
+  Microsoft의 규정 준수 솔루션에 대해 알아봅니다. 여기에서 다루는 항목에는 규정 준수 센터, Microsoft 365 정보 보호 및 거버넌스, 내부자 위험, 감사 및 eDiscovery 솔루션 등이 포함됩니다. 또한 Azure 리소스 거버넌스 기능도 다룹니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Microsoft의 규정 준수 관리 기능 설명
+
+
+  *   Microsoft 365의 정보 보호 및 거버넌스 기능 설명
+
+
+  *   Microsoft 365의 내부 위험 기능 설명
+
+
+  *   Microsoft 365의 eDiscovery 및 감사 기능 설명
+
+
+  *   Azure의 리소스 거버넌스 기능 설명
+
+
+
+  #### <a name="lab--explore-azure-policy"></a>랩: Azure Policy 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-insider-risk-management-in-microsoft-365"></a>랩: Microsoft 365의 내부 위험 관리 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-the-service-trust-portal"></a>랩: Service Trust Portal 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-the-microsoft-365-compliance-center-amp-compliance-manager"></a>랩: Microsoft 365 규정 준수 센터 및 준수 관리자 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-sensitivity-labels-in-microsoft-365"></a>랩: Microsoft 365의 민감도 레이블 살펴보기
+
+
+  ####
+
+
+  #### <a name="lab--explore-insider-risk-management-in-microsoft-365"></a>랩: Microsoft 365의 내부 위험 관리 살펴보기
+
+
+  ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Microsoft의 규정 준수 관리 기능 설명
+
+
+  *   Microsoft 365의 정보 보호 및 거버넌스 기능을 설명
+
+
+  *   Microsoft 365의 내부 위험 기능을 설명
+
+
+  *   Microsoft 365의 eDiscovery 및 감사 기능을 설명
+
+
+  *   Azure의 리소스 거버넌스 기능 설명
