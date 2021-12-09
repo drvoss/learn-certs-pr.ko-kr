@@ -1,54 +1,60 @@
-### YamlMime:Role 
-title: 보안 엔지니어  
-metadata: 
-  title: 보안 엔지니어 
-  description: 보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다. 
-uid: role.security-engineer 
-summary: | 
-  보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다. 
-subTitle: 보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다. 
-certificationPaths: 
-- title: Azure Security Engineer
-  linkedInKeywords: Azure Security Engineer
-  uid: certification-path.azure-security-engineer 
-  prerequisites: 
+### YamlMime:Role
+title: 보안 엔지니어
+metadata:
+  title: 보안 엔지니어
+  description: 보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다.
+  ms.openlocfilehash: 7eee755ed001183db2d9909bbb071d2a7450d78e
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079274"
+uid: role.security-engineer
+summary: >
+  보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다.
+subTitle: 보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다.
+certificationPaths:
+- title: Azure 보안 엔지니어
+  linkedInKeywords: Azure security engineer
+  uid: certification-path.azure-security-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-security-engineer
     levels:
     - intermediate
-- title: Identity and Access Administrator
-  linkedInKeywords: Identity and Access Administrator
+- title: ID 및 액세스 관리자
+  linkedInKeywords: Identity and access administrator
   uid: certification-path.identity-and-access-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.identity-and-access-administrator
     levels:
     - intermediate
-- title: Information Protection Administrator
-  linkedInKeywords: Information Protection Administrator
+- title: Information Protection 관리자
+  linkedInKeywords: Information protection administrator
   uid: certification-path.information-protection-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.information-protection-administrator
     levels:
     - intermediate
-- title: Security Operations Analyst
-  linkedInKeywords: Security Operations Analyst
+- title: 보안 운영 분석가
+  linkedInKeywords: Security operations analyst
   uid: certification-path.security-operations-analyst
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.security-operations-analyst
     levels:
     - intermediate
@@ -67,11 +73,11 @@ certifications:
   - uid: exam.sc-400
 resources:
 - title: Microsoft 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 교육 및 인증 포스터
   description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
   href: https://aka.ms/traincertposter
 - title: 인증 지원
   href: ../help.md
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.

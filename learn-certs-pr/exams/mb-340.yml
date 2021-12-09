@@ -3,12 +3,12 @@ title: Microsoft Dynamics 365 Commerce 기능 컨설턴트
 metadata:
   title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant'
   description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant'
-  ms.openlocfilehash: 16770ca6f6c0c42b35b3ec29576fdd3a71ef9010
-  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.openlocfilehash: 77f355cfc3cb99e6d10aef7705bfc0aacccca683
+  ms.sourcegitcommit: d80173e30006986f164a370573cac47d596ddb52
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/17/2021
-  ms.locfileid: "132112546"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "133742869"
 uid: exam.mb-340
 displayName: MB-340
 summary: >-
@@ -51,6 +51,8 @@ paths:
 - uid: learn-dynamics.configure-use-pos-commerce
 - uid: learn-dynamics.configure-work-call-centers-commerce
 - uid: learn-dynamics.configure-work-e-commerce
+courses:
+- uid: course.mb-340t00
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-commerce
