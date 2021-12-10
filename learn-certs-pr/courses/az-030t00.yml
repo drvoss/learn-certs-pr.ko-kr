@@ -1,20 +1,26 @@
 ### YamlMime:Course
 title: Microsoft Azure technologies for AWS architects
 metadata:
-  title: 'Course AZ-030T00--A: Microsoft Azure technologies for AWS architects'
-  description: 'Course AZ-030T00--A: Microsoft Azure technologies for AWS architects'
+  title: '과정 AZ-030T00--A: Microsoft Azure technologies for AWS architects'
+  description: '과정 AZ-030T00--A: Microsoft Azure technologies for AWS architects'
+  ms.openlocfilehash: 17cde286906d4ce6c105c4272c1e9a7beb92705e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107704"
 uid: course.az-030t00
-courseNumber: 'AZ-030T00'
+courseNumber: AZ-030T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure Active Directory와 사용자 및 그룹으로 ID를 보호하십시오.
-- skill: 온 프레미스 및 클라우드 기반 기능을 아우르는 아이덴티티 솔루션 구현.
-- skill: 다양한 소스에서 데이터를 수집, 결합 및 분석하기위한 모니터링 솔루션을 적용하십시오.
+- skill: Azure Active Directory와 사용자 및 그룹의 ID 보호.
+- skill: 온 프레미스 및 클라우드 기반 기능을 아우르는 ID 솔루션 구현
+- skill: 다양한 소스에서 데이터를 수집, 결합 및 분석하기 위한 모니터링 솔루션 적용.
 - skill: 구독, 계정, Azure 정책 및 역할 기반 액세스 제어 관리.
-- skill: 리소스 관리자, Azure Portal, Cloud Shell 및 CLI를 사용하여 Azure 관리.
+- skill: Resource Manager, Azure Portal, Cloud Shell 및 CLI를 사용하여 Azure 관리.
 - skill: VNet 피어링과 같은 사이트 간 연결 솔루션 및 가상 네트워크 게이트웨이 구성.
-- skill: Azure App Service, Azure 컨테이너 인스턴스 및 Kubernetes를 관리합니다.
+- skill: Azure App Service, Azure ontainer Instances 및 Kubernetes 관리.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -27,222 +33,501 @@ roles:
 - solution-architect
 products:
 - azure
-summary: |-
-  본 과정에서는 Amazon Web Services을 이전에 설계해 본 솔루션 설계자에게 비즈니스 요구 사항을 안전하고 확장 가능하며 안정적인 Azure용 솔루션으로 전환하는 방법을 설명합니다. 레슨에는 가상화, 자동화, 네트워킹, 스토리지, ID, 보안, 데이터 플랫폼 및 애플리케이션 인프라가 포함됩니다. 이 역할은 각 영역의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다.
+summary: >-
+  본 과정에서는 Amazon Web Services을 이전에 설계해 본 솔루션 설계자에게 비즈니스 요구 사항을 안전하고 확장 가능하며 안정적인 Azure용 솔루션으로 전환하는 방법을 설명합니다. 단원에는 가상화, 자동화, 네트워킹, 스토리지, ID, 보안, 데이터 플랫폼 및 애플리케이션 인프라가 포함됩니다. 이 과정에서는 각 영역의 결정이 전체 솔루션에 미치는 영향을 간략하게 설명합니다.
 
-  #### 대상 그룹 프로필
+
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
   본 과정은 AWS에서 실행되는 솔루션을 설계 및 구현할 수 있는 전문 지식이 있고 이제는 Microsoft Azure용으로 설계하려는 AWS 클라우드 설계자를 대상으로 합니다.
-prerequisitesSection: |-
-  이 과정에서 성공하려면, 학습자들은 다음을 갖추어야합니다&#58;
-  - 스토리지 구조, 컴퓨팅, 네트워킹 및 외부 리소스/서비스와 통합에 걸친 안전하고 확장 가능한 AWS 클라우드 솔루션을 설계한 AWS 설계자로서 1년 이상의 경험.
-  - VM, 가상 네트워킹 및 가상 하드 디스크를 포함한 온-프레미스 가상화 기술 이해.
-  - TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽 및 암호화 기술을 포함한 네트워크 구성 이해.
-  - 도메인, 포리스트, 도메인 컨트롤러, 복제, Kerberos 프로토콜 및 LDAP(Lightweight Directory Access Protocol)을 포함한 Active Directory 개념 이해.
-  - 백업 및 복원 작업을 포함한 회복력과 재해 복구 이해.
-  - 프로그래밍 기초 및 스크립트 언어 사용 이해.
+prerequisitesSection: >-
+  이 과정에서 성공하려면, 학습자들은 다음을 갖추어야합니다:
+
+
+  *   AWS 설계자로서 스토리지 구조, 컴퓨팅, 네트워킹, 외부 리소스/서비스와의 상호 작용 전반에 걸쳐 안전하고 스케일링 가능한 AWS 클라우드 솔루션을 디자인한 경험(&gt;1년).
+
+
+  *   VM, 가상 네트워킹, 가상 하드 디스크를 포함한 온-프레미스 가상화 기술에 대한 이해.
+
+
+  *   TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽, 암호화 기술을 포함한 네트워크 구성에 대한 이해.
+
+
+  *   도메인, 포리스트, 도메인 컨트롤러, 복제, Kerberos 프로토콜, LDAP(Lightweight Directory Access Protocol)를 포함한 Active Directory 개념에 대한 이해.
+
+
+  *   백업 및 복원 작업을 포함한 회복력 및 재해 복구에 대한 이해.
+
+
+  *   프로그래밍 기본 사항 및 스크립팅 언어 사용에 대한 이해.
+
 
   응시자는 Azure 관리, Azure 배포 프로세스 및 DevOps 프로세스에 익숙하면 도움이 됩니다.
-outlineSection: |-
-  ### 모듈 1&#58; Azure 소개
+outlineSection: >-
+  ### <a name="module-1-introduction-to-azure"></a>모듈 1: Azure 소개
+
+
   본 모듈에서는 Azure의 구독 및 계정 구성 방법을 학습하고 리소스 그룹 및 템플릿을 설정하여 리소스 생성 및 수명 주기 관리를 표준화할 수 있습니다.
-  #### 단원
-  - 구독 및 계정
-  - Azure Resource Manager의 리소스 그룹 및 템플릿
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 솔루션에 가장 적합한 계정 및 구독 유형 결정.
-  - 리소스 그룹 및 템플릿 생성으로 솔루션 표준화 및 관리.
 
 
-  ### 모듈 2&#58; Azure Virtual Machines
+  #### <a name="lessons"></a>단원
+
+
+  *   구독 및 계정
+
+
+  *   Azure Resource Manager의 리소스 그룹 및 템플릿
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   솔루션에 가장 적합한 계정 및 구독 유형 결정.
+
+
+  *   리소스 그룹 및 템플릿을 만들어 솔루션 표준화 및 관리.
+
+
+  ### <a name="module-2-azure-global-infrastructure"></a>모듈 2: Azure 글로벌 인프라
+
+
   본 모듈에서는 Microsoft Azure의 세계적인 아키텍처와 이 아키텍처가 애플리케이션 및 사이트의 가용성과 안정성에 미치는 영향을 살펴 봅니다.
-  #### 단원
-  - Azure 지역
-  - Auzre 가용성 영역
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 솔루션에 필요한 가용성 및 안전성을 제공하는 아키텍처 구현.
 
 
-  ### 모듈 3&#58; Azure Active Directory 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure 지역
+
+
+  *   Azure 가용성 영역
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   솔루션에 필요한 사용 가능성 및 안정성을 제공하는 아키텍처 구현.
+
+
+  ### <a name="module-3-implement-azure-active-directory"></a>모듈 3: Azure Active Directory 구현
+
+
   본 모듈에서는 Azure Active Directory를 사용하여 ID를 보호하고 사용자와 그룹을 구현하는 방법을 학습합니다.
-  #### 단원
-  - Azure Active Directory 소개
-  - 도메인 및 사용자 지정 도메인
-  - 안전 기능
-  - Azure Active Directory의 게스트 사용자
-  - 다중 디렉터리 관리
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - Azure Active Directory로 ID 보안.
-  - 사용자 및 그룹 구현.
 
 
-  ### 모듈 4&#58; 하이브리드 ID 구현 및 관리
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Active Directory 소개
+
+
+  *   도메인 및 사용자 지정 도메인
+
+
+  *   안전 기능
+
+
+  *   Azure Active Directory의 게스트 사용자
+
+
+  *   여러 디렉터리 관리
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   Azure Active Directory를 사용하여 ID 보호.
+
+
+  *   사용자 및 그룹 구현.
+
+
+  ### <a name="module-4-implement-and-manage-hybrid-identities"></a>모듈 4: 하이브리드 ID 구현 및 관리
+
+
   본 모듈에서는 클라우드로 온-프레미스 Active Directory 계정을 확장하는 방법과 계정 동기화 방법을 학습합니다.
-  #### 단원
-  - Azure AD Connect 소개
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 온-프레미스 Active Directory 계정을 사용한 클라우드 솔루션 인증.
-  - 온-프레미스 및 클라우드 간 계정 동기화.
 
 
-  ### 모듈 5&#58; 가상 네트워킹 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure AD Connect 소개
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   온-프레미스 Active Directory 계정을 사용하여 클라우드 솔루션 인증.
+
+
+  *   온-프레미스 및 클라우드 간 계정 동기화.
+
+
+  ### <a name="module-5-implement-virtual-networking"></a>모듈 5: 가상 네트워킹 구현
+
+
   본 모듈에서는 가상 네트워크 및 서브네팅, IP 주소 지정, Azure DNS, 네트워크 보안 그룹 및 Azure Firewall와 같은 기본적인 가상 네트워킹 개념을 학습합니다.
-  #### 단원
-  - Azure 가상 네트워크 및 VNet 피어링
-  - VPN 및 ExpressRoute 연결
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 보안을 염두에 둔 가상 네트워크 설계.
 
 
-  ### 모듈 6&#58; Windows 및 Linux용 VM 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Virtual Network 및 VNet 피어링
+
+
+  *   VPN 및 ExpressRoute 연결
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   보안을 염두에 둔 가상 네트워크 디자인.
+
+
+  ### <a name="module-6-implement-vms-for-windows-and-linux"></a>모듈 6: Windows 및 Linux용 VM 구현
+
+
   본 모듈에서는 고가용성을 위한 VM 구성 방법 및 확장 집합 배포 및 구성 방법을 학습합니다.
-  #### 단원
-  - 고가용성 구성
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 고가용성 솔루션 생성을 위한 VM 구현.
-  - 확장 집합 배포 및 구성.
 
 
-  ### 모듈 7&#58; 부하 분산 및 네트워크 보안 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   고가용성 구성
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   고가용성 솔루션을 만들기 위한 VM 구현.
+
+
+  *   확장 집합을 배포하고 구성합니다.
+
+
+  ### <a name="module-7-implement-load-balancing-and-network-security"></a>모듈 7: 부하 분산 및 네트워크 보안 구현
+
+
   본 모듈에서는 Azure Load Balancer 구현 방법과 보안 그룹 설정 방법을 학습합니다.
-  #### 단원
-  - Azure 부하 분산 장치 구현
-  - Azure Application Gateway 구현
-  - Azure Firewall 구현
-  - 네트워크 보안 그룹 및 애플리케이션 보안 그룹 구현
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 부하 분산 구성 요소 수현.
-  - 네트워크 및 애플리케이션 보안 그룹 설정.
 
 
-  ### 모듈 8&#58; 컨테이너 빌드 전략 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Load Balancer 구현
+
+
+  *   Azure Application Gateway 구현
+
+
+  *   Azure Firewall 구현
+
+
+  *   네트워크 보안 그룹 및 애플리케이션 보안 그룹 구현
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   부하 분산 구성 요소 구현.
+
+
+  *   네트워크 및 애플리케이션 보안 그룹 설정.
+
+
+  ### <a name="module-8-implement-container-based-applications"></a>모듈 8: 컨테이너 기반 애플리케이션 구현
+
+
   본 모듈에서는 Azure Kubernetes Service 구성 방법과 Azure 컨테이너에 솔루션을 게시하는 방법을 학습합니다.
-  #### 단원
-  - Azure Kubernetes Service 구현
-  - Azure 컨테이너 인스턴스에 솔루션 게시
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 솔루션을 위한 Azure Kubernetes Service 구성.
-  - Azure 컨테이너 인스턴스에 귀하의 솔루션 게시.
 
 
-  ### 모듈 9&#58; 애플리케이션 인프라 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Container Service 구성
+
+
+  *   Azure 컨테이너 인스턴스에 솔루션 게시
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   솔루션을 위한 Azure Kubernetes Service 구성.
+
+
+  *   Azure 컨테이너 인스턴스에 솔루션 게시.
+
+
+  ### <a name="module-9-implement-an-application-infrastructure"></a>모듈 9: 애플리케이션 인프라 구현
+
+
   본 모듈에서는 App Service 계획 선택, 계획 구성 및 Logic Apps 및 Azure Functions 설정 기초를 학습합니다.
-  #### 단원
-  - 앱 서비스 계획 생성
-  - Azure App Service 작성 및 구성
-  - App Service 용 네트워킹 구성
-  - Logic Apps 및 Azure Functions 소개
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 솔루션에 적합한 App Service 계획 선택.
-  - App Service 구성.
-  - 솔루션에 Logic Apps 및 Azure Functions 통합.
 
 
-  ### 모듈 10&#58; 스토리지 계정
+  #### <a name="lessons"></a>단원
+
+
+  *   App Service 플랜 만들기
+
+
+  *   Azure App Service 만들기 및 구성
+
+
+  *   App Service를 위한 네트워킹 구성
+
+
+  *   Logic Apps 및 Azure Functions 소개
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   솔루션에 적합한 App Service 요금제 선택.
+
+
+  *   App Service 구성.
+
+
+  *   솔루션에 Logic Apps 및 Azure Functions 통합.
+
+
+  ### <a name="module-10-implement-storage-accounts"></a>모듈 10: 스토리지 계정 구현
+
+
   본 모듈에서는 Azure Storage와 네트워크 액세스, 복제, 인증, 액세스 및 장애 조치 구성 방법을 소개합니다.
-  #### 단원
-  - Azure Storage 핵심 개념
-  - Azure Blob Storage 수명 주기 관리
-  - Azure Blob Storage로 작업
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 솔루션에 적합한 Azure Storage 계정 선택.
-  - 스토리지 계정 구성.
 
 
-  ### 모듈 11&#58; NoSQL 데이터베이스 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Storage 핵심 개념
+
+
+  *   Azure BLOB 스토리지 수명 주기 관리
+
+
+  *   Azure BLOB 스토리지 사용
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   솔루션을 위한 적절한 Azure Storage 계정 선택.
+
+
+  *   스토리지 계정 구성.
+
+
+  ### <a name="module-11-implement-nosql-databases"></a>모듈 11: NoSQL 데이터베이스 구현
+
+
   본 모듈에서는 Azure Cosmos DB와 이를 구성하는 방법을 학습합니다.
-  #### 단원
-  - Azure Cosmos DB 소개
-  - 일관성 검사
-  - 적절한 Cosmos DB API 선택
-  - Cosmos DB에서 복제본 설정
-  - AWS DynamoDB와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - Azure Cosmos DB를 사용한 NoSQL 데이터베이스 솔루션 구성.
 
 
-  ### 모듈 12&#58; Azure SQL 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB 소개
+
+
+  *   일관성
+
+
+  *   적절한 CosmosDB API 선택
+
+
+  *   Cosmos DB에서 복제본 설정
+
+
+  *   AWS DynamoDB와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   Azure Cosmos DB를 사용하여 NoSQL 데이터베이스 솔루션 구성.
+
+
+  ### <a name="module-12-implement-azure-sql-databases"></a>모듈 12: Azure SQL 데이터베이스 구현
+
+
   본 모듈에서는 Azure SQL 데이터베이스의 관리되는 인스턴스 구현 방법 및 고가용성을 위해 이를 구성하는 방법을 학습합니다.
-  #### 단원
-  - Azure SQL 데이터베이스 설정 구성
-  - Azure SQL 데이터베이스 관리 인스턴스
-  - Azure SQL 데이터베이스를 위한 고가용성 구성
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - Azure SQL 데이터베이스의 관리되는 인스턴스 구현.
-  - 고가용성을 위한 데이터베이스 구성.
 
 
-  ### 모듈 13&#58; 클라우드 인프라 모니터링 구현
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure SQL 데이터베이스 설정 구성
+
+
+  *   Azure SQL 데이터베이스 관리되는 인스턴스 구현
+
+
+  *   Azure SQL 데이터베이스를 위한 고가용성 구성
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   Azure SQL 데이터베이스의 관리되는 인스턴스 구현.
+
+
+  *   고가용성을 위한 데이터베이스 구성.
+
+
+  ### <a name="module-13-implement-cloud-infrastructure-monitoring"></a>모듈 13: 클라우드 인프라 모니터링 구현
+
+
   본 모듈에서는 Azure Monitor를 사용한 경고 설정 방법과 비용을 기록하고 관리하는 방법을 학습합니다.
-  #### 단원
-  - 보안 모니터링
-  - 비용 모니터링
-  - Log Analytics 작업 영역 구성
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 솔루션을 위한 보안 모니터링 설정.
-  - 로그 분석을 사용한 비용 모니터링.
 
 
-  ### 14&#58; Azure 거버넌스 솔루션 구현 및 관리
+  #### <a name="lessons"></a>단원
+
+
+  *   보안 모니터링
+
+
+  *   모니터링 비용
+
+
+  *   Log Analytics 작업 영역 구성
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   솔루션을 위한 보안 모니터링 설정.
+
+
+  *   로그를 분석하여 비용 모니터링.
+
+
+  ### <a name="module-14-implement-and-manage-azure-governance-solutions"></a>모듈 14: Azure 거버넌스 솔루션 구현 및 관리
+
+
   본 모듈에서는 역할 기반 액세스 제어를 구성하는 방법과 거버넌스 요구 사항을 준수하도록 강제하는 Azure Policy를 구성하는 방법을 학습합니다.
-  #### 단원
-  - RBAC 역할 할당
-  - Azure에 대한 관리 액세스 구성
-  - Azure Policy 구현 및 구성
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 거버넌스 액세스를 위한 RBAC 역할 구성.
-  - 거버넌스 요구 사항을 준수하도록 Azure Policy 구성.
 
 
-  ### 모듈 15&#58; 인스턴스 및 애플리케이션 관리
+  #### <a name="lessons"></a>단원
+
+
+  *   RBAC 역할 할당
+
+
+  *   Azure에 대한 관리 액세스 구성
+
+
+  *   Azure Policy 구현 및 구성
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   거버넌스 액세스를 위한 RBAC 역할 구성.
+
+
+  *   거버넌스 요구 사항을 준수하도록 Azure Policy 구성.
+
+
+  ### <a name="module-15-manage-security-for-applications"></a>모듈 15: 애플리케이션에 대한 보안 관리
+
+
   본 모듈에서는 KeyVault 구현 및 구성 방법, Azure Active Directory에서 애플리케이션 등록 및 관리 방법 및 Azure Active Directory 관리 ID 구성 방법을 학습합니다.
-  #### 단원
-  - Azure Key Vault 구현
-  - Azure AD 관리 ID 구현 및 구성
-  - Azure AD에서 애플리케이션 등록 및 관리
-  - AWS와 비교
-
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - Azure Active Directory에서 앱 등록.
-  - 앱이 데이터 액세스 시 사용하는 관리 ID를 위한 Azure Active Directory 구성.
 
 
-  ### 16&#58; 마이그레이션, 백업 및 재해 복구 관리
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Key Vault 구현
+
+
+  *   Azure AD 관리 ID 구현 및 구성
+
+
+  *   Azure AD에서 애플리케이션 등록 및 관리
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   Azure Active Directory에서 앱 등록.
+
+
+  *   앱에서 데이터에 액세스할 때 사용되는 관리 ID를 위해 Azure Active Directory 구성.
+
+
+  ### <a name="module-16-migration-backup-and-disaster-recovery-management"></a>모듈 16: 마이그레이션, 백업, 재해 복구 관리
+
+
   본 모듈에서는 워크로드 마이그레이션 방법과 백업, 재해 복구 및 업데이트 관리 방법을 학습합니다.
-  #### 단원
-  - 워크로드 마이그레이션
-  - VM용 Azure Backup 구현
-  - 재해 복구 구현
-  - AWS와 비교
 
-  본 모듈을 마친 후에는 다음을 수행할 수 있습니다&#58;
-  - 클라우드 및 VM에 워크로드 마이그레이션.
-  - 클라우드 백업 구현.
-  - 재해 복구 옵션 구현.
-  - 가용성 및 성능에 부정적인 영향을 주지 않는 업데이트 전략 구현.
 
+  #### <a name="lessons"></a>단원
+
+
+  *   워크로드 마이그레이션
+
+
+  *   VM을 위한 Azure Backup 구현
+
+
+  *   재해 복구 구현
+
+
+  *   AWS와의 비교
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   클라우드 및 VM 전반에 걸친 워크로드 마이그레이션.
+
+
+  *   클라우드 백업 구현.
+
+
+  *   재해 복구 옵션 구현.
+
+
+  *   사용 가능성 및 성능에 부정적인 영향을 주지 않는 업데이트 전략 구현.

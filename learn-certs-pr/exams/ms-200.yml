@@ -1,23 +1,35 @@
 ### YamlMime:Examination
 title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Exam MS-200: Planning and Configuring a Messaging Platform'
-  description: 'Exam MS-200: Planning and Configuring a Messaging Platform'
+  title: '시험 MS-200: Planning and Configuring a Messaging Platform'
+  description: '시험 MS-200: Planning and Configuring a Messaging Platform'
+  ms.openlocfilehash: 9d001523c11d23887ae24e65e76d8f34bd672916
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105720"
 uid: exam.ms-200
 displayName: MS-200
-summary: |-
+summary: >-
   <div>
-  <div><strong>본 인증은 2020년 8월 31일 월요일에 중단됩니다. 대체 시험 MS-203을 사용할 수도 있습니다. 자세한 내용을 보려면 을 방문하시기 바랍니다 <a href="/learn/certifications/exams/ms-203">MS-203 시험 세부 정보 페이지</a>.</strong><br/><br/></div>
+
+  <div><strong>이 시험은 2020년 8월 31일에 폐지되었습니다. 대체 시험인 MS-203에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/ms-203">MS-203 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
+
   </div>
 
-  이 시험은 온-프레미스 및 cloud 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 Messaging Administrator를 대상 응시자로 합니다.
 
-  Messaging Administrator는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.
+  본 시험은 온-프레미스 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터하는 메시징 관리자를 대상으로 합니다.
 
-  Messaging Administrator는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.
+
+  메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.
+
+
+  메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 현대 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.
+
 
   메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 최신 메시징 인프라 관리, 메일 흐름 토폴로지 관리, 수신자 및 장치 관리.'
+subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 현대 메시징 인프라 관리, 메일 흐름 토폴로지 관리, 수신자 및 장치 관리.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,9 +38,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 최신 메시징 인프라 관리 (45-50%)
-- 메일 흐름 토폴로지 관리 (35-40%)
-- 수신자 및 장치 관리 (15-20%)
+- Manage modern messaging infrastructure (45-50%)
+- Manage mail flow topology (35-40%)
+- Manage recipients and devices (15-20%)
 retirementDate: 08/31/2020
 roles:
 - administrator
@@ -36,20 +48,16 @@ products:
 - m365
 exams:
 - uid: exam.ms-201
-courses:
-- uid: course.ms-200t01
-- uid: course.ms-200t02
-- uid: course.ms-200t03
 relatedCertifications:
 - related:
     uid: none
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -62,7 +70,6 @@ resources:
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

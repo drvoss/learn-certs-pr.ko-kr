@@ -1,18 +1,24 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365 Fundamentals (ERP)'
+title: Microsoft Dynamics 365 Fundamentals (ERP)
 metadata:
-  title: 'Course MB-920T00--A: Microsoft Dynamics 365 Fundamentals (ERP)'
-  description: 'Course MB-920T00--A: Microsoft Dynamics 365 Fundamentals (ERP)'
+  title: '과정 MB-920T00--A: Microsoft Dynamics 365 Fundamentals (ERP)'
+  description: '과정 MB-920T00--A: Microsoft Dynamics 365 Fundamentals (ERP)'
+  ms.openlocfilehash: b575e1414e1eea0abe1ce82e00bb4dbcf3d2b875
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107208"
 uid: course.mb-920t00
-courseNumber: 'MB-920T00'
+courseNumber: MB-920T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Dynamics 365 Supply Chain Management의 역량과 기능 설명
-- skill: Dynamics 365 Finance의 역량과 기능 설명
-- skill: Dynamics 365 Commerce의 역량과 기능 설명
-- skill: Dynamics 365 Human Resources의 역량과 기능 설명
-- skill: Dynamics 365 Project Operations (ERP)의 역량과 기능 설명
+- skill: Dynamics 365 Supply Chain Management의 기능 설명
+- skill: Dynamics 365 Finance의 기능 설명
+- skill: Dynamics 365 Commerce의 기능 설명
+- skill: Dynamics 365 Human Resources의 기능 설명
+- skill: Dynamics 365 Project Operations (ERP)의 기능 설명
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -34,193 +40,289 @@ products:
 - dynamics-365
 exams:
 - uid: exam.mb-920
-summary: |-
-  이 과정은 Dynamics 365의 재무 및 운영 기능에 대한 광범위한 소개를 제공합니다. Dynamics 365 Supply Chain Management, Dynamics 365 Finance, Dynamics 365 Commerce , Dynamics 365 Human Resources, 및 Dynamics 365 Project Operations의 ERP 기능을 포한한, 각 재무 및 운영 앱 뿐만 아니라 기업 리소스 관리 (ERP)의 개념에 익숙해 질 것입니다. 이 과정은 강의와 실습까지 포함됩니다.  
+summary: >-
+  이 과정에서는 Dynamics 365의 재무 및 운영 기능을 광범위하게 소개합니다. ERP(전사적 자원 관리) 개념과 Dynamics 365 Supply Chain Management, Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Human Resources, Dynamics 365 Project Operations의 ERP 기능을 포함한 각 재무 및 운영 앱에 대해 잘 알게 됩니다. 이 과정에는 실습 랩뿐만 아니라 강의도 포함됩니다.
 
-  #### 구독자 프로필
 
-  다양한 역할과 직업에서 다양한 단계에 있는 사람들은 이 기본 과정을 통해 혜택을 받을 수 있습니다. 여기에는 IT 전문가, 비즈니스 이해관계자 및 기타 Dynamics 365의 재무 및 운영 기능에 노출되기를 원하는 사람들, 학생, 최근 졸업생 및 Dynamics 365를 활용하여 다음 단계로 이동하려는 직업을 변경하는 사람들이 포함됩니다. 
-outlineSection: |-
-  ### 모듈 1&#58; Dynamics 365 Supply Chain Management의 기본 원칙 알아보기
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  이 모듈은 Dynamics 365 Supply Chain Management에 들어가기 전에 기업 리소스 관리의 기본 개념과 재무 및 운영 앱의 공통점을 다룹니다. 표준 마케팅 비즈니스 프로세프와 마케팅이 이를 처리하는 방법으로 시작합니다. 그런 다음 제품 기능을 검토합니다. 마지막으로 LinkedIn Campaign Manager, Dynamics 365 Customer Voice 및 Dynamics 365 Customer Insights와 같은 추가 마케팅 앱을 다룹니다.
 
-  #### 레슨
+  이 기본 과정은 다양한 역할을 담당하며 다양한 경력 단계에 있는 사람에게 도움이 됩니다. 여기에는 Dynamics 365의 재무 및 운영 기능을 배우려는 IT 전문가, 비즈니스 관련자, 기타 사용자와 Dynamics 365를 활용하여 다음 단계로 나아가고자 하는 학생, 최근 졸업생, 경력 전환자가 포함됩니다.
+outlineSection: >-
+  ### <a name="module-1-learn-the-fundamentals-of-dynamics-365-supply-chain-management"></a>모듈 1: Dynamics 365 Supply Chain Management 기본 사항 알아보기
 
-  *   재무 및 운영 앱 소개 
 
-  *   Dynamics 365 Supply Chain Management의 일반 기능 식별
+  이 모듈에서는 Dynamics 365 Supply Chain Management를 살펴보기 전에 전사적 자원 관리의 기본 개념과 재무 및 운영 앱이 무엇인지에 대해 설명합니다. 표준 마케팅 비즈니스 프로세스와 마케팅에서 해당 프로세스에 대응하는 방법에서 시작합니다. 그런 다음 제품 기능을 검토합니다. 마지막으로 LinkedIn Campaign Manager, Dynamics 365 Customer Voice, Dynamics 365 Customer Insights와 같은 추가 마케팅 앱에 대해 설명합니다.
 
-  *   Dynamics 365 Supply Chain Management의 창고 및 재고 기능 살펴보기
 
-  *   Dynamics 365 Supply Chain Management에서 제조 전략 살펴보기
+  #### <a name="lessons"></a>단원
 
-  *   Dynamics 365 Supply Chain Management에서 자산 관리 기능 살펴보기
+
+  *   재무 및 운영 앱 소개
+
+
+  *   Dynamics 365 Supply Chain Management의 일반적인 기능 식별
+
+
+  *   Dynamics 365 Supply Chain Management의 웨어하우스 및 재고 기능 살펴보기
+
+
+  *   Dynamics 365 Supply Chain Management의 제조 전략 살펴보기
+
+
+  *   Dynamics 365 Supply Chain Management의 자산 관리 기능 살펴보기
+
 
   *   Capstone 랩
 
-  #### 랩 &#58; 재무 및 운영 앱 탐색
-  ####
 
-  #### 랩 &#58; 작업 영역 및 필터링 살펴보기
+  #### <a name="lab--navigate-the-finance-and-operations-apps"></a>랩: 재무 및 운영 앱 탐색
 
-  ####
-
-  #### 랩 &#58; 제품 만들기
 
   ####
 
-  #### 랩 &#58; 구매 주문 만들기
+
+  #### <a name="lab--explore-workspaces-and-filtering"></a>랩: 작업 영역 및 필터링 살펴보기
+
 
   ####
 
-  #### 랩 &#58; 창고 만들기
+
+  #### <a name="lab--create-a-product"></a>랩: 제품 만들기
+
 
   ####
 
-  #### 랩 &#58; 생산 주문 만들기
-  ####
 
-  #### 랩 &#58; 계획된 작업 주문 만들기 
+  #### <a name="lab--create-a-purchase-order"></a>랩: 구매 주문 만들기
 
-  ####
-
-  #### 랩 &#58; Dynamics 365 Supply Chain Management Capstone 랩
 
   ####
+
+
+  #### <a name="lab--create-a-warehouse"></a>랩: 웨어하우스 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-a-production-order"></a>랩: 프로덕션 주문 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-a-planned-work-order"></a>랩: 계획된 작업 주문 만들기
+
+
+  ####
+
+
+  #### <a name="lab--dynamics-365-supply-chain-management-capstone-lab"></a>랩: Dynamics 365 Supply Chain Management Capstone 랩
+
+
+  ####
+
 
   *   제품 관리 살펴보기
 
-  *   창고 관리 살펴보기
 
-  *   생산 관리 살펴보기
+  *   웨어하우스 관리 살펴보기
+
+
+  *   프로덕션 관리 살펴보기
+
 
   *   재고 관리 살펴보기
 
+
   *   조달 및 소싱 살펴보기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
 
-  *   재무 및 운영 앱의 고통 기능 설명 
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   재무 및 운영 앱의 일반적인 기능 설명
+
 
   *   Dynamics 365 Supply Chain Management의 일반적인 기능 설명
 
-  *   창고 및 재고 관리, 제조 및 자산 관리 기능 설명
 
-  ### 모듈 2&#58; Dynamics 365 Finance의 기본 원칙 알아보기
+  *   웨어하우스 및 재고 관리, 제조 및 자산 관리 기능 설명
 
-  이 모듈에서는 Dynamics 365 Finance를 살펴봅니다. 총계정 원장, 미지급금 및 미수금에 초점을 맞추기 전에 제품의 핵심 기능을 다룹니다. 다음으로, Dynamics 365 Finance의 비용 관리 및 예산 책정을 살펴봅니다.
 
-  #### 레슨
+  ### <a name="module-2-learn-the-fundamentals-of-dynamics-365-finance"></a>모듈 2: Dynamics 365 Finance 기본 사항 알아보기
+
+
+  이 모듈에서는 Dynamics 365 Finance를 살펴봅니다. 일반 원장, 지급 계정, 수취 계정에 집중하기 전에 제품의 핵심 기능에 대해 설명합니다. 다음으로 Dynamics 365 Finance의 비용 관리 및 예산 책정을 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Dynamics 365 Finance 핵심 기능 살펴보기
 
-  *   총계정 원장 살펴보기
 
-  *   미지급금 및 미수금 살펴보기 
+  *   일반 원장 살펴보기
 
-  *   비용 관리, 고정 자산 관리 및 예산 책정 살펴보기
+
+  *   지급 계정 및 수취 계정 살펴보기
+
+
+  *   비용 관리, 고정 자산 관리, 예산 책정 살펴보기
+
 
   *   Capstone 랩
 
-  #### 랩 &#58; Capstone 랩
+
+  #### <a name="lab--capstone-lab"></a>랩: Capstone 랩
+
 
   ####
 
-  #### 랩 &#58; 벤더 결제 일지 만들기
+
+  #### <a name="lab--create-a-vendor-payment-journal"></a>랩: 공급업체 결제 저널 만들기
+
 
   ####
 
-  #### 랩 &#58; 재무 차원 만들기
+
+  #### <a name="lab--create-a-financial-dimension"></a>랩: 재무 차원 만들기
+
 
   ####
 
-  *   총계정 원정 살펴보기
 
-  *   미지급금 살펴보기
+  *   일반 원장 살펴보기
 
-  *   미수금 살펴보기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  *   지급 계정 살펴보기
 
-  *   Dynamics 365 Finance 핵심 기능 논의
 
-  *   총계정 원장, 미지급금 및 미수금 논의 
+  *   수취 계정 살펴보기
 
-  *   비용 관리, 고정 자산 관리 및 예산 책정 논의 D
 
-  ### 모듈 3&#58; Dynamics 365 Commerce의 기본 원칙 알아보기
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-  이 모듈에서는 Dynamics 365 Commerce를 살펴봅니다. Dynamics 365 Fraud Protection 및 그 기능에 주의를 돌리기 전에 제품의 핵심 기능을 다룹니다. 
 
-  #### 레슨
+  *   Dynamics 365 Finance 핵심 기능 설명
+
+
+  *   일반 원장, 지급 계정, 수취 계정 설명
+
+
+  *   비용 관리, 고정 자산 관리, 예산 책정 설명
+
+
+  ### <a name="module-3-learn-the-fundamentals-of-dynamics-365-commerce"></a>모듈 3: Dynamics 365 Commerce 기본 사항 알아보기
+
+
+  이 모듈에서는 Dynamics 365 Commerce를 살펴봅니다. Dynamics 365 Fraud Protection  그 기능에 주의를 기울이기 전에 제품의 핵심 기능에 대해 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Dynamics 365 Commerce 기능 살펴보기
 
+
   *   Dynamics 365 Fraud Protection 살펴보기
+
 
   *   Capstone 랩
 
-  #### 랩 &#58; 할인 상품 만들기
+
+  #### <a name="lab--create-a-discount-product"></a>랩: 할인 제품 만들기
+
 
   ####
 
-  #### 랩 &#58; 제품 구색 만들기 
+
+  #### <a name="lab--create-a-product-assortment"></a>랩: 제품 분류 만들기
+
 
   ####
 
-  #### 랩 &#58; Capstone 랩
+
+  #### <a name="lab--capstone-lab"></a>랩: Capstone 랩
+
 
   ####
 
-  *   상무 본부 만들기 
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  *   Commerce Headquarters 살펴보기
 
-  *   Dynamics 365 Commerce 논의
 
-  *   Dynamics 365 Fraud Protection 논의
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-  ### 모듈 4&#58; Dynamics 365 Human Resources의 기본 원칙 알아보기
 
-  이 모듈에서는 Dynamics 365 Human Resources을 살펴봅니다. 제품의 인사 관리 능력에 주목하기 전에 제품의 핵심 기능을 다룹니다. 
+  *   Dynamics 365 Commerce 설명
 
-  #### 레슨
+
+  *   Dynamics 365 Fraud Protection 설명
+
+
+  ### <a name="module-4-learn-the-fundamentals-of-dynamics-365-human-resources"></a>모듈 4: Fundamentals of Dynamics 365 Human Resources 기본 사항 알아보기
+
+
+  이 모듈에서는 Dynamics 365 Human Resources를 살펴봅니다. 제품의 직원 관리 기능에 주의를 기울이기 전에 제품의 핵심 기능에 대해 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Dynamics 365 Human Resources 핵심 기능 살펴보기
 
-  *   인사 관리 기능 살펴보기 
+
+  *   직원 관리 기능 살펴보기
+
 
   *   Capstone 랩
 
-  #### 랩 &#58; Capstone 랩
+
+  #### <a name="lab--capstone-lab"></a>랩: Capstone 랩
+
 
   ####
 
-  *   인적 자원 살펴보기 
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  *   Human Resources 살펴보기
 
-  *   Dynamics 365 Human Resources의 핵심 기능 논의
 
-  *   인사 관리 능력 논의 
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-  ### 모듈 5&#58; Dynamics 365 Project Operations (ERP)의 기본 원칙 알아보기
 
-  이 모듈에서는 Dynamics 365 Project Operations의 기업 리소스 기능을 살펴봅니다. 프로젝트 수명 주기에 더하여 프로젝트 계획 및 제품의 실행 능력을 다룹니다. 
+  *   Dynamics 365 Human Resources 핵심 기능 설명
 
-  #### 레슨
 
-  *  Dynamics 365 Project Operations에서 프로젝트 수명 주기 관리 능력 식별
+  *   직원 관리 기능 설명
 
-  *   Dynamics 365 Project Operations의 프로젝트 계획 및 실행 능력 살펴보기
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  ### <a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations-erp"></a>모듈 5: Dynamics 365 Project Operations (ERP) 기본 사항 알아보기
 
-  *   Dynamics 365 Project Operations의 프로젝트 수명 주기 관리 능력 논의
 
-  *   Dynamics 365 Project Operations의 프로젝트 계획 및 실행 능력 살펴보기
+  이 모듈에서는 Dynamics 365 Project Operations의 전사적 자원 기능을 살펴봅니다. 프로젝트의 수명 주기와 제품의 프로젝트 계획 및 실행 기능에 대해 설명합니다.
 
-  #### 추가 자료
 
-  Microsoft Learn에서 이 과정과 관련된 콘텐츠를 검토하십시오. 제품마다 별도의 학습 경로가 있으니 참고하십시오. 
+  #### <a name="lessons"></a>단원
+
+
+  *   Dynamics 365 Project Operations에서 프로젝트 수명 주기 관리 기능 식별
+
+
+  *   Dynamics 365 Project Operations의 프로젝트 계획 및 실행 기능 살펴보기
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Dynamics 365 Project Operations의 프로젝트 수명 주기 관리 기능 설명
+
+
+  *   Dynamics 365 Project Operations의 프로젝트 계획 및 실행 기능 살펴보기
+
+
+  #### <a name="additional-reading"></a>추가 자료
+
+
+  Microsoft Learn에서 이 과정에 연결된 콘텐츠를 검토하세요. 각 제품에 대한 별도의 학습 경로가 있는지 확인하세요.

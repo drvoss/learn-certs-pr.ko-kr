@@ -1,19 +1,25 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Sales
 metadata:
-  title: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
-  description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+  title: '과정 MB-210T01--A: Microsoft Dynamics 365 Sales'
+  description: '과정 MB-210T01--A: Microsoft Dynamics 365 Sales'
+  ms.openlocfilehash: 5fcc49d0a22d62140a8ec5bdc0e0be1757301c2f
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107429"
 uid: course.mb-210t01
-courseNumber: 'MB-210T01'
+courseNumber: MB-210T01
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 애플리케이션 설치 및 구성
-- skill: 일반 영업 시나리오 식별
-- skill: 영업 주기 완료
-- skill: 제품 카달로그 구성
-- skill: 고객 기록 관리
-- skill: 고객 데이터 분석 도구 사용
+- skill: 일반적인 판매 시나리오 식별
+- skill: 판매 주기 완료
+- skill: 제품 카탈로그 구성
+- skill: 고객 레코드 관리
+- skill: 고객 데이터를 사용하여 분석 도구 활용
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -25,155 +31,222 @@ products:
 - dynamics-365
 exams:
 - uid: exam.mb-210
-summary: |-
-  Microsoft Dynamics 365 Sales는 고객과 잠재 고객 처리 관리를 위한 전반의 애플리케이션 입니다. Dynamics 365 Sales를 사용하여, 조직은 판매 목표에 대한 데이터를 추적하고, 모범 사례를 자동화하고, 데이터에서 학습하는 등 그 이상을 할 수 있습니다.
+summary: >-
+  Microsoft Dynamics 365 Sales는 고객과 잠재 고객 대응을 관리하는 엔드투엔드 애플리케이션입니다. Dynamics 365 Sales를 사용하여 조직은 판매 목표에 대한 데이터를 추적하고, 모범 사례를 자동화하고, 데이터에서 학습하는 등의 작업을 수행할 수 있습니다. 잠재 고객에서 기회, 거래 성사까지 단계별로 안내하는 전 세계적으로 인정받는 전문가 팀과 함께하세요. 애플리케이션에서 사용 가능한 자동화 및 사용자 지정 옵션을 사용하여 판매 직원의 생산성을 최대화하는 방법에 대해 알아봅니다.&nbsp;&nbsp;
 
-  리드에서 기회, 거래 성사까지 단계적으로 안내하는 전 세계적으로 인정받는 전문가 팀에 합류하십시오. 애플리케이션의 사용 가능한 자동화 및 사용자 지정 옵션을 사용하여 판매 직원이 자신의 생산성을 최고로 높일 수 있는 방법을 학습합니다.
 
-  
-  #### 대상 그룹 프로필
-  Dynamics 365 Functional Consultant는 검색 수행하기, 요구 사항 캡쳐하기, 주제 전문가 및 이해 관계자의 참여하기, 요구사항 번역하기, 솔루션 및 애플리케이션 구성하기를 담당합니다. 기능 컨설턴트는 즉시 사용 가능한 기능, 코드 없는 확장성, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
-prerequisitesSection: |-
-  비즈니스 애플리케이션의 친숙함과 이를 비즈니스에 맞게 사용자 지정하고 구현하려는 욕구.
-outlineSection: |-
-  ### 모듈 1: Dynamics 365 Sales 구성
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  이 모듈에서는, 조직의 고유한 요구 사항에 맞게 영업 애플리케이션을 구성하는 방법을 알아봅니다.
 
-  #### 레슨
+  Dynamics 365 Functional Consultant는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. Functional Consultant는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용한 솔루션을 구현합니다.
+prerequisitesSection: 비즈니스 애플리케이션에 대한 이해 및 비즈니스를 위해 애플리케이션을 사용자 지정하고 구현하려는 의지.
+outlineSection: >-
+  ### <a name="module-1-configure-dynamics-365-sales"></a>모듈 1: Dynamics 365 Sales 구성
+
+
+  이 모듈에서는 조직의 고유한 요구 사항에 맞는 판매 애플리케이션 구성에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   조직 및 관리 설정 구성
 
 
-  #### 랩 : 랩 1.1: 랩 환경 확인
+
+  #### <a name="lab--lab-11-validate-lab-environment"></a>랩: 랩 1.1: 랩 환경 유효성 검사
+
 
   ####
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
 
-  *   영업 애플리케이션을 설치하고 구성합니다.
-
-  *   일반적인 영업 시나리오를 식별합니다.
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.&nbsp;
 
 
-  ### 모듈 2: Dynamics 365 Sales로 리드 및 기회 관리
-
-  이 모듈에서는, 고객 데이터 기록을 관리하고, 기본 포함 영업 도구를 사용하고, 리드 수명 주기를 통해 리드를 얻는 방법을 배우게 됩니다.
-
-  #### 레슨
-
-  *   Dynamics 365 Sales으로 리드 관리
-
-  *   Dynamics 365 Sales으로 기회 관리
+  *   판매 애플리케이션 설치 및 구성.
 
 
-  #### 랩 : 랩 2.1: 고객 관리
+  *   일반적인 판매 시나리오 식별.
+
+
+
+  ### <a name="module-2-manage-leads-and-opportunities-with-dynamics-365-sales"></a>모듈 2: Dynamics 365 Sales를 사용하여 잠재 고객 및 기회 관리
+
+
+  이 모듈에서는 고객 데이터 레코드를 관리하고, 기본 제공 판매 도구를 사용하고, 잠재 고객 수명 주기를 통해 주도하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Dynamics 365 Sales를 사용하여 잠재 고객 관리
+
+
+  *   Dynamics 365 Sales를 사용하여 기회 관리
+
+
+
+  #### <a name="lab--lab-21-manage-customers"></a>랩: 랩 2.1: 고객 관리
+
 
   ####
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
 
-  *   고객 기록을 만듭니다.
-
-  *   영업 도구를 사용합니다.  
-
-  *   리드와 기회를 만듭니다. 
-
-  ### 모듈 3: Dynamics 365 Sales로 주문 및 제품 카탈로그 관리
-
-  이 모듈에서는, Dynamics 365 Sales를 추가로 사용하기 위해 견적 및 주문을 사용하여 판매 기회를 관리하고 이를 마감된 거래로 전환하는 방법을 배웁니다.  
-
-  #### 레슨
-
-  *   Dynamics 365 Sales로 제품 카탈로그 관리 및 구성
-
-  *   Dynamics 365 Sales로 판매 주문 처리
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
 
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
-
-  *   제품 카탈로그를 만들고 사용합니다.
-
-  *   기회에 견적을 추가합니다.
-
-  *   주문으로 판매를 완료합니다.
+  *   고객 레코드 만들기.
 
 
-  ### 모듈 4: Dynamics 365 Sales로 목표 관리
-
-  이 모듈에서는, 영업 조직의 성공을 추적하고 영업 성과에 대한 주요 메트릭을 수집하기 위해 목표를 관리하는 방법을 배우게 됩니다.
-
-  #### 레슨
-
-  *   Dynamics 365 Sales로 개별 목표 정의 및 추적
-
-  *   Dynamics 365 Sales로 목표 메트릭 사용
+  *   판매 도구 사용.&nbsp;
 
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
+  *   잠재 고객 및 기회 만들기.&nbsp;&nbsp;
 
-  *   롤업 열을 사용하여 판매 메트릭을 정의합니다.
 
-  *   영업 및 팀을 위한 개별 목표를 추적합니다.
 
-  ### 모듈 5: Dynamics 365 Sales 데이터 분석
+  ### <a name="module-3-manage-orders-and-the-product-catalog-with-dynamics-365-sales"></a>모듈 3: Dynamics 365 Sales를 사용하여 주문 및 제품 카탈로그 관리
 
-  이 모듈에서는, 분석 옵션을 검토하고, 검색 도구를 설명하고, Power BI를 사용하여 판매 데이터를 확인 및 분석합니다.
 
-  #### 레슨
+  이 모듈에서는 견적 및 주문을 사용하여 Dynamics 365 Sales를 더 많이 활용하고 판매 기회를 관리하는 방법과 이를 거래 성사로 전환하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Dynamics 365 Sales를 사용하여 제품 카탈로그 관리 및 구성
+
+
+  *   Dynamics 365 Sales를 사용하여 판매 주문 처리
+
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   제품 카탈로그 만들기 및 사용.
+
+
+  *   견적을 기회에 추가.
+
+
+  *   주문을 사용하여 판매 완료.
+
+
+
+  ### <a name="module-4-manage-goals-with-dynamics-365-sales"></a>모듈 4: Dynamics 365 Sales를 사용하여 목표 관리
+
+
+  이 모듈에서는 판매 조직의 성공을 추적하고 판매 성과에 대한 주요 메트릭을 수집하여 목표를 관리하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Dynamics 365 Sales를 사용하여 개별 목표 정의 및 추적
+
+
+  *   Dynamics 365 Sales에서 목표 메트릭 사용
+
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.&nbsp;
+
+
+  *   롤업 열을 사용하여 판매 메트릭 정의.
+
+
+  *   판매 및 팀에 대한 개별 목표 추적.
+
+
+
+  ### <a name="module-5-analyze-dynamics-365-sales-data"></a>모듈 5: Dynamics 365 Sales 데이터 분석
+
+
+  이 모듈에서는 분석 옵션을 검토하고, 검색 도구를 설명하고, Power BI를 사용하여 판매 데이터를 보고 분석합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Dynamics 365 Sales에서 데이터 분석
 
-  *   Power BI로 데이터 분석 
+
+  *   Power BI를 사용하여 데이터 분석
 
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
 
-  *   즉시 사용 가능한 Dynamics 365 도구를 사용하여 판매 데이터 분석
+  이 모듈을 완료하면 다음을 할 수 있습니다.&nbsp;
 
-  *   판매 데이터를 볼 수 있도록 차트 및 대시보드 구성 
+
+  *   기본 제공 Dynamics 365 도구를 사용하여 판매 데이터 분석
+
+
+  *   판매 데이터를 보기 위해 차트 및 대시보드 구성
+
 
   *   Power BI 및 Power BI 템플릿 앱을 사용하여 데이터 분석
 
 
-  ### 모듈 6: Dynamics 365 Sales Insights로 작업
 
-  이 모듈에서는, Dynamics 365 Sales Insights의 무료 및 프리미엄 기능과, 이를 사용하여 영업 사원이 고객과 더 긴밀한 관계를 형성하고 더 빨리 판매를 마감할 수 있는 방법에 대해서 배우게 됩니다.
-
-  #### 레슨
-
-  *   Sales Insights 구성
+  ### <a name="module-6-work-with-dynamics-365-sales-insights"></a>모듈 6: Dynamics 365 Sales Insights 사용
 
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
+  이 모듈에서는 Dynamics 365 Sales Insights의 무료 및 프리미엄 기능과 판매 팀이 고객과 더 긴밀한 관계를 형성하고 판매를 더 빠르게 성사시키는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   영업 인사이트 구성
+
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
 
   *   Sales Insights 설정 및 구성
 
-  *   보조 스튜디오와 작업
 
-  *   생산성 인텔리전스 구성 
+  *   도우미 스튜디오 사용
 
-  *   연결 인싸이트 구성
+
+  *   생산성 인텔리전스 구성
+
+
+  *   연결 인사이트 구성
+
 
   *   예측 모델 구성
 
-  ### 모듈 7: Dynamics 365 Customer Voice로 설문 조사 만들기
-
-  이 모듈에서, 학생들은 고객 감정을 수집하고 분석하기 위한 강력한 도구인, Dynamics 365 Customer Voice에 대해서 알아봅니다.  
-
-  #### 레슨
-
-  *   Dynamics 365 Customer Voice로 설문 조사 프로젝트 만들기
-
-  *   Dynamics 365 Customer Voice로 설문 조사 만들기
-
-  *   Dynamics 365 Customer Voice 설문 조사 발송
 
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+  ### <a name="module-7-create-surveys-with-dynamics-365-customer-voice"></a>모듈 7: Dynamics 365 Customer Voice를 사용하여 설문 조사 만들기
 
-  *   설문 조사를 구성하고 만들기 위한 설문 조사 프로젝트 설정 
 
-  *   변수 및 엔터티로 설문 조사 만들기
+  이 모듈에서 학생은 고객 감정을 수집하고 분석하는 강력한 도구인 Dynamics 365 Customer Voice에 대해 알아봅니다.
 
-  *   다수의 양식을 사용하여 Dynamics 365 Customer Voice 설문 조사 발송
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Dynamics 365 Customer Voice를 사용하여 설문 조사 프로젝트 만들기
+
+
+  *   Dynamics 365 Customer Voice를 사용하여 설문 조사 만들기
+
+
+  *   Dynamics 365 Customer Voice 설문 조사 보내기
+
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   설문 조사를 구성하고 만들기 위한 설문 조사 프로젝트 설정
+
+
+  *   변수 및 엔터티를 사용하여 설문 조사 만들기
+
+
+  *   여러 형식을 사용하여 Dynamics 365 Customer Voice 설문 조사 보내기&nbsp;

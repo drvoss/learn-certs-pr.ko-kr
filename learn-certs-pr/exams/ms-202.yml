@@ -3,47 +3,76 @@ title: Microsoft 365 Messaging Administrator Certification Transition
 metadata:
   title: '시험 MS-202: Microsoft 365 Messaging Administrator Certification Transition'
   description: '시험 MS-202: Microsoft 365 Messaging Administrator Certification Transition'
+  ms.openlocfilehash: a82a2652f9d7f8cfd4e3b15d06d498bef8a8f070
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105696"
 uid: exam.ms-202
 displayName: MS-202
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 9월 30일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/> <br/> </div>\n  \n본 시험은 [시험 70-345](https://www.microsoft.com/learning/exam-70-345.aspx)&#58; Microsoft Exchange Server 2016 설계 및 배포에 응시한 응시자들만 응시할 수 있습니다. 시험 345에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.\n\n이 시험은 온-프레미스 및 cloud 엔터프라이즈 환경에서 메일 , 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.\n\n메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.\n\n메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.\n\n 메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다."
-subTitle: 본 시험은 시험 70-345에 응시한 응시자만을 대상으로 합니다. Microsoft Exchange Server 2016 설계 및 배포. 시험 345에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+summary: >-
+  <div>
+
+  <div><strong>이 시험은 2019년 9월 30일에 폐지되었습니다. 참고: 시험은 중부 표준시 기준 오후 11시 59분에 폐지됩니다.</strong><br/></div>
+
+  </div>
+
+
+  이 시험은 [시험 70-345](https://www.microsoft.com/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016에 응시한 응시자만을 대상으로 합니다. 시험 345에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+
+
+  본 시험은 온-프레미스 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터하는 메시징 관리자를 대상으로 합니다.
+
+
+  메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.
+
+
+  메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 현대 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.
+
+
+  메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
+subTitle: '이 시험은 시험 70-345: Designing and Deploying Microsoft Exchange Server 2016에 응시한 응시자만을 대상으로 합니다. 시험 345에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
-- 최신 메시징 인프라 관리 (20-25%)
-- 메일 흐름 토폴로지 관리 (5-10%)
-- 수신자 및 장치 관리 (10-15%)
-- 하이브리드 및 마이그레이션 계획 및 구현 (20-25%)
-- 메시징 환경 보안 (35-40%)
+- Manage modern messaging infrastructure (20-25%)
+- Manage mail flow topology (5-10%)
+- Manage recipients and devices (10-15%)
+- Plan and implement a hybrid configuration and migration (20-25%)
+- Secure the messaging environment (35-40%)
+retirementDate: 09/30/2019
 roles:
 - administrator
+products:
+- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
-products:
-- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 하는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

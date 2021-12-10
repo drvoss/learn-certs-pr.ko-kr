@@ -3,22 +3,30 @@ title: 'MCSA: BI Reporting'
 metadata:
   title: 'MCSA: BI Reporting'
   description: 'MCSA: BI Reporting'
+  ms.openlocfilehash: 42be0797be73226eca8f4da62990dc5d6ede0ba4
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132113019"
 uid: certification.mcsa-bi-reporting
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증은 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하십시오. 종료날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>성적표에 계속 표시됩니다.</strong></font><br/><br/></div> 
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  <div><font color='red'><strong>이 인증은 폐지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하세요. 폐지 날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong></font><br/><br/></div>
+
 
   이 인증은 Power BI 및 Excel로 데이터를 분석할 수 있는 귀하의 전문성을 증명합니다.
 subTitle: 이 인증은 Power BI 및 Excel로 데이터를 분석할 수 있는 귀하의 전문성을 증명합니다.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- Power BI Desktop을 사용한 데이터 소비 및 변환 
-- 데이터 모델링 및 시각화
-- Power BI 서비스에서 대시보드, 보고서 및 앱 구성 
-- Microsoft Excel을 사용한 데이터 소비 및 변환 
-- 데이터 모델링
-- 데이터 시각화 
+- Consuming and Transforming Data By Using Power BI Desktop
+- Modeling and Visualizing Data
+- Configure Dashboards, Reports and Apps in the Power BI Service
+- Consume and Transform Data by Using Microsoft Excel
+- Model Data
+- Visualize Data
 roles:
 - data-analyst
 type: mcsa
@@ -33,21 +41,20 @@ exams:
 - uid: exam.70-779
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

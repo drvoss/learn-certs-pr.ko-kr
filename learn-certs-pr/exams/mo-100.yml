@@ -3,11 +3,16 @@ title: Microsoft Word (Word and Word 2019)
 metadata:
   title: 'MO-100: Microsoft Word (Word and Word 2019)'
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
+  ms.openlocfilehash: 3cff8a6c3560dcba1320ed17919e5e441c7bf554
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105741"
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  이 시험은 전문가 수준의 보고서, 여러 열로 된 뉴스 레터, 이력서 및 비즈니스 서신을 작성하고 유지하는 능력을 다룹니다. 응시자는 Word의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
-subTitle: 이 시험은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 측정합니다. 시험은 전문적으로 보이는 보고서, 다단 뉴스레터, 이력서, 그리고 사업상의 서신들을 만들고 유지하는 능력을 다룹니다.
+summary: 이 시험은 전문가 수준의 보고서, 여러 열로 된 뉴스 레터, 이력서 및 비즈니스 서신을 작성하고 유지하는 능력을 다룹니다. 응시자는 Word의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
+subTitle: 이 시험은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 측정 합니다. 그 시험은 전문적으로 보이는 보고서, 다단기 뉴스레터, 이력서, 그리고 사업상의 서신들을 만들고 유지하는 능력을 다룹니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
 providers:
@@ -34,12 +39,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 문서 관리 (20-25%)
-- 텍스트, 단락 및 구역 삽입 및 서식 지정 (20-25%)
-- 표 및 목록 관리 (15-20%)
-- 참조 만들기 및 관리 (5-10%)
-- 그래픽 요소 삽입 및 설정 (15-20%)
-- 문서 협업 관리 (5-10%)
+- Manage documents (20-25%)
+- Insert and format text, paragraphs, and sections (20-25%)
+- Manage tables and lists (15-20%)
+- Create and manage references (5-10%)
+- Insert and format graphic elements (15-20%)
+- Manage document collaboration (5-10%)
 roles:
 - business-user
 products:
@@ -51,14 +56,13 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

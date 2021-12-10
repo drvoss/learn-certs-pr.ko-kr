@@ -1,28 +1,36 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect'
+title: Microsoft Power Platform Solution Architect
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  title: '시험 PL-600: Microsoft Power Platform Solution Architect'
+  description: '시험 PL-600: Microsoft Power Platform Solution Architect'
+  ms.openlocfilehash: 75896c3cf88efdb735a2fa10cb258faabf5bd615
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105653"
 uid: exam.pl-600
 displayName: PL-600
-summary: |-
-  Microsoft Power Platform 솔루션 설계자들은 성공적인 구현을 이끌고 솔루션이 조직의 광범위한 비즈니스와 기술 요구를 해결하는 방법에 중점을 둡니다.
-  
-  솔루션 설계자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft cloud 솔루션 및 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여 전반에 걸쳐 지식과 경험을 적용합니다. 솔루션 설계자는 고객의 투자 가치를 높이고 조직 건강을 촉진하기 위해 사전 및 예방 작업을 수행합니다. 이 역할은 비즈니스 문제를 해결하기 위한 기회를 식별하는 능력을 필요로합니다.
-  
-  솔루션 설계자들은 Power Platform 의 기능 및 기술 분야 전반에 걸쳐 경험이 있습니다. 솔루션 설계자들은 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에 걸쳐 디자인 결정을 촉진할 수 있어야 합니다. 이 역할은 기능적 및 비기능적 요구사항을 만족시키면서 프로젝트의 비즈니스 요구 사항의 균형을 맞춥니다.
-subTitle: '이 시험은 다음의 기술 작업을 완수하는 능력을 측정합니다: 솔루션 구상 및 요구사항 분석 수행; 솔루션 설계; 그리고 솔루션을 구현합니다.'
+summary: >-
+  Microsoft Power Platform 솔루션 설계자는 성공적인 구현을 이끌고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구 사항을 해결하는 방법에 집중합니다.
+
+
+  솔루션 설계자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft 클라우드 솔루션, 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 설계자는 고객의 투자 가치를 높이고 조직 상태의 수준을 올리기 위해 사전 예방적 작업을 수행합니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
+
+
+  솔루션 설계자는 Power Platform의 기능 및 기술 분야에 대한 경험이 있습니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 사용 가능성, 스토리지, 변경 관리 전반에 걸쳐 디자인 결정을 지원할 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
+subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- 솔루션 구상 및 요구사항 분석 수행 (35-40%)
-- 솔루션 설계 (40-45%)
-- 솔루션 구현 (15-20%)
+- Perform solution envisioning and requirement analyses (35-40%)
+- Architect a solution (40-45%)
+- Implement the solution (15-20%)
 roles:
 - developer
 - functional-consultant
@@ -61,7 +69,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -70,9 +78,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

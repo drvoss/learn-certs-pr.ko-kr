@@ -1,32 +1,41 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure AI Fundamentals'
+title: Microsoft Azure AI Fundamentals
 metadata:
-  title: 'Exam AI-900: Microsoft Azure AI Fundamentals'
-  description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
+  title: '시험 AI-900: Microsoft Azure AI Fundamentals'
+  description: '시험 AI-900: Microsoft Azure AI Fundamentals'
+  ms.openlocfilehash: e8c853ce58fc23411b028d48dfe6c84ce65a1838
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105957"
 uid: exam.ai-900
 displayName: AI-900
-summary: |-
-  <div>
-  <div><font color='red'><strong>이 시험의 내용은 2021년 4월 23일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div></div>
-  
+summary: >-
+  <div><font color='red'><strong>이 시험의 내용은 2021년 4월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
   본 시험의 응시자는 Machine Learning(ML) 및 인공지능(AI) 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식이 있어야 합니다.
-  
+
+
   본 시험은 일반적인 ML 및 AI 워크로드에 대한 지식과 Azure에서 이들을 구현하는 방법을 증명할 수 있는 기회입니다.
-  
+
+
   본 시험은 기술적 배경이 있거나 없는 모든 응시자를 대상으로 합니다. 데이터 과학 및 소프트웨어 엔지니어링 경험은 필요하지 않지만 일반적인 프로그래밍 지식이나 경험은 이점이 될 것입니다.
-  
-  Azure AI Fundamentals는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다.
-subTitle: '다음을 설명할 수 있음을 증명합니다. AI 워크로드 및 고려 사항, Azure에서 Machine Learning의 기본 원리, Azure에서 Computer Vision 워크로드 기능, Azure에서 자연어 처리(NLP) 워크로드 기능, Azure에서 대화형 AI 워크로드 기능.'
+
+
+  Azure AI Fundamentials는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다.
+subTitle: Azure 기계 학습의 기본 원칙, Azure의 컴퓨터 비전 워크로드 기능, Azure의 NLP(자연어 처리) 워크로드 기능, Azure의 대화형 AI 워크로드 기능에 대해 설명할 수 있음을 보여 주세요.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
 practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -44,17 +53,17 @@ locales:
 levels:
 - beginner
 skills:
-- 이 시험의 내용은 2021년 4월 23일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오. 
-- AI 워크로드 및 고려사항 설명 (15-20%)
-- Azure에서 머신 러닝의 기본 원리 설명 (30-35%)
-- Azure에서 Computer Vision 워크로드의 특징 설명 (15-20%)
-- Azure에서 NLP(자연 언어 처리) 워크로드의 특징 설명 (15-20%)
-- Azure에서 대화형 AI 워크로드의 특징 설명 (15-20%)
+- The content of this exam was updated on April 23, 2021. Please download the exam skills outline below to see what changed.
+- Describe AI workloads and considerations (15-20%)
+- Describe fundamental principles of machine learning on Azure (30-35%)
+- Describe features of computer vision workloads on Azure (15-20%)
+- Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
+- Describe features of conversational AI workloads on Azure (15-20%)
 roles:
 - ai-engineer
-- data-scientist
 - developer
-- solution-architect
+- data-scientist
+- student
 products:
 - azure
 - azure-bot-service
@@ -92,7 +101,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -101,10 +110,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

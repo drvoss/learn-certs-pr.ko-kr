@@ -3,32 +3,47 @@ title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
   description: Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
+  ms.openlocfilehash: 50567f544a3415967facb31b5b5daf9d5815ef09
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111901"
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Power Platform 솔루션 설계, 개발, 보안 및 확장에 대한 열정이 있다면, 이 인증이 적합할 수 있습니다. 이 인증을 받기위해서는, 애플리케이션 향상, 맞춤형 사용자 경험, 시스템 통합, 데이터 변환, 맞춤형 프로세스 자동화 및 맞춤형 시각화를 포함한 솔루션 구성 요소를 반드시 생성할 수 있어야 합니다. Microsoft Power Platform 서비스에 대한 강력한 응용 지식과 Microsoft Power Platform의 DevOps 실행에 대한 기본 이해가 필요합니다. 추가로, 배경에는 JavaScript, JSON, TypeScript, C#, HTML, .NET, Azure, Microsoft 365, RESTful 웹 서비스, ASP.NET, 및 Power BI를 사용한 개발 경험이 포함 되어야합니다.
-  
-  이 인증에 대한 응시자들은 보통 앱 제작자, 기능 컨설턴트, 솔루션 아키텍트 및 IT 관리자들과 함께 작업합니다. 다음과 같은 다양한 책무가 있습니다&#58;
-  - 기술 설계 및 Power Apps 만들기.
-  - Dataverse, Power Apps, 및 business process automation 구성하기.
-  - 플랫폼과 사용자 경험 확장하기.
-  - 통합 개발하기.
-  
-  더 자세한 내용을 알아보려면, 블로그 게시물&#58; [새로운 인증&#58; Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335)을 확인하십시오. 이 인증을 시도하기 전에 더 많은 경험이 필요하다면, 다음을 할 수 있습니다&#58;
-  - 실습 경험을 얻기 위해 Microsoft Power Platform 개발 프로젝트에 자원합니다.
-  - Microsoft Learn의 학습 경로를 선택합니다.
-  - 강사-주도 교육 과정에 등록합니다.
+summary: >-
+  Microsoft Power Platform 솔루션을 디자인, 개발, 보안, 확장하는 데 열정이 있다면 이 인증이 적합할 수 있습니다. 이 인증을 취득하려면 애플리케이션 향상, 맞춤형 사용자 경험, 시스템 통합, 데이터 변환, 맞춤형 프로세스 자동화, 맞춤형 시각화를 포함한 솔루션 구성 요소를 생성할 수 있어야 합니다. Microsoft Power Platform 서비스에 대한 강력한 응용 지식과 Microsoft Power Platform에 대한 DevOps 사례에 대한 기본 이해가 필요합니다. 또한 배경에는 JavaScript, JSON, TypeScript, C#, HTML, .NET, Azure, Microsoft 365, RESTful 웹 서비스, ASP.NET, Power BI를 사용한 개발 경험이 포함되어야 합니다.
+
+
+  이 인증의 응시자는 일반적으로 앱 제조업체, 기능 컨설턴트, 솔루션 설계자, IT 관리자와 협업합니다. 다양한 책임이 있습니다.
+
+  - 기술 디자인 및 Power Apps 만들기.
+
+  - Dataverse, Power Apps 및 비즈니스 프로세스 자동화 구성.
+
+  - 플랫폼 및 사용자 환경 확장.
+
+  - 통합 개발.
+
+
+  자세한 내용은 블로그 게시물: [운 인증: Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335)를 확인하세요. 이 인증에 응시하기 전에 더 많은 경험이 필요한 경우 다음을 할 수 있습니다.
+
+  - Microsoft Power Platform 개발 프로젝트에 자원하여 실습 경험을 얻습니다.
+
+  - Microsoft Learn의 학습 경로를 활용합니다.
+
+  - 강사 진행 교육 과정에 등록합니다.
 subTitle: Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
 levels:
 - intermediate
 skills:
-- 기술 디자인 작성
-- Microsoft Dataverse 구성
-- Power Apps 작성 및 배포
-- 비즈니스 프로세스 자동화 구성
-- 사용자 경험 확장
-- 플랫홈 확장
-- 통합 개발
+- Create a technical design
+- Configure Microsoft Dataverse
+- Create and configure Power Apps
+- Configure business process automation
+- Extend the user experience
+- Extend the platform
+- Develop integrations
 roles:
 - developer
 type: role-based
@@ -61,7 +76,7 @@ resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
@@ -71,6 +86,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

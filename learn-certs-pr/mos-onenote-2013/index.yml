@@ -3,18 +3,23 @@ title: 'Microsoft Office Specialist: OneNote 2013'
 metadata:
   title: 'Microsoft Office Specialist: OneNote 2013'
   description: 'Microsoft Office Specialist: OneNote 2013'
+  ms.openlocfilehash: 4becfbe5a56303890ad5d3d06da9b073d4bf3e7e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111451"
 uid: certification.mos-onenote-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  본 인증을 통해 Microsoft OneNote 2013 환경을 기본적으로 이해하고 작업을 독립적으로 수행할 수 있는 능력이 있음을 입증합니다. 응시자는 OneNote 2013의 주요 기능의 정확한 적용 방법을 알고 이를 입증할 수 있어야 합니다.
-subTitle: 본 인증을 통해 Microsoft OneNote 2013 환경을 기본적으로 이해하고 작업을 독립적으로 수행할 수 있는 능력이 있음을 입증합니다. 응시자는 OneNote 2013의 주요 기능의 정확한 적용 방법을 알고 이를 입증할 수 있어야 합니다.
+summary: 이 인증은 Microsoft OneNote 2013 환경에 대해 기본적으로 이해하고 있으며 작업을 독립적으로 완료할 능력이 있음을 보여 줍니다. 응시자는 OneNote 2013의 주요 기능을 정확히 알고 적용할 수 있어야 합니다.
+subTitle: 이 인증은 Microsoft OneNote 2013 환경에 대해 기본적으로 이해하고 있으며 작업을 독립적으로 완료할 능력이 있음을 보여 줍니다. 응시자는 OneNote 2013의 주요 기능을 정확히 알고 적용할 수 있어야 합니다.
 levels:
 - intermediate
 skills:
-- OneNote 환경 관리
-- 다른 사용자와 공유 및 공동 작업
-- 메모 정리 및 찾기
-- OneNote에서 컨텐츠 편집 및 연결
+- Manage the OneNote environment
+- Share and collaborate with other users
+- Organize and find notes
+- Edit and link content in OneNote
 roles:
 - business-user
 type: mos
@@ -27,8 +32,8 @@ exams:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 시험 재응시
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -38,6 +43,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

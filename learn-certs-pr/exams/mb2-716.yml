@@ -1,15 +1,25 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Customization and Configuration
 metadata:
-  title: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
-  description: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  title: '시험 MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  description: '시험 MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  ms.openlocfilehash: 17eaec2be4bc1bd530b162fb2bd6b2f9a766daa5
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105768"
 uid: exam.mb2-716
 displayName: MB2-716
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
-  <div><strong>본 시험 내용은 2020년 2년 4월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong></div><br/>
+
+  <div><strong>이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 찾아보기 페이지</a>를 참조하세요.<br/><br/></strong></div>
+
+  <div><strong>이 시험의 내용은 2020년 2월 4일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></div><br/>
+
   </div>
+
 
   본 시험은 Microsoft Dynamics 365 Customization and Configuration에 대한 인증을 획득하려는 사람에게 추천하는 시험입니다. 본 대상 그룹에는 개발자, 구현 컨설턴트, 기술 지원자 및 시스템 관리자 등이 포함됩니다. 이들은 고객의 비즈니스 요구와 설치 사항을 평가하고 애플리케이션을 구성, 배치 및 사용자 지정합니다.
 subTitle: 본 시험은 Microsoft Dynamics 365 Customization and Configuration에 대한 인증을 획득하려는 사람에게 추천하는 시험입니다. 본 대상 그룹에는 개발자, 구현 컨설턴트, 기술 지원자 및 시스템 관리자 등이 포함됩니다. 이들은 고객의 비즈니스 요구와 설치 사항을 평가하고 애플리케이션을 구성, 배치 및 사용자 지정합니다.
@@ -21,10 +31,10 @@ locales:
 levels:
 - beginner
 skills:
-- Microsoft Dynamics 365 구성 (20-25%)
-- Microsoft Dynamics 365 엔터티, 엔터티 관계 및 필드 구현 (20-25%)
-- Microsoft Dynamics 365 솔루션, 양식, 뷰 및 시각화 만들기 (25%-30%)
-- 비즈니스 규칙, 워크플로 및 비즈니스 프로세스 흐름 구현 (20-25%)
+- Configure Microsoft Dynamics 365 (20-25%)
+- Implement Microsoft Dynamics 365 entities, entity relationships, and fields (20-25%)
+- Create and manage Microsoft Dynamics 365 solutions, forms, views, and visualizations (25-30%)
+- Implement business rules, workflows, and business process flows (20-25%)
 retirementDate: 01/31/2021
 roles:
 - business-analyst
@@ -38,12 +48,11 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

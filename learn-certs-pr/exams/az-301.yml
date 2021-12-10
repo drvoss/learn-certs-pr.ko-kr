@@ -1,22 +1,35 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: 'Exam AZ-301: Microsoft Azure Architect Design'
-  description: 'Exam AZ-301: Microsoft Azure Architect Design'
+  title: '시험 AZ-301: Microsoft Azure Architect Design'
+  description: '시험 AZ-301: Microsoft Azure Architect Design'
+  ms.openlocfilehash: 6f981a9ef30219ac86d189b198f56479cdb3513b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105888"
 uid: exam.az-301
 displayName: AZ-301
-summary: |-
-  <div><div><strong>이 시험은 만료되었습니다. 대체 시험인 AZ-304이 가능합니다. 자세한 내용은 <a href="/learn/certifications/exams/az-304">AZ-304 시험 세부 정보 페이지</a>을 참조하세요.</strong><br/><br/></div>
+summary: >-
+  <div>
+
+  <div><strong>이 시험은 폐지되었습니다. 대체 시험인 AZ-304에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/az-304">AZ-304 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
+
   </div>
+
 
   본 시험의 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 전문 실무 지식을 갖추고 있어야 합니다.
 
+
   Azure Solution 설계자는 이해 관계자에게 조언하고 비즈니스 요구사항을 안전하고 확장 가능하며 신뢰할 수 있는 클라우드 솔루션으로 변환하는 업무를 담당합니다.
+
 
   Azure Solution 설계자는 클라우드 관리자, 클라우드 DBA 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
 
+
   본 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 관리, 예산 책정 및 거버넌스 등 IT 운영의 다양한 측면에 대한 고급 경험과 지식을 갖추어야 하며 각 분야에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 해당 역할은 관리, 개발 또는 DevOps를 포함하는 Azure 지식 영역 중 하나 이상에 능숙해야 합니다.
-subTitle: '이 시험은 워크로드 요구 사항 결정, ID 및 보안 설계, 데이터 플랫폼 솔루션 설계, 비즈니스 연속성 전략 수립, 배포, 마이그레이션 및 통합을 위한 설계, 인프라 전략 설계와 같은 기술적 과제를 수행하는 능력을 측정합니다.'
+subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 워크로드 요구 사항 결정, ID 및 보안 설계, 데이터 플랫폼 솔루션 설계, 비즈니스 연속성 전략 수립, 배포, 마이그레이션 및 통합을 위한 설계, 인프라 전략 설계.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,12 +40,12 @@ locales:
 levels:
 - advanced
 skills:
-- 워크로드 요구 사항 결정 (10-15%)
-- ID 및 보안을 위한 설계 (20-25%)
-- 데이터 플랫폼 솔루션 설계 (15-20%)
-- 비즈니스 연속성 전략 설계 (15-20%)
-- 배포, 마이그레이션 및 통합 설계 (10-15%)
-- 인프라 전략 설계 (15-20%)
+- Determine workload requirements (10-15%)
+- Design for identity and security (20-25%)
+- Design a data platform solution (15-20%)
+- Design a business continuity strategy (15-20%)
+- Design for deployment, migration, and integration (10-15%)
+- Design an infrastructure strategy (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -76,11 +89,11 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 시험 재응시
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -89,10 +102,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

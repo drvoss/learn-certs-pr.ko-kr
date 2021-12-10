@@ -1,28 +1,37 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Developer Associate (레거시)'
+title: 'Microsoft Certified: Azure Developer Associate (Legacy)'
 metadata:
-  title: 'Microsoft Certified: Azure Developer Associate (레거시)'
-  description: 'Azure 개발자는 클라우드 솔루션 및 서비스를 설계, 구성, 테스트 및 유지 관리합니다.'
+  title: 'Microsoft Certified: Azure Developer Associate (Legacy)'
+  description: Azure 개발자는 클라우드 솔루션 및 서비스를 설계, 구성, 테스트 및 유지 관리합니다.
+  ms.openlocfilehash: c02a1de4e424831cde8234f7213aa0668a5c4bc5
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132110977"
 uid: certification.azure-developer-erlr
-certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.<br/><br/></strong></font></div>
-  
-  Azure Developer Associate 인증의 응시자들은 Microsoft Azure에서 cloud 애플리케이션 및 서비스를 디자인하고, 구축하고, 테스트하고, 유지 관리하는데 있어 주제별 전문지식을 가지고있어야합니다.  
-  
-  이 역할의 책임은 요구사항, 정의 및 디자인에서; 개발, 배포 및 유지 관리까지; 성능 튜닝 및 모니터링 까지, cloud 개발의 모든 단계에 참여하는 것이 포함됩니다. 
-  
-  Azure 개발자들은 솔루션을 구현하기 위해 cloud 솔루션 아키텍트, cloud DBAs, cloud 관리자 및 고객들과 협력합니다.
-  
-  이 인증의 응시자는 1-2 년의 전문적인 개발 경험과 Microsoft Azure에 대한 경험이 있어야합니다. 또한 이 역할의 후보자는 Azure 에 의해 지원되는 언어로 프로그래밍 할 수 있어야 하고, Azure SDKs, Azure PowerShell, Azure CLI, 데이터 저장소 옵션, 데이터 연결, APIs, 앱 인증 및 권한 부여, 컴퓨팅 및 컨테이너 배포, 디버깅, 성능 튜닝 및 모니터링에 능숙해야합니다. 
+summary: >-
+  <div><font color="#D83B01"><strong>해당 버전의 인증은 더 이상 사용할 수 없습니다. 해당 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 귀하의 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 기록 섹션으로 이동합니다.<br/><br/></strong></font></div>
+
+
+  Azure Developer Associate 인증의 응시자는 Microsoft Azure에서 클라우드 애플리케이션 및 서비스를 디자인, 빌드, 테스트, 유지 관리하는 실무 전문 지식을 갖추고 있어야 합니다.
+
+
+  이 역할의 책임에는 요구 사항, 정의, 디자인에서 개발, 배포, 유지 관리와 성능 조정 및 모니터링에 이르기까지 클라우드 개발의 모든 단계에 대한 참여가 포함됩니다.
+
+
+  Azure 개발자는 클라우드 솔루션 설계자, 클라우드 DBA, 클라우드 관리자 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
+
+
+  본 인증의 응시자는 Microsoft Azure에서 1-2년간의 전문적인 개발 경험과 경험을 가지고 있어야 합니다. 또한 이 역할의 응시자는 Azure에서 지원하는 언어로 프로그래밍할 수 있는 능력이 있고 Azure SDK, Azure PowerShell, Azure CLI, 데이터 스토리지 옵션, 데이터 연결, API, 앱 인증 및 권한 부여, 컴퓨팅 및 컨테이너 배포, 디버깅, 성능 조정, 모니터링에 능숙해야 합니다.
 subTitle: Azure 개발자는 클라우드 솔루션 및 서비스를 설계, 구성, 테스트 및 유지 관리합니다.
 hidden: true
 hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- 없음
+- None
 roles:
 - developer
 type: role-based
@@ -60,7 +69,7 @@ resources:
   description: Azure Developer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -72,9 +81,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: badges.md
-

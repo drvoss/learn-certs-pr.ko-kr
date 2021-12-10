@@ -1,24 +1,33 @@
 ### YamlMime:Examination
 title: Implementing an Azure Data Solution
 metadata:
-  title: 'Exam DP-200: Implementing an Azure Data Solution'
-  description: 'Exam DP-200: Implementing an Azure Data Solution'
+  title: '시험 DP-200: Implementing an Azure Data Solution'
+  description: '시험 DP-200: Implementing an Azure Data Solution'
+  ms.openlocfilehash: b9ad8cacd62dfef84f96484b1fa1c140fbbc7fc9
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105864"
 uid: exam.dp-200
 displayName: DP-200
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험은 2021년 9월 31일 중단됩니다. 대체 시험, DP-203,이 가능합니다. 더 자세한 정보는<a href='/learn/certifications/exams/dp-203'>DP-203</a>, 시험 상세 페이지를 방문하십시오.</strong></font><br/><br/></div>
 
-  <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
+  <div><font color='red'><strong>이 시험은 2021년 8월 31일에 폐지되었습니다. 대체 시험인 DP-203에 응시할 수 있습니다. 자세한 내용은 <a href='/learn/certifications/exams/dp-203'>DP-203</a> 시험 세부 정보 페이지를 참조하세요.</strong></font><br/><br/></div>
+
+  <div><strong>이 시험의 내용은 2020년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong><br/><br/></div>
+
   </div>
-  
+
+
   본 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 구현하기 위해 필요한 데이터 요구사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
-  
+
+
   Azure 데이터 엔지니어는 데이터 저장소 서비스 프로비저닝, 스트리밍 및 일괄 작업 데이터 수집, 데이터 변환, 보안 요구 사항 구현, 데이터 보존 정책 구현, 성능 병목 현상 확인, 외부 데이터 소스 액세스 등의 데이터 관련 구현 과제들을 담당합니다.
-  
-  본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 구현할 수 있어야 합니다&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (이전의 Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소.
-  
-  이 시험의 응시자들은 다음 Azure 서비스 사용하는 데이터 솔루션 구현을 할 수 있어야 합니다&#58; Azure Cosmos DB, Azure Synapse Analytics (이전의 Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks, 그리고 Azure Blob storage.
+
+
+  이 시험의 응시자는 Azure Cosmos DB, Azure Synapse Analytics(이전의 Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks, Azure Blob Storage와 같은 Azure 서비스를 사용하는 데이터 솔루션을 구현할 수 있어야 합니다.
 subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: 데이터 저장소 솔루션 구현; 데이터 처리 관리 및 개발, 데이터 솔루션 모니터링 및 최적화.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
@@ -31,10 +40,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
-- 데이터 저장소 솔루션 구현 (40-45%)
-- 데이터 처리 관리 및 개발 (25-30%)
-- 데이터 솔루션 모니터링 및 최적화 (30-35%)
+- The content of this exam was updated on November 24, 2020. Please download the exam skills outline below to see what changed.
+- Implement data storage solutions (40-45%)
+- Manage and develop data processing (25-30%)
+- Monitor and optimize data solutions (30-35%)
 retirementDate: 08/31/2021
 roles:
 - data-engineer
@@ -53,7 +62,7 @@ exams:
 - uid: exam.dp-201
 resources:
 - title: 인증으로의 여정
-  description: Azure Data Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  description: 인증 과정
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -61,7 +70,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -70,10 +79,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

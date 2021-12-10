@@ -3,48 +3,57 @@ title: Microsoft 365 Teamwork Administrator Certification Transition
 metadata:
   title: '시험 MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
   description: '시험 MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
+  ms.openlocfilehash: d6f1fc0a3cfd75f239778c41909c5ddc1cfc0c12
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105685"
 uid: exam.ms-302
 displayName: MS-302
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 9월 30일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>\n   \n본 시험은 [시험 70-339](https://www.microsoft.com/learning/exam-70-339.aspx)&#58; Microsoft SharePoint Server 2016 관리에 응시한 응시자들만 응시할 수 있습니다. 시험 339에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.\n\n본 시험은 효율적이고 효과적인 협업 및 활용에 초점을 맞춘 Office 365 및 Azure 워크로드의 구성, 배포 및 관리를 담당하는 Teamwork Administrator를 대상으로 실시됩니다. Teamwork Administrator는 비즈니스 요구 사항을 충족시키기 위해 앱, 서비스 및 지원 인프라를 관리합니다. Teamwork Administrator는 SharePoint (Online, 온-프레미스, 하이브리드), OneDrive 및 Teams의 배포, 관리, 마이그레이션 및 보안에 관한 능력이 있어야 합니다.\n\nTeamwork Administrator는 거버넌스 관련 결정을 내리고 다른 관리자와 협력하여 거버넌스 기관의 여러 가지 결정을 이행합니다. Teamwork Administrator는 Messaging Administrator와 협력하여 이메일 작업과 관련된 옵션 및 보안, 조직의 음성 관련 기능을 통합하는 Voice Administrator 및 Security Administrator를 구성하여 종단간 보안을 보장합니다.\n\n본 시험의 응시자는 다음과 같은 앱 및 서비스와의 통합 지점을 기본적으로 이해하고 있습니다&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 및 Project. 관리자는 기간 업무(LOB) 비즈니스 앱을 비롯한 타사 앱 및 서비스를 통합하는 방법을 알아야 합니다. 응시자는 SQL Server 관리 개념, Azure Active Directory, PowerShell, 네트워킹, Windows Server 관리, DNS (Domain Name System), Active Directory 모바일 장치 관리 및 대체 Operating Systems에 대해서도 이해해야 합니다."
-subTitle: 본 시험은 시험 70-339에 응시한 응시자만을 대상으로 합니다. Managing Microsoft SharePoint Server 2016. 시험 339에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+summary: "<div>\n<div><strong>이 시험은 2019년 9월 30일에 폐지되었습니다. 참고: 시험은 중부 표준시 기준 오후 11시 59분에 폐지됩니다.</strong><br/><br/></div>\n</div>\n    \n이 시험은 [시험 70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016에 응시한 응시자만을 대상으로 합니다. 시험 339에 응시하지 않은 응시자는 이 시험에 응시하더라도 인증을 취득할 수 없습니다.\n\n본 시험은 효율적이고 효과적인 협업 및 활용에 초점을 맞춘 Office 365 및 Azure 워크로드의 구성, 배포 및 관리를 담당하는 Teamwork Administrator를 대상으로 실시됩니다. Teamwork Administrator는 비즈니스 요구 사항을 충족시키기 위해 앱, 서비스 및 지원 인프라를 관리합니다. Teamwork Administrator는 SharePoint (Online, 온-프레미스, 하이브리드), OneDrive 및 Teams의 배포, 관리, 마이그레이션 및 보안에 관한 능력이 있어야 합니다.\n\nTeamwork Administrator는 거버넌스 관련 결정을 내리고 다른 관리자와 협력하여 거버넌스 기관의 여러 가지 결정을 이행합니다. Teamwork Administrator는 Messaging Administrator와 협력하여 이메일 작업과 관련된 옵션 및 보안, 조직의 음성 관련 기능을 통합하는 Voice Administrator 및 Security Administrator를 구성하여 종단간 보안을 보장합니다.\n\n본 시험의 응시자는 다음과 같은 앱 및 서비스와의 통합 지점을 기본적으로 이해하고 있습니다: Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 및 Project. 관리자는 기간 업무(LOB) 애플리케이션을 비롯한 타사 앱 및 서비스를 통합하는 방법을 알아야 합니다. 응시자는 SQL Server 관리 개념, Azure Active Directory, PowerShell, 네트워킹, Windows Server 관리, DNS (Domain Name System), Active Directory 모바일 장치 관리 및 대체 Operating Systems에 대해서도 이해해야 합니다."
+subTitle: '이 시험은 시험 70-339: Managing Microsoft SharePoint Server 2016에 응시한 응시자만을 대상으로 합니다. 시험 339에 응시하지 않은 응시자는 이 시험에 응시하더라도 인증을 취득할 수 없습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
-- SharePoint Online 구성 및 관리 (20-25%)
-- 비즈니스용 OneDrive 구성 및 관리 (20-25%)
-- Teams 구성 및 관리 (20-25%)
-- 워크로드 통합 구성 및 관리 (15-20%)
-- 하이브리드 시나리오 구성 및 관리 (5-10%)
-- SharePoint Online으로의 마이그레이션 (5-10%)
+- Configure and manage SharePoint Online (20-25%)
+- Configure and manage OneDrive for Business (20-25%)
+- Configure and manage Teams (20-25%)
+- Configure and manage workload integrations (15-20%)
+- Configure and manage hybrid scenarios (5-10%)
+- Migrate to SharePoint Online (5-10%)
+retirementDate: 09/30/2019
 roles:
 - administrator
+products:
+- m365
 exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
-products:
-- m365
 relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 하는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

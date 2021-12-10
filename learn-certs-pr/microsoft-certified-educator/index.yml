@@ -3,25 +3,34 @@ title: Microsoft Certified Educator
 metadata:
   title: Microsoft Certified Educator
   description: Microsoft Certified Educator
+  ms.openlocfilehash: 5219ef47ac1fbd9e202387192d45602fce01befe
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111319"
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
+summary: >-
   MCE(Microsoft Certified Educator) 인증은 교육자가 학생들에게 풍부한 맞춤 학습 경험을 제공하는 데 필요한 글로벌 교육자로서의 기술 지식 능력을 갖추고 있는지 검증합니다.
+
   MCE 인증은 수습 교육자, 사범대학 구성원, 현직 교육자에게 적합합니다.
+
 
   Microsoft는 교육자의 엄격한 시험 준비에 도움이 되는 포괄적인 e-learning 커리큘럼 21CLD를 제공합니다.
 
-  **참고** Microsoft Certified Educator 시험은 교사가 특정 기술 도구 사용에 능숙한지 여부와 무관하게 6가지의 콘텐츠 도메인에서 기술 도구를 적용하는 방법을 이해했는지 여부만을 평가합니다. 특정 Microsoft 상품 및 기술 교육에 관한 인증 획득에 관련된 정보는 [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) 페이지를 참조하시기 바랍니다.
+
+  **참고** Microsoft Certified Educator 시험은 교육자가 특정 기술 도구를 능숙하게 사용하는지 여부가 아니라 6가지의 서로 다른 콘텐츠 도메인에 기술 도구를 적용하는 방법을 이해하는지 여부를 평가합니다. 특정 Microsoft 제품 및 기술을 가르칠 수 있는 인증 취득에 대한 정보를 찾으려면 [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) 페이지를 방문하세요.
 subTitle: MCE(Microsoft Certified Educator) 인증은 교육자가 학생들에게 풍부한 맞춤 학습 경험을 제공하는 데 필요한 글로벌 교육자로서의 기술 지식 능력을 갖추고 있는지 검증합니다.
 levels:
 - advanced
 skills:
-- 학생 협업 능력 촉진
-- 능숙한 커뮤니케이션 촉진
-- 자체 규제 촉진
-- 실제 환경의 문제 해결 및 혁신 촉진
-- 학생의 ICT(정보 통신 도구) 사용 촉진
-- 유능한 교육자가 되기 위한 ICT 활용
+- Facilitate student collaboration
+- Facilitate skilled communication
+- Facilitate self-regulation
+- Facilitate real-world problem solving and innovation
+- Facilitate student use of Information and Communication Tools (ICT)
+- Use ICT to be an effective educator
 roles:
 - developer
 type: mce
@@ -31,13 +40,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHl
 exams:
 - uid: exam.62-193
 resources:
-- title: Microsoft 교육자 센터
-  description: 교육자를 위한 교육, 프로그램 및 자원
-  href: https://education.microsoft.com/ko-kr
+- title: Microsoft Educator Center
+  description: 교육자를 위한 교육, 프로그램, 리소스
+  href: https://education.microsoft.com/en-us
 - title: 학습 안내서
   description: 시험 준비용 자료 검색
   href: https://aka.ms/MCEStudyGuide
 - title: Exam Replay
   description: Teach the Future Now 캠페인용 디지털 키트(포스터, 데이터 시트 및 MCE 시험 범위)
   href: https://aka.ms/MCEAssets
-

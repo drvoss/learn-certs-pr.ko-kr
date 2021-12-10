@@ -1,8 +1,8 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 인증: Teams 지원 엔지니어 연결'
+title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
 metadata:
-  title: 'Microsoft 365 인증: Teams 지원 엔지니어 연결'
-  description: 이 시험의 후보는 Microsoft Teams 환경을 지원하고, 배포 문제를 해결하고, 성능을 조정하고, 원격 분석 및 로그 데이터를 수집 및 분석하고, Teams 환경을 관리하는 지원 엔지니어입니다.
+  title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
+  description: 이 시험의 응시자들은 Microsoft Teams 환경을 지원하고, 배포를 문제 해결하고, 성능을 조정하고, 원격 측정 및 로그 데이터를 수집하고 분석하고, Teams 환경을 관리하는 지원 엔지니어들 입니다.
   ms.openlocfilehash: de67cdeb2155ff3d3ec72ad7c429cfdc6e330368
   ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
   ms.translationtype: HT
@@ -12,11 +12,11 @@ metadata:
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  이 인증 후보는 Microsoft Teams 환경을 지원하고, 배포 문제를 해결하고, 성능을 조정하고, 원격 분석 및 로그 데이터를 수집 및 분석하고, Teams 환경을 관리하는 지원 엔지니어입니다.
+  이 인증의 응시자들은 Microsoft Teams 환경을 지원하고, 배포를 문제 해결하고, 성능을 조정하고, 원격 측정 및 로그 데이터를 수집 및 분석하고, Teams 환경을 관리하는 지원 엔지니어들입니다.
 
 
-  후보는 Microsoft Teams 대한 상당한 노출 통합 통신 및 실습 경험을 갖추어야 합니다. 또한 후보에게 Azure 기본 사항, 전화 통신, PowerShell, 데이터 스토리지 기술, API, 앱 보안, 인증 및 권한 부여, 보안 및 규정 준수 정보, 디버깅, 성능 튜닝 및 모니터링에 대한 네트워킹 지식이 있어야 합니다.
-subTitle: 이 인증 후보는 Microsoft Teams 환경을 지원하고, 배포 문제를 해결하고, 성능을 조정하고, 원격 분석 및 로그 데이터를 수집 및 분석하고, Teams 환경을 관리하는 지원 엔지니어입니다.
+  응시자는 통합 커뮤니케이션에 대해 많이 접했고 Microsoft Teams를 사용한 실습 경험이 있어야 합니다. 또한 응시자는 Azure 기본 사항, 전화 통신, PowerShell, 데이터 스토리지 기술, API, 앱 보안, 인증 및 권한 부여, 보안 및 규정 준수 정보, 디버깅, 성능 튜닝, 모니터링에 대한 네트워킹 지식을 보유하고 있어야 합니다.
+subTitle: 이 인증의 응시자들은 Microsoft Teams 환경을 지원하고, 배포를 문제 해결하고, 성능을 조정하고, 원격 측정 및 로그 데이터를 수집 및 분석하고, Teams 환경을 관리하는 지원 엔지니어들입니다.
 levels:
 - intermediate
 skills:
@@ -43,20 +43,20 @@ exams:
 - uid: exam.ms-740
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 살펴봅니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
-  description: 기본 사항, 역할 기반 및 전문 인증에 대한 개요를 확인하세요.
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재생
-  description: 성공 확률을 높이는 데 도움이 되는 두 가지 훌륭한 제안을 참조하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼을 통해 도움을 받으세요. 포럼 중재자는 월요일-금요일 1 영업일에 응답합니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 기록을 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 네트워크로 여러분의 첫 번째 일조를 하세요. Microsoft 인증 배지를 클레임하고 LinkedIn, ésumé 등에 추가합니다.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

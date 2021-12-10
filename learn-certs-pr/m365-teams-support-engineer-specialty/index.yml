@@ -1,0 +1,61 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Teams Support Engineer Specialty'
+metadata:
+  title: 'Microsoft 365 Certified: Teams Support Engineer Specialty'
+  description: 이 시험의 응시자들은 Microsoft Teams 환경을 지원하고, 배포를 문제 해결하고, 성능을 조정하고, 원격 측정 및 로그 데이터를 수집하고 분석하고, Teams 환경을 관리하는 지원 엔지니어들 입니다.
+  ms.openlocfilehash: 77ba712219bb46434445d3a7d7fef45e6d4a29d2
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113106"
+uid: certification.m365-teams-support-engineer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: >-
+  이 인증의 응시자는 고급 문제 해결 방법을 사용하여 Microsoft Teams 환경을 지원하고, 원격 분석 및 로그 데이터를 분석하고, 배포 문제를 해결하고, 성능을 조정하는 지원 엔지니어입니다. 응시자는 로그 및 기타 데이터를 검토하고, 문제의 근본 원인을 유추하고, 수정해야 합니다.
+
+
+  응시자는 통합 통신 솔루션 문제 해결에 상당한 경험이 있으며 Microsoft Teams 문제 해결과 관련된 실무 전문 지식이 있어야 합니다. 또한 응시자는 Azure 기본 사항, 전화 통신, PowerShell, 데이터 스토리지 기술, API, 앱 보안, 인증 및 권한 부여, 보안 및 규정 준수 정보, 디버깅, 성능 조정, 모니터링에 대한 네트워킹 지식이 있어야 합니다.
+subTitle: 이 인증의 응시자들은 Microsoft Teams 환경을 지원하고, 배포를 문제 해결하고, 성능을 조정하고, 원격 측정 및 로그 데이터를 수집 및 분석하고, Teams 환경을 관리하는 지원 엔지니어들입니다.
+levels:
+- intermediate
+skills:
+- Troubleshoot Microsoft Teams voice issues
+- Troubleshoot issues with Microsoft Teams meetings and live events
+- Troubleshoot federation issues
+- Troubleshoot issues signing into Microsoft Teams
+- Troubleshoot teams and channels
+- Troubleshoot issues with files
+roles:
+- support-engineer
+type: specialty
+products:
+- office-teams
+- office-onedrive
+- office-365
+- ms-graph
+- azure-active-directory
+paths:
+- uid: learn.wwl.troubleshoot-microsoft-365-teams
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rW
+exams:
+- uid: exam.ms-740
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  href: ../badges.md

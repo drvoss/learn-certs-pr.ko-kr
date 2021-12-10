@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
-  description: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  title: '과정 MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: '과정 MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  ms.openlocfilehash: 21ee27dfd59284faf88d34b1fb64ee676ad05333
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107264"
 uid: course.mb-330t02
-courseNumber: 'MB-330T02-A'
+courseNumber: MB-330T02-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -15,83 +21,143 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-330
-summary: |-
-  조직은 Dynamics 365 for Finance and Operations를 사용하여 비즈니스 물류 현대화, 시기적절한 고객 응답 제공, 예측 인사이트 확보, 조달 간소화 및 판매에서 이행까지의 프로세스 통합으로 공급망을 자동화하고 간소화합니다. Dynamics 365 for Finance and Operations에서 품질 관리, 회사 간 거래 및 마스터 플랜 사용 방법을 설명합니다.
-  #### 대상 그룹 프로필
-  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
-prerequisitesSection: |-
-  ERP 및 CRM 개념에 대한 기본적인 이해.
-outlineSection: |-
-  ### 모듈 1&#58; 품질 관리 및 품질 관리 프로세스 구성 및 사용
-  본 모듈에서는 Finance and Operations에서 품질 관리 구성 및 사용, 품질 관리 기능 사용, 부적합 정의 및 유지 관리 및 수정을 처리하는 방법을 설명합니다. 그러나 먼저 품질 관리 전체 프로세스를 잘 알아야 합니다.
-  #### 단원
-  - 소개
-  - 품질 관리 및 관리 프로세스 수행
-  - 재고 차단 적용
-  - 검역 관리 수행
-  - 랩 실습
-  - 모듈 요약
-  본 모듈에서는 다음을 학습했습니다&#58;
-  - 품질 관리 및 품질 관리 프로세스 수행
-  - 재고 차단 적용
-  - 검역 관리 수행
+summary: >-
+  조직은 Dynamics 365 for Finance and Operations를 사용하여 비즈니스 물류를 현대화하고, 적시에 고객에 대응하고, 예측 인사이트를 사용하여 앞서 나가고, 조달을 간소화하고, 판매 프로세스를 이행에 통합하여 공급망을 자동화하고 간소화할 수 있습니다. 이 과정에서는 Dynamics 365 for Finance and Operations에서 품질 관리, 회사 간 거래, 마스터 계획을 사용하는 방법에 대해 설명합니다.
 
-  ### 모듈 2&#58; 회사 간 거래 관계 구성 및 사용
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션, 서비스 통합을 사용하여 솔루션을 구현합니다.
+prerequisitesSection: ERP 및 CRM 개념에 대한 기본적인 이해.
+outlineSection: >-
+  ### <a name="module--158-configure-and-use-quality-control-and-management-processes"></a>모듈 1: 품질 제어 및 관리 프로세스 구성 및 사용
+
+  이 모듈에서는 Finance and Operations에서 품질 제어 구성 및 사용 방법, 품질 제어 기능 사용 방법, 부적합 정의 및 유지 관리 방법, 수정 사항 처리 방법에 대해 설명합니다. 그러나 먼저 품질 관리 전체 프로세스를 잘 알아야 합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 소개
+
+  - 품질 제어 및 관리 프로세스 수행
+
+  - 재고 차단 적용
+
+  - 격리 관리 수행
+
+  - 연습 랩
+
+  - 모듈 요약
+
+
+
+  이 모듈에서 학생은 다음을 알아보았습니다.
+
+  - 품질 제어 및 관리 프로세스 수행
+
+  - 재고 차단 적용
+
+  - 격리 관리 수행
+
+
+
+  ### <a name="module--258-configure-and-use-intercompany-trade-relations"></a>모듈 2: 회사 간 거래 관계 구성 및 사용
+
   Dynamics 365 for Finance and Operations의 회사 간 기능은 여러 회사의 정적 및 동적 데이터를 단일 데이터베이스에 별도의 법인으로 통합하는 메커니즘을 제공합니다. 회사 간 거래를 통해 전 세계에 분산된 제조 사이트, 유통 센터 및 판매 자회사는 통합된 하나의 조직으로 활동할 수 있습니다. 본 모듈에서는 Finance and Operations에서 회사 간 거래 관계 구성과 사용 및 회사 간 주문 처리 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 소개
+
   - 회사 간 거래 이해
+
   - 회사 간 거래 관계 설정
-  - 회사 간 공급망 주문 처리
-  - 회사 간 계약 및 직접 배송 설정
-  - 랩 실습
+
+  - 회사 간 체인 주문 처리
+
+  - 회사 간 계약 및 직접 배달 설정
+
+  - 연습 랩
+
   - 모듈 요약
 
 
-  본 모듈에서는 다음의 방법을 학습했습니다&#58;
+
+  이 모듈에서 학생은 다음 방법에 대해 알아보았습니다.
+
   - 회사 간 거래 관계를 위한 제품 구성
+
   - 회사 간 거래 관계 구성
+
   - 회사 간 계약 구성
+
   - 회사 간 주문 처리
-  - 회사 간 직접 배송 처리
+
+  - 회사 간 직접 배달 처리
+
   - 회사 간 요금 처리
+
   - 회사 간 반품 주문 체인 이해
 
 
-  ### 모듈 3&#58; 마스터 플랜 구성 및 사용
+
+  ### <a name="module--358-configure-and-use-master-planning"></a>모듈 3: 마스터 계획 구성 및 사용
+
   본 모듈에서는 Finance and Operations에서 마스터 플랜 구성 및 사용 방법을 설명합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 소개
+
   - 마스터 계획 고려 사항 및 설정
-  - 마스터 계획 생성
-  - 수요 및 공급 예측에 대해 학습하기
+
+  - 마스터 계획 만들기
+
+  - 수요 및 공급 예측에 대해 알아보기
+
   - 항목 적용 범위 구성
+
   - 회사 간 계획에 대한 간략한 소개
-  - 계획 및 확정된 계획 주문 실행
-  - 랩 실습
+
+  - 계획 및 확정 계획 주문 실행
+
+  - 연습 랩
+
   - 모듈 요약
 
 
-  본 모듈에서는 다음의 방법을 학습했습니다&#58;
+
+  이 모듈에서 학생은 다음 방법에 대해 알아보았습니다.
+
   - 마스터 계획 정책 정의
-  - 수요 및 공급 예측에 대해 학습하기
-  - 계산된 지연 구성
+
+  - 수요 및 공급 예측에 대해 알아보기
+
+  - 계산된 연기 구성
+
   - 항목 적용 범위 구성
+
   - 회사 간 마스터 계획에 대한 간략한 소개 이해
-  - 계획 및 확정된 계획 주문 실행
+
+  - 계획 및 확정 계획 주문 실행
 
 
-  ### 모듈 4&#58; 과정 마무리
-  최종 평가, 과정 요약 및 과정 이후 설문 조사
-  #### 단원
+
+  ### <a name="module--458-course-conclusion"></a>모듈 4: 과정 마무리
+
+  최종 평가, 과정 요약 및 과정 이후 설문 조사.
+
+  #### <a name="lessons"></a>단원
+
   - 최종 평가
+
   - 과정 요약
-  - 과정 이후 설문 조사
+
+  - 과정 후 설문 조사
 
 
-  학생들은 다음 과정을 마쳤습니다.
 
+  학생이 과정을 완료합니다.

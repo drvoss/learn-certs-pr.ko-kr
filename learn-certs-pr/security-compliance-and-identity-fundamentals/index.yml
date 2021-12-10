@@ -2,25 +2,34 @@
 title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
 metadata:
   title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
-  description: 'Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오. '
+  description: Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.
+  ms.openlocfilehash: 8d827680ba81dc162729afb73092afec7239c3a9
+  ms.sourcegitcommit: 4a6bc4df3dac54bc91c8397a2bb871c66d1c3a47
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "132112418"
 uid: certification.security-compliance-and-identity-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  <div><font color="red"><strong>이 인증의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/sc-900">SC-900 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color="red"><strong>이 인증의 내용은 2021년 7월 26일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/sc-900">시험 SC-900 페이지</a>에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  이 인증은 cloud-기반 및 관련 Microsoft 서비스 전반에서 보안, 규정 준수 및 식별 (SCI)에 대한 기본 사항을 숙지하려는 사람들을 대상으로 합니다.
-  
-  여기에는 Microsoft 보안, 규정 준수 및 식별 솔루션에 관심이 있는 비즈니스 이해관계자들, 신규 또는 기존 IT 전문가들, 혹은 학생들이 포함될 수 있는 넓은 대상입니다. 
-  
-  응시자들은 Microsoft Azure 및 Microsoft 365에 대해 잘 알고 있어야 하고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해해야 합니다. 
-subTitle: Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오. 
+
+  이 인증은 클라우드 기반 및 관련 Microsoft 서비스에서 SCI(보안, 규정 준수, ID) 기본 사항을 숙지하려는 사람을 대상으로 합니다.
+
+
+  대상이 광범위하며 비즈니스 관련자, 신입 또는 기존 IT 전문가 또는 Microsoft 보안, 규정 준수, ID 솔루션에 관심이 있는 학생을 포함할 수 있습니다.
+
+
+  응시자는 Microsoft Azure 및 Microsoft 365에 대해 잘 알고 있어야 하며 Microsoft 보안, 규정 준수, ID 솔루션이 해당 솔루션 영역 전반에 걸쳐 어떻게 전체적인 엔드투엔드 솔루션을 제공할 수 있는지 이해하고자 합니다.
+subTitle: Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.
 levels:
 - beginner
 skills:
-- 보안, 규정 준수 및 식별의 개념 설명 
-- Microsoft 식별 및 액세스 관리 솔루션의 기능 설명 
-- Microsoft 보안 솔루션의 기능 설명 
-- Microsoft 규정 준수 솔루션의 기능 설명
+- Describe the concepts of security, compliance, and identity
+- Describe the capabilities of Microsoft identity and access management solutions
+- Describe the capabilities of Microsoft security solutions
+- Describe the capabilities of Microsoft compliance solutions
 roles:
 - business-user
 - student
@@ -58,19 +67,19 @@ exams:
 resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

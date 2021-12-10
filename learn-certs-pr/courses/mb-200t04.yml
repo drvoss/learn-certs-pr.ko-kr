@@ -1,16 +1,22 @@
 ### YamlMime:Course
 title: 'Dynamics 365: Power Platform test and deploy'
 metadata:
-  title: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
-  description: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+  title: '과정 MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+  description: '과정 MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+  ms.openlocfilehash: 6c5280eaeb070915f4803ac838e30d3720f741ae
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107432"
 uid: course.mb-200t04
-courseNumber: 'MB-200T04-A'
+courseNumber: MB-200T04-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 퍼스트 파티 애플리케이션 활성화 및 업데이트.
-- skill: 서드 파티 애플리케이션 설치.
-- skill: 관리 솔루션과 비관리 솔루션 구성.
+- skill: 자사 애플리케이션 사용 설정 및 업데이트.
+- skill: 타사 애플리케이션 설치.
+- skill: 관리형 솔루션 및 관리되지 않는 솔루션 구성.
 - skill: 솔루션 업데이트 및 패치.
 - skill: 솔루션 배포.
 learningPartnersLink: /learn/certifications/partners
@@ -21,69 +27,115 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
-  Microsoft Power Platform은 일상 업무 자동화 및 모범 사례 표준화를 통해 조직의 운영 최적화를 지원합니다. 이 교육에서는 Microsoft Dynamics 365 및 Power Platform 기능 개요를 높은 수준으로 제공하고 다른 Microsoft Dynamics 365 및 Power Platform 교육 강의의 토대를 제공합니다.
-  본 과정에서는 국제적인 공인 전문가가 학생들에게 솔루션 및 배포를 관리하는 방법을 설명합니다.
-  #### 대상 그룹 프로필
-  Dynamics 365 Customer Engagement 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
-prerequisitesSection: |-
-  비즈니스 애플리케이션을 잘 알고 있으며 비즈니스에 맞게 사용자 지정하고 구현하려는 욕구
-outlineSection: |-
-  ### 모듈 1&#58; 인스턴스 및 애플리케이션 관리
-  본 모듈에서는 퍼스트 파티 애플리케이션 활성화 및 업데이트, 서드 파티 애플리케이션 활성화 및 업데이트, 관리자 포털 사용 구성 방법을 학습합니다.
-  #### 단원
+summary: >-
+  Microsoft Power Platform은 일상 업무 자동화 및 모범 사례 표준화를 통해 조직의 운영 최적화를 지원합니다. 본 교육에서는 Microsoft Dynamics 365 및 Power Platform 기능 개요를 높은 수준으로 제공하고 다른 Microsoft Dynamics 365 및 Power Platform 교육 강의의 토대를 제공합니다.
+
+
+  이 과정에서는 전 세계적으로 인정받는 전문가가 학생에게 관리 솔루션 및 배포를 안내합니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  Dynamics 365 Customer Engagement Functional Consultant는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션, 서비스 통합을 사용하여 솔루션을 구현합니다.
+prerequisitesSection: 비즈니스 애플리케이션에 대한 이해 및 비즈니스를 위해 애플리케이션을 사용자 지정하고 구현하려는 의지.
+outlineSection: >-
+  ### <a name="module--158-manage-instances-and-applications"></a>모듈 1: 인스턴스 및 애플리케이션 관리
+
+  이 모듈에서 학생은 자사 애플리케이션 사용 설정 및 업데이트, 타사 앱 설치, 관리자 포털을 사용하여 구성하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 개요
+
   - 애플리케이션 관리
-  - 모듈 요약
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 퍼스트 파티 애플리케이션 활성화 및 업데이트
-  - 서드 파티 애플리케이션 설치
 
-  ### 모듈 2&#58; 솔루션 관리
-  본 모듈에서는 솔루션을 생성, 관리 및 배포하는 방법을 학습합니다.
-  #### 단원
+  - 모듈 요약
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 자사 앱 사용 설정 및 업데이트
+
+  - 타사 앱 설치
+
+
+
+  ### <a name="module--258-manage-solutions"></a>모듈 2: 솔루션 관리
+
+  이 모듈에서 학생은 솔루션을 만들고, 관리하고, 배포하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 솔루션 개념
-  - 솔루션 계획 및 생성
-  - 솔루션 구성 요소 작업
+
+  - 솔루션 계획 및 만들기
+
+  - 솔루션 구성 요소 사용
+
   - 솔루션 배포
-  - 관리 솔루션 작업
+
+  - 관리형 솔루션 사용
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 솔루션 사용자 지정 생성, 관리 및 배포
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 솔루션을 사용하여 사용자 지정 만들기, 관리, 배포
 
 
-  ### 모듈 3&#58; 추가 배포 고려 사항
-  본 모듈에서는 모바일 용 구성 방법과 Microsoft Flow와 같은 구성 요소 배포 방법을 학습합니다.
-  #### 단원
+
+  ### <a name="module--358-additional-deployment-considerations"></a>모듈 3: 추가 배포 고려 사항
+
+  이 모듈에서 학생은 모바일을 위해 구성하고 Microsoft Flow와 같은 구성 요소를 배포하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 구성
+
   - 모바일 구성 설정
+
   - 모바일 구성
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 모바일 용 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 모바일을 위해 구성
+
   - 구성 요소 배포
 
 
-  ### 모듈 4&#58; 문서화 및 테스트
-  본 모듈에서는 테스트 계획을 설계하고 성능 조정을 수행하는 방법을 학습합니다.
-  #### 단원
-  - 테스트 계획 생성
+
+  ### <a name="module--458-documentation-and-testing"></a>모듈 4: 설명서 및 테스트
+
+  이 모듈에서 학생은 테스트 계획을 디자인하고 성능을 튜닝하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 테스트 계획 만들기
+
   - 사용자 인터페이스 테스트
+
   - 성능 최적화 및 튜닝
-  - 문서화
-  - 고객 참여
+
+  - 설명서
+
+  - 고객과 소통
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 테스트 계획 생성 및 사용
-  - 성능 튜닝 도구 찾기
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 테스트 계획 만들기 및 사용
+
+  - 성능 튜닝 도구 찾기

@@ -3,35 +3,47 @@ title: 'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
   title: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
   description: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  ms.openlocfilehash: 6f8b0a097d9f067d73c1d8f33dceff91d55a6f8e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105821"
 uid: exam.mb-300
 displayName: MB-300
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험의 내용은 2021년 8월 9일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
+  <div><font color='red'><strong>이 시험의 내용은 2021년 8월 9일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
   </div>
-  
-  컨설턴트 (기능 및 기술)는 비즈니스 요구 사항을 수집 및 분석하고 이러한 요구 사항을 업계 권장 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 비즈니스 요구 사항을 충족하도록 앱을 구현하고 구성하는 데 있어 핵심 리소스 역할을 합니다.
+
+
+  컨설턴트(기능 및 기술)는 비즈니스 요구 사항을 수집하고 분석하며 이러한 요구 사항을 업계 권장 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 비즈니스 요구 사항을 충족하도록 앱을 구현 및 구성하는 핵심 리소스 역할을 수행합니다.
+
   <br/>
 
-  컨설턴트들은 Dynamics 365 Finance and Operations 앱의 핵심 구성 요소 및 기능을 구현할 수 있어야 합니다. 또한 Dynamics 365 Finance and Operations 앱을 Power Platform을 포함한 외부 시스템 및 도구와 통합하는 방법을 숙지하고 있어야 합니다. 컨설턴트는 애플리케이션 수명 주기 관리 (ALM) 프로세스를 촉진하기 위해 Lifecycle Services (LCS), Azure DevOps, 및 기타 Microsoft 도구 및 플랫폼을 사용합니다.
 
-  컨설턴트는 제품 출시 정보를 읽고, 제품 로드맵을 검토하고, 회의에 참석하여 지속적인 교육을 추구하거나, Microsoft Learn, Microsoft Docs, 강사-주도 교육, 블로그, 및 사용자 커뮤니티를 사용하여 학습을 지속합니다. 또한 자신들의 지식이 인정될 수 있도록 역할-기반 인증 및 평가도 추구해야 합니다.
+  컨설턴트는 Dynamics 365 Finance and Operations 앱의 핵심 구성 요소 및 기능을 구현할 수 있어야 합니다. 또한 Dynamics 365 Finance and Operations 앱이 Power Platform을 포함한 외부 시스템 및 도구와 통합하는 방법에 대해 알고 있어야 합니다. 컨설턴트는 LCS(수명 주기 서비스), Azure DevOps, 기타 Microsoft 도구 및 플랫폼을 사용하여 ALM(애플리케이션 수명 주기 관리) 프로세스를 지원합니다.
+
+
+  컨설턴트는 제품 릴리스 정보를 읽고 제품 로드맵을 검토하거나 컨퍼런스에 참가하거나 Microsoft Learn, Microsoft Docs, 강사 진행 교육, 블로그, 사용자 커뮤니티를 사용하여 계속 학습하면서 지속적으로 교육을 받습니다. 또한 지식을 인정받을 수 있도록 역할 기반 인증 및 평가를 받아야 합니다.
 subTitle: '이 시험은 다음과 같은 기술 업무를 수행하는 능력을 측정합니다: 재무 및 운영 앱 설명, Microsoft Power Platform 기술을 사용하여 앱 확장; 관리 기능 및 워크플로 구성; Finance and Operation  데이터 관리; 솔루션 검증 및 지원.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 8월 9일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 재무 및 운영 앱을 설명하고, Microsoft Power Platform 기술을 사용하여 앱 확장 (20–25%)
-- 관리 기능 및 워크플로 구성 (30–35%)
-- 재무 및 운영 데이터 관리 (25-30%)
-- 솔루션 검증 및 지원 (20-25%)
+- The content of this exam was updated on August 9, 2021. Please download the exam skills outline below to see what changed.
+- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies (20–25%)
+- Configure administrative features and workflows (30–35%)
+- Manage finance and operations data (25-30%)
+- Validate and support solutions (20-25%)
 roles:
 - functional-consultant
 products:
@@ -52,7 +64,7 @@ paths:
 - uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
-- related:  
+- related:
     uid: certification.d365-functional-consultant-manufacturing
 - related:
     uid: certification.d365-functional-consultant-commerce
@@ -75,7 +87,6 @@ resources:
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

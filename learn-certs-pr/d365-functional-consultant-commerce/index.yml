@@ -2,33 +2,43 @@
 title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
-  description: 'Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션에 대한 지원을 제공합니다.'
+  description: Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션을 지원합니다.
+  ms.openlocfilehash: a89084828d3510c2d15d829f922d19a406b4b5e8
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106904"
 uid: certification.d365-functional-consultant-commerce
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  팀과 조직을 지원하기 위해 Dynamics 365 Commerce를 사용하는 기능 컨설턴트, 개발자, 정보 근로자 혹은 IT 나 비즈니스 전문가라면, 이 인증은 경력을 향상시키는 데 도움이 될 수 있습니다. 이 인증의 응시자로서, Dynamics 365 Commerce 애플리케이션을 구성하고, 배포하며 유지합니다. 
-  
-  응시자들은 통합 상거래 비즈니스 운영에 대해 반드시 잘 알고 있어야 합니다. Dynamics 365 Commerce 본사를 구성합니다; 커머스 콜 센터를 구성 및 관리하고, 상거래에서 판매 시점(POS)을  관리하고, 전자 상거래를 관리하고, 제품, 가격, 할인, 충성도 및 제휴를 구성합니다.
-  
-  이 인증을 획득하기 전에 더 많은 경험이 필요한 경우, 여기 몇 가지 제안이 있습니다&#58;
-  
-  - 몇몇 Dynamics 365 Commerce 프로젝트에서 기능 컨설턴트와 협력합니다.
-  - Microsoft Learn에서 자기-주도형 학습 경로에 참가하십시오. 
-  - 강사-주도 교육 과정에 등록하십시오.
-  
-subTitle: 'Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션에 대한 지원을 제공합니다.'
+summary: >-
+  기능 컨설턴트, 개발자, 정보 작업자 또는 Dynamics 365 Commerce를 사용하여 팀과 조직을 지원하는 IT 또는 비즈니스 전문가라면 이 인증이 경력을 향상하는 데 도움이 될 수 있습니다. 이 인증의 응시자는 Dynamics 365 Commerce 애플리케이션을 구성, 배포, 유지 관리합니다.
+
+
+  응시자는 통합 상거래 비즈니스 운영에 대해 잘 이해하고 있어야 합니다. 응시자는 Dynamics 365 Commerce 본사를 구성하고, Commerce 콜 센터를 구성 및 관리하고, Commerce의 POS(판매 시점)를 관리하고, 전자 상거래 관리, 제품, 가격, 할인, 충성도, 소속을 구성합니다.
+
+
+  이 인증을 취득하기 위해 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이 있습니다.
+
+
+  - 일부 Dynamics 365 Commerce 프로젝트에서 기능 컨설턴트와 협업합니다.
+
+  - Microsoft Learn 자기 주도적 학습 경로를 활용합니다.
+
+  - 강사 진행 교육 과정에 등록합니다.
+subTitle: Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션을 지원합니다.
 levels:
 - intermediate
 skills:
-- 재무 및 운영 앱을 설명하고, Microsoft Power Platform 기술을 사용하여 앱 확장  
-- 관리 기능 및 워크플로 구성  
-- 재무 및 운영 데이터 관리  
-- 솔루션 검증 및 지원  
-- Dynamics 365 Commerce 본사 구성
-- 제품, 가격, 할인, 충성도 및 제휴 구성 
-- Dynamics 365 Commerce에서 판매 시점 (POS) 관리
-- Dynamics 365 Commerce 콜 센터 구성 및 관리
-- 전자상거래 관리
+- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
+- Configure administrative features and workflows
+- Manage finance and operations data
+- Validate and support solutions
+- Configure Dynamics 365 Commerce Headquarters
+- Configure products, prices, discounts, loyalty, and affiliations
+- Manage Point of Sales (POS) in Dynamics 365 Commerce
+- Configure and manage Dynamics 365 Commerce call centers
+- Manage e-commerce
 roles:
 - functional-consultant
 type: role-based
@@ -38,6 +48,10 @@ products:
 - dynamics-cust-svc-insights
 - dynamics-retail
 - dynamics-sales
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-340
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -51,32 +65,28 @@ paths:
 - uid: learn-dynamics.configure-use-pos-commerce
 - uid: learn-dynamics.configure-work-call-centers-commerce
 - uid: learn-dynamics.configure-work-e-commerce
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
-exams:
-- uid: exam.mb-300
-- uid: exam.mb-340
 resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 인증을 향한 여정
-  description: 인증을 받기 위한 단계와 준비에 도움이 되는 리소스를 살펴봅니다.
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJJ8C
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
-- title: 인증 학습 경로
-  description: '필수 시험을 준비하고 인증을 획득하는 데 도움이 되는 권장 교육 리소스입니다.'
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

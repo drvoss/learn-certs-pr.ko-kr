@@ -1,30 +1,35 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Technologies
 metadata:
-  title: 'Exam AZ-300: Microsoft Azure Architect Technologies'
-  description: 'Exam AZ-300: Microsoft Azure Architect Technologies'
+  title: '시험 AZ-300: Microsoft Azure Architect Technologies'
+  description: '시험 AZ-300: Microsoft Azure Architect Technologies'
+  ms.openlocfilehash: 1d1bec9153028f4852089e0e18935ec34f482f5d
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105893"
 uid: exam.az-300
 displayName: AZ-300
-summary: |-
+summary: >-
   <div>
-  <div><strong>이 시험은 만료되었습니다. 대체 시험인 AZ-303이 가능합니다. 자세한 내용은 <a href="/learn/certifications/exams/az-303">AZ-303 시험 세부 정보 페이지</a>을 참조하세요.</strong><br/><br/></div>
+
+  <div><strong>이 시험은 폐지되었습니다. 대체 시험인 AZ-303에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/az-303">AZ-303 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
+
   </div>
+
 
   본 시험의 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 전문 실무 지식을 갖추고 있어야 합니다.
 
+
   Azure Solution 설계자는 이해 관계자에게 조언하고 비즈니스 요구사항을 안전하고 확장 가능하며 신뢰할 수 있는 클라우드 솔루션으로 변환하는 업무를 담당합니다.
+
 
   Azure Solution 설계자는 클라우드 관리자, 클라우드 DBA 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
 
-  본 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 관리, 예산 책정 및 거버넌스 등 IT 운영의 다양한 측면에 대한 고급 경험과 지식을 갖추어야 하며 각 분야에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 해당 역할은 관리, 개발 또는 DevOps를 포함하는 Azure 지식 영역 중 하나 이상에 능숙해야 합니다.
 
-  <div><strong><br/>참고&#58; 본 인증 <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a>을 취득하시려면 다음 시험 조합 중 한가지를 통과해야 합니다. <ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 및 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 및 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 및 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 및 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
-subTitle: '이 시험은 인프라 배포 및 구성, 워크로드 및 보안 구현, 앱 생성 및 배포, 인증 및 데이터 보안 구현, Cloud와 Azure 저장소 개발과 같은 기술적 과제를 수행하는 능력을 측정합니다.'
+  본 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 관리, 예산 책정 및 거버넌스 등 IT 운영의 다양한 측면에 대한 고급 경험과 지식을 갖추어야 하며 각 분야에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 해당 역할은 관리, 개발 또는 DevOps를 포함하는 Azure 지식 영역 중 하나 이상에 능숙해야 합니다.
+subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 인프라 배포 및 구성, 워크로드 및 보안 구현, 앱 생성 및 배포, 인증 및 데이터 보안 구현, Cloud와 Azure 저장소 개발.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -35,11 +40,11 @@ locales:
 levels:
 - advanced
 skills:
-- 인프라 배포 및 구성 (40-45%)
-- 워크로드 및 보안 구현 (25-30%)
-- 앱 작성 및 배포 (5-10%)
-- 인증 및 보안 데이터 구현 (5-10%)
-- 클라우드 및 Azure 스토리지 개발 (15-20%)
+- Deploy and configure infrastructure (40-45%)
+- Implement workloads and security (25-30%)
+- Create and deploy apps (5-10%)
+- Implement authentication and secure data (5-10%)
+- Develop for the cloud and for Azure storage (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -83,11 +88,11 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 시험 재응시
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -96,10 +101,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

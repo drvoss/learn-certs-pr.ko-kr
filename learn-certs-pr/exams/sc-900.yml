@@ -1,28 +1,36 @@
 ### YamlMime:Examination
-title: 'Microsoft Security, Compliance, and Identity Fundamentals'
+title: Microsoft 보안, 규정 준수, ID 기본 사항
 metadata:
-  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
-  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  title: '시험 SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: '시험 SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  ms.openlocfilehash: 34b71c696266795682f68edb215b1009db89d1a3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105640"
 uid: exam.sc-900
 displayName: SC-900
-summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  이 시험은 cloud-기반 및 관련 Microsoft 서비스 전반에 걸쳐 보안, 규정 준수, 및 ID (SCI)의 기본 사항에 익숙해지려는 사람들을 대상으로 합니다.
-  
-  여기에는 Microsoft 보안, 규정 준수 및 식별 솔루션에 관심이 있는 비즈니스 이해관계자들, 신규 또는 기존 IT 전문가들, 혹은 학생들이 포함될 수 있는 넓은 대상입니다. 
-  
-  응시자들은 Microsoft Azure 및 Microsoft 365에 대해 잘 알고 있어야 하고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해해야 합니다. 
-  
-subTitle: '이 시험은 다음을 설명하는 귀하의 능력을 측정합니다: 보안, 규정 준수 및 식별의 개념 ; Microsoft 식별 및 액세스 관리 솔루션의 기능; Microsoft 보안 솔루션의 기능; Microsoft 규정 준수 솔루션의 기능.'
+
+  이 시험은 클라우드 기반 및 관련 Microsoft 서비스에서 SCI(보안, 규정 준수, ID) 기본 사항을 숙지하려는 사람을 대상으로 합니다.
+
+
+  대상이 광범위하며 비즈니스 관련자, 신입 또는 기존 IT 전문가 또는 Microsoft 보안, 규정 준수, ID 솔루션에 관심이 있는 학생을 포함할 수 있습니다.
+
+
+  응시자는 Microsoft Azure 및 Microsoft 365에 대해 잘 알고 있어야 하며 Microsoft 보안, 규정 준수, ID 솔루션이 해당 솔루션 영역 전반에 걸쳐 어떻게 전체적인 엔드투엔드 솔루션을 제공할 수 있는지 이해하고자 합니다.
+subTitle: 이 시험은 보안, 규정 준수, ID의 개념, Microsoft ID 및 액세스 관리 솔루션의 기능, Microsoft 보안 솔루션의 기능, Microsoft 규정 준수 솔루션의 기능에 대해 설명하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
 practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -40,11 +48,11 @@ locales:
 levels:
 - beginner
 skills:
-- 이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 보안, 규정 준수 및 식별의 개념 설명 (10-15%)
-- Microsoft 식별 및 액세스 관리 솔루션의 기능 설명 (30-35%)
-- Microsoft 보안 솔루션의 기능 설명 (35-40%)
-- Microsoft 규정 준수 솔루션의 기능 설명 (25-30%)
+- The content of this exam was updated on July 26, 2021. Please download the exam skills outline below to see what changed.
+- Describe the concepts of security, compliance, and identity (10-15%)
+- Describe the capabilities of Microsoft identity and access management solutions (30-35%)
+- Describe the capabilities of Microsoft security solutions (35-40%)
+- Describe the capabilities of Microsoft compliance solutions (25-30%)
 roles:
 - business-user
 - student
@@ -85,7 +93,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -94,9 +102,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

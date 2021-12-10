@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Building applications and solutions with Microsoft 365 core services
+title: 'Building applications and solutions with Microsoft 365 core services  '
 metadata:
-  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
-  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  title: '과정 MS-600T00--A: Building applications and solutions with Microsoft 365 core services  '
+  description: '과정 MS-600T00--A: Building applications and solutions with Microsoft 365 core services  '
+  ms.openlocfilehash: 1161f95a21de917f0ecb4163e1e59be60f0916c6
+  ms.sourcegitcommit: 073cf120a67a147b75e4524603169d2aa2a0bd56
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "132112874"
 uid: course.ms-600t00
-courseNumber: 'MS-600T00-A'
+courseNumber: MS-600T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -21,150 +27,260 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-600
-summary: |-
-  본 과정에서는 Microsoft Identity 구현, Microsoft Graph으로 작업, SharePoint 확장 및 사용자 지정, 팀 확장, Office 확장 등 Microsoft 365 플랫폼의 다섯 가지 핵심 요소에 대해 다룹니다.
-  본 과정에서 학생들은 Microsoft Identity를 구현하고 Microsoft Graph를 사용하는 방법을 배웁니다. 학생들은 UI 요소(Adaptive Cards 및 UI Fabric 포함), 통합 지점(Microsoft Teams, Office 추가 기능, SharePoint Framework, Actionable Messages 포함) 및 워크로드 플랫폼 목표 결정에 대한 일반적인 지식을 갖추고 있어야 합니다.
-  학생들은 Microsoft Identity 구현에서 애플리케이션 등록, 인증 삽입, API 사용 권한 구성, Microsoft Graph에 액세스하는 서비스 생성 등 Microsoft Identity 구현을 배우게 됩니다.
-  Microsoft Graph를 사용하여 작업할 때 학생들은 Microsoft Graph를 사용하여 사용자 데이터에 액세스하고, 쿼리 매개 변수를 탐색하고, 그룹 라이프사이클을 관리하고, 파일에 액세스하고, 네트워크 트래픽을 최적화하는 방법을 배웁니다.
-  SharePoint를 확장하고 사용자 정의하는 과정에서 학생들은 SharePoint 프레임워크 Web Parts, 확장, SPFx 솔루션 패키징 및 배포 방법에 대해 배웁니다.
-  Teams을 확장하는 과정에서 학생들은 Teams 앱의 구성 요소를 살펴보고 웹 후크, 탭 및 대화 봇을 사용합니다.
-  학생들은 Office 확장에서 Office 추가 기능, 작업 창 추가 기능, JavaScript API, Office UI Fabric 및 적응형 카드를 사용한 실행 가능한 메시지를 사용합니다.
+summary: >-
+  본 과정에서는 Microsoft Identity 구현, Microsoft Graph으로 작업, SharePoint 확장 및 사용자 지정, 팀 확장, Office 확장 등 Microsoft 365 플랫폼의 다섯 가지 핵심 요소에 대해 다룹니다. 본 과정에서 학생들은 Microsoft Identity를 구현하고 Microsoft Graph를 사용하는 방법을 배웁니다. 학생들은 UI 요소(Adaptive Cards 및 UI Fabric 포함), 통합 지점(Microsoft Teams, Office 추가 기능, SharePoint Framework, Actionable Messages 포함) 및 워크로드 플랫폼 목표 결정에 대한 일반적인 지식을 갖추고 있어야 합니다. 학생들은 Microsoft Identity 구현에서 애플리케이션 등록, 인증 삽입, API 사용 권한 구성, Microsoft Graph에 액세스하는 서비스 생성 등 Microsoft Identity 구현을 배우게 됩니다. Microsoft Graph를 사용하여 작업할 때 학생들은 Microsoft Graph를 사용하여 사용자 데이터에 액세스하고, 쿼리 매개 변수를 탐색하고, 그룹 라이프사이클을 관리하고, 파일에 액세스하고, 네트워크 트래픽을 최적화하는 방법을 배웁니다. SharePoint를 확장하고 사용자 정의하는 과정에서 학생들은 SharePoint 프레임워크 Web Parts, 확장, SPFx 솔루션 패키징 및 배포 방법에 대해 배웁니다. Teams을 확장하는 과정에서 학생들은 Teams 앱의 구성 요소를 살펴보고 웹 후크, 탭 및 대화 봇을 사용합니다. 학생들은 Office 확장에서 Office 추가 기능, 작업 창 추가 기능, JavaScript API, Office UI Fabric 및 적응형 카드를 사용한 실행 가능한 메시지를 사용합니다.
 
-  #### 대상 그룹 프로필
+
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
   본 과정에 참가하는 학생들은 Microsoft 365 개발 플랫폼 또는 Microsoft 365 Developer Associate 인증 시험에 합격하는 데 관심을 가지는 학생들입니다. 학생들은 개발자로서 1-2년의 경험을 갖고 있어야 합니다. 본 과정에서는 학생들이 REST API, JSON, OAuth2, OData, OpenID Connect, Azure AD 및 Microsoft 계정을 포함한 Microsoft ID, Azure AD B2C 및 사용 권한/동의 개념을 코드화하는 방법을 알고 기본적인 이해를 알고 있다고 가정합니다.
-prerequisitesSection: |-
-  - 학생들은 개발자로서 1-2년의 경험을 갖고 있어야 합니다. 본 과정에서는 학생들이 REST API, JSON, OAuth2, OData, OpenID Connect, Azure AD 및 Microsoft 계정을 포함한 Microsoft ID, Azure AD B2C 및 사용 권한/동의 개념을 코드화하는 방법을 알고 기본적인 이해를 알고 있다고 가정합니다.
-  - 학생들이 소프트웨어 개발의 모든 단계에 걸쳐 Microsoft Teams, Office 추가 기능 또는 SharePoint Framework에서 솔루션을 개발한 경험이 있는 것이 좋습니다.
-outlineSection: |-
-  ### 모듈 1&#58; Microsoft Identity 구현
-  이 모듈에서는 Microsoft Identity 구현에서 애플리케이션 등록, 인증 삽입, API 사용 권한 구성, Microsoft Graph에 액세스하는 서비스 생성 등 Microsoft Identity 구현을 배우게 됩니다.
-  #### 단원
-  - Microsoft Identity 플랫폼
-  - 애플리케이션 등록
-  - 인증 구현
-  - API 사용 권한 구성
-  - API 사용 인증 구현
-  - API에서 인증 구현
-  - Microsoft Graph에 액세스하기 위한 서비스 생성
+prerequisitesSection: >-
+  이 과정에 참여하기 전에 학생은 다음을 갖추어야 합니다.
+   * 개발자로서 1~2년의 경험. 본 과정에서는 학생들이 REST API, JSON, OAuth2, OData, OpenID Connect, Azure AD 및 Microsoft 계정을 포함한 Microsoft ID, Azure AD B2C 및 사용 권한/동의 개념을 코드화하는 방법을 알고 기본적인 이해를 알고 있다고 가정합니다.
+   * 학생은 소프트웨어 개발의 모든 단계를 통해 Microsoft Teams, Office 추가 기능 또는 SharePoint Framework에서 솔루션 개발 경험이 있으면 좋습니다.
+outlineSection: >-
+  ### <a name="module-1-implement-microsoft-identity"></a>모듈 1: Microsoft ID 구현
 
 
-  #### 랩 &#58; Microsoft Identity 구현
-  - Azure Active Directory에 애플리케이션 등록
-  - 인증 구현
-  - API 사용 권한 구성
-  - API 사용 인증 구현
-  - API에서 인증 구현
-  - Microsoft Graph에 액세스하기 위한 서비스 생성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure AD에서 애플리케이션 등록
-  - 인증 구현
-  - API 사용 권한 구성
-  - Microsoft Graph에 액세스하기 위한 서비스 생성
+  이 모듈에서는 애플리케이션 등록, 인증 삽입, API 사용 권한 구성, Microsoft Graph에 액세스하기 위한 서비스 만들기를 포함하여 Microsoft ID를 구현하는 방법에 대해 알아봅니다.
 
 
-  ### 모듈 2&#58; Microsoft Graph로 작업
+  #### <a name="lessons"></a>단원
+
+
+  *   Microsoft ID 시작
+
+
+  *   Microsoft ID의 애플리케이션 유형
+
+
+  *   권한 및 동의 프레임워크
+
+
+  *   Microsoft ID를 사용하여 사용자 지정 API 보안 설정
+
+
+  *   사용자 지정 앱 및 API에서 사용자, 그룹, 역할 사용
+
+
+
+  #### <a name="lab--implement-microsoft-identity"></a>랩: Microsoft ID 구현
+
+
+  ####
+     *   연습 - Microsoft ID에 사용되는 다양한 유형의 토큰
+     *   연습 - 단일 페이지 앱
+     *   연습 - 사용자를 로그인하게 하고 API를 호출하는 웹앱
+     *   연습 - 디먼 및 비대화형 앱
+     *   연습 - Microsoft ID 플랫폼 권한 및 동의 프레임워크 이해
+     *   연습 - 위임된 권한 및 동의
+     *   연습 - 애플리케이션 권한 및 동의
+     *   연습 - Microsoft ID를 사용하여 웹 API 만들기 및 보호
+     *   연습 - 웹 애플리케이션에서 보안 API 호출
+     *   연습 - 디먼 앱에서 보안 API 호출
+     *   연습 - Microsoft ID를 사용하여 웹앱 만들기 및 보호
+     *   연습 - Microsoft ID를 사용하여 보호되는 사용자 지정 앱 및 API에서 보안 그룹 활용
+     *   연습 - 사용자 지정 앱에서 애플리케이션 역할 활용
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Azure AD에서 애플리케이션 등록
+
+
+  *   인증 구현
+
+
+  *   API를 사용하기 위한 권한 구성
+
+
+  *   Microsoft Graph에 액세스하기 위한 서비스 생성
+
+
+
+  ### <a name="module-2-build-apps-with-microsoft-graph"></a>모듈 2: Microsoft Graph를 사용하여 앱 빌드
+
+
   이 모듈에서는 Microsoft Graph를 사용하여 사용자 데이터에 액세스하고, 쿼리 매개 변수를 탐색하고, 그룹 라이프사이클을 관리하고, 파일에 액세스하고, 네트워크 트래픽을 최적화하는 방법을 배웁니다.
-  #### 단원
-  - Microsoft Graph는 무엇인가
-  - Microsoft Graph에서 사용자 데이터 액세스
-  - 쿼리 매개변수를 사용한 데이터 사용
-  - Microsoft Graph에서 그룹 수명 주기 관리
-  - Microsoft Graph로 파일 액세스
-  - 네트워크 트래픽 최적화
 
 
-  #### 랩 &#58; Microsoft Graph로 작업
-  - Microsoft Graph에서 사용자 데이터 쿼리
-  - HTTP를 통해 Microsoft Graph를 쿼리할 때 쿼리 매개변수 사용
-  - Microsoft Graph에서 반환된 정보 검색 및 제어
-  - Office 365 그룹 및 팀 만들기
-  - OneDrive 및 SharePoint에 파일 업로드
-  - 변경 알림 사용 및 Microsoft Graph에서 변경 내용 추적
-  - 일괄 처리된 요청으로 트래픽 감소
-  - Microsoft Graph에서 제한 이해
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Microsoft Graph를 통한 사용자 데이터 액세스
-  - Microsoft Graph에서 쿼리를 사용한 데이터 작업
-  - Microsoft Graph에서 그룹 수명 주기 관리
-  - Microsoft Graph를 사용한 네트워크 트래픽 최적화
+  #### <a name="lessons"></a>단원
 
 
-  ### 모듈 3&#58; SharePoint 확장 및 사용자 지정
-  이 모듈에서는 SharePoint 프레임워크 Web Parts, 확장, SPFx 솔루션 패키징 및 배포 방법에 대해 배웁니다.
-  #### 단원
-  - SharePoint Framework 웹 부분
-  - SharePoint Framework 확장
-  - SPFx 솔루션 패키지 및 구축
-  - Microsoft Graph 사용
-  - SPFx 내에서 Azure AD로 보안되는 타사 API 사용
-  - Teams 탭으로서 Web Parts
-  - SharePoint에서 브랜딩 및 테마 설정
+  *   쿼리 매개 변수를 사용하여 데이터 사용량 최적화
 
 
-  #### 랩 &#58; SharePoint 확장 및 사용자 지정
-  - SharePoint Framework (SPFx) 소개
-  - Web Part 속성 창으로 작업
-  - SharePoint Framework Extensions 생성
-  - Command Set Extension 생성
-  - Field Customizer Extension 생성
-  - SharePoint Framework 솔루션 배포
-  - Azure AD 보호 타사 REST API 호출
-  - Microsoft Teams에 SPFx 솔루션 배포
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - SharePoint Framework 솔루션 패키지화 및 구축
-  - Microsoft Graph 사용의 활용
-  - Team 탭으로 Web Parts 작업
+  *   Microsoft Graph를 사용하여 네트워크 트래픽 최적화
 
 
-  ### 모듈 4&#58; Teams 확장
+  *   Microsoft Graph에서 사용자 데이터에 액세스
+
+
+  *   Microsoft Graph를 사용하여 그룹 수명 주기 관리
+
+
+  *   Microsoft Graph를 사용하여 파일에 액세스
+
+
+  *   Microsoft Graph를 통해 변경 알림 및 변경 내용 추적 사용
+
+
+
+  #### <a name="lab--build-apps-with-microsoft-graph"></a>랩: Microsoft Graph를 사용하여 앱 빌드
+
+
+  ####
+     *   연습 - Microsoft Graph에서 반환된 정보 검색 및 제어
+     *   연습 - Microsoft Graph에서 관련 엔터티 및 검색 콘텐츠 확장
+     *   연습 - 일괄 처리된 요청을 사용하여 트래픽 줄이기
+     *   연습 - Microsoft Graph의 제한 이해
+     *   연습 - 제한 방지 및 제한 전략 구현
+     *   연습 - 델타 쿼리를 사용하여 폴링 Microsoft Graph 제거
+     *   연습 - 조직에서 사용자와 작업
+     *   연습 - 사용자 프로필 및 관련 사용자
+     *   연습 - 사용자 수정
+     *   연습 - 조직에서 그룹과 작업
+     *   연습 - 사용자 및 해당 그룹
+     *   연습 - 그룹 수명 주기 관리
+     *   연습 - OneDrive 파일 액세스 및 다운로드
+     *   연습 - OneDrive 파일 업로드
+     *   연습 - OneDrive 파일 관계 및 추세 사용
+     *   연습 - Azure AD 앱 .NET Core 웹 API
+     *   연습 - Microsoft Graph 변경 알림
+     *   연습 - Microsoft Graph 변경 사항 추적
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Microsoft Graph를 사용하여 사용자 데이터에 액세스
+
+
+  *   Microsoft Graph에서 쿼리를 사용하여 데이터 작업
+
+
+  *   Microsoft Graph에서 그룹 수명 주기 관리
+
+
+  *   Microsoft Graph를 사용하여 네트워크 트래픽 최적화
+
+
+
+  ### <a name="module-3-extend-microsoft-365"></a>모듈 3: Microsoft 365 확장
+
+
+  이 모듈에서는 SharePoint 프레임워크 Web Parts, 확장, SPFx 솔루션 패키징 및 배포 방법에 대해 배웁니다. 또한 적응형 카드를 통해 Office 추가 기능, 작업창 추가 기능, JavaScript API, Office UI Fabric, 실행 가능한 메시지를 사용합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   SharePoint 사용자 지정 및 확장 소개
+
+
+  *   추가 기능을 사용하여 Office 클라이언트 사용자 지정 소개
+
+
+
+  #### <a name="lab--extend-microsoft-365"></a>랩: Microsoft 365 확장
+
+
+  ####
+     *   연습 - SharePoint Online 개발자 테넌트 만들기 및 구성
+     *   연습 - 최신 사이트에서 SPFx 클라이언트 쪽 웹 파트와 상호 작용
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   SharePoint Framework 솔루션 패키지 및 배포
+
+
+  *   Microsoft Graph 사용 활용
+
+
+  *   Team 탭으로 웹 파트 사용
+
+
+  *   Office 추가 기능의 기본 구성 요소 및 유형 이해
+
+
+  *   Office JavaScript API 이해
+
+
+  *   Office 추가 기능의 테스트, 디버깅, 배포 옵션 이해
+
+
+
+  ### <a name="module-4-develop-apps-for-microsoft-teams"></a>모듈 4: Microsoft Teams용 앱 개발
+
+
   본 모듈에서는 Teams 앱의 구성 요소를 살펴보고 웹 후크, 탭 및 대화 봇을 사용합니다.
-  #### 단원
-  - Microsoft Teams 앱
-  - Microsoft Teams에서 웹후크
-  - Microsoft Teams에서 탭
-  - Microsoft Teams에서 확장 관리
-  - Microsoft Teams의 대화봇
 
 
-  #### 랩&#58; Teams 확장
-  - Teams 앱의 구성 요소 이해
-  - Microsoft Teams에서 웹 후크로 작업
-  - Microsoft Teams에서 탭 생성
-  - 메시징 확장 이해
-  - 대화 봇 이해
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Teams 앱의 구성 요소 인식
-  - Microsoft Teams에서 웹 후크로 작업
-  - Microsoft Teams에서 탭 생성
-  - 발신 웹후크 생성 및 등록
+  #### <a name="lessons"></a>단원
 
 
-  ### 모듈 5&#58; Office 확장
-  본 모듈에서는 Office 추가 기능, 작업 창 추가 기능, JavaScript API, Office UI Fabric 및 적응형 카드를 사용한 실행 가능한 메시지를 사용합니다.
-  #### 단원
-  - Office Add-ins
-  - Office JS APIs
-  - Add-ins 사용자 지정
-  - 테스트, 디버깅 및 배포 옵션
-  - 실행형 메시지
+  *   Microsoft Teams용 앱 빌드 개요
 
 
-  #### 랩 &#58; Office 확장
-  - Office Add-in의 기본 구성 요소 및 유형 이해
-  - Office JavaScript API 이해
-  - Add-ins 사용자 지정 이해
-  - 실행형 메시지 이해
+  *   메시지 확장을 사용한 작업 지향 상호 작용
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Office Add-in의 기본 구성 요소 및 유형 이해
-  - Office JavaScript API 이해
-  - Add-ins 사용자 지정 이해
-  - 실행형 메시지 이해
+
+  *   Microsoft Teams의 탭
+
+
+  *   대화형 봇 만들기
+
+
+  *   작업 모듈을 사용하여 입력 수집
+
+
+  *   Microsoft Teams의 웹후크
+
+
+  *   Microsoft Graph 팀워크 엔드포인트
+
+
+  *   Microsoft Teams의 인증 및 Single Sign-On
+
+
+
+  #### <a name="lab--develop-apps-for-microsoft-teams"></a>랩: Microsoft Teams용 앱 개발
+
+
+  ####
+     *   연습 - 작업 명령 메시지 확장 만들기
+     *   연습 - 검색 명령 메시지 확장 만들기
+     *   연습 - 링크 펼치기 메시지 확장 구현
+     *   연습 - 사용자 지정 Microsoft Teams 개인 탭 만들기
+     *   연습 - 사용자 지정 Microsoft Teams 채널 탭 만들기
+     *   연습 - 대화형 봇 만들기
+     *   연습 - 채널 및 그룹 채팅 봇
+     *   연습 - 봇에서 사전 대응 메시지 보내기
+     *   연습 - 태스크 모듈을 사용하여 사용자 입력 수집
+     *   연습 - 작업 모듈에서 적응형 카드 및 딥 링크 사용
+     *   연습 - 봇을 사용하여 작업 모듈 사용
+     *   연습 - 보내는 웹후크 만들기
+     *   연습 - 들어오는 웹후크 만들기
+     *   연습 - 팀워크 엔드포인트 시작
+     *   연습 - Microsoft Graph를 사용하여 기본 제공 탭 구성
+     *   연습 - Microsoft Graph를 사용하여 활동 피드에 게시
+     *   연습 - Microsoft Teams 앱에 대한 Single Sign-On 구현
+     *   연습 - Microsoft Teams 탭을 사용하여 Single Sign-On 구현
+     *   연습 - Microsoft Teams 봇을 사용하여 Single Sign-On 구현
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Teams 앱의 구성 요소 인식
+
+
+  *   Microsoft Teams에서 웹후크 사용
+
+
+  *   Microsoft Teams에서 탭 만들기
+
+
+  *   보내는 웹후크 만들기 및 등록

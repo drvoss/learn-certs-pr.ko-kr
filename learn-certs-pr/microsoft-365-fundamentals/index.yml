@@ -2,19 +2,28 @@
 title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
   title: 'Microsoft 365 Certified: Fundamentals'
-  description: 'Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.'
+  description: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
+  ms.openlocfilehash: 252dee2886a534c7cc66a22139e1072e36108637
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113091"
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 10월 25일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ms-900">시험 MS-900 페이지</a>에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
   Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 subTitle: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 levels:
 - beginner
 skills:
-- 클라우드 개념 설명
-- 핵심 Microsoft 365 서비스 및 개념 설명
-- Microsoft 365에서 보안, 규정 준수, 개인 정보 보호 및 신뢰 설명
-- Microsoft 365 가격 정책 및 지원 옵션 설명
+- Describe cloud concepts
+- Describe core Microsoft 365 services and concepts
+- Explain security, compliance, privacy, and trust in Microsoft 365
+- Describe Microsoft 365 pricing and support
 roles:
 - business-user
 - administrator
@@ -35,14 +44,14 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Fundamentals.'
+  description: 'Microsoft Certified: Fundamentals가 되기 위한 교육 리소스를 찾아보세요.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -50,9 +59,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

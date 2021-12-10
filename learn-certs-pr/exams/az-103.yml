@@ -1,21 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator
+title: Microsoft Azure 관리자
 metadata:
-  title: 'Exam AZ-103: Microsoft Azure Administrator'
-  description: 'Exam AZ-103: Microsoft Azure Administrator'
+  title: '시험 AZ-103: Microsoft Azure Administrator'
+  description: '시험 AZ-103: Microsoft Azure Administrator'
+  ms.openlocfilehash: c06b714d61a58e638e47c1afd6dec7d5fd44819a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105936"
 uid: exam.az-103
 displayName: AZ-103
-summary: |-
+summary: >-
   <div>
-  <div><strong>본 인증은 2020년 8월 31일 월요일에 중단됩니다. 대체 시험 MB-104을 사용할 수도 있습니다. 자세한 내용을 보려면 을 방문하시기 바랍니다 <a href="/learn/certifications/exams/az-104">AZ-104 시험 세부 정보 페이지</a>.</strong><br/><br/></div>
+
+  <div><strong>이 시험은 2020년 8월 31일에 폐지되었습니다. 대체 시험인 AZ-104에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/az-104">AZ-104 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
+
   </div>
+
 
   2019년 5월 1일부터, 해당 인증을 취득하려면 시험 AZ-103에만 합격하면 됩니다. 이 신규 시험은 시험 AZ-100 및 AZ-101(2019년 5월 1일 중단)의 범위에 해당하는 기술을 다루며, 그중 신규 시험 내용의 대부분은 시험 AZ-100을 기반으로 합니다.
 
+
   본 시험은 저장소, 보안, 네트워킹 및 클라우드 컴퓨팅 기능에 걸친 클라우드 서비스를 관리하는 Azure 관리자를 대상으로 실시됩니다. 응시자는 전체적인 IT 수명 주기에 걸쳐 각 서비스를 깊이 이해하고 인프라 서비스, 애플리케이션 및 환경에 관한 요청을 받게 됩니다. 또한 최적의 성능 및 확장을 위해 사용할 서비스를 추천하고 필요한 경우 프로비저닝, 크기 조정, 모니터링 및 적절한 리소스 조정을 수행합니다.
 
+
   응시자는 PowerShell, 명령줄 인터페이스, Azure Portal, ARM 템플릿, 운영 체제, 가상화, 클라우드 인프라, 저장소 구조 및 네트워킹 분야에 능숙해야 합니다.
-subTitle: '2019년 5월 1일부터, 해당 인증을 취득하려면 시험 AZ-103에만 합격하면 됩니다. 이 신규 시험은 시험 AZ-100 및 AZ-101(2019년 5월 1일 중단)의 범위에 해당하는 기술을 다루며, 그중 신규 시험 내용의 대부분은 시험 AZ-100을 기반으로 합니다. 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. Azure 구독 및 리소스 관리, 저장소 구현 및 관리, 가상 머신(VM) 배포 및 관리, 가상 네트워크 구성 및 관리, ID 관리.'
+subTitle: 2019년 5월 1일부터, 해당 인증을 취득하려면 시험 AZ-103에만 합격하면 됩니다. 이 신규 시험은 시험 AZ-100 및 AZ-101(2019년 5월 1일 중단)의 범위에 해당하는 기술을 다루며, 그중 신규 시험 내용의 대부분은 시험 AZ-100을 기반으로 합니다. 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. Azure 구독 및 리소스 관리, 저장소 구현 및 관리, Virtual machines (VMs) 배포 및 관리, 가상 네트워크 구성 및 관리, ID 관리.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,11 +38,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Azure 구독 및 리소스 관리 (15-20%)
-- 저장소 구현 및 관리 (15-20%)
-- 가상 머신 (VM) 배포 및 관리 (15-20%)
-- 가상 네트워크 구성 및 관리 (30-35%)
-- ID 관리 (15-20%)
+- Manage Azure subscriptions and resources (15-20%)
+- Implement and manage storage (15-20%)
+- Deploy and manage virtual machines (VMs) (15-20%)
+- Configure and manage virtual networks (30-35%)
+- Manage identities (15-20%)
 retirementDate: 08/31/2020
 roles:
 - administrator
@@ -44,7 +55,6 @@ products:
 - azure-resource-manager
 courses:
 - uid: course.az-010t00
-- uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -63,10 +73,10 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -79,7 +89,6 @@ resources:
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

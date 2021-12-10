@@ -3,10 +3,15 @@ title: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)
 metadata:
   title: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
+  ms.openlocfilehash: c5427a1ece95ccfc351810e32af5fd3da0c23ce0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105728"
 uid: exam.mo-300
 displayName: MO-300
-summary: |-
-  본 시험은 프레젠테이션 작성 및 관리, 도형 및 슬라이드 삽입 및 서식 지정, 슬라이드 내용 작성, 슬라이드 전환 및 애니메이션 적용, 다수 프레젠테이션 관리 능력을 다룹니다. 프레젠테이션 예제에는 전문가 급 판매 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다. 응시자는 PowerPoint의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
+summary: 본 시험은 프레젠테이션 작성 및 관리, 도형 및 슬라이드 삽입 및 서식 지정, 슬라이드 내용 작성, 슬라이드 전환 및 애니메이션 적용, 다수 프레젠테이션 관리 능력을 다룹니다. 프레젠테이션 예제에는 전문가 급 판매 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다. 응시자는 PowerPoint의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
 subTitle: 본 시험은 프레젠테이션 작성 및 관리, 도형 및 슬라이드 삽입 및 서식 지정, 슬라이드 내용 작성, 슬라이드 전환 및 애니메이션 적용, 다수 프레젠테이션 관리를 포함한 프레젠테이션 및 슬라이드 쇼 생성, 편집, 향상 역량을 측정합니다. 프레젠테이션 예제에는 전문가 급 판매 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
@@ -34,11 +39,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 프레젠테이션 관리
-- 슬라이드 관리
-- 텍스트, 도형 및 이미지 삽입 및 서식 지정
-- 표, 차트, SmartArt, 3D 모델, 미디어 삽입
-- 전환 및 애니메이션 적용
+- Manage presentations
+- Manage slides
+- Insert and format text, shapes, and images
+- Insert tables, charts, smartArt, 3D models, and media
+- Apply transitions and animations
 roles:
 - business-user
 products:
@@ -50,14 +55,13 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

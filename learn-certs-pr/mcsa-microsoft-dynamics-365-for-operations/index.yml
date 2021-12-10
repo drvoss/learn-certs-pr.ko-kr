@@ -3,19 +3,30 @@ title: 'MCSA: Microsoft Dynamics 365 for Operations'
 metadata:
   title: 'MCSA: Microsoft Dynamics 365 for Operations'
   description: 'MCSA: Microsoft Dynamics 365 for Operations'
+  ms.openlocfilehash: 91465a418e72248a9ef0dd79ae0863205d889884
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132113003"
 uid: certification.mcsa-microsoft-dynamics-365-for-operations
 iconUrl: /media/learn/certification/badges/mcsa-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증은 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하십시오. 종료날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>성적표에 계속 표시됩니다.</strong></font><br/><br/></div> 
+summary: >-
+  <div><font color='red'><strong>이 인증은 폐지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하세요. 폐지 날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong></font><br/><br/></div>
+
 
   본 인증은 Microsoft Dynamics 365 for Operations를 맞춤화하기 위해 필요한 기초 기술 및 개발 업무를 이행하기 위한 Microsoft Dynamics 365 기술에 있어 귀하의 전문성을 입증합니다. 주요 응시자 그룹에는 기술 컨설턴트, 프로그래머, IT 업계 종사자 등이 포함됩니다.
 
-  MCSA&#58; Microsoft Dynamics 365 for Operations 인증을 얻으려면, 다음 요구 사항을 충족해야 합니다&#58;
-  - 다음 시험에 합격 [MB6-894&#58; Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb6-894)
-  - 다음 시험 중 하나에 합격&#58;
-    - [70-764&#58; Administering a SQL Database Infrastructure](/learn/certifications/exams/70-764)
-    - [70-765&#58; Provisioning SQL Databases](/learn/certifications/exams/70-765)
+
+  MCSA: Microsoft Dynamics 365 for Operations 인증을 얻으려면, 다음 요구 사항을 충족해야 합니다:
+
+  - 시험 [MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb6-894)를 통과합니다.
+
+  - 다음 시험 중 하나를 통과합니다.
+    - [70-764: Administering a SQL Database Infrastructure](/learn/certifications/exams/70-764)
+    - [70-765: Provisioning SQL Databases](/learn/certifications/exams/70-765)
 subTitle: 본 인증은 Microsoft Dynamics 365 for Operations를 맞춤화하기 위해 필요한 기초 기술 및 개발 업무를 이행하기 위한 Microsoft Dynamics 365 기술에 있어 귀하의 전문성을 입증합니다. 주요 응시자 그룹에는 기술 컨설턴트, 프로그래머, IT 업계 종사자 등이 포함됩니다.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
@@ -34,7 +45,7 @@ exams:
 - uid: exam.mb6-894
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -46,9 +57,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

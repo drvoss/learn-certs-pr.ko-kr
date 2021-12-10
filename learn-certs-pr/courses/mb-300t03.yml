@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
-  description: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  title: '과정 MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  description: '과정 MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  ms.openlocfilehash: c972047f472c3d4f09a4c00a5709fb2860a533cb
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107349"
 uid: course.mb-300t03
-courseNumber: 'MB-300T03-A'
+courseNumber: MB-300T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -15,112 +21,189 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
-summary: |-
+summary: >-
   조직은 Dynamics 365 for Finance and Operations를 사용하여 운영 비용을 줄이고 변화하는 비즈니스 요구 사항에 신속히 대응합니다. 이 솔루션으로 조직은 이러한 목표를 달성할 수 있습니다.
-  본 과정에서는 Microsoft Dynamics 365 for Finance and Operations의 데이터 마이그레이션과 Go-Live 준비를 설명합니다.
-  #### 대상 그룹 프로필
-  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용한 솔루션을 구현합니다.
-prerequisitesSection: |-
-  ERP 및 CRM 개념에 대한 기본적인 이해.
-outlineSection: |-
-  ### 모듈 1&#58; 마이그레이션을 위한 데이터 준비 및 데이터 마이그레이션
-  이 단원에서는 Finance and Operations의 통합 패턴, 시나리오 및 솔루션을 살펴 봅니다. 이 단원에는 모든 통합 패턴을 사용 또는 설정하거나 샘플 코드를 사용하는 방법에 대한 기술적인 세부 정보는 포함되어 있지 않지만 사용 가능한 통합 도구를 알고 있는 것이 항상 현명합니다.
-  #### 단원
+
+
+  이 과정에서는 Microsoft Dynamics 365 for Finance and Operations에 대한 데이터 마이그레이션 및 라이브 전환 준비에 대해 설명합니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션, 서비스 통합을 사용하여 솔루션을 구현합니다.
+prerequisitesSection: ERP 및 CRM 개념에 대한 기본적인 이해.
+outlineSection: >-
+  ### <a name="module--158-prepare-data-for-migration-and-migrate-data"></a>모듈 1: 마이그레이션을 위한 데이터 준비 및 데이터 마이그레이션
+
+  이 단원에서는 Finance and Operations에 대한 통합 패턴, 시나리오, 솔루션을 살펴봅니다. 이 단원에는 모든 통합 패턴을 사용하거나 설정하는 방법 또는 샘플 코드로 작업하는 방법에 대한 기술적인 세부 정보는 포함되어 있지 않지만 사용 가능한 통합 도구에 대해 항상 알고 있는 것이 좋습니다.
+
+  #### <a name="lessons"></a>단원
+
   - 소개
+
   - BYOD 기능 이해
-  - 마이그레이션 테스트 수행 및 출력 검증
+
+  - 테스트 마이그레이션 수행 및 출력 유효성 검사
+
   - 모듈 요약
 
-  데이터 마이그레이션에 시간을 많이 투자할수록 더 쉽게 운영 복잡성을 통제하고 비용을 절감할 수 있습니다. 고객 비즈니스 연속성이 우선순위여야 합니다. 본 모듈에서는 레거시 시스템과 정적 및 공통 데이터와 같은 중요한 요소를 식별하여 성공적인 마이그레이션을 위해 데이터를 준비하는 방법을 학습합니다.
 
 
-  본 모듈에서는 다음의 방법을 학습했습니다&#58;
+  데이터를 마이그레이션할 때가 되면 더 많은 것을 알수록 더 간편하게 운영 복잡성을 제어하고 비용을 절감할 수 있습니다. 고객의 비즈니스 연속성이 우선 순위여야 합니다. 이 모듈에서 학생은 레거시 시스템, 정적 및 일반 데이터와 같은 중요한 요인을 식별하여 성공적인 마이그레이션을 위해 데이터를 준비하는 방법에 대해 알아봅니다.
+
+
+
+  이 모듈에서 학생은 다음 방법에 대해 알아보았습니다.
+
   - 데이터 통합 (가져오기/내보내기) 전략 선택
+
   - Finance and Operations의 일반적인 마이그레이션 시나리오 및 도구 식별
-  - BYOD (Bring Your Own Database) 기능 이해
-  - 관련 (레거시) 시스템 식별
-  - 산업에서 공통적인 정적 데이터 식별 및 가져오기
-  - 데이터 마이그레이션을 위한 테스트 계획 생성 및 검토
+
+  - BYOD(Bring Your Own Database) 기능 이해
+
+  - 관련(레거시) 시스템 식별
+
+  - 업계 간 공통적인 정적 데이터 식별 및 가져오기
+
+  - 데이터 마이그레이션을 위한 테스트 계획 만들기 및 검토
+
   - 원본 데이터 식별 및 추출
-  - 관련 데이터 엔티티 및 요소 식별
-  - 원본 및 대상 데이터 구조 사이의 필드 매핑 생성
-  - 마이그레이션 테스트 수행 및 출력 검증
-  - 기존 시스템과 이동된 시스템 간의 전환 지원
 
-  ### 모듈 2&#58; 데이터 관리 사용
-  본 모듈에서는 데이터 관리 플랫폼의 기본 개념에 대한 개요를 설명합니다. 또한 데이터 관리 작업 영역을 사용하여 Dynamics 365 for Finance and Operations에서 데이터를 가져오고 내보내는 방법을 설명합니다.
+  - 관련 데이터 엔터티 및 요소 식별
 
-  마지막으로 데이터 관리 플랫폼의 비동기식 반복 통합 기능을 사용하는 방법을 설명합니다. 데이터 관리 프레임 워크는 Finance and Operations에서 데이터 엔티티 및 데이터 엔티티 패키지를 관리하는데 사용할 수 있습니다.
-  #### 단원
+  - 원본 및 대상 데이터 구조 간 필드 매핑 생성
+
+  - 테스트 마이그레이션 수행 및 출력 유효성 검사
+
+  - 기존 시스템 및 마이그레이션한 시스템 간 전환 지원
+
+
+
+  ### <a name="module--258-use-data-management"></a>모듈 2: 데이터 관리 사용
+
+  이 모듈에서 학생은 데이터 관리 플랫폼의 기본 개념에 대한 개요를 살펴봅니다. 또한 학생은 데이터 관리 작업 영역을 사용하여 Dynamics 365 for Finance and Operations에서 데이터를 가져오고 내보내는 방법에 대해 알아봅니다.
+
+
+  마지막으로 데이터 관리 플랫폼의 비동기 되풀이 통합 기능을 사용하는 방법에 대해 알아봅니다. 데이터 관리 프레임워크를 사용하여 Finance and Operations에서 데이터 엔터티 및 데이터 엔터티 패키지를 관리할 수 있습니다.
+
+  #### <a name="lessons"></a>단원
+
   - 소개
+
   - 데이터 관리 및 통합 이해
+
   - 데이터 관리 작업 영역
+
   - 데이터 관리 템플릿
-  - 법인으로 데이터 가져오기, 내보내기 및 복사하기
-  - 랩 실습
+
+  - 법인으로 데이터 가져오기, 내보내기, 복사
+
+  - 연습 랩
+
   - 모듈 요약
 
 
-  본 모듈에서는 다음의 방법을 학습했습니다&#58;
-  - 데이터 엔티티를 사용하여 통합용 데이터 관리 플랫폼을 사용하기 위해 주어진 시나리오에 대한 올바른 패턴 식별
-  - 데이터 관리 작업 영역 작업
+
+  이 모듈에서 학생은 다음 방법에 대해 알아보았습니다.
+
+  - 데이터 엔터티를 사용하여 통합을 위한 데이터 관리 플랫폼을 사용하는 주어진 시나리오에 대한 올바른 패턴 식별
+
+  - 데이터 관리 작업 영역 사용
+
   - 법인에서 데이터 내보내기
+
   - 법인으로 데이터 가져오기
-  - 작업 데이터 가져오기 및 내보내기 작업
+
+  - 데이터 가져오기 및 내보내기 작업 사용
+
   - 준비 테이블 정리
 
 
-  ### 모듈 3&#58; 사용자 수용성 테스트 수행
-  실시간 전송 이전에 고객 솔루션을 테스트하고 평가하려면 확장을 통한 모든 구성과 가능한 사용자 지정이 가능한 Dynamics 365 for Finance and Operations 환경이 필요합니다.
+
+  ### <a name="module--358-perform-user-acceptance-testing"></a>모듈 3: 사용자 승인 테스트 수행
+
+  라이브로 전환하기 전에 고객 솔루션을 테스트하고 평가하려면 확장을 통해 모든 구성과 가능한 사용자 지정이 포함된 Dynamics 365 for Finance and Operations 환경이 있어야 합니다.
+
 
   짧고 효율적인 역할 중심의 테스트 사례 시나리오에 맞게 생성 및 테스트를 적절히 구성하고 계획할 수 있는 방법론을 갖추는 것이 항상 유리합니다.
-  #### 단원
+
+  #### <a name="lessons"></a>단원
+
   - 소개
-  - 사용자 수용성 테스트 사례 생성 및 수행
-  - 랩 실습
+
+  - 사용자 승인 테스트 사례 만들기 및 수행
+
+  - 연습 랩
+
   - 모듈 요약
 
 
-  본 모듈에서는 다음을 학습했습니다&#58;
-  - 테스트 사례와 비즈니스 요구 사항 간의 상관 관계 이해 방법
+
+  이 모듈에서 학생은 다음을 알아보았습니다.
+
+  - 테스트 케이스와 비즈니스 요구 사항 간의 상관 관계 이해 방법
+
   - 테스트 사례 기록을 위한 모범 사례
+
   - 작업 레코더
-  - 시나리오 수용성 테스트 BPM 라이브러리 생성 방법
-  - Azure Devops에서 테스트 계획 동기화 및 구성 방법
-  - 테스트 실행 방법
+
+  - 시나리오 수용 테스트 BPM 라이브러리를 만드는 방법
+
+  - Azure DevOps에서 테스트 계획을 동기화하고 구성하는 방법
+
+  - 테스트를 실행하는 방법
 
 
-  ### 모듈 4&#58; 실시간 전송 준비
-  Dynamics 365 for Finance and Operations에서 구현된 솔루션을 생산 환경으로 이동하면 모든 어려운 일은 성공이 됩니다. 이것이 흥미로운 구현 완료 경험에서 중요한 최종 단계입니다.
 
-  목표는 Go-Live라고 알려진 중요한 단계에서 행복한 고객, 우수한 솔루션 및 마음의 평화입니다. Finance and Operations의 Go-Live와 최종 구현 단계를 모르고는 성공을 보장할 수 없습니다.
+  ### <a name="module--458-prepare-to-go-live"></a>모듈 4: 라이브 전환 준비
 
-  #### 단원
+  Dynamics 365 for Finance and Operations에서 구현된 솔루션을 프로덕션 환경으로 이동하면 모든 노력이 성공한 것입니다. 이는 구현을 완료하는 멋진 경험의 중요한 마지막 단계입니다.
+
+
+  목표는 라이브 전환으로 알려진 이 중요한 단계에서 고객을 만족시키고, 고품질의 솔루션을 제공하며, 마음의 평화를 얻는 것입니다. Finance and Operations 라이브 전환 및 구현의 최종 단계를 준비하는 방법을 모르면 성공을 보장할 수 없습니다.
+
+
+  #### <a name="lessons"></a>단원
+
   - 소개
-  - 실시간 전송 준비
+
+  - 라이브 전환 준비
+
   - 모듈 요약
 
 
-  본 모듈에서는 다음의 방법을 학습했습니다&#58;
-  - 실시간 전송 준비
-  - 라이프 사이클 서비스(LCS) 방법론 완료
-  - 솔루션용 사용자 수용성 테스트(UAT) 수행
-  - FastTrack 실시간 전송 평가 이해
-  - 생산 환경 요청
+
+  이 모듈에서 학생은 다음 방법에 대해 알아봅니다.
+
+  - Go-Live 준비
+
+  - LCS(수명 주기 서비스) 방법론 완료
+
+  - 솔루션에 대한 UAT(사용자 승인 테스트) 수행
+
+  - FastTrack 라이브 전환 평가 이해
+
+  - 프로덕션 환경 요청
 
 
-  ### 모듈 5&#58; 과정 마무리
-  최종 평가, 과정 요약 및 과정 이후 설문 조사
-  #### 단원
+
+  ### <a name="module--558-course-conclusion"></a>모듈 5: 과정 마무리
+
+  최종 평가, 과정 요약 및 과정 이후 설문 조사.
+
+  #### <a name="lessons"></a>단원
+
   - 최종 평가
+
   - 과정 요약
-  - 과정 이후 설문 조사
+
+  - 과정 후 설문 조사
 
 
-  학생들은 다음 과정을 마쳤습니다.
 
+  학생이 과정을 완료합니다.

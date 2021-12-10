@@ -3,30 +3,38 @@ title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
   description: Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
+  ms.openlocfilehash: d6921b4001203cdb642b4405e3b3c723711bb5c4
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111912"
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   <div>
-  <div><strong>이 인증은 종료되었습니다. 현재 가능한 옵션에 대해서는, <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지</a>를 참고하십시오. 만료 날짜 이전에 획득한 모든 인증은 <a href="https://aka.ms/certdashboard">인증 대시보드</a>의 성적 증명서에 계속 표시됩니다.</strong><br/><br/></div></div>
-  
+
+  <div><strong>이 인증은 폐지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지</a>를 참조하세요. 폐지 날짜 이전에 취득한 모든 인증은 <a href="https://aka.ms/certdashboard">인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong><br/><br/></div></div>
+
+
   Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
 subTitle: Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다.
 levels:
 - intermediate
 skills:
-- 검색, 계획, 및 분석 수행
-- 사용자 환경 디자인 관리
-- 엔터티 및 데이터 관리
-- 보안 구현
-- 통합 구현
-- 솔루션 배포 및 테스트 수행
-- 기술 디자인 작성
-- 구성 Common Data Service
-- Power Apps 작성 및 배포
-- 비즈니스 프로세스 자동화 구성
-- 사용자 경험 확장
-- 플랫홈 확장
-- 통합 개발
+- Perform discovery, planning, and analysis
+- Manage user experience design
+- Manage entities and data
+- Implement security
+- Implement integration
+- Perform solutions deployment and testing
+- Create a technical design
+- Configure Common Data Service
+- Create and configure Power Apps
+- Configure business process automation
+- Extend the user experience
+- Extend the platform
+- Develop integrations
 roles:
 - developer
 type: role-based
@@ -56,8 +64,8 @@ resources:
   description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkSW
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
@@ -65,12 +73,11 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

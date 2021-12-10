@@ -3,19 +3,30 @@ title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
   title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
   description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  ms.openlocfilehash: 539fff15371e2249b4969cc9b7ba938a52d6169c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105848"
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   <div>
-  <div><strong>이 시험은 2020년 12월 31일 종료되었습니다. 대체 시험인, PL-200, 이 가능합니다. 더 자세한 정보는, <a href="/learn/certifications/exams/pl-200">PL-200 시험 상세 페이지</a>를 방문하십시오.</strong><br/><br/></div>
+
+  <div><strong>이 시험은 2020년 12월 31일에 폐지되었습니다. 대체 시험인 PL-200에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/pl-200">PL-200 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
+
   </div>
-  
+
+
   본 시험은 기업용 라이센스 제품의 기능에 액세스할 수 있는 기능 컨설턴트를 대상 응시자로 합니다. 기능 컨설턴트로서, 응시자는 기본 번들 제품에서는 기능하지 않는 번들 버전의 기능을 잘 파악하고 있어야 합니다.
-  
+
+
   응시자는 주로 클라이언트 니즈를 충족하는 시스템을 구성하고, 신규 기능 구현과 관련된 설계 작업을 수행하며, 시스템 변경 사항을 구현 및 테스트해야 합니다.
-  
-  응시자는 작동되는 솔루션 디자인을 계획하고, 애플리케이션 라이프사이클 관리(ALM) 프로세스를 구현하고, 레거시 및 외부 시스템에서 데이터 및 개체를 마이그레이션하며, Power Platform과 다른 시스템을 통합하고 Power Platform 환경 관리를 계획할 수 있어야 합니다.
-subTitle: '이 시험은 발견, 계획 및 분석 수행, 사용자 경험 설계 관리, 엔티티와 데이터 관리, 보안 구현, 통합 구현, 솔루션 전개 및 테스트 수행과 같은 기술적 과제를 수행하는 능력을 측정합니다.'
+
+
+  응시자는 작동되는 솔루션 디자인을 계획하고, 애플리케이션 수명주기 관리(ALM) 프로세스를 구현하고, 레거시 및 외부 시스템에서 데이터 및 개체를 마이그레이션하며, Power Platform과 다른 시스템을 통합하고 Power Platform 환경 관리를 계획할 수 있어야 합니다.
+subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 발견, 계획 및 분석 수행, 사용자 경험 설계 관리, 엔티티와 데이터 관리, 보안 구현, 통합 구현, 솔루션 전개 및 테스트 수행.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,12 +36,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 검색, 계획, 및 분석 수행 (5-10%)
-- 사용자 환경 디자인 관리 (20-25%)
-- 엔터티 및 데이터 관리 (15-20%)
-- 보안 구현 (5-10%)
-- 통합 구현 (15-20%)
-- 솔루션 배포 및 테스트 수행 (25-30%)
+- Perform discovery, planning, and analysis (5-10%)
+- Manage user experience design (20-25%)
+- Manage entities and data (15-20%)
+- Implement security (5-10%)
+- Implement integration (15-20%)
+- Perform solutions deployment and testing (25-30%)
 retirementDate: 12/31/2020
 roles:
 - functional-consultant
@@ -56,11 +67,11 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 시험 재응시
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -69,10 +80,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

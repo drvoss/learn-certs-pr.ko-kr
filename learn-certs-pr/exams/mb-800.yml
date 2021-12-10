@@ -1,32 +1,41 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365 Business Central Functional Consultant'
+title: Microsoft Dynamics 365 Business Central Functional Consultant
 metadata:
-  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
-  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  title: '시험 MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: '시험 MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  ms.openlocfilehash: 5dc5689c2bf21902c12722480b37b2b39e958406
+  ms.sourcegitcommit: 4a6bc4df3dac54bc91c8397a2bb871c66d1c3a47
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "132112370"
 uid: exam.mb-800
 displayName: MB-800
-summary: |-
-  이 시험의 응시자들은 중소기업을 위한 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 이들은 핵심 앱 기능 및 모듈 설정 그리고 데이터를 비즈니스 센트럴로 마이그레이션하는 것을 포함하여, Dynamics 365 Business Central 앱을 구현 및 구성합니다.
-  
+summary: >-
+  이 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.
+
+
   응시자는 구현 팀과 협업하여 사용자 인터페이스를 운영함으로써 관리 및 탐색 용이성을 기업에게 제공합니다. 기능 컨설턴트는 Power Platform 구성 요소를 사용하여 통찰력, 단서, 작업 타일, 보고서, 차트 조정 및 Business Central 확장을 포함하여 역할 센터를 구성합니다.
-  
+
+
   응시자는 재무 관리, 영업, 구매 및 재고의 기본적인 이해를 포함하여 Business Central 앱을 통해 사용자 요구를 충족시키는 지식 응용력이 있어야 합니다.
-  
+
+
   본 시험의 응시자는 일반적으로 하나 이상의 Business Central 기능을 전문적으로 다룹니다. 응시자는 Dynamics 365 애플리케이션 제품군과 관련지어 Business Central의 역할을 이해합니다
-subTitle: '본 시험은 Business Central 설정, Financials 구성, Sales and Purchasing 구성 및 Business Central Operations 수행과 같은 작업 완성 능력을 측정합니다.'
+subTitle: 이 시험은 Business Central 설정, 재무 구성, 판매 및 구매 구성, Business Central 작업 수행과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 practiceTestUrl: https://in.mindhub.com/mb-800-microsoft-dynamics-365-business-central-functional-consultant-microsoft-official-practice-test/p/MU-MB-800?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Business Central 설정 (20-25%)
-- 재무 구성 (25-30%)
-- 판매 및 구매 구성 (10-15%)
-- Business Central Operations 수행 (30-35%)
+- Set up Business Central (20-25%)
+- Configure financials (25-30%)
+- Configure sales and purchasing (10-15%)
+- Perform Business Central operations (30-35%)
 roles:
 - functional-consultant
 products:
@@ -56,11 +65,11 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -69,9 +78,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

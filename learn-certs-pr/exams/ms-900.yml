@@ -1,22 +1,36 @@
 ### YamlMime:Examination
-title: Microsoft 365 Fundamentals
+title: 교실 및 온라인 교육 찾기
 metadata:
-  title: 'Exam MS-900: Microsoft 365 Fundamentals'
-  description: 'Exam MS-900: Microsoft 365 Fundamentals'
+  title: '시험 MS-900: Microsoft 365 Fundamentals'
+  description: '시험 MS-900: Microsoft 365 Fundamentals'
+  ms.openlocfilehash: 900c8f76b7ddd6ba2367fe63639889f27347220f
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113370"
 uid: exam.ms-900
 displayName: MS-900
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험의 내용은 2021년 4월 23일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
+  <div><font color='red'><strong>이 시험의 내용은 2021년 10월 25일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+  <div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div>
+
   </div>
+
 
   본 시험은 일반적으로 클라우드 서비스를 채택하는 데 있어 고려할 사항과 혜택 및 서비스로서의 소프트웨어(SaaS) 클라우드 모델에 관한 기본적인 수준의 지식을 입증하려는 후보자를 대상으로 합니다. 응시자는 Microsoft 365 클라우드 서비스 오퍼링을 구현함으로써 사용 가능한 옵션 및 혜택에 대한 지식이 있어야 합니다.
 
+
   응시자는 조직의 일반적인 IT 문제를 해결하는 솔루션을 추천하고 Microsoft 365 솔루션을 시장의 다른 경쟁 업체와 차별화하는데 필수적인 지식이 있어야 합니다. 응시자는 또한 오퍼링, 비용 효율성을 위한 라이선싱 최적화 및 조직을 위한 지원 옵션에 대한 기본적인 지식이 있어야 합니다.
+
 
   응시자는 Microsoft 서비스와 제품(Microsoft 365, Azure 및 Dynamics 365)을 구별할 수 있어야 합니다.
 
-  이 인증 시험을 통과하면 ACE 대학 학점으로 인정 받을 수도 있습니다. 자세한 사항은 [인증 시험에 대한 ACE 대학 학점](/learn/certifications/ace-credit-for-certification-exams)을 참고하세요.
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
 subTitle: cloud 개념, 핵심 Microsoft 365 서비스 및 개념, Microsoft 365의 보안, 규정 준수, 개인 정보 보호 및 신뢰, Microsoft 365 가격 및 지원을 이해함을 입증하십시오.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -29,21 +43,26 @@ locales:
 - zh-cn
 - fr
 - ko
+- pt-br
+- ar-sa
+- ru
+- zh-tw
+- it
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-900&provider=psi&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-900&provider=psi&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
 levels:
 - beginner
 skills:
-- 이 시험의 내용은 2021년 4월 23일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오. 
-- 클라우드 개념 설명 (10-15%)
-- 핵심 Microsoft 365 서비스 및 개념 설명 (30-35%)
-- Microsoft 365에서 보안, 규정 준수, 개인 정보 보호 및 신뢰 설명 (30-35%)
-- Microsoft 365 가격 정책 및 지원 옵션 설명 (20-25%)
+- The content of this exam was updated on October 25, 2021. Please download the exam skills outline below to see what changed.
+- Describe cloud concepts (10-15%)
+- Describe core Microsoft 365 services and concepts (30-35%)
+- Explain security, compliance, privacy, and trust in Microsoft 365 (30-35%)
+- Describe Microsoft 365 pricing and support (20-25%)
 roles:
 - administrator
 products:
@@ -62,10 +81,10 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Fundamentals.'
+  description: 'Microsoft Certified: Fundamentals가 되기 위한 교육 리소스를 찾아보세요.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -74,12 +93,11 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

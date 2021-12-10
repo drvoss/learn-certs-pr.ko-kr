@@ -1,19 +1,25 @@
 ### YamlMime:Course
 title: 'Dynamics 365: Power Platform applications'
 metadata:
-  title: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
-  description: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
+  title: '과정 MB-200T01-A: Dynamics 365: Power Platform applications'
+  description: '과정 MB-200T01-A: Dynamics 365: Power Platform applications'
   iltScheduling: true
+  ms.openlocfilehash: eabed96fb778b2ddb7a2505915fc543668d71c04
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107472"
 uid: course.mb-200t01
-courseNumber: 'MB-200T01-A'
+courseNumber: MB-200T01-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 플랫폼 구성 요소 식별.
 - skill: 관리자 옵션 이해.
 - skill: 효과적인 데이터 모델링.
-- skill: Power Platform에서 기초적인 모델 기반 애플리케이션 개발.
-- skill: Power Platform에서 기초적인 캔버스 애플리케이션 개발.
+- skill: Power Platform에 기본 모델 기반 애플리케이션 빌드.
+- skill: Power Platform에 기본 캔버스 애플리케이션 빌드.
 - skill: 보안을 사용하여 데이터 및 기능에 대한 사용자 액세스 관리.
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -23,90 +29,146 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
-  Microsoft Power Platform은 일상 업무 자동화 및 모범 사례 표준화를 통해 조직의 운영 최적화를 지원합니다. 이 교육에서는 Microsoft Dynamics 365 및 Power Platform 기능 개요를 높은 수준으로 제공하고 다른 Microsoft Dynamics 365 및 Power Platform 교육 강의의 토대를 제공합니다.
+summary: >-
+  Microsoft Power Platform은 일상 업무 자동화 및 모범 사례 표준화를 통해 조직의 운영 최적화를 지원합니다. 본 교육에서는 Microsoft Dynamics 365 및 Power Platform 기능 개요를 높은 수준으로 제공하고 다른 Microsoft Dynamics 365 및 Power Platform 교육 강의의 토대를 제공합니다.
 
-  본 과정에서는 국제적인 공인 전문가가 기초 지식을 공유하여 학생들이 Power Platform에서 앱을 개발할 수 있도록 해줍니다.
 
-  #### 대상 그룹 프로필
-  Dynamics 365 Customer Engagement 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
-prerequisitesSection: |-
-  본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 워크로드 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
-outlineSection: |-
-  ### 모듈 1&#58; 플랫폼 개요
-  본 모듈에서 학생들은 Power Platform의 기초를 학습합니다.  학생들은 다양한 관리자 포털 및 옵션 및 설치를 둘러봅니다.
-  #### 단원
+  이 과정에서는 전 세계적으로 인정받는 전문가가 학생에게 Power Platform에서 앱 빌드 준비를 위한 기본적인 지식을 설명합니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  Dynamics 365 Customer Engagement Functional Consultant는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션, 서비스 통합을 사용하여 솔루션을 구현합니다.
+prerequisitesSection: 이 과정은 Microsoft 365 Enterprise 관리자 역할을 원하며 Microsoft 365 워크로드 관리자 인증 경로 중 하나를 완료한 사람을 위해 고안되었습니다.
+outlineSection: >-
+  ### <a name="module--158-platform-overview"></a>모듈 1: 플랫폼 개요
+
+  이 모듈에서 학생은 Power Platform의 기본 사항에 대해 알아봅니다.  다양한 관리자 포털 및 옵션을 둘러보고 애플리케이션을 설치합니다.
+
+  #### <a name="lessons"></a>단원
+
   - 개요
+
   - Power Platform 환경 구성
-  - 애플리케이션 생성
+
+  - 애플리케이션 만들기
+
   - 검색 및 계획
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 일반 플랫폼 구성 요소 및 용도 식별
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 일반적인 플랫폼 구성 요소 및 용도 식별
 
 
-  ### 모듈 2&#58; 데이터 모델링
-  본 모듈에서는 플랫폼의 엔티티, 속성 및 관계를 사용한 효과적인 데이터 모델링 방법을 학습합니다.
-  #### 단원
-  - 데이터 모델 기본
+
+  ### <a name="module--258-data-modeling"></a>모듈 2: 데이터 모델링
+
+  이 모듈에서 학생은 플랫폼의 엔터티, 특성, 관계를 사용하여 데이터를 효과적으로 모델링하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 데이터 모델 기본 사항
+
   - 관계
-  - 다른 엔티티 옵션
-  - 다른 필드 옵션
+
+  - 기타 엔터티 옵션
+
+  - 기타 필드 옵션
+
   - 국제화
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 관계 및 엔티티 생성 및 사용
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 관계 및 엔터티 만들기 및 사용
 
 
-  ### 모듈 3&#58; 모델 기반 앱
-  본 모듈에서는 모델 기반 애플리케이션과 이를 구성하고 사용하는 법을 학습합니다.
-  #### 단원
+
+  ### <a name="module--358-model-driven-apps"></a>모듈 3: 모델 기반 앱
+
+  이 모듈에서 학생은 모델 기반 애플리케이션 및 이를 구성하고 사용하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 모델 기반 앱 구성
+
   - 모델 기반 양식 구성
-  - 뷰 구성
+
+  - 보기 구성
+
   - 모델 기반 차트 구성
+
   - 모델 기반 대시보드 구성
+
   - 보고서 구성
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 양식, 뷰, 대시보드 및 다른 사용자 경험 구성 요소 생성 및 수정
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 양식, 보기, 대시보드, 기타 사용자 환경 구성 요소 만들기 및 수정
 
 
-  ### 모듈 4&#58; 캔버스 앱
-  본 모듈에서는 캔버스 앱 생성 및 사용 방법과 캔버스 앱과 모델 기반 앱의 차이점을 학습합니다.
-  #### 단원
-  - 애플리케이션 기초
-  - 데이터와 서비스 작업
-  - 사용자 경험 사용자 지정
+
+  ### <a name="module--458-canvas-apps"></a>모듈 4: 캔버스 앱
+
+  이 모듈에서 학생은 캔버스 앱을 만들고 사용하는 방법과 캔버스 앱 및 모델 기반 앱 간 차이점에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 애플리케이션 기본 사항
+
+  - 데이터 및 서비스 사용
+
+  - 사용자 환경 사용자 지정
+
   - 모델 기반 앱과 통합
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 캔버스 앱 생성
-  - CDS 데이터 작업
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 캔버스 앱 만들기
+
+  - CDS 데이터 사용
 
 
-  ### 모듈 5&#58; 보안
-  본 모듈에서는 플랫폼 보안 모델을 사용해 사용자 경험 및 데이터와 기능에 대한 액세스를 관리하는 법을 학습합니다.
-  #### 단원
+
+  ### <a name="module--558-security"></a>모듈 5: 보안
+
+  이 모듈에서 학생은 플랫폼의 보안 모델이 사용자의 환경과 데이터 및 기능에 대한 액세스를 관리하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 보안 개요
+
   - 사업부
+
   - 보안 역할 관리
+
   - 팀 관리
+
   - 계층 구조 보안 구성
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 사업부 생성 및 사용
-  - 보안 역할 생성, 수정 및 사용
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - 사업부 만들기 및 사용
+
+  - 보안 역할 만들기, 수정, 사용

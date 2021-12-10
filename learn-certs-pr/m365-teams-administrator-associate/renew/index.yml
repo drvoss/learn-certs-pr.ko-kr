@@ -1,33 +1,30 @@
 ### YamlMime:CertificationRenewal
-title: 'Microsoft 365 Certified: Teams Administrator Associate 인증 갱신'
+title: 'Microsoft 365 Certified: Teams Administrator Associate 갱신'
 metadata:
-  title: 'Microsoft 365 Certified: Teams Administrator Associate 인증 갱신'
-  description: '이 인증이 있고 6개월 이내 만료되는 경우, 갱신할 수 있습니다.'
+  title: 'Microsoft 365 Certified: Teams Administrator Associate 갱신'
+  description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
+  ms.openlocfilehash: 7e2d5005ed46db99a79374552affb9b5ea4ec641
+  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "132112811"
 uid: renewal.m365-teams-administrator-associate
 certificationUid: certification.m365-teams-administrator-associate
-assessmentId: 86c62802-2f14-48b7-a59d-bdc184d9cca2 
+assessmentId: 86c62802-2f14-48b7-a59d-bdc184d9cca2
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  이 인증이 있고 6개월 이내 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Microsoft Teams 업데이트를 유지하고 있었음을 보여주십시오. 또한 큐레이션 된 학습 모듈 모음으로 갱신을 준비할 수 있습니다.
+summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Microsoft Teams 업데이트를 파악하고 있음을 보여 주세요. 학습 모듈의 큐레이팅된 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
 skills:
-- Teams를 위한 Microsoft Advisor를 사용하여 Teams 롤아웃
-- Microsoft Teams 관리
-- Microsoft Teams 환경 보안 시작
-- Microsoft Teams에서 보안 관리
-- Teams에서 위협에 대한 방어
-- Microsoft Teams에서 정보 보호
-- Teams에서 규정 준수 구현
-- Microsoft Teams에서 엔터프라이즈-등급 규정 준수 구성 
-- Microsoft Teams에서 엔터프라이즈-등급 보안 구성 
-- Teams 및 Microsoft 365를 위한 DLP
-- Microsoft Teams 공간 배포
-- Microsoft Teams 공간 관리
-- Teams 관리 센터 탐색
-- Microsoft Teams 회의 관리 및 보안
-- Microsoft Teams로 미팅, 회의 및 이벤트 관리
-- Microsoft Teams 통화 요금제 구현
-- 자동 안내 및 통화 대기를 사용하여 Microsoft Teams에서 통화 관리 
+- Manage access for external users
+- Implement compliance for Microsoft Teams
+- Configure and manage Microsoft Teams devices
+- Manage collaboration experiences for chat and channels
+- Manage meetings and virtual events experiences
+- Manage phone numbers
+- Manage Phone System for Microsoft Teams
+- Implement lifecycle management and governance for Microsoft Teams
+- Manage apps for Microsoft Teams
 examsPassed:
 - ms-700
 studyGuideDescription: '이 학습 모듈의 모음을 사용하여 Microsoft 365 Certified: Teams Administrator Associate renewal assessment를 준비하십시오.'

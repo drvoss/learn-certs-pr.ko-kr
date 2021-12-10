@@ -1,11 +1,17 @@
 ### YamlMime:Course
 title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
-  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  title: '과정 AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: '과정 AI-100T01-A: Designing and Implementing an Azure AI Solution'
   iltScheduling: true
+  ms.openlocfilehash: 00618f92fb8022e576bcd01032db006c77cb6c55
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107736"
 uid: course.ai-100t01
-courseNumber: 'AI-100T01-A'
+courseNumber: AI-100T01-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -19,71 +25,98 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 exams:
 - uid: exam.ai-100
-summary: |-
-  Azure Cognitive Service에서 사전 구축된 language understanding 및 AI 기능 등을 포함하는 Microsoft Azure 플랫폼의 인공지능을 사용하여 고객 지원 채팅 봇을 구성하여 Azure AI 솔루션 설계에 필요한 지식을 습득합니다.
-  #### 대상 그룹 프로필
-  본 과정은 Cloud Solution Architect, Azure 인공지능 설계자, AI 개발자를 대상으로 합니다.
-prerequisitesSection: |-
-  성공적인 Azure AI 엔지니어들은 클라우드 기술에 대한 전문 경험과 소프트웨어 개발 키트에 대한 경험으로 이 역할을 시작합니다.
-  
-  구체적으로&#58;
-  - C# 또는 Python에서 솔루션 구현
-  - 클라우드에서 애플리케이션 개발
-  - Azure 저장 기술 이해
+summary: >-
+  Azure Cognitive Services의 언어 이해 및 미리 빌드된 AI 기능을 포함하는 Microsoft Azure 플랫폼에서 인공 지능을 통해 고객 지원 챗봇을 빌드하여 Azure AI 솔루션을 디자인하는 데 필요한 지식을 습득하세요.
 
-  이러한 필수 기술을 습득하려면, 과정에 참석하기 전에 다음 무료 온라인 교육을 수강하십시오&#58;
-  - [Microsoft Azure cloud 개념 탐색](/learn/paths/explore-microsoft-azure-cloud-concepts/)
-  - [C# 첫걸음](/learn/paths/csharp-first-steps/) ou [Python 첫걸음](/learn/paths/python-first-steps/)
-  - [Core Cloud Services –  Azure 소개](/learn/modules/welcome-to-azure/)
-  - [Core Cloud Services – Azure 컴퓨팅 옵션](/learn/modules/intro-to-azure-compute/)
-  
-  AI 서비스를 완전히 처음 사용하는 경우, [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)를 먼저 완료하십시오.
-outlineSection: |-
-  ### 모듈 1&#58; Azure Cognitive Services 소개
-  Microsoft Azure에서 사용할 수 있는 Cognitive Service와 AI 솔루션 아키텍트 역할에 대해 설명합니다.
-  #### 단원
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  이 과정은 클라우드 솔루션 설계자, Azure 인공 지능 디자이너, AI 개발자를 대상으로 합니다.
+prerequisitesSection: "성공적인 Azure AI 엔지니어는 클라우드 기술에 대한 전문 경험 및 소프트웨어 개발 키트 사용 경험을 바탕으로 이 역할을 시작합니다.  \n\n구체적으로는 다음과 같습니다.\n-   C# 또는 Python에서 솔루션 구현\n-   클라우드에서 애플리케이션 개발\n-   Azure 스토리지 기술 이해  \n\n이러한 필수 조건 기술을 배우려면 과정에 참여하기 전에 다음 무료 온라인 교육을 수강하세요.\n-   [Microsoft Azure 클라우드 개념 살펴보기](/learn/paths/explore-microsoft-azure-cloud-concepts/)\n-   [C#으로 첫 번째 단계 수행](/learn/paths/csharp-first-steps/) 또는 [Python으로 첫 번째 단계 수행](/learn/paths/python-first-steps/)\n-   [핵심 클라우드 서비스 – Azure 소개](/learn/modules/welcome-to-azure/)\n-   [핵심 클라우드 서비스 – Azure 컴퓨팅 옵션](/learn/modules/intro-to-azure-compute/)  \n\nAzure AI 서비스를 처음 사용하는 경우 먼저 [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)를 완료하세요."
+outlineSection: >-
+  ### <a name="module--158-introducing-azure-cognitive-services"></a>모듈 1: Azure Cognitive Services 소개
+
+  학생은 Microsoft Azure에서 사용 가능한 Cognitive Services와 AI 솔루션 설계에서의 자신의 역할에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - Azure Cognitive Services 개요
-  - Azure Portal에서 Cognitive Services 생성
-  - Cognitive Services 액세스 및 테스트
-  ### 모듈 2&#58; 봇 생성
-  Microsoft Bot Framework 및 Bot Services에 대해 설명합니다.
-  #### 단원
+
+  - Azure Portal에서 인지 서비스 만들기
+
+  - 인지 서비스 액세스 및 테스트
+
+
+
+  ### <a name="module--258-creating-bots"></a>모듈 2: 봇 만들기
+
+  학생은 Microsoft Bot Framework 및 Bot Service에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - Bot Service 소개
-  - Basic Chat Bot 생성
-  - Bot 에뮬레이터에 의한 테스트
+
+  - 기본 챗봇 만들기
+
+  - 봇 에뮬레이터를 사용하여 테스트
 
 
-  ### 모듈 3&#58; QnA Maker를 통한 봇 강화
-  QnA Maker와 봇 및 QnA Maker를 통합하여 사용자 상호 작용을 위한 유용한 지식 기반을 구축하는 방법을 설명합니다.
-  #### 단원
+
+  ### <a name="module--358-enhancing-bots-with-qna-maker"></a>모듈 3: QnA Maker를 사용하여 봇 향상
+
+  학생은 QnA Maker와 봇 및 QnA Maker를 통합하여 사용자 상호 작용을 위해 유용한 기술 자료를 구축하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - QnA Maker 소개
-  - QnA Maker로 기술 자료 구현
+
+  - QnA Maker를 사용하여 기술 자료 구현
+
   - QnA를 봇과 통합
 
 
-  ### 모듈 4&#58; LUIS로 Language Understanding 기능을 만드는 방법 설명
-  LUIS(Language Understance with Intents and Utterance) 및 자연스러운 언어 처리 솔루션을 지원하기 위한 의도와 발언 작성 방법에 대해 설명합니다.
-  #### 단원
+
+  ### <a name="module--458--learn-how-to-create-language-understanding-functionality-with-luis"></a>모듈 4: LUIS를 사용하여 Language Understanding 기능을 만드는 방법 알아보기
+
+  학생은 LUIS(의도 및 발화)를 사용하는 Language Understanding과 자연어 처리 솔루션을 지원하기 위해 의도 및 발화를 만드는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - Language Understanding 소개
-  - 새 LUIS Service 생성
-  - LUIS 구성
+
+  - 새로운 LUIS 서비스 만들기
+
+  - LUIS 빌드
 
 
-  ### 모듈 5&#58; LUIS로 봇 강화
-  LUIS와 봇을 통합하여 봇과 상호작용할 때 사용자의 의도를 더 잘 이해할 수 있는 방법을 설명합니다.
-  #### 단원
-  - AI 애플리케이션에 대한 language understanding 개요
-  - LUIS과 봇을 통합하여 AI 기반 솔루션 생성
+
+  ### <a name="module--558-enhancing-your-bots-with-luis"></a>모듈 5: LUIS를 사용하여 봇 향상
+
+  학생은 봇과 상호 작용할 때 사용자의 의도를 더 잘 이해하기 위해 LUIS를 봇과 통합하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - AI 애플리케이션을 위한 언어 이해 개요
+
+  - LUIS와 봇을 통합하여 AI 기반 솔루션 만들기
 
 
-  ### 모듈 6&#58; Cognitive Services를 봇 및 에이전트와 통합
-  감성 분석, 이미지 및 텍스트 분석, OCR 및 대상 검색과 같은 고급 기능을 위해 봇과 에이전트를 Azure Cognitive Services 와 통합하는 방법을 설명합니다.
-  #### 단원
-  - Bot Interaction를 위한 Cognitive Services 이해
-  - 텍스트 분석을 통해 봇에 대한 감정 분석 수행
-  - Language Cognitive Services을 통한 봇에서의 언어 검색
-  - 봇과 Computer Vision 통합
+
+  ### <a name="module--658-integrate-cognitive-services-with-bots-and-agents"></a>모듈 6: Cognitive Services를 봇 및 에이전트와 통합
+
+  학생은 감정 분석, 이미지 및 텍스트 분석, OCR 및 개체 감지와 같은 고급 기능을 위한 봇 및 에이전트와 Azure Cognitive Services의 통합에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 봇 상호 작용을 위한 Cognitive Services 이해
+
+  - Text Analytics를 사용하여 봇에 대한 감정 분석 수행
+
+  - 언어 Cognitive Services를 사용하여 봇에서 언어 감지
+
+  - Computer Vision을 봇과 통합

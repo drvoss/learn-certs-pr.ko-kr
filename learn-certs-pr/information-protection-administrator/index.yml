@@ -2,22 +2,30 @@
 title: 'Microsoft Certified: Information Protection Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Information Protection Administrator Associate'
-  description: 정보 보호 관리자는 조직의 규정 준수 요구에 맞는 제어를 계획하고 구현합니다. 이 사람은 요구 사항 및 규정 준수 제어를 기술 구현으로 변환하는 것을 담당합니다. 그들은 조직 관리 소유자가 규정을 준수하고 유지하도록 지원합니다.
-uid: certification.information-protection-administrator 
+  description: Information Protection 관리자는 조직의 규정 준수 요구 사항을 충족하는 제어를 계획하고 구현합니다. 해당 관리자는 요구 사항 및 규정 준수 제어를 기술 구현으로 변환할 책임이 있습니다. 조직 제어 소유자가 정책을 준수하고 이를 유지하도록 지원합니다.
+  ms.openlocfilehash: 9363c694dbc4f02864dae0954bcd9a2152375543
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105600"
+uid: certification.information-protection-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  정보 보호 관리자는 조직의 규정 준수 요구에 맞는 제어를 계획하고 구현합니다. 이 사람은 요구 사항 및 규정 준수 제어를 기술 구현으로 변환하는 것을 담당합니다. 그들은 조직 관리 소유자가 규정을 준수하고 유지하도록 지원합니다.
-  
-  그들은 정보 기술(IT) 직원, 비즈니스 애플리케이션 소유자들, 인사부 및 법적 이해관계자들과 협력하여 조직의 규제 요건을 충분히 해결하는 데 필요한 정책과 통제를 지원하는 기술을 구현합니다. 또한 최고 규정 준수 책임자 및 보안 책임자와 같은 규정 준수 및 보안 리더십과 협력하여 관련 엔터프라이즈 위험 및 파트너의 전체 범위를 평가하고 이러한 정책을 개발합니다.  
-  
-  이 사람은 이러한 정책 및 제어에 대한 적용 가능한 요구 사항을 정의하고 IT 프로세스 및 운영을 테스트합니다. 그들은 콘텐츠 분류, 데이터 손실 방지, 거버넌스 및 보호에 대한 정책 및 규칙을 만드는 것을 담당합니다. 
-subTitle: 정보 보호 관리자는 조직의 규정 준수 요구에 맞는 제어를 계획하고 구현합니다. 이 사람은 요구 사항 및 규정 준수 제어를 기술 구현으로 변환하는 것을 담당합니다. 그들은 조직 관리 소유자가 규정을 준수하고 유지하도록 지원합니다.
+summary: >-
+  Information Protection 관리자는 조직의 규정 준수 요구 사항을 충족하는 제어를 계획하고 구현합니다. 해당 관리자는 요구 사항 및 규정 준수 제어를 기술 구현으로 변환할 책임이 있습니다. 조직 제어 소유자가 정책을 준수하고 이를 유지하도록 지원합니다.
+
+
+  IT(정보 기술) 직원, 비즈니스 애플리케이션 소유자, 인사 관리, 법률 관련자와 협업하여 조직에 대한 규정 요구 사항에 충분히 대응하는 데 필요한 정책 및 제어를 지원하는 기술을 구현합니다. 또한 최고 규정 준수 책임자와 보안 책임자 등 규정 준수 및 보안 경영진과 협업하여 전체적인 엔터프라이즈 위험 및 파트너를 평가하고 정책을 개발합니다.
+
+
+  이 사람은 해당 요구 사항을 정의하고 해당 정책 및 제어에 대한 IT 프로세스 및 운영을 테스트합니다. 콘텐츠 분류, 데이터 손실 방지, 거버넌스, 보호에 대한 정책 및 규칙을 만들 책임이 있습니다.
+subTitle: Information Protection 관리자는 조직의 규정 준수 요구 사항을 충족하는 제어를 계획하고 구현합니다. 해당 관리자는 요구 사항 및 규정 준수 제어를 기술 구현으로 변환할 책임이 있습니다. 조직 제어 소유자가 정책을 준수하고 이를 유지하도록 지원합니다.
 levels:
 - intermediate
 skills:
-- 정보 보호 구현 
-- 데이터 손실 방지 구현 
-- 정보 거버넌스 구현 
+- Implement information protection
+- Implement data loss prevention
+- Implement information governance
 roles:
 - administrator
 - ip-admin
@@ -41,19 +49,19 @@ exams:
 resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

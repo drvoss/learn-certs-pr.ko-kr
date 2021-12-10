@@ -1,15 +1,21 @@
 ### YamlMime:Course
 title: 'Dynamics 365: Power Platform integrations'
 metadata:
-  title: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
-  description: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
+  title: '과정 MB-200T03-A: Dynamics 365: Power Platform integrations'
+  description: '과정 MB-200T03-A: Dynamics 365: Power Platform integrations'
+  ms.openlocfilehash: d57c303f70a43eb4d5effc05b0da4fbe6e8e049c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107445"
 uid: course.mb-200t03
-courseNumber: 'MB-200T03-A'
+courseNumber: MB-200T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 주요 통합 시나리오 식별.
-- skill: 통합된 이메일 구성 및 사용.
+- skill: 통합 메일 구성 및 사용.
 - skill: Outlook 통합 구성 및 사용.
 - skill: 추가 Office 통합 구성 및 사용.
 - skill: 데이터 가져오기 및 내보내기.
@@ -21,57 +27,94 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
-  Microsoft Power Platform은 일상 업무 자동화 및 모범 사례 표준화를 통해 조직의 운영 최적화를 지원합니다. 이 교육에서는 Microsoft Dynamics 365 및 Power Platform 기능 개요를 높은 수준으로 제공하고 다른 Microsoft Dynamics 365 및 Power Platform 교육 강의의 토대를 제공합니다.
-  본 과정에서는 국제적인 공인 전문가가 학생들에게 이용 가능한 다양한 통합 옵션과 실무에서 사용하는 방법을 설명합니다.
-  #### 대상 그룹 프로필
-  Dynamics 365 Customer Engagement 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용한 솔루션을 구현합니다.
-prerequisitesSection: |-
-  비즈니스 애플리케이션을 잘 알고 있으며 비즈니스에 맞게 사용자 지정하고 구현하려는 욕구.
-outlineSection: |-
-  ### 모듈 1&#58; 통합 소개
-  본 모듈에서는 Power Platform 통합 기능 기초와 이메일 통합 구성 및 사용 방법을 학습합니다.
-  #### 단원
+summary: >-
+  Microsoft Power Platform은 일상 업무 자동화 및 모범 사례 표준화를 통해 조직의 운영 최적화를 지원합니다. 본 교육에서는 Microsoft Dynamics 365 및 Power Platform 기능 개요를 높은 수준으로 제공하고 다른 Microsoft Dynamics 365 및 Power Platform 교육 강의의 토대를 제공합니다.
+
+
+  이 과정에서는 전 세계적으로 인정받는 전문가가 학생에게 사용 가능한 다양한 통합 옵션과 이를 실제 시나리오에서 사용하는 방법을 안내합니다.
+
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
+  Dynamics 365 Customer Engagement Functional Consultant는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션, 서비스 통합을 사용하여 솔루션을 구현합니다.
+prerequisitesSection: 비즈니스 애플리케이션에 대한 이해 및 비즈니스를 위해 애플리케이션을 사용자 지정하고 구현하려는 의지.
+outlineSection: >-
+  ### <a name="module--158-introduction-to-integrations"></a>모듈 1: 통합 소개
+
+  이 모듈에서 학생은 Power Platform 통합 기능의 기본 사항과 메일 통합을 구성하고 사용하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 일반 시나리오 개요
-  - 이메일 통합
+
+  - 메일 통합
+
   - Outlook 통합
-  - 모듈 요약
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 일반 통합 식별
-  - 이메일 통합 구성 및 사용
 
-  ### 모듈 2&#58; Office와 통합
-  본 모듈에서는 OneNote, Word 및 Excel 등 일반 Office 제품과 통합하는 방법을 학습합니다.
-  #### 단원
+  - 모듈 요약
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+  - 일반적인 통합 식별
+
+  - 메일 통합 구성 및 사용
+
+
+
+  ### <a name="module--258-integration-with-office"></a>모듈 2: Office와 통합
+
+  이 모듈에서 학생은 일반적인 Office 제품과 통합하여 OneNote, Word, Excel을 포함하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 템플릿
+
   - SharePoint
+
   - Microsoft Teams
+
   - 추가 통합
+
   - 모듈 요약
 
-  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Office 제품과 통합 구성 및 사용
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Office 제품과의 통합 구성 및 사용
 
 
-  ### 모듈 3&#58; 데이터 관리
-  본 모듈에서는 Power Platform 용 데이터 가져오기, 내보내기 및 데이터 맵을 생성하고 사용하는 방법을 학습합니다.
-  #### 단원
+
+  ### <a name="module--358-managing-data"></a>모듈 3: 데이터 관리
+
+  이 모듈에서 학생은 Power Platform에 대한 데이터를 가져오고 내보내며 데이터 맵을 만들고 사용하는 방법에 대해 알아봅니다.
+
+  #### <a name="lessons"></a>단원
+
   - 데이터 개요 관리
+
   - 중복 검색
+
   - 데이터 가져오기
+
   - 데이터 내보내기
+
   - 대량 삭제
+
   - 모듈 요약
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 데이터 가져오기 및 내보내기
-  - 데이터 맵 생성 및 사용
-  - 대량 삭제 수행
 
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+  - 데이터 가져오기 및 내보내기
+
+  - 데이터 맵 만들기 및 사용
+
+  - 대량 삭제 수행

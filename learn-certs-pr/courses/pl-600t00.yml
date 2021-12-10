@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Power Platform Solution Architect
 metadata:
-  title: 'Course PL-600T00--A: Power Platform Solution Architect'
-  description: 'Course PL-600T00--A: Power Platform Solution Architect'
+  title: '과정 PL-600T00--A: Power Platform Solution Architect'
+  description: '과정 PL-600T00--A: Power Platform Solution Architect'
+  ms.openlocfilehash: d012def64ad515d62a57b5b22fb1b7c8cbefc667
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107005"
 uid: course.pl-600t00
-courseNumber: 'PL-600T00'
+courseNumber: PL-600T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -18,210 +24,313 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-600
-summary: |-
-  솔루션 아키텍트는 전체 솔루션의 성공적인 디자인, 구현, 배포 및 채택을 담당합니다. 솔루션 아키텍트는 솔루션이 현재와 미래의 고객 요구를 충족하도록 보장합니다. 이 과정에서는, 학생들이 보안, 통합, Power Apps 아키텍터, Power Automate 아키텍처, 및 그 이상을 포함하여 솔루션 아키텍트가 구현 중에 내리는 결정에 대해서 배웁니다. 이 과정은 솔루션 아키텍트 역할에 대한 소개를 제공하도록 디자인 되었습니다. 
+summary: >-
+  솔루션 설계자는 전체 솔루션의 성공적인 설계, 구현, 배포 및 활용을 담담합니다. 솔루션 설계자는 솔루션을 사용하여 현재와 미래의 고객 요구 사항을 충족하도록 보장합니다. 본 과정에서는 보안, 통합, Power Apps 아키텍처, Power Automate 아키텍처 등을 포함한 구현을 진행하는 동안 솔루션 설계자가 내리는 의사 결정에 대해 설명합니다 본 과정은 솔루션 설계자 역할을 소개하기 위한 과정입니다.
 
-  #### 구독자 프로필
-  솔루션 아키텍트를 열망하는 선임 컨설턴트들 (기능 및 기술 모두), 또는 처음 역할을 접하는 현재 솔루션 아키텍트들 입니다.
-outlineSection: |-
-  ### 모듈 1&#58; 솔루션 아키텍트 되기/ 고객에 대해 알아보기
 
-  #### 레슨
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  *   솔루션 아키텍트의 정의
 
-  *   프로젝트에서 솔루션 아키텍트의 역할 
+  솔루션 아키텍트는 전체 솔루션의 성공적인 디자인, 구현, 배포 및 채택을 담당합니다. 솔루션 아키텍트는 솔루션이 현재와 미래의 고객 요구를 충족하도록 보장합니다. 이 과정에서는, 학생들이 보안, 통합, Power Apps 아키텍터, Power Automate 아키텍처, 및 그 이상을 포함하여 솔루션 아키텍트가 구현 중에 내리는 결정에 대해서 배웁니다. 이 과정은 솔루션 아키텍트 역할에 대한 소개를 제공하도록 디자인 되었습니다.
+outlineSection: >-
+  ### <a name="module-1-becoming-a-solution-architectgetting-to-know-your-customer"></a>모듈 1: 솔루션 설계자 되기/고객 파악
 
-  *   프로젝트 방법론 
 
-  *   고객에 대해 알아보기 
+  #### <a name="lessons"></a>단원
 
-  *   그룹 연습 - 고객에 대해 알아보기 
 
-  ### 모듈 2&#58; 요구 사항으로부터 디자인 개념화하기
+  *   솔루션 설계자 정의
 
-  #### 레슨
 
-  *   요구 사항 수집 노력을 주도하는 방법
+  *   프로젝트에서 솔루션 설계자의 역할
 
-  *   핏갭 분석 사용하기
 
-  *   좋은 아키텍처의 필러
+  *   프로젝트 방법론
 
-  *   솔루션 아키텍처의 청사진 
 
-  *   그룹 연습 - 요구 사항으로 부터 디자인
+  *   고객 파악
 
-  ### 모듈 3&#58; 프로젝트 거버넌스 및 팀 작업 
 
-  #### 레슨
+  *   그룹 연습 - 고객 파악
 
-  *   프로젝트 거버넌스에서 솔루션 아키텍트의 역할 
 
-  *   프로젝트를 궤도에 유지하기 위한 기술 
+  ### <a name="module-2-conceptualizing-the-design-from-requirements"></a>모듈 2: 요구 사항에서 디자인 개념화
 
-  *   프로젝트 실패를 유발할 수 있는 시나리오
 
-  *   그룹 연습 - 프로젝트 거버넌스 및 팀으로 작업 
+  #### <a name="lessons"></a>단원
 
-  ### 모듈 4&#58; Power Platform Architecture
 
-  #### 레슨
+  *   요구 사항 수집 활동을 이끄는 방법
 
-  *   핵심 Power Platform 아키텍처 구성 요소
 
-  *   플랫폼 디자인 및 제한이 솔루션 아키텍처에 미치는 영향에 대한 이해 
+  *   Fit-Gap 분석 사용
 
-  *   업데이트 및 기능 출시
 
-  *   플랫폼이 고객의 요구를 충족시키는 방법을 전달하는 방법 이해 
+  *   좋은 아키텍처의 핵심 요소
 
-  ### 모듈 5&#58; 데이터 모델링 
 
-  #### 레슨
+  *   솔루션 아키텍처 청사진 만들기
 
-  *   데이터 모델 영향 
+
+  *   그룹 연습 - 요구 사항을 바탕으로 디자인
+
+
+  ### <a name="module-3-project-governance-and-working-as-a-team"></a>모듈 3: 프로젝트 거버넌스 및 팀으로 작업
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   프로젝트 거버넌스에서 솔루션 설계자의 역할
+
+
+  *   프로젝트를 순조롭게 진행하는 기술
+
+
+  *   프로젝트 실패의 원인이 될 수 있는 시나리오
+
+
+  *   그룹 연습 - 프로젝트 거버넌스 및 팀으로 작업
+
+
+  ### <a name="module-4-power-platform-architecture"></a>모듈 4: Power Platform 아키텍처
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   주요 Power Platform 아키텍처 구성 요소
+
+
+  *   플랫폼 디자인 및 제한 사항이 솔루션 아키텍처에 미치는 영향 이해
+
+
+  *   업데이트 및 기능 릴리스
+
+
+  *   플랫폼에서 고객 요구 사항을 충족하도록 소통하는 방법 이해
+
+
+  ### <a name="module-5-data-modeling"></a>모듈 5: 데이터 모델링
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   데이터 모델 영향
+
 
   *   데이터 모델 전략
 
-  *   데이터 유형
+
+  *   데이터 형식
+
 
   *   데이터 관계
 
+
   *   그룹 연습 - 데이터 모델링
 
-  ### 모듈 6&#58; 분석적이고 인공적인 지능
 
-  #### 레슨
+  ### <a name="module-6-analytics-and-artificial-intelligence"></a>모듈 6: 분석 및 인공 지능
 
-  *   요구 사항 계획 및 평가하기 
 
-  *   운영 보고하기
+  #### <a name="lessons"></a>단원
+
+
+  *   요구 사항 계획 및 평가
+
+
+  *   작업 보고
+
 
   *   Power BI
 
-  *   Enterprise BI
 
-  *   사전-구축된 통찰력 및 맞춤형 AI
+  *   엔터프라이즈 BI
 
-  ### 모듈 7&#58; Power Apps Architecture
 
-  #### 레슨
+  *   미리 빌드된 인사이트 및 사용자 지정 AI
 
-  *   앱에 대한 옵션 및 시작 위치를 선택하는 방법에 대한 논의 
 
-  *   앱 구성 옵션 논의
+  ### <a name="module-7-power-apps-architecture"></a>모듈 7: Power Apps 아키텍처
 
-  *   앱 아키텍처의 부분으로 구성 요소 사용하기
 
-  *   아키텍처에서 포털을 앱으로 포함하기 위한 고려 사항 
+  #### <a name="lessons"></a>단원
 
-  *   그룹 연습 - Power Apps Architecture 주제
 
-  ### 모듈 8&#58; 애플리케이션 수명 주기 관리 (ALM)
+  *   앱 옵션 및 시작 위치 선택 방법 설명
 
-  #### 레슨
 
-  *   ALM에서 Microsoft 비전 및 솔루션 아키텍트의 역할
+  *   앱 컴퍼지션 옵션 설명
+
+
+  *   앱 아키텍처의 일부로 구성 요소 사용
+
+
+  *   아키텍처에서 Portal을 앱으로 포함할 때 고려 사항
+
+
+  *   그룹 연습 - Power Apps 아키텍처 항목
+
+
+  ### <a name="module-8-application-lifecycle-management-alm"></a>모듈 8: ALM(애플리케이션 수명 주기 관리)
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Microsoft의 비전 및 ALM에서 솔루션 설계자의 역할
+
 
   *   환경 전략
 
-  *   제품을 위한 솔루션 구조 정의하기 
 
-  #### 랩 &#58; ALM 실습 랩
+  *   결과물을 위한 솔루션 구조 정의
+
+
+  #### <a name="lab--alm-hands-on-lab"></a>랩: ALM 실습 랩
+
 
   ####
 
-  ### 모듈 9&#58; Power Automate Architecture
 
-  #### 레슨
+  ### <a name="module-9-power-automate-architecture"></a>모듈 9: Power Automate 아키텍처
 
-  *   자동화 및 맞춤형 로직에 대한 옵션 논의 
 
-  *   트리거 및 일반 작업을 사용하기 위한 고려 사항 검토 
+  #### <a name="lessons"></a>단원
 
-  *   비즈니스 프로세스 흐름 (BPF)을 사용하여 사용자에게 비즈니스 프로세스를 통해 안내하는 것을 살펴봅니다.
 
-  *  그룹 연습 - Power Automate 사용에 대한 시나리오 평가
+  *   자동화 및 사용자 지정 논리 옵션 설명
 
-  ### 모듈 10&#58; 보안 모델링
 
-  #### 레슨
+  *   트리거 및 일반 작업을 사용을 위한 고려 사항 검토
 
-  *   보안 모델링에서 솔루션 아키텍트의 역할 
 
-  *   클라이언트의 환경 발견 및 학습 
+  *   비즈니스 프로세스를 통해 사용자에게 안내하기 위해 BPF(비즈니스 프로세스 흐름)를 사용하여 살펴보기
 
-  *   환경 및 리소스에 대한 접근 제어하기 
 
-  *   CDS 데이터에 대한 접근 제어하기 
+  *   그룹 연습 - Power Automate 사용량 시나리오 평가
+
+
+  ### <a name="module-10-security-modeling"></a>모듈 10: 보안 모델링
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   보안 모델링에서 솔루션 설계자의 역할
+
+
+  *   클라이언트 환경 검색 및 알아보기
+
+
+  *   환경 및 리소스에 대한 액세스 제어
+
+
+  *   CDS 데이터에 대한 액세스 제어
+
 
   *   그룹 연습 - 보안 모델링
 
-  ### 모듈 11&#58; 통합
 
-  #### 레슨
+  ### <a name="module-11-integration"></a>모듈 11: 통합
 
-  *   통합에서 솔루션 아키텍트 역할
 
-  *   통합이랑 무엇이며 왜 필요한가
+  #### <a name="lessons"></a>단원
 
-  *   통합을 가능하게 하는 플랫폼 기능 
+
+  *   통합에서 솔루션 설계자의 역할
+
+
+  *   통합의 개념과 필요성
+
+
+  *   통합을 사용 설정하는 플랫폼 기능
+
 
   *   CDS 이벤트 게시
 
-  *   그룹 논의를 위한 시나리오
 
-  ### 모듈12&#58; Dynamics 365 Applications Architecture
+  *   그룹 토론을 위한 시나리오
 
-  #### 레슨
 
-  *   Dynamics 365 앱 배포 시 솔루션 아키텍트의 역할
+  ### <a name="module-12-dynamics-365-applications-architecture"></a>모듈 12: Dynamics 365 애플리케이션 아키텍처
 
-  *   기본 앱에 대한 아키텍처 고려 사항
 
-  *   그룹 연습 - 앱 특정 작업 그룹이 요구 사항을 평가 
+  #### <a name="lessons"></a>단원
 
-  ### 모듈 13&#58; Power Virtual Agents 아키텍처
 
-  #### 레슨
+  *   Dynamics 365 앱을 배포할 때 솔루션 설계자의 역할
+
+
+  *   기본 앱을 위한 아키텍처 고려 사항
+
+
+  *   그룹 연습 - 앱별 작업 그룹에서 요구 사항 평가
+
+
+  ### <a name="module-13-power-virtual-agents-architecture"></a>모듈 13: Power Virtual Agents 아키텍처
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   소개
+
 
   *   챗봇 옵션
 
+
   *   챗봇 개념
+
 
   *   모범 사례
 
+
   *   챗봇 통합
+
 
   *   Microsoft Teams의 Power Virtual Agents
 
-  ### 모듈 14&#58; 로봇 프로세스 자동화 
 
-  #### 레슨
+  ### <a name="module-14-robotic-process-automation"></a>모듈 14: 로보틱 프로세스 자동화
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   소개
 
+
   *   Power Automate Desktop
 
-  *   녹음 및 편집 작업
+
+  *   작업 기록 및 편집
+
 
   *   데스크톱 흐름 실행
 
-  *   프로세스 조언자
 
-  ### 모듈 15&#58; 테스트 및 실행
+  *   프로세스 관리자
 
-  #### 레슨
 
-  *   테스트 및 실행에 대한 솔루션 아키텍트의 역할
+  ### <a name="module-15-testing-and-go-live"></a>모듈 15: 테스트 및 라이브 전환
 
-  *   테스트 계획하기 
 
-  *   실행 계획하기
+  #### <a name="lessons"></a>단원
 
-  #### 추가 자료
+
+  *   테스트 및 라이브 전환에서 솔루션 설계자의 역할
+
+
+  *   테스트 계획
+
+
+  *   라이브 전환 계획
+
+
+  #### <a name="additional-reading"></a>추가 자료
+
 
   https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

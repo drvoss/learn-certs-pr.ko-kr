@@ -3,36 +3,46 @@ title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
   title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
   description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  ms.openlocfilehash: afc6fb2a93ee6e2745b3b4e66bd346dba3763630
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105813"
 uid: exam.mb-500
 displayName: MB-500
-summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 4월 2일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  
-  이 시험의 응시자들은 비즈니스 요구사항에 맞춰 애플리케이션을 구현하고 확장하기위해 Microsoft Dynamics 365의 재무 및 운영 앱으로 작업하는 개발자입니다. 응시자들은 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능, 및 외부 통합을 사용하여 완전히 실현된 솔루션을 제공합니다. 
-  
-  응시자들은 X++를 사용하여 비즈니스 로직을 개발하고, 재무 및 운영 보고서와 작업 영역을 만들고 수정하며, 사용자 인터페이스를 사용자 지정하고, Power Platform 앱과 외부 시스템을 지원하는 엔드 포인트 및 APIs를 제공하고, 테스트를 수행하고, 성능을 모니터링하고, 데이터를 분석 및 조작하고, 기술 디자인을 만들고 세부사항을 구현하고, 허가 정책 및 보안 요구사항을 구현합니다.
-  
-  응시자들은 기본 프레임워크, 데이터 구조 및 재무 및 운영 솔루션과 관련된 개체를 사용하는 깊은 지식과 경험이 있어야합니다.
-  
-  응시자들은 Visual Studio, Azure DevOps, Lifecycle Services (LCS) 도구, 및 SQL Server Management Studio를 포함하는 제품에 대한 경험이 있어야합니다. 
-subTitle: '본 시험은 아키텍처 계획 및 솔루션 디자인, 개발 도구 적용, AOT 요소 디자인 및 개발, 코드 개발 및 테스트, 보고 구현, 데이터 솔루션 통합 및 관리, 보안 구현 및 성능 최적화와 같은 기술적 작업을 수행할 수 있는 능력을 측정합니다.'
+summary: >-
+  <div><font color='red'><strong>이 시험의 내용은 2021년 4월 2일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
+  이 시험의 응시자는 Microsoft Dynamics 365의 Finance and Operations 앱을 사용하여 비즈니스 요구 사항을 충족하는 애플리캐이션을 구현 및 확장하는 개발자입니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 현실화된 솔루션을 제공해야 합니다.
+
+
+  응시자는 X++를 사용하여 비즈니스 논리를 개발하고, Finance and Operations 보고서와 작업 영역을 만들고 수정하고, 사용자 인터페이스를 사용자 지정하고, Power Platform 앱 및 외부 시스템을 지원하기 위해 엔드포인트 및 API를 제공하고, 테스트를 수행하고, 성능을 모니터링하고, 데이터를 분석하고 조작하고, 기술 디자인과 구현 세부 정보를 만들고, 권한 정책 및 보안 요구 사항을 구현합니다.
+
+
+  응시자는 재무 및 운영 솔루션과 관련된 기본 프레임워크, 자료 구조 및 객체의 사용에 대한 깊은 지식과 경험이 있어야 합니다.
+
+
+  &lt;div&gt;&lt;font color='red'&gt;&lt;strong&gt;이 시험의 내용은 2021년 4월 2일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.&lt;/strong&gt;&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;
+subTitle: 이 시험은 아키텍처 및 솔루션 디자인 계획, 개발자 도구 적용, AOT 요소 디자인 및 개발, 코드 개발 및 테스트, 보고 구현, 데이터 솔루션 통합 및 관리, 보안 구현 및 성능 최적화와 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 4월 2일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 아키텍처 계획 및 솔루션 디자인 (10-15%)
-- 개발 도구 적용 (10-15%)
-- AOT 요소 디자인 및 개발 (20-25%)
-- 코드 개발 및 테스트 (10-15%)
-- 보고 구현 (10-15%)
-- 데이터 솔루션 통합 및 관리 (10-15%)
-- 보안 구현 및 성능 최적화 (10-15%)
+- The content of this exam was updated on April 2, 2021. Please download the exam skills outline below to see what changed.
+- Plan architecture and solution design (10-15%)
+- Apply developer tools (10-15%)
+- Design and develop AOT elements (20-25%)
+- Develop and test code (10-15%)
+- Implement reporting (10-15%)
+- Integrate and manage data solutions (10-15%)
+- Implement security and optimize performance (10-15%)
 roles:
 - developer
 products:
@@ -56,7 +66,7 @@ resources:
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
@@ -68,12 +78,11 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

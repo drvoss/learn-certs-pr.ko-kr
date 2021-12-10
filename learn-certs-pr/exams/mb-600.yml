@@ -1,21 +1,32 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
+title: Microsoft Dynamics 365 + Power Platform Solution Architect
 metadata:
-  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
-  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  title: '시험 MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: '시험 MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  ms.openlocfilehash: 7557cd2511d0d6803880cda8cb4c518a147b49ae
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105805"
 uid: exam.mb-600
 displayName: MB-600
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험은 2021년 6월 30일 중단되었습니다. 이 시험의 새로운 버전인, PL-600, 이 가능합니다. 더 자세한 내용은, <a href="/learn/certifications/exams/pl-600">PL-600</a> 시험 세부 정보 페이지를 참조하십시오.</strong></font><br/><br/></div>
+
+  <div><font color='red'><strong>이 시험은 2021년 6월 30일에 폐지되었습니다. 이 시험의 새 버전인 PL-600에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/pl-600">PL-600</a> 시험 세부 정보 페이지를 참조하세요.</strong></font><br/><br/></div>
+
   </div>
-  
-  Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.
-  
-  솔루션 아키텍처는 Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing 및 Dynamics 365 Sales, 관련 Microsoft 클라우드 솔루션 및 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 아키텍처는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 아키텍처는 사전에 예방적 작업을 수행하여 고객의 투자 가치를 높이고 조직 상태의 수준을 올립니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
-  
-  솔루션 아키텍처는 Dynamics 365에서 Power Platform 및 모델 기반 앱의 기능 및 기술 분야 전반에 대한 경험이 있어야 합니다. 솔루션 아키텍처는 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에서 디자인 결정을 쉽게 내릴 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
-subTitle: '본 시험은 솔루션 구상 및 요구사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술적 작업을 수행할 수 있는 능력을 측정합니다.'
+
+
+  Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중점을 둡니다.
+
+
+  솔루션 설계자는 Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing 및 Dynamics 365 Sales, 관련 Microsoft 클라우드 솔루션 및 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 아키텍처는 사전에 예방적 작업을 수행하여 고객의 투자 가치를 높이고 조직 상태의 수준을 올립니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
+
+
+  솔루션 아키텍처는 Dynamics 365에서 Power Platform 및 모델 기반 앱의 기능 및 기술 분야 전반에 대한 경험이 있어야 합니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에서 디자인 결정을 쉽게 내릴 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
+subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
 locales:
@@ -23,9 +34,9 @@ locales:
 levels:
 - advanced
 skills:
-- 솔루션 구상 및 요구사항 분석 수행 (30-35%)
-- 솔루션 설계 (45-50%)
-- 솔루션 구현 (20-25%)
+- Perform solution envisioning and requirement analysis (30-35%)
+- Architect a solution (45-50%)
+- Implement the solution (20-25%)
 retirementDate: 06/30/2021
 roles:
 - solution-architect
@@ -44,7 +55,7 @@ resources:
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
@@ -56,12 +67,11 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

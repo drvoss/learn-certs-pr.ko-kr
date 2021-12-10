@@ -2,24 +2,32 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리합니다.
+  description: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관합니다.
+  ms.openlocfilehash: 4e784b20f745eec032e93c61f5795d870a6bdb31
+  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "132112794"
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/ms-700">MS-700 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ms-700">시험 MS-700 페이지</a>에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
+  이 인증의 응시자는 Microsoft 365 환경에서 효율적이고 효과적인 협업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자입니다.
+
 
   이 인증의 후보자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들 입니다.
-  
-  이 인증의 응시자들은 Teams 채팅, 앱, 채널, 회의, 오디오/화상 회의, 라이브 이벤트, 통화, 및 Microsoft Teams-인증 장치를 계획, 배포, 구성, 및 보호할 수 있어야 합니다.
 subTitle: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관합니다.
 levels:
 - intermediate
 skills:
-- Microsoft Teams 환경 계획 및 구성 
-- 채팅, 팀, 채널, 및 앱 관리 
-- 통화 및 회의 관리 
-- Microsoft Teams 환경 모니터링 및 문제 해결 
+- Plan and configure a Microsoft Teams environment
+- Manage chat, teams, channels, and apps
+- Manage calling and meetings
+- Monitor and troubleshoot a Microsoft Teams environment
 roles:
 - administrator
 type: role-based
@@ -38,14 +46,14 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Teams Administrator Associate.'
+  description: 'Microsoft Certified: Teams Administrator Associate가 되기 위한 교육 리소스를 찾아보세요.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -53,9 +61,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

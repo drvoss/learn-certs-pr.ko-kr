@@ -1,30 +1,43 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (레거시)'
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (Legacy)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (레거시)'
-  description: 'Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.'
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (Legacy)'
+  description: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
+  ms.openlocfilehash: 79abf6d07c00eecd9e92d8dba42d4e10ab1f4067
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106885"
 uid: certification.d365-functional-consultant-field-service-erlr
-certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.<br/><br/></strong></font></div>
-  
-  고객을 위해 Dynamics 365 솔루션의 구성과 구현을 담당하는기능 컨설턴트인 경우, 기술을 강조하고 경력을 향상시키는데 도움이 되는 이 인증이 적합합니다. Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 수명 주기를 완료하는 리소스를 관리하는 솔루션을 구현하는 것을 담당합니다. 기능 컨설턴트로서, 프로젝트 관리자들, 개발자들 및 솔루션 아키텍트와 협력하는 방법을 알고있습니다. Dynamics 365를 구현하는 기능 컨설턴트로서 최소 1-3년의 경험이 필요합니다.  
-  
-  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안이 있습니다&#58;
-  - 몇 가지 프로젝트에서 Dynamics 365 기능 컨설턴트로 작업합니다.
-  - Dynamics 365 Field Service 구현을 작업합니다.
+summary: >-
+  <div><font color="#D83B01"><strong>해당 버전의 인증은 더 이상 사용할 수 없습니다. 해당 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 귀하의 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 기록 섹션으로 이동합니다.<br/><br/></strong></font></div>
+
+
+  고객을 위한 Dynamics 365 솔루션 구성 및 구현을 담당하는 기능 컨설턴트인 경우 이 인증에 적합하며 이를 통해 기술을 조명하고 경력 발전에 도움을 받을 수 있습니다. Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 수명 주기를 완료하는 리소스를 관리하는 솔루션 구현을 담당합니다. 기능 컨설턴트로서 프로젝트 관리자, 개발자, 솔루션 설계자와 협업하는 방법을 알고 있습니다. Dynamics 365를 구현하는 기능 컨설턴트로서 최소 1~3년의 경험이 필요합니다.
+
+
+  이 인증을 취득하기 위해 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이 있습니다.
+
+  - 몇몇 프로젝트에서 Dynamics 365 기능 컨설턴트로 작업합니다.
+
+  - Dynamics 365 Field Service 구현 작업을 수행합니다.
+
   - [community.dynamics.com](https://community.dynamics.com/)에서 커뮤니티에 가입합니다.
-  - [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service)에서 사용 가능한 학습 경로를 수강합니다.
+
+  - [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service)에서 제공하는 학습 경로를 활용합니다.
+
   - 더 많은 실습을 완료합니다.
-  - 강사-주도 교육 과정에 등록합니다.
+
+  - 강사 진행 교육 과정에 등록합니다.
 subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
 hidden: true
 hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- 없음
+- None
 roles:
 - functional-consultant
 type: role-based
@@ -61,7 +74,7 @@ resources:
   description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
@@ -70,12 +83,11 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: badges.md
-

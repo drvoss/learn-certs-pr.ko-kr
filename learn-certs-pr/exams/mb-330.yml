@@ -1,36 +1,48 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Supply Chain Management​
+title: Microsoft Dynamics 365 Supply Chain Management
 metadata:
-  title: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
-  description: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
+  title: 'MB-330: Microsoft Dynamics 365 Supply Chain Management'
+  description: 'MB-330: Microsoft Dynamics 365 Supply Chain Management'
+  ms.openlocfilehash: 27cc0ca6f5bd4c764ca9cdc3c4e83292b1de8e30
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105816"
 uid: exam.mb-330
 displayName: MB-330
-summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div>
 
-  이 시험의 응시자들은 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 실현 된 비즈니스 프로세스 및 솔루션으로 변환 합니다. 응시자들은 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 구성함에 있어서 핵심 리소스 역할을 합니다. 
-  <br/>
-  
-  이 시험의 응시자들은 회계 원칙과 비즈니스의 재무 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 대한 기본적인 이해를 가지고 있습니다. 이들은 일반적으로 재무, 제조, 및 공급망 관리를 포함한 재무 및 운영 앱에 대한 하나 이상의 기능 세트를 전문으로 합니다. 
+  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  응시자는 조달, 무역, 물류, 웨어하우스 관리 및 운송 관리를 포함한 공급망 관리 관행에 대한 일정한 지식을 가지고 있어야 합니다.
+  </div>
+
+
+  이 시험의 응시자는 비즈니스 요구 사항을 분석하고 해당 요구 사항을 업계 모범 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 응시자는 애플리케이션을 구현하고 구성하여 비즈니스 요구 사항을 충족시키는 핵심 자원으로 됩니다.
+
+
+  본 시험의 응시자는 비즈니스의 회계 원칙 및 재무 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 관한 기초적인 수준의 이해를 갖추어야 합니다. 일반적으로 재무, 제조, 공급망 관리를 포함하여 하나 이상의 Finance and Operations 앱 기능 세트를 전문적으로 다룹니다.
+
+
+  이 시험의 응시자들은 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 응시자들은 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 구성하는데 핵심 리소스 역할을 합니다.
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 제품 정보 관리 구현; 재고 관리 구현; 공급망 프로세스 구현 및 관리; 창고 및 운송 관리 구현; 계획 최적화를 구현합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 제품 정보 관리 구현 (25-30%)
-- 재고 관리 구현 (15-20%)
-- Supply Chain 프로세스 구현 및 관리 (15-20%)
-- 창고 관리 및 운송 관리 구현 (20-25%)
-- 계획 최적화 구현 (15-20%)
+- The content of this exam was updated on July 26, 2021. Please download the exam skills outline below to see what changed.
+- Implement product information management (25-30%)
+- Implement inventory management (15-20%)
+- Implement and manage Supply Chain processes (15-20%)
+- Implement warehouse management and transportation management (20-25%)
+- Implement Planning Optimization (15-20%)
 roles:
 - functional-consultant
 products:
@@ -56,7 +68,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
@@ -72,7 +84,6 @@ resources:
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

@@ -1,15 +1,26 @@
 ### YamlMime:Examination
 title: Microsoft Azure Integration and Security
 metadata:
-  title: 'Exam AZ-101: Microsoft Azure Integration and Security'
-  description: 'Exam AZ-101: Microsoft Azure Integration and Security'
+  title: '시험 AZ-101: Microsoft Azure Integration and Security'
+  description: '시험 AZ-101: Microsoft Azure Integration and Security'
+  ms.openlocfilehash: d0dfcef37affaddabe9da2705df1d1b2f1f5c81c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105949"
 uid: exam.az-101
 displayName: AZ-101
-summary: |-
-  <div><strong>본 시험 내용은 2019년 5월 1일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다 <br/><br/></strong></div>
-  
-  본 시험은 저장소, 보안, 네트워킹 및 클라우드 컴퓨팅 기능에 걸친 클라우드 서비스를 관리하는 Azure 관리자를 대상으로 실시됩니다. 응시자는 전체적인 IT 수명 주기에 걸쳐 각 서비스를 깊이 이해하고 인프라 서비스, 애플리케이션 및 환경에 관한 요청을 받게 됩니다. 또한 최적의 성능 및 확장을 위해 사용할 서비스를 추천하고 필요한 경우 프로비저닝, 크기 조정, 모니터링 및 적절한 리소스 조정을 수행합니다. 본 시험의 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal, ARM 템플릿, 운영 체제, 가상화, 클라우드 인프라, 스토리지 구조 및 네트워킹 분야에 능숙해야 합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 보안, Azure로 서버 마이그레이션 평가 및 수행, 애플리케이션 서비스 구현 및 관리, 고급 가상 네트워킹 구현.
+summary: >-
+  <div>
+
+  <div><strong>이 시험은 2019년 5월 1일에 폐지되었습니다. 참고: 시험은 중부 표준시 기준 오후 11시 59분에 폐지됩니다.</strong><br/></div>
+
+  </div>
+
+
+  본 시험은 저장소, 보안, 네트워킹 및 클라우드 컴퓨팅 기능에 걸친 클라우드 서비스를 관리하는 Azure 관리자를 대상으로 실시됩니다. 응시자는 전체적인 IT 수명 주기에 걸쳐 각 서비스를 깊이 이해하고 인프라 서비스, 애플리케이션 및 환경에 관한 요청을 받게 됩니다. 또한 최적의 성능 및 확장을 위해 사용할 서비스를 추천하고 필요한 경우 프로비저닝, 크기 조정, 모니터링 및 적절한 리소스 조정을 수행합니다. 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal, ARM 템플릿, 운영 체제, 가상화, 클라우드 인프라, 저장소 구조 및 네트워킹 분야에 능숙해야 합니다.
+subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 보안, Azure로 서버 마이그레이션 평가 및 수행, 애플리케이션 서비스 구현 및 관리, 고급 가상 네트워킹 구현.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
 practiceTestUrl: https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~publisher:measureup&?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -19,10 +30,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Azure로 서버 마이그레이션 평가 및 수행 (15-20%)
-- 애플리케이션 서비스 구현 및 관리 (20-25%)
-- 고급 가상 네트워킹 구현 (30-35%)
-- ID 보안 (25-30%)
+- Evaluate and perform server migration to Azure (15-20%)
+- Implement and manage application services (20-25%)
+- Implement advanced virtual networking (30-35%)
+- Secure identities (25-30%)
 retirementDate: 05/01/2019
 roles:
 - administrator
@@ -38,23 +49,23 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+  description: 'Microsoft Certified: Azure Administrator Associate가 되기 위한 교육 리소스를 살펴보세요.'
+  href: https://aka.ms/AzureAdminInfographic
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 인증 시험 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

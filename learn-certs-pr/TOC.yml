@@ -1,124 +1,123 @@
-
 - name: 인증 개요
   href: index.yml
-- name: 인증 획득
+- name: 인증 취득
   expanded: false
   items:
-  - name: 인증 프로세스 개요 
-    href: certification-process-overview.md
-  - name: 편의 시설 요청
-    href: request-accommodations.md
-  - name: 시험 등록 및 예약
-    href: register-schedule-exam.md
-  - name: 시험 준비
-    href: prepare-exam.md
-  - name: 시험 기간 및 문제 유형
-    href: exam-duration-question-types.md
-  - name: 시험 채점 및 점수 보고서
-    href: exam-scoring-reports.md
-  - name: 온라인 감독 시험
-    expanded: false
-    items:
-    - name: 소개 및 FAQs
-      href: online-exams-intro.md
-    - name: Pearson VUE 관련 온라인 시험 정보
-      href: online-exams.md
-    - name: PSI 관련 온라인 시험 정보
-      href: online-exams-psi.md
-  - name:  Microsoft 인증 갱신
-    href: renew-your-microsoft-certification.md  
+    - name: 인증 프로세스 개요
+      href: certification-process-overview.md
+    - name: 편의 시설 요청
+      href: request-accommodations.md
+    - name: 시험 등록 및 예약
+      href: register-schedule-exam.md
+    - name: 시험 준비
+      href: prepare-exam.md
+    - name: 시험 기간 및 문제 유형
+      href: exam-duration-question-types.md
+    - name: 시험 채점 및 점수 보고서
+      href: exam-scoring-reports.md
+    - name: 온라인 감독 시험
+      expanded: false
+      items:
+        - name: 소개 및 FAQs
+          href: online-exams-intro.md
+        - name: Pearson VUE 온라인 시험에 대하여
+          href: online-exams.md
+        - name: PSI 관련 온라인 시험 정보
+          href: online-exams-psi.md
+    - name: 인증 갱신
+      href: renew-your-microsoft-certification.md
 - name: 인증 관리
   expanded: false
   items:
-  - name: 귀하의 Certification Dashboard에 접근
-    href: access-certification-dashboard.md
-  - name: 인증 프로필 관리
-    href: manage-certification-profile.md
-  - name: 귀하의 인증서, 배지 및 성적 증명서에 접근
-    href: access-certificates-badges-transcript.md
-  - name: 인증 배지 사용 및 공유
-    href: badges.md
+    - name: 귀하의 Certification Dashboard에 접근
+      href: access-certification-dashboard.md
+    - name: 인증 프로필 관리
+      href: manage-certification-profile.md
+    - name: '인증서, 배지, 성적표에 액세스'
+      href: access-certificates-badges-transcript.md
+    - name: 인증 배지 사용 및 공유
+      href: badges.md
 - name: 교육 및 인증 뉴스
   expanded: false
   items:
-  - name: 소셜 미디어 및 블로그
-    href: social-media-blog.md
-  - name: 미디어 교육 및 인증
-    href: media.md
-  - name: 중단 정보
-    expanded: false
-    items:
-    - name: 인증 만료
-      href: retired-certifications.md
-    - name: 중단된 시험
-      href: retired-certification-exams.md 
-    - name: 과정 만료
-      href: retired-courses.md
-  - name: Learning에서 Microsoft Learn으로 이동
-    href: learnfaq.yml
-- name: Offers
+    - name: 소셜 미디어 및 블로그
+      href: social-media-blog.md
+    - name: 미디어의 교육 및 인증
+      href: media.md
+    - name: 폐지 정보
+      expanded: false
+      items:
+        - name: 인증 만료
+          href: retired-certifications.md
+        - name: 시험 폐지
+          href: retired-certification-exams.md
+        - name: 과정 만료
+          href: retired-courses.md
+    - name: Learning에서 Microsoft Learn으로 이동
+      href: learnfaq.yml
+- name: 제품
   href: deals.md
 - name: 프로그램 정보
   expanded: false
   items:
-  - name: 베타 시험
-    href: beta-exams.md
-  - name: 시험 개발
-    href: exam-development.md
-  - name: 학생 인증
-    expanded: false
-    items:
-    - name: 학생 할인
-      href: student-discounts.md
-    - name: College credit for certification exams
-      href: college-credit.md
-  - name: 정책 및 계약
-    expanded: false
-    items:
-    - name: 인증 만료 정책
-      href: certification-expiration-policy.md
-    - name: Exam item challenge process
-      href: exam-item-challenge-process.md
-    - name: 시험 보안 정책
-      href: exam-security-policy.md
-    - name: 시험 재응시 정책
-      href: exam-retake-policy.md
-    - name: 시험 일정 변경 및 취소 정책
-      href: exam-reschedule-and-cancellation-policy.md
-    - name: Microsoft 인증 프로그램 계약
-      href: microsoft-certification-program-agreement.md
-    - name: Microsoft Certification Renewal Non-disclosure Agreement
-      href: microsoft-certification-renewal-non-disclosure-agreement.md
-    - name: Microsoft 시험 비밀 유지 계약
-      href: microsoft-exam-non-disclosure-agreement.md
-  - name: Microsoft Learning Partners 
-    expanded: false
-    items:
-    - name: 학습 파트너 찾기
-      href: partners.md
-    - name: 학습 파트너의 가치
-      href: partners-value.md
-  - name: Microsoft Certified Trainer
-    href: mct-certification.md
-  - name: Volume licensing
-    href: volume-licensing-program.md
+    - name: 베타 시험
+      href: beta-exams.md
+    - name: 시험 개발
+      href: exam-development.md
+    - name: 학생 인증
+      expanded: false
+      items:
+        - name: 학생 할인
+          href: student-discounts.md
+        - name: 인증 시험에 대한 대학 학점
+          href: college-credit.md
+    - name: 정책 및 계약
+      expanded: false
+      items:
+        - name: 인증 만료 정책
+          href: certification-expiration-policy.md
+        - name: 항목 이의 제기 프로세스
+          href: exam-item-challenge-process.md
+        - name: 시험 보안 정책
+          href: exam-security-policy.md
+        - name: 시험 재응시 정책
+          href: exam-retake-policy.md
+        - name: 시험 일정 변경 및 취소 정책
+          href: exam-reschedule-and-cancellation-policy.md
+        - name: Microsoft Certification Program 규약
+          href: microsoft-certification-program-agreement.md
+        - name: Microsoft 인증 갱신 비공개 계약
+          href: microsoft-certification-renewal-non-disclosure-agreement.md
+        - name: Microsoft 시험 비공개 계약
+          href: microsoft-exam-non-disclosure-agreement.md
+    - name: Microsoft Learning Partners
+      expanded: false
+      items:
+        - name: 학습 파트너 찾기
+          href: partners.md
+        - name: 학습 파트너의 가치
+          href: partners-value.md
+    - name: Microsoft Certified Trainer
+      href: mct-certification.md
+    - name: 볼륨 라이선스
+      href: volume-licensing-program.md
 - name: 인증 도움말
   expanded: false
   items:
-  - name: 인증 지원
-    href: help.md
-  - name: 자주 묻는 질문
-    href: frequently-asked-questions.md
-  - name: Microsoft Official Courseware (MOC) 지원
-    href: certification-and-training-help.md
-  - name: 문제 해결 안내
-    expanded: false
-    items:
-    - name: MCID 찾기
-      href: find-mcid.md
-    - name: 인증 프로필 병합 및 이전
-      href: merge-profiles.md
-    - name: 바우처 및 보충 할인
-      href: redeem-discounts.md
-    - name: Certification 프로필과 Learn 프로필 사이의 계정 조정
-      href: aligning-accounts-between-certification-profile-and-learn-profile.md
+    - name: 인증 지원
+      href: help.md
+    - name: 질문과 대답
+      href: frequently-asked-questions.yml
+    - name: Microsoft Official Courseware (MOC) 지원 | Microsoft Docs
+      href: certification-and-training-help.md
+    - name: 문제 해결 가이드
+      expanded: false
+      items:
+        - name: MCID 찾기
+          href: find-mcid.md
+        - name: 인증 프로필 병합 및 이전
+          href: merge-profiles.md
+        - name: 바우처 및 보충 할인
+          href: redeem-discounts.md
+        - name: 인증 프로필과 Learn 프로필 간 계정 조정
+          href: aligning-accounts-between-certification-profile-and-learn-profile.md

@@ -2,23 +2,30 @@
 title: 'Microsoft Office Specialist: Word Associate (Word and Word 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Word Associate (Word and Word 2019)'
-  description: 'Microsoft Office Specialist: Word Associate 인증을 획득하여 Word를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증하십시오.'
+  description: 'Microsoft Office Specialist: Word Associate 인증을 취득하여 Word를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
+  ms.openlocfilehash: 93e36b1ec686a03cfbd8fe462c40b859de071caa
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111613"
 uid: certification.mos-word-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Office Specialist&#58; Word Associate 인증을 획득하여 Word를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증하십시오. 본 인증은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 입증합니다.
+summary: >-
+  Microsoft Office Specialist: Word Associate 인증을 획득하여 Word를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증하십시오. 본 인증은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 입증합니다.
+
 
   이 인증을 획득한 개인은 약 150시간의 수업 및 제품 사용 경험을 가지고 있으며, 업계 관련 수준에서 능력이 입증되었으며, 고용 시장에 진출할 준비가 되어 있습니다. 그들은 Word의 주요 기능들의 정확한 적용을 입증할 수 있고 독립적으로 임무를 완성할 수 있습니다.
-subTitle: 'Microsoft Office Specialist: Word Associate 인증을 획득하여 Word를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증하십시오.'
+subTitle: 'Microsoft Office Specialist: Word Associate 인증을 취득하여 Word를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
 levels:
 - intermediate
 skills:
-- 문서 관리
-- 텍스트, 단락 및 구역 삽입 및 서식 지정
-- 표 및 목록 관리
-- 참조 만들기 및 관리
-- 그래픽 요소 삽입 및 설정
-- 문서 협업 관리
+- Manage documents
+- Insert and format text, paragraphs, and sections
+- Manage tables and lists
+- Create and manage references
+- Insert and format graphic elements
+- Manage document collaboration
 roles:
 - business-user
 type: mos
@@ -30,8 +37,8 @@ exams:
 - uid: exam.mo-100
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -39,9 +46,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

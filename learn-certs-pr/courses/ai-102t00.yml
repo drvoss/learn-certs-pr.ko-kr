@@ -1,25 +1,30 @@
 ### YamlMime:Course
-title: Designing and Implementing a Microsoft Azure AI Solution
+title: Microsoft Azure AI 솔루션 디자인 및 구현
 metadata:
-  title: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
-  description: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
-  iltScheduling: false
+  title: '과정 AI-102T00--A: Designing and Implementing a Microsoft Azure AI Solution'
+  description: '과정 AI-102T00--A: Designing and Implementing a Microsoft Azure AI Solution'
+  ms.openlocfilehash: 1da4438aa304066a2189e1583c2bd74a5d4530e3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107728"
 uid: course.ai-102t00
-courseNumber: 'AI-102T00-A'
+courseNumber: AI-102T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: AI-지원 애플리케이션 개발에 대한 고려사항 설명
-- skill: Azure Cognitive Services 생성, 구성, 배포 및 보안
+- skill: AI 지원 애플리케이션 개발을 위한 고려 사항 설명
+- skill: Azure Cognitive Services 만들기, 구성, 배포, 보호
 - skill: 텍스트를 분석하는 애플리케이션 개발
-- skill: 음성-지원 애플리케이션 개발
-- skill: 자연어 이해 능력을 갖춘 애플리케이션 만들기
+- skill: 음성 지원 애플리케이션 개발
+- skill: 자연어 이해 기능을 사용하여 애플리케이션 만들기
 - skill: QnA 애플리케이션 만들기
-- skill: 봇으로 대화형 솔루션 만들기
-- skill: 컴퓨터 비전 서비스를 사용하여 이미지 및 비디오 분석 
-- skill: 맞춤형 컴퓨터 비전 모델 만들기
-- skill: 얼굴을 감지, 분석 및 인식하는 애플리케이션 개발
-- skill: 이미지와 문서의 텍스트를 읽고 처리하는 애플리케이션 개발
+- skill: 봇을 사용하여 대화형 솔루션 만들기
+- skill: 컴퓨터 비전 서비스를 사용하여 이미지 및 동영상 분석
+- skill: 사용자 지정 컴퓨터 비전 모델 만들기
+- skill: 얼굴을 감지, 분석, 인식하는 애플리케이션 개발
+- skill: 이미지 및 문서의 텍스트를 읽고 처리하는 애플리케이션 개발
 - skill: 지식 마이닝을 위한 지능형 검색 솔루션 만들기
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -34,209 +39,502 @@ roles:
 products:
 - azure
 exams:
-- uid: exam.ai-100
-summary: |-
-  AI-102 Designing and Implementing Azure AI Solution은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임워크를 활용하는 AI 주입 애플리케이션을 구축하려는 소프트웨어 개발자들을 위한 것입니다. 이 과정은 프로그래밍 언어로 C# 또는 Python을 사용합니다.
-  
-  #### 구독자 프로파일
-  Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임워크를 활용하는 AI 솔루션을 구축하고, 관리하고, 배포하는데 관련된 소프트웨어 엔지니어들. C# 또는 Python에 익숙하며 REST-기반 APIs를 사용하여 Azure에서 컴퓨터 비전, 언어 분석, 지식 마이닝, 지능형 검색 및 대화형 AI 솔루션을 구축하는데 대한 지식이 있습니다.  
-prerequisitesSection: |-
-  이 과정에 참여하기 전, 학습자들은 반드시 다음을 갖추어야합니다&#58;
-  - Microsoft Azure 에 대한 지식 및 Azure 포털을 탐색할 수 있는 능력
-  - C# 또는 Python에 대한 지식
-  - JSON 및 REST 프로그래밍 의미에 대한 친숙도
-  
-  C# 또는 Python 기술을 얻으려면, 무료[C# 첫 걸음을 내딛으세요](/learn/paths/csharp-first-steps/) 또는 [Python 첫 걸음을 내딛으세요.](/learn/paths/python-first-steps/) 학습 경로를 과정에 참여하기 전에 완료하십시오.
-  
-  인공 지능을 처음 사용하고 Azure에서 AI 기능에 대한 개요를 원하는 경우, 이 과정을 수강하기 전 [Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals) 인증을 완료하는 것을 고려하십시오. 
-outlineSection: |-
-  ### 모듈 1&#58; Azure의 AI 소개
-  인공지능 (AI)은 갈수록 현대 앱과 서비스의 핵심입니다. 이 모듈에서는, 앱에서 활용할 수있는 몇 가지 일반 AI 기능과, 이러한 기능이 Microsoft Azure에서 구현되는 방법을 학습합니다. 또한 책임감 있게 AI 솔루션을 디자인하고 구현하기 위한 몇 가지 고려 사항에 대해서도 학습합니다.
-  #### 레슨
-  - 인공 지능 소개
-  - Azure의 인공 지능
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - AI-지원 애플리케이션을 만들기 위한 고려 사항 설명
-  - AI 애플리케이션 개발을 위한 Azure 서비스 식별
-  
-  
-  ### 모듈 2&#58; 인식 서비스로 AI 앱 개발하기
-  인식 서비스는 AI 기능을 앱에 통합하기 위한 핵심 구축 블록입니다. 이 모듈에서는, 인식 서비스를 프로비저닝, 보안, 모니터링 및 배포하는 방법을 학습합니다.
-  #### 레슨
-  - 인식 서비스 시작하기
-  - 기업 애플리케이션에 인식 서비스 사용하기
-  
-  #### 랩 &#58; 인식 서비스 시작하기
+- uid: exam.ai-102
+summary: >-
+  AI-102 Designing and Implementing an Azure AI Solution은 Azure Cognitive Services, Azure Cognitive Search, Microsoft Bot Framework를 활용하는 AI 기반 애플리케이션을 빌드하려는 소프트웨어 개발자를 대상으로 합니다. 이 과정에서는 프로그래밍 언어로 C# 또는 Python을 사용합니다.
 
-  #### 랩 &#58; 인식 서비스 보안 관리
 
-  #### 랩 &#58; 인식 서비스 모니터링
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  #### 랩 &#58; 인식 서비스 컨테이너 사용
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Azure에서 인식 서비스 프로비저닝 및 사용
-  - 인식 서비스 보안 관리
-  - 인식 서비스 모니터링
-  - 인식 서비스 컨테이너 사용
-  
-  
-  ### 모듈 3&#58; 자연어 처리 시작하기
-  자연어 처리 (NLP)는 문어 또는 음성 언어에서 통찰력을 추출을 처리하는 인공 지능의 한 분야입니다. 이 모듈에서는, 텍스트를 분석하고 번역하는데 인식 서비스를 사용하는 방법을 학습합니다.
-  #### 레슨
-  - 텍스트 분석
-  - 텍스트 번역
-  
-  #### 랩 &#58; 텍스트 분석
+  Azure Cognitive Services, Azure Cognitive Search, Microsoft Bot Framework를 활용하는 AI 솔루션을 빌드, 관리, 배포하는 데 관심이 있는 소프트웨어 엔지니어. C# 또는 Python에 대해 잘 알고 있고 컴퓨터 비전, 언어 분석, 지식 마이닝, 지능형 검색, 대화형 AI 솔루션을 빌드하기 위한 REST 기반 API 사용에 대해 알고 있습니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전, 학생들은 반드시 다음을 갖추어야 합니다:
 
-  #### 랩 &#58; 텍스트 번역
 
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 텍스트 분석 인식 서비스를 사용하여 텍스트 분석
-  - 번역 인식 서비스를 사용하여 텍스트 번역
-  
-  
-  ### 모듈 4&#58; 음성-지원 애플리케이션 구축하기
-  많은 최신 앱과 서비스는 음성 입력을 허용하고 텍스트를 합성하여 응답할 수 있습니다. 이 모듈에서는, 음성-지원 애플리케이션을 구축하는 방법을 학습하여 자연어 처리 기능에 대한 탐색을 계속합니다.
-  #### 레슨
-  - 음성 인식 및 합성
-  - 음성 번역
-  
-  #### 랩 &#58; 음성 인식 및 합성
+  *   Microsoft Azure에 대한 지식 및 Azure Portal 탐색 능력
 
-  #### 랩 &#58; 음성 번역
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 음성 인식 서비스를 사용하여 음성 인식 및 합성
-  - 음성 인식 서비스를 사용하여 음성 번역
-  
-  
-  ### 모듈 5&#58; 언어 이해 솔루션 만들기
-  자연어 입력을 지능적으로 이해하고 응답할 수 있는 애플리케이션을 구축하려면 언어 이해를 위한 모델을 정의하고 훈련해야 합니다. 이 모듈에서는, 자연어 이해 서비스를 사용하여 자연어 입력으로부터 사용자의 의도를 식별할 수 있는 앱을 만드는 방법을 학습합니다.
-  #### 레슨
-  - 언어 이해 앱 만들기
-  - 언어 이해 앱 게시 및 사용하기
-  - 음성으로 언어 이해 사용하기 
 
-  #### 랩 &#58; 언어 이해 앱 만들기
+  *   C# 또는 Python에 대한 지식&nbsp;
 
-  #### 랩 &#58; 언어 이해 클라이언트 애플리케이션 만들기 
 
-  #### 랩 &#58; 음성 및 언어 이해 서비스 사용
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 언어 이해 앱 만들기
-  - 언어 이해를 위한 클라이언트 애플리케이션 만들기
-  - 언어 이해 및 음성 통합 
-  
-  
-  ### 모듈 6&#58; QnA 솔루션 구축하기
-  사용자와 AI 소프트웨어 에이전트 사이의 가장 일반적인 상호 작용 유형 중 하나는 사용자가 자연어로 질문을 제출하고 AI 에이전트가 적절한 답변과 함께 지능적으로 대응하는 것입니다. 이 모듈에서는 QnA Maker 서비스를 사용하여 이러한 유형의 솔루션을 개발하는 방법을 살펴봅니다.
-  #### 레슨
-  - QnA 지식 베이스 만들기
-  - QnA 지식 베이스 게시 및 사용하기
+  *   JSON 및 REST 프로그래밍 의미 체계에 대해 잘 알고 있음
 
-  #### 랩 &#58; QnA 솔루션 만들기
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - QnA 메이커를 사용하여 지식 베이스 만들기
-  - 앱 또는 봇에서 QnA 지식 베이스 사용
-  
-  
-  ### 모듈 7&#58; 대화형 AI 및 Azure Bot 서비스
-  봇은 사용자가 종종 인간 에이전트와 하듯이 AI 에이전트와 대화에 참여하는 AI 애플리케이션의 갈수록 더 일반적인 종류의 기반입니다. 이 모듈에서는, 대화형 환경을 만들고 제공하기위한 플랫폼을 함께 제공하는 Microsoft Bot 프레임워크 및 Azure Bot 서비스를 살펴봅니다
-  #### 레슨
-  -봇 기초
-  - 대화형 봇 구현하기
 
-  #### 랩 &#58; 봇 프레임워크 SDK를 사용하여 봇 만들기
 
-  #### 랩 &#58; 봇 프레임워크 컴포저를 사용하여 봇 만들기
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 봇 프레임워크 SDK를 사용하여 봇 만들기
-  - 봇 프레임워크 컴포저를 사용하여 봇 만들기
-  
-  
-  ### 모듈 8&#58; 모듈 8&#58; 컴퓨터 비전 시작하기
-  컴퓨터 비전은 소프트웨어 애플리케이션이 이미지나 영상으로부터 시각적 입력을 해석하는 인공 지능 영역 입니다. 이 모듈에서는, 이미지와 영상을 해석하기위해 인식 서비스를 사용하는 방법을 배움으로써 컴퓨터 비전 탐구를 시작합니다.
-  #### 레슨
-  - 이미지 분석하기
-  - 영상 분석하기
-  
-  #### 랩 : 비디오 분석
+  C# 또는 Python 기술을 배우려면 과정에 참여하기 전에 무료 &nbsp;[C#으로 첫 번째 단계 수행](https://docs.microsoft.com/learn/paths/csharp-first-steps/) 또는 [Python으로 첫 번째 단계 수행](https://docs.microsoft.com/learn/paths/python-first-steps/) 학습 경로를 완료하세요.
+
+
+  인공 지능을 처음 사용하고 Azure의 AI 기능에 대한 개요를 원하는 경우 이 과정을 듣기 전에 [Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) 인증을 완료하는 것이 좋습니다.
+outlineSection: >-
+  ### <a name="module-1-introduction-to-ai-on-azure"></a>모듈 1: Azure에서의 AI 소개
+
+
+  AI(인공 지능)는 점점 더 최신 앱 및 서비스의 핵심이 되어가고 있습니다. 이 모듈에서는 앱에서 활용할 수 있는 몇 가지 일반적인 AI 기능과 Microsoft Azure에서 해당 기능을 구현하는 방법에 대해 알아봅니다. 또한 책임감 있는 AI 솔루션 디자인 및 구현을 위한 몇 가지 고려 사항에 대해서도 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   인공 지능 소개
+
+
+  *   Azure에서의 인공 지능
+
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   AI 지원 애플리케이션을 만들기 위한 고려 사항 설명
+
+
+  *   AI 애플리케이션 개발을 위한 Azure 서비스 식별
+
+
+
+  ### <a name="module-2-developing-ai-apps-with-cognitive-services"></a>모듈 2: Cognitive Services를 사용하여 AI 앱 개발
+
+
+  Cognitive Services는 AI 기능을 앱에 통합하기 위한 핵심 구성 요소입니다. 이 모듈에서는 인식 서비스의 프로비저닝, 보호, 모니터링, 배포 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Cognitive Services 시작
+
+
+  *   엔터프라이즈 애플리케이션에 Cognitive Services 사용
+
+
+
+  #### <a name="lab--get-started-with-cognitive-services"></a>랩: Cognitive Services 시작
+
 
   ####
 
-  #### 랩 : 컴퓨터 비전으로 이미지 분석
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 컴퓨터 비전 서비스를 사용하여 이미지 분석
-  - 비디오 분석기를 사용하여 비디오 분석
-  
-  
-  ### 모듈 9&#58; 맞춤형 비전 솔루션 개발하기
-  미리 정의 된 일반 컴퓨터 비전 기능이 유용할 수 있는 많은 시나리오가 있지만, 때로는 자신의 시각 데이터로맞춤형 모델을 교육할 필요가 있습니다. 이 모듈에서는, 맞춤형 비전 서비스를 살펴보고, 이를 사용하여 맞춤형 이미지 분류 및 객체 감지 모델을 만드는 방법을 살펴 봅니다.
-  
-  #### 레슨
-  - 이미지 분류
-  - 객체 감지
-  
-  #### 랩 &#58; 맞춤형 비전으로 이미지 분류
-  
-  #### 랩 &#58; 맞춤형 비전으로 이미지에서 객체 감지
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 맞춤형 비전 서비스를 사용하여 이미지 분류 구현
-  - 맞춤형 비전 서비스를 사용하여 객체 감지 구현
-  
-  
-  ### 모듈 10&#58; 얼굴 감지하기, 분석하기 및 인식하기
-  얼굴 감지, 분석 및 인식은 일반적인 컴퓨터 비전 시나리오입니다. 이 모듈에서는, 사람의 얼굴을 식별하는 인식 서비스의 사용자를 살펴봅니다. 
-  
-  #### 레슨
-  - 컴퓨터 비전 서비스로 얼굴 감지하기
-  - 얼굴 서비스 이용하기
-  
-  #### 랩 &#58; 얼굴 감지, 분석 및 인식
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 컴퓨터 비전 서비스로 얼굴 감지
-  - 얼굴 서비스로 얼굴 감지, 분석 및 인식
-  
-  
-  ### 모듈 11&#58; 이미지와 문서에서 텍스트 읽기
-  광학 문자 인식 (OCR)은 소프트웨어가 이미지나 문서에서 텍스트를 추출하는 또 다른 일반적인 컴퓨터 비전 시나리오 입니다. 이 모듈에서는, 이미지, 문서 및 양식에서 텍스트를 감지하고 읽는데 사용할 수 있는 인식 서비스를 살펴봅니다. 
-  #### 레슨
-  - 컴퓨터 비전 서비스로 텍스트 읽기
-  - 양식 인식 서비스로 양식에서 정보 추출하기
-  
-  #### 랩 &#58; 이미지에서 텍스트 읽기
-  
-  #### 랩 &#58; 양식에서 데이터 추출
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 컴퓨터 비전을 사용하여 이미지와 문서에서 텍스트 읽기
-  - 양식 인식 서비스를 사용하여 전자 양식에서 데이터 추출
-  
-  
-  ### 모듈 12&#58; 지식 마이닝 솔루션 만들기 
-  궁극적으로, 많은 AI 시나리오는 사용자 쿼리를 기반으로 정보를 지능적으로 검색하는 것이 포함됩니다. AI-기반 지식 마이닝은 AI를 사용하여 전자 데이터의 대규모 저장소로부터 통찰력을 추출하고 사용자들이 이러한 통찰력을 찾고 분석할 수 있도록 하는 지능형 검색 솔루션을 구축하기 위한 갈수록 더 중요한 방법입니다. 
-  
-  #### 레슨
-  - 지능형 검색 솔루션 구현하기
-  - 강화 파이프라인을 위한 맞춤형 기술 개발하기
-  - 지식 저장소 만들기
-  
-  #### 랩 &#58; Azure Cognitive Search 솔루션 만들기
-  
-  #### 랩 &#58; Azure Cognitive Search를 위한 맞춤형 기술 만들기
-  
-  #### 랩 &#58; Azure Cognitive Search로 지식 저장소 만들기
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - Azure Cognitive Search를 사용하여 지능형 검색 솔루션 만들기
-  - Azure Cognitive Search 강화 파이프라인에서 맞춤형 기술 구현
-  - Azure Cognitive Search를 사용하여 지식 저장소 만들기
+
+  #### <a name="lab--manage-cognitive-services-security"></a>랩: Cognitive Services 보안 관리
+
+
+  ####
+
+
+  #### <a name="lab--monitor-cognitive-services"></a>랩: Cognitive Services 모니터링
+
+
+  ####
+
+
+  #### <a name="lab--use-a-cognitive-services-container"></a>랩: Cognitive Services 컨테이너 사용
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Azure에서 인식 서비스 프로비저닝 및 사용
+
+
+  *   인식 서비스 보안 관리
+
+
+  *   인식 서비스 모니터링
+
+
+  *   인식 서비스 컨테이너 사용
+
+
+
+  ### <a name="module-3-getting-started-with-natural-language-processing"></a>모듈 3: 자연어 처리 시작
+
+
+  NLP(자연어 처리)는 문자 또는 음성 언어에서 인사이트를 추출하는 인공 지능의 한 분야입니다. 이 모듈에서는 인식 서비스를 사용하여 텍스트를 분석하고 변환하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   텍스트 분석
+
+
+  *   텍스트 변환
+
+
+
+  #### <a name="lab--translate-text"></a>랩: 텍스트 변환
+
+
+  ####
+
+
+  #### <a name="lab--analyze-text"></a>랩: 텍스트 분석
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Text Analytics 인식 서비스를 사용하여 텍스트 분석
+
+
+  *   Translator 인식 서비스를 사용하여 텍스트 변환
+
+
+
+  ### <a name="module-4-building-speech-enabled-applications"></a>모듈 4: 음성 지원 애플리케이션 빌드
+
+
+  많은 최신 앱 및 서비스에서 음성 입력을 허용하며 텍스트를 합성하여 응답할 수 있습니다. 이 모듈에서는 음성 지원 애플리케이션을 빌드하는 방법을 학습하면서 자연어 처리 기능에 대해 계속 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   음성 인식 및 합성
+
+
+  *   Speech Translation
+
+
+
+  #### <a name="lab--recognize-and-synthesize-speech"></a>랩: 음성 인식 및 합성
+
+
+  ####
+
+
+  #### <a name="lab--translate-speech"></a>랩: 음성 변환
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   음성 인식 서비스를 사용하여 음성 인식 및 합성
+
+
+  *   음성 인식 서비스를 사용하여 음성 변환
+
+
+
+  ### <a name="module-5-creating-language-understanding-solutions"></a>모듈 5: Language Understanding 솔루션 만들기
+
+
+  자연어 입력을 지능적으로 이해하고 응답할 수 있는 애플리케이션을 빌드하려면 언어 이해를 위한 모델을 정의하고 학습시켜야 합니다. 이 모듈에서는 Language Understanding 서비스를 사용하여 자연어 입력에서 사용자 의도를 식별할 수 있는 앱을 만드는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Language Understanding 앱 만들기
+
+
+  *   Language Understanding 앱 게시 및 사용
+
+
+  *   음성을 통해 Language Understanding 사용
+
+
+
+  #### <a name="lab--create-a-language-understanding-client-application"></a>랩: Language Understanding 클라이언트 응용 프로그램 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-a-language-understanding-app"></a>랩: Language Understanding 앱 만들기
+
+
+  ####
+
+
+  #### <a name="lab--use-the-speech-and-language-understanding-services"></a>랩: 음성 및 Language Understanding 서비스 사용
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Language Understanding 앱 만들기
+
+
+  *   Language Understanding을 위한 클라이언트 응용 프로그램 만들기
+
+
+  *   Language Understanding 및 음성 통합
+
+
+
+  ### <a name="module-6-building-a-qna-solution"></a>모듈 6: QnA 솔루션 빌드
+
+
+  사용자와 AI 소프트웨어 에이전트 간 가장 일반적인 상호 작용 유형 중 하나는 사용자가 자연어로 질문을 제출하고 AI 에이전트가 적절한 답변을 사용하여 지능적으로 응답하는 것입니다. 이 모듈에서는 QnA Maker 서비스를 사용하여 이러한 유형의 솔루션을 개발하는 방법을 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   QnA 기술 자료 만들기
+
+
+  *   QnA 기술 자료 게시 및 사용
+
+
+
+  #### <a name="lab--create-a-qna-solution"></a>랩: QnA 솔루션 만들기
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   QnA Maker를 사용하여 기술 자료 만들기
+
+
+  *   앱 또는 봇에서 QnA 기술 자료 사용
+
+
+
+  ### <a name="module-7-conversational-ai-and-the-azure-bot-service"></a>모듈 7: 대화형 AI 및 Azure Bot Service
+
+
+  봇은 점점 더 많이 사용되고 있는 AI 애플리케이션의 기반으로 사용자는 종종 인간 에이전트와 대화하듯이 AI 에이전트와의 대화에 참여합니다. 이 모듈에서는 대화형 환경을 만들고 제공하기 위한 플랫폼을 함께 제공하는 Microsoft Bot Framework 및 Azure Bot Service를 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   봇 기본 사항
+
+
+  *   대화형 봇 구현
+
+
+
+  #### <a name="lab--create-a-bot-with-the-bot-framework-sdk"></a>랩: Bot Framework SDK를 사용하여 봇 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-a-bot-with-bot-framework-composer"></a>랩: Bot Framework Composer를 사용하여 봇 만들기
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Bot Framework SDK를 사용하여 봇 만들기
+
+
+  *   Bot Framework Composer를 사용하여 봇 만들기
+
+
+
+  ### <a name="module-8-getting-started-with-computer-vision"></a>모듈 8: Computer Vision 시작
+
+
+  컴퓨터 비전은 소프트웨어 애플리케이션이 이미지 또는 동영상의 시각적 입력을 해석하는 인공 지능의 영역입니다. 이 모듈에서는 인지 서비스를 사용하여 이미지 및 동영상을 분석하는 방법을 학습하여 컴퓨터 비전 탐색을 시작합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   이미지 분석
+
+
+  *   동영상 분석
+
+
+
+  #### <a name="lab--analyze-video"></a>랩: 동영상 분석
+
+
+  ####
+
+
+  #### <a name="lab--analyze-images-with-computer-vision"></a>랩: Computer Vision을 사용하여 이미지 분석
+
+
+  ####
+     *
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Computer Vision 서비스를 사용하여 이미지 분석
+
+
+  *   Video Analyzer를 사용하여 동영상 분석
+
+
+
+  ### <a name="module-9-developing-custom-vision-solutions"></a>모듈 9: Custom Vision 솔루션 개발
+
+
+  많은 시나리오에서 미리 정의된 일반적인 컴퓨터 비전 기능이 유용할 수 있지만 사용자 고유의 시각적 데이터를 사용하여 사용자 지정 모델을 학습시켜야 하는 경우도 있습니다. 이 모듈에서는 Custom Vision 서비스와 이를 사용하여 사용자 지정 이미지 분류 및 개체 감지 모델을 만드는 방법을 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   이미지 분류
+
+
+  *   개체 감지
+
+
+
+  #### <a name="lab--classify-images-with-custom-vision"></a>랩: Custom Vision을 사용하여 이미지 분류
+
+
+  ####
+
+
+  #### <a name="lab--detect-objects-in-images-with-custom-vision"></a>랩: Custom Vision을 사용하여 이미지에서 개체 감지
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Custom Vision 서비스를 사용하여 이미지 분류 구현
+
+
+  *   Custom Vision 서비스를 사용하여 개체 감지 구현
+
+
+
+  ### <a name="module-10-detecting-analyzing-and-recognizing-faces"></a>모듈 10: 얼굴 감지, 분석, 인식
+
+
+  얼굴 감지, 분석, 인식은 일반적인 컴퓨터 비전 시나리오입니다. 이 모듈에서는 사람의 얼굴을 식별하기 위해 인지 서비스 사용자를 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Computer Vision 서비스를 사용하여 얼굴 감지
+
+
+  *   Face 서비스 사용
+
+
+
+  #### <a name="lab--detect-analyze-and-recognize-faces"></a>랩: 얼굴 감지, 분석, 인식
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Computer Vision 서비스를 사용하여 얼굴 감지
+
+
+  *   Face 서비스를 사용하여 얼굴 감지, 분석, 인식
+
+
+
+  ### <a name="module-11-reading-text-in-images-and-documents"></a>모듈 11: 이미지 및 문서에서 텍스트 읽기
+
+
+  OCR(광학 인식)은 소프트웨어가 이미지 또는 문서에서 텍스트를 추출하는 또 다른 일반적인 컴퓨터 비전 시나리오입니다. 이 모듈에서는 이미지, 문서, 양식에서 텍스트를 감지하고 읽는 데 사용할 수 있는 인지 서비스를 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Computer Vision 서비스를 사용하여 텍스트 읽기
+
+
+  *   Form Recognizer 서비스를 사용하여 양식에서 정보 추출
+
+
+
+  #### <a name="lab--read-text-in-images"></a>랩: 이미지에서 텍스트 읽기
+
+
+  ####
+
+
+  #### <a name="lab--extract-data-from-forms"></a>랩: 양식에서 데이터 추출
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Computer Vision 서비스를 사용하여 이미지 및 문서의 텍스트 읽기
+
+
+  *   Form Recognizer 서비스를 사용하여 디지털 양식에서 데이터 추출
+
+
+
+  ### <a name="module-12-creating-a-knowledge-mining-solution"></a>모듈 12: 지식 마이닝 솔루션 만들기
+
+
+  궁극적으로 많은 AI 시나리오에는 사용자 쿼리를 바탕으로 정보를 지능적으로 검색하는 작업이 포함됩니다. AI 기반 지식 마이닝은 AI를 사용하여 디지털 데이터의 대규모 리포지토리에서 인사이트를 추출하고 사용자가 해당 인사이트를 찾고 분석할 수 있도록 하는 지능형 검색 솔루션을 빌드하는 데 있어 점점 더 중요해지고 있는 방법입니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   지능형 검색 솔루션 구현
+
+
+  *   보강 파이프라인을 위한 사용자 지정 기술 개발
+
+
+  *   지식 저장소 만들기
+
+
+
+  #### <a name="lab--create-a-custom-skill-for-azure-cognitive-search"></a>랩: Azure Cognitive Search를 위한 사용자 지정 기술 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-an-azure-cognitive-search-solution"></a>랩: Azure Cognitive Search 솔루션 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-a-knowledge-store-with-azure-cognitive-search"></a>랩: Azure Cognitive Search를 사용하여 지식 저장소 만들기
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Azure Cognitive Search를 사용하여 지능형 검색 솔루션 만들기
+
+
+  *   Azure Cognitive Search 보강 파이프라인에서 사용자 지정 기술 구현
+
+
+  *   Azure Cognitive Search를 사용하여 지식 저장소 만들기

@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: 'Course MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
-  description: 'Course MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  title: '과정 MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: '과정 MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  ms.openlocfilehash: 98244af93e8d0155984cd9471820369bc4704c5b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107256"
 uid: course.mb-500t00
-courseNumber: 'MB-500T00-A'
+courseNumber: MB-500T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -15,74 +21,105 @@ levels:
 roles:
 - developer
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-500
-summary: "개발자 교육. Microsoft Dynamics 365 Finance and Operations 앱 개발자는 비즈니스 요구 사항에 맞게 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.\n#### 대상 그룹 프로필\n\nMicrosoft Dynamics 365 Finance and Operations 앱 개발자  "
-outlineSection: |-
-  ### 모듈 1&#58; 개요 및 아키텍처
+summary: "개발자 교육. Microsoft Dynamics 365 Finance and Operations 앱 개발자는 비즈니스 요구 사항에 맞게 애플리케이션을 구현 및 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 현실화된 솔루션을 제공해야 합니다.\n\n#### <a name=\"audience-profile\"></a>잠재 고객 프로파일\n\nMicrosoft Dynamics 365 Finance and Operations 앱 개발자  "
+outlineSection: >-
+  ### <a name="module-1-overview--architecture"></a>모듈 1: 개요 및 아키텍처
 
-  Dynamics 365 에코시스템 및 Dynamics 365 Finance and Operations (FO) 소프트웨어 주요 구성 요소 설명, D365FO의 아키텍처 설명, 관련 D365FO 설계 및 배포 고려 사항 설명
 
-  #### 랩 &#58; 개발 환경 구성 및 프로젝트/모델 생성
+  Dynamics 365 에코시스템 및 Dynamics 365 FO(Finance and Operations) 소프트웨어의 주요 구성 요소, D365FO의 아키텍처, 관련 D365FO 디자인 및 배포 고려 사항에 대해 설명합니다.
 
-  ### 모듈 2&#58; 개발자 도구
-  수명 주기 서비스로 시스템 구현 관리, Visual Studio로 D365FO 사용자 지정, 버전 제어를 사용하여 소스 코드 및 Artifacts 관리, 다른 개발 도구를 사용하여 작업 완성
 
-  #### 랩 &#58; DevOps를 사용한 소스 제어
+  #### <a name="lab--development-environment-configuration-and-projectmodel-creation"></a>랩: 개발 환경 구성 및 프로젝트/모델 만들기
 
-  ### 모듈 3&#58; 솔루션 디자인
-  필요한 애플리케이션 스택 구성 요소 및 서버 아키텍처 결정, 애플리케이션 수명 주기 관리 (ALM) 구현, D365FO용 솔루션 디자인
 
-  #### 랩 &#58; 데이터 구조 개발
+  #### <a name="module-2-developer-tools"></a>모듈 2: 개발자 도구
 
-  ### 모듈 4&#58; 애플리케이션 개체 트리(AOT) 요소
 
-  양식 생성, 테이블 생성 및 확장, 확장 데이터 형식 (EDT) 및 열거형 생성, 클래스 생성 및 AOT 요소 확장
+  수명 주기 서비스를 사용하여 시스템 구현 관리, Visual Studio를 사용하여 D365FO 사용자 지정, 버전 제어를 사용하여 원본 코드 및 아티팩트 관리, 다른 개발 도구를 사용하여 작업 완료
 
-  #### 랩 &#58; 메타데이터 확장 및 개발
 
-  ### 모듈 5&#58; 코드 개발 및 테스트
+  #### <a name="lab--source-control-using-devops"></a>랩: DevOps를 사용하여 원본 제어
 
-  X++ 코드 개발, 객체 지향 코드 개발, D365 FO 기능 확장, 테스트 프레임워크 및 도구 설명, 단위 테스트 수행
 
-  #### 랩 &#58; 코드 확장 및 개발
+  #### <a name="module-3-solution-design"></a>모듈 3: 솔루션 디자인
 
-  ### 모듈 6&#58; 데이터 마이그레이션
+  필요한 애플리케이션 스택 구성 요소 및 서버 아키텍처 결정, ALM(애플리케이션 수명 주기 관리) 구현, D365FO를 위한 솔루션 디자인
 
-  마이그레이션 도구 및 방법론 설명, 마이그레이션 전략 계획, 마이그레이션용 데이터 준비 및 데이터 마이그레이션
 
-  #### 랩 &#58; 데이터 엔티티를 사용하여 데이터 내보내기/가져오기
+  #### <a name="lab--data-structure-development"></a>랩: 데이터 구조 개발
 
-  #### 랩 &#58; 반복되는 데이터 전송
 
-  ### 모듈 7&#58; 프레임워크
+  #### <a name="module-4-aot-elements"></a>모듈 4: AOT 요소
+
+
+  양식 만들기, 테이블 만들기 및 확장, EDT(확장 데이터 형식) 및 열거형 만들기, 클래스 만들기, AOT 요소 확장
+
+
+  #### <a name="lab--metadata-extension--development"></a>랩: 메타데이터 확장 및 개발
+
+
+  #### <a name="module-5-code-development--testing"></a>모듈 5: 핵심 개발 및 테스트
+
+
+  X++ 코드 개발, 개체 지향 코드 개발, D365 FO 기능 확장, 테스트 프레임워크 및 도구 설명, 단위 테스트 수행
+
+
+  #### <a name="lab--code-extension--development"></a>랩: 코드 확장 및 개발
+
+
+  #### <a name="module-6-data-migration"></a>모듈 6: 데이터 마이그레이션
+
+
+  마이그레이션 도구 및 방법론 설명, 마이그레이션 전략 계획, 마이그레이션을 위한 데이터 준비 및 데이터 마이그레이션
+
+
+  #### <a name="lab--data-exportimport-using-data-entity"></a>랩: 데이터 엔터티를 사용하여 데이터 내보내기/가져오기
+
+
+  #### <a name="lab--recurring-data-transfer"></a>랩: 되풀이 데이터 전송
+
+
+  #### <a name="module-7-frameworks"></a>모듈 7: 프레임워크
+
 
   D365 FO 기능 구현
 
-  #### 랩 &#58; SysExtension Framework
 
-  ### 모듈 8&#58; 통합
+  #### <a name="lab--sysextension-framework"></a>랩: SysExtension 프레임워크
 
-  데이터 통합 ​​패턴 및 시나리오 식별, 데이터 통합 ​​개념 및 솔루션 구현, 반복 통합 구현, D365FO를 Microsoft Azure와 통합, 통합 오류 문제 해결, 데이터 관리 패키지 API 구현
 
-  #### 랩 &#58; OData 통합
+  #### <a name="module-8-integration"></a>모듈 8: 통합
 
-  #### 랩 &#58; Logic App 통합
 
-  #### 랩 &#58; 외부 웹 서비스 호출
+  데이터 통합 패턴 및 시나리오 식별, 데이터 통합 개념 및 솔루션 구현, 되풀이 통합 구현, D365FO 및 Microsoft Azure 통합, 통합 오류 문제 해결, 데이터 관리 패키지 API 구현
 
-  ### 모듈 9&#58; 리포팅
 
-  D365FO에서 보고 도구의 기능 및 제한 사항 설명, Dynamics 보고서 디자인, 생성 및 수정, 디자인, 생성 및 수정
-  Dynamics 작업 영역, D365FO 외부 데이터 저장소에 연결되는 데이터 소스 디자인, 생성 및 수정
+  #### <a name="lab--odata-integration"></a>랩: OData 통합
 
-  #### 랩 &#58; F&O의 Power BI 리포팅
 
-  ### 모듈 10&#58; 보안 및 성능
+  #### <a name="lab--logic-app-integration"></a>랩: 논리 앱 통합
 
-  성능 도구 및 LCS 환경 모니터링 도구 설명 및 구현, 역할 기반 보안 정책 및 요구 사항 구현, 기본 성능 최적화 적용, 배치 프로세스 성능 최적화, 사용자 인터페이스 성능 최적화, 통합 성능 향상, 보고서 성능 최적화
 
-  #### 랩 &#58; 비동기 및 샌드박스 기능
+  #### <a name="lab--calling-an-external-web-service"></a>랩: 외부 웹 서비스 호출
 
+
+  #### <a name="module-9-reporting"></a>모듈 9: 보고
+
+
+  D365FO에서 보고 도구의 기능 및 제한 사항 설명, Dynamics 보고서 디자인, 만들기, 수정, Dynamics 작업 영역 디자인, 만들기, 수정, D365FO 외부의 데이터 저장소에 연결하는 데이터 원본 디자인, 만들기, 수정
+
+
+  #### <a name="lab--power-bi-reporting-from-fo"></a>랩: F&O에서 Power BI 보고
+
+
+  #### <a name="module-10-security--performance"></a>모듈 10: 보안 및 성능
+
+
+  성능 도구 및 LCS 환경 모니터링 도구 설명 및 구현, 역할 기반 보안 정책 및 요구 사항 구현, 기본 성능 최적화 기술 적용, 일괄 처리 프로세스를 위한 성능 최적화, 사용자 인터페이스 성능 최적화, 통합 성능 향상, 보고서 성능 최적화
+
+
+  #### <a name="lab--async--sandbox-functionality"></a>랩: 비동기 및 샌드박스 기능

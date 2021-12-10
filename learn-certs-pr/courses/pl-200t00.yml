@@ -1,17 +1,23 @@
 ### YamlMime:Course
 title: Microsoft Power Platform Functional Consultant
 metadata:
-  title: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
-  description: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+  title: '과정 PL-200T00--A: Microsoft Power Platform Functional Consultant'
+  description: '과정 PL-200T00--A: Microsoft Power Platform Functional Consultant'
+  ms.openlocfilehash: d0e70e61b2ebe9f68f68fa95540c42570901e000
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107013"
 uid: course.pl-200t00
-courseNumber: 'PL-200T00-A'
+courseNumber: PL-200T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 조직과 협력하여 요구 사항을 수집하고 Microsoft Power Platform 솔루션을 구현합니다. 
-- skill: 모델 기반, 캔버스 및 포털 앱 빌드
+- skill: 조직을 사용하여 요구 사항 수집 및 Microsoft Power Platform 솔루션 구현
+- skill: 모델 기반, 캔버스, 포털 앱 빌드
 - skill: Power Automate 흐름 만들기
-- skill: Power Virtual Agents를 사용하여 간단한 챗봇 설계
+- skill: Power Virtual Agents를 사용하여 간단한 챗봇 디자인
 - skill: Power BI 시각화 및 대시보드를 사용하여 데이터 분석
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -24,178 +30,427 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-200
-summary: |-
-  Microsoft Power Platform은 조직이 비즈니스 프로세스를 자동화하고, 그들만의 풍부한 앱 경험을 개발하고, 고객과 더 빠르고 효과적으로 연결할 수 있도록 합니다. 이 과정에서, 학생들은 검색 수행, 요구 사항 캡처, 주제 전문가 및 이해관계자 참여, 요구 사항 번역 및 Microsoft Power Platform 솔루션 및 앱 구성 방법을 배우게 됩니다. 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화, 및 사용자 지정 시각화를 만들기 위해 실습 랩으로 학습을 보완하게 됩니다. Microsoft Power Platform은 네 가지 주요 제품으로 구성되어 있습니다: Power Apps, Power Automate, Power BI, 및 Power Virtual Agents. 이 과정에서는, Microsoft Dataverse, AI Builder, 커넥터, 및 포털에 중점을 두고 이 네 가지 애플리케이션을 심층적으로 다룹니다.
+summary: >-
+  Microsoft Power Platform은 조직에서 비즈니스 프로세스를 자동화하고, 고유하고 풍부한 앱 경험을 개발하고, 고객과 더 빠르고 효과적으로 연결할 수 있도록 지원합니다. 이 과정에서 학생은 검색, 요구 사항 캡처, 실무 전문가 및 관련자 참여 유도, 요구 사항 변환, Microsoft Power Platform 솔루션 및 앱 구성을 수행하는 방법에 대해 알아봅니다. 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화, 사용자 지정 시각화를 만들기 위한 실습 랩을 통해 학습을 보완합니다. Microsoft Power Platform은 Power Apps, Power Automate, Power BI, Power Virtual Agents라는 4가지 주요 제품으로 구성됩니다. 이 과정에서는 Microsoft Dataverse, AI Builder, 커넥터, 포털에 중점을 두고 이러한 4가지 애플리케이션에 대해 깊이 있게 설명합니다.
 
-  #### 구독자 프로필
 
-  Microsoft Power Platform Functional Consultant는 앱, 자동화, 및 솔루션을 만들고 구성하는 일을 담당합니다. 이들은 사용자와 구현 팀 사이의 연락책 역할을 합니다. 기능 컨설턴트는 조직 내에서 솔루션의 활용을 촉진합니다. 기능 컨설턴트는 검색을 수행하고, 주제 전문가와 이해관계자를 참여시키고, 요구 사항을 캡처하고, 요구 사항을 기능에 매핑할 수 있습니다. 이들은 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화, 및 간단한 시각화를 포함한 솔루션의 구성 요소를 구현합니다.
-prerequisitesSection: |-
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
+  Microsoft Power Platform 기능 컨설턴트는 앱, 자동화, 솔루션을 만들고 구성하는 일을 담당합니다. 사용자와 구현 팀 간 연락 담당자 역할을 합니다. 기능 컨설턴트는 조직 내에서 솔루션의 사용을 촉진합니다. 기능 컨설턴트는 검색을 수행하고, 실무 전문 및 관련자의 참여를 유도하고, 요구 사항을 캡처하고, 요구 사항을 기능에 매핑할 수 있습니다. 애플리케이션 향상, 맞춤형 사용자 경험, 시스템 통합, 데이터 변환, 맞춤형 프로세스 자동화, 단순 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
+prerequisitesSection: >-
   *   IT 전문가 또는 학생으로서의 경험
 
-  *   Microsoft Power Platform 및 해당 주요 구성 요소에 대한 실무 지식
 
-  *   다음에 대한 지식&nbsp;Microsoft&nbsp;Dataverse (또는 일반 데이터 모델링)&nbsp;및 보안 개념
-outlineSection: |-
-  ### 모듈 1: Microsoft Power Platform 소개
+  *   Microsoft Power Platform 및 주요 구성 요소에 대한 실무 지식
 
-  이 모듈은 학습자에게 Microsoft Power Platform 및 해당 4가지 주요 구성 요소에 대한 배경지식을 제공합니다: Power Apps, Power Automate, Power BI, 및 Power Virtual Agents.
 
-  #### 레슨
+  *   Microsoft Dataverse(또는 일반적인 데이터 모델링) 및 보안 개념에 대한 지식&nbsp;&nbsp;&nbsp;
+outlineSection: >-
+  ### <a name="module-1-introduction-to-microsoft-power-platform"></a>모듈 1: Microsoft Power Platform 소개
+
+
+  이 모듈에서는 학습자에게 Microsoft Power Platform과 Power Apps, Power Automate, Power BI, Power Virtual Agents라는 4가지 주요 구성 요소에 대한 배경 지식을 제공합니다.
+
+
+  #### <a name="lessons"></a>단원
+
 
   *   Microsoft Power Platform 개요
 
 
-  #### 랩 : 랩 환경 검증
+
+  #### <a name="lab--validate-lab-environment"></a>랩: 랩 환경 유효성 검사
+
 
   ####
 
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
-  *   Microsoft Power Platform에 대한 주요 구성 요소 식별
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Microsoft Power Platform의 주요 구성 요소 식별
+
 
   *   기능 컨설턴트의 역할 설명
 
 
-  ### 모듈 2: 기능 컨설턴트 역할
 
-  이 모듈에서, 학생들은 조직을 위한 Microsoft Power Platform 솔루션을 성공적으로 구현하는데 필요한 기능 컨설턴트 역할과 기술에 대해 자세히 알아볼 것입니다.
+  ### <a name="module-2-the-functional-consultant-role"></a>모듈 2: 기능 컨설턴트 역할
 
-  #### 레슨
-  - 컨설턴트 기술 개요
-  - 문서 작성 생성 및 검증
-  - 이해 관계자들 참여
-  - 품질 보증 수행
-  - 통합 구성
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 데모로 이해 관계자들 참여
-  - 테이블(개체) 관계 다이어그램 생성
-  - 통합 디자인
-  - 컨설턴트 및 고객 조직 팀과 상호작용
-  
-  
-  ### 모듈 3&#58; Dataverse으로 작업
-  이 모듈에서, 학생들은 데이터 가져오기, 테이블 형식 보고 옵션 사용하기 및 보안 구성하기를 포함하여 Microsoft Dataverse에서 데이터 모델 생성하기에 대해 학습합니다. 또한 AI Builder로 쉬운 AI를 만드는 방법도 학습합니다.
-  #### 레슨
-  - 데이터 모델로 작업
-  - 프로세스 생성 및 관리
-  - AI Builder로 작업
-  - Dataverse 설정 구성 
-  - 데이터 가져오기 및 내보내기
-  - 표로 된 보고 옵션 사용
-  - 보안 설정 구성
-  
-  #### 랩 &#58; 앱 만들기
-  
-  #### 랩 &#58; 테이블 및 열 생성
-  
-  #### 랩 &#58; 관계 생성
-  
-  #### 랩 &#58; 추가 테이블 옵션
-  
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 테이블, 열, 행 및 관계 이해
-  - Dataverse에서 데이터 모델 구성
-  - Microsoft Power Platform 관리 센터 내 환경에서 작업
-  
-  
-  ### 모듈 4&#58; Power Apps 만들기
-  이 모듈에서, 학생들은 세 가지 유형의 Power Apps의 비즈니스 가치를 배웁니다. 그런 후 각 애플리케이션 유형에 대한 사용자 경험 고려사항을 포함하여 구성 및 설계 방법을 배웁니다.
-  #### 레슨
-  - 모델 기반 앱 만들기
-  - 캔버스 앱 만들기
-  - 포털 앱 만들기
-  
-  #### 랩 &#58; App 디자이너
-  
-  #### 랩 &#58; 형식 수정
-  
-  #### 랩 &#58; 보기 수정
-  
-  #### 랩 &#58; 대시보드 빌드
-  
-  #### 랩 &#58; 캔버스 앱 기초
-  
-  #### 랩 &#58; 데이터와 서비스로 작업
-  
-  #### 랩 &#58; 사용자 경험
-  
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Power Apps에서 데이터 연결
-  - Power App 구축
-  - 애플리케이션 사용자 경험 디자인
-  
-  
-  ### 모듈 5&#58; Power Automate 플로 빌드
-  이 모듈에서, 학생들은 Power Automate 플로, 비즈니스 프로세스 플로 및 UI 플로를 사용하여 비즈니스 프로세스를 자동화하는 방법을 배웁니다.
-  #### 레슨
-  - 플로 빌드
-  - 비즈니스 프로세스 플로 빌드
-  - UI 플로 빌드
-  
-  #### 랩 &#58; 사용자 생성
-  
-  #### 랩 &#58; 보안 역할 생성
-  
-  #### 랩 &#58; 신규 비즈니스 규칙 구성
-  
-  #### 랩 &#58; 고급 비즈니스 규칙 
-  
-  #### 랩 &#58; 플로 생성
-  
-  #### 랩 &#58; 승인 플로 빌드
-  
-  #### 랩 &#58; 비즈니스 프로세스 플로 빌드
-  
-  #### 랩 &#58; 비즈니스 프로세스 플로에 분기 추가
-  
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 플로우 생성
-  - 비즈니스 프로세스 플로우 생성
-  - UI 플로우 이해
-  
-  
-  ### 모듈 6&#58; Power Virtual Agents로 작업
-  이 모듈에서, 학생들은 Power Virtual Agents를 사용하여 챗봇과 고객 상호작용을 자동화하는 방법을 배웁니다.
-  #### 레슨
-  - 챗봇 만들기
-  - 주제 구성
-  - 자동화 및 통합
-  - 엔티티 구성
-  - 챗봇 테스트 및 게시
-  
-  #### 랩 &#58; 챗봇 만들기
-  
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 챗봇 만들기
-  - 챗봇에서 플로우 포함
-  - 주제 및 개체 생성
-  
-  
-  ### 모듈 7&#58; Power BI로 데이터 분석
-  이 모듈에서, 학생들은 Power BI Desktop과 Power BI Service를 사용하여 데이터를 분석하고 시각화를 만드는 방법을 배웁니다.
-  #### 레슨
-  - Power BI 시작
-  - Power BI의 모델 데이터
-  - 시각화 만들기
-  - 대시보드 만들기
-  - Power BI에서 게시 및 공유
-  
-  #### 랩 &#58; Word 템플릿 빌드
-  
-  #### 랩 &#58; Excel 템플릿 빌드 
-  
-  #### 랩 &#58; 중복 감지
-  
-  #### 랩 &#58; 데이터 가져오기
-  
-  #### 랩 &#58; 데이터 내보내기
-  
-  #### 랩 &#58; 대량 삭제
-  
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 시각화 만들기
-  - Power BI에서 데이터 사용
-  - 이해 관계자들을 위해 데이터 시각화 내보내기
 
+  ### 모듈 1: Microsoft Power Platform 소개
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   컨설턴트 기술 개요
+
+
+  *   문서 생성 및 확인
+
+
+  *   관련자 참여 유도
+
+
+  *   품질 보증 수행
+
+
+  *   통합 구성
+
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   데모를 사용하여 관련자 참여 유도
+
+
+  *   테이블(엔터티) 관계 다이어그램 만들기
+
+
+  *   통합 디자인
+
+
+  *   컨설턴트 및 고객 조직 팀과 상호 작용
+
+
+
+  ### <a name="module-3-work-with-dataverse"></a>모듈 3: Dataverse 작업
+
+
+  이 모듈에서 학생은 데이터 가져오기, 테이블 형식 보고 옵션 사용, 보안 구성을 포함하여 Microsoft Dataverse에서 데이터 모델을 만드는 방법에 대해 알아봅니다. AI Builder를 사용하여 쉽게 AI를 만드는 방법에 대해서도 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   데이터 모델 사용
+
+
+  *   프로세스 생성 및 관리
+
+
+  *   AI Builder 사용
+
+
+  *   Dataverse 설정 구성
+
+
+  *   데이터 가져오기 및 내보내기
+
+
+  *   테이블 형식 보고 옵션 사용
+
+
+  *   보안 설정 구성
+
+
+
+  #### <a name="lab--create-an-app"></a>랩: 앱 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-tables-and-columns"></a>랩: 테이블 및 열 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-relationships"></a>랩: 관계 만들기
+
+
+  ####
+
+
+  #### <a name="lab--additional-table-options"></a>랩: 추가 테이블 옵션
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   테이블, 열, 행, 관계 이해
+
+
+  *   Dataverse에서 데이터 모델 구성
+
+
+  *   Microsoft Power Platform 관리 센터 내 환경에서 작업
+
+
+
+  ### <a name="module-4-make-power-apps"></a>모듈 4: Power Apps 만들기
+
+
+  이 모듈에서 학생은 3가지 유형의 Power Apps 비즈니스 가치에 대해 알아봅니다. 그런 다음 각 애플리케이션 유형에 대한 사용자 환경 고려 사항을 포함하여 이를 구성하고 디자인하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   모델 기반 앱 만들기
+
+
+  *   캔버스 앱 만들기
+
+
+  *   포털 앱 만들기
+
+
+
+  #### <a name="lab--build-dashboards"></a>랩: 대시보드 빌드
+
+
+  ####
+
+
+  #### <a name="lab--modify-views"></a>랩: 뷰 수정
+
+
+  ####
+
+
+  #### <a name="lab--modify-forms"></a>랩: 양식 수정
+
+
+  ####
+
+
+  #### <a name="lab--app-designer"></a>랩: 앱 디자이너
+
+
+  ####
+
+
+  #### <a name="lab--canvas-app-fundamentals"></a>랩: Canvas 앱 기본 사항
+
+
+  ####
+
+
+  #### <a name="lab--work-with-data-and-services"></a>랩: 데이터 및 서비스 사용
+
+
+  ####
+
+
+  #### <a name="lab--user-experience"></a>랩: 사용자 환경
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   Power Apps에서 데이터 연결
+
+
+  *   Power App 빌드
+
+
+  *   애플리케이션 사용자 환경 디자인
+
+
+
+  ### <a name="module-5-build-power-automate-flows"></a>모듈 5: Power Automate 흐름 빌드
+
+
+  이 모듈에서 학생은 Power Automate 흐름, 비즈니스 프로세스 흐름, UI 흐름을 사용하여 비즈니스 프로세스를 자동화하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   흐름 빌드
+
+
+  *   비즈니스 프로세스 흐름 빌드
+
+
+  *   UI 흐름 빌드
+
+
+
+  #### <a name="lab--build-a-business-process-flow"></a>랩: 비즈니스 프로세스 흐름 빌드
+
+
+  ####
+
+
+  #### <a name="lab--add-branching-to-business-process-flow"></a>랩: 비즈니스 프로세스 흐름에 분기 추가
+
+
+  ####
+
+
+  #### <a name="lab--build-approval-flow"></a>랩: 승인 흐름 빌드
+
+
+  ####
+
+
+  #### <a name="lab--create-a-flow"></a>랩: 흐름 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-users"></a>랩: 사용자 만들기
+
+
+  ####
+
+
+  #### <a name="lab--create-security-role"></a>랩: 보안 역할 만들기
+
+
+  ####
+
+
+  #### <a name="lab--configure-a-new-business-rule"></a>랩: 새 비즈니스 규칙 구성
+
+
+  ####
+
+
+  #### <a name="lab--advanced-business-rules"></a>랩: 고급 비즈니스 규칙
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   흐름 만들기
+
+
+  *   비즈니스 프로세스 흐름 만들기
+
+
+  *   UI 흐름 이해
+
+
+
+  ### <a name="module-6-work-with-power-virtual-agents"></a>모듈 6: Power Virtual Agents 사용
+
+
+  이 모듈에서 학생들은 Power Virtual Agents를 사용하여 챗봇과의 고객 상호 작용을 자동화하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   챗봇 만들기
+
+
+  *   토픽 구성
+
+
+  *   자동화 및 통합
+
+
+  *   엔터티 구성
+
+
+  *   챗봇 테스트 및 게시
+
+
+
+  #### <a name="lab--create-a-chatbot"></a>랩: 챗봇 만들기
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   챗봇 만들기
+
+
+  *   챗봇에 흐름 포함
+
+
+  *   항목 및 엔터티 만들기
+
+
+
+  ### <a name="module-7-analyze-data-with-power-bi"></a>모듈 7: Power BI를 사용하여 데이터 분석
+
+
+  이 모듈에서 학생은 Power BI Desktop 및 Power BI Service를 사용하여 데이터를 분석하고 시각화를 만드는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Power BI 시작
+
+
+  *   Power BI에서 데이터 모델링
+
+
+  *   시각화 만들기
+
+
+  *   대시보드 만들기
+
+
+  *   Power BI에서 게시 및 공유
+
+
+
+  #### <a name="lab--build-a-word-template"></a>랩: Word 템플릿 빌드
+
+
+  ####
+
+
+  #### <a name="lab--build-an-excel-template"></a>랩: Excel 템플릿 빌드
+
+
+  ####
+
+
+  #### <a name="lab--import-data"></a>랩: 데이터 가져오기
+
+
+  ####
+
+
+  #### <a name="lab--duplicate-detection"></a>랩: 중복 검색
+
+
+  ####
+
+
+  #### <a name="lab--export-data"></a>랩: 데이터 내보내기
+
+
+  ####
+
+
+  #### <a name="lab--bulk-delete"></a>랩: 대량 삭제
+
+
+  ####
+
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
+
+
+  *   시각화 만들기
+
+
+  *   Power BI에서 데이터 사용
+
+
+  *   관련자를 위한 데이터 시각화 내보내기

@@ -1,24 +1,30 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  title: '시험 MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: '시험 MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  ms.openlocfilehash: 529aa464914e8c21139e9e4c825f3b11b7b199c6
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105773"
 uid: exam.mb-910
 displayName: MB-910
-summary: |-
-  이 시험은 Microsoft Dynamics 365 고객 참여 앱의 기능과 역량을 다룹니다.
-  
-  이 시험의 응시자들은 정보 기술 (IT) 환경에 대한 일반적인 지식이나 관련 업무 경험이 있어야 합니다. 또한 고객 참여 원칙 및 비즈니스 운영에 대한 기본적인 이해가 있어야 합니다.
-  
-subTitle: '이 시험은 2021년 2월에 가능합니다. 이 시험은 다음을 설명하는 능력을 측정합니다: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; 프로젝트 운영; 및 공유 기능.'
+summary: >-
+  이 시험에서는 Microsoft Dynamics 365 고객 참여 앱의 기능을 다룹니다.
+
+
+  이 시험의 응시자는 IT(정보 기술) 환경에서 일반적인 지식 또는 관련 실무 경험을 보유하고 있어야 합니다. 또한 고객 참여 원칙 및 비즈니스 운영에 대해 기본적으로 이해하고 있어야 합니다.
+subTitle: 이 시험은 Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, Project Operations, 공유 기능에 대해 설명하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-910?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -35,18 +41,18 @@ locales:
 levels:
 - beginner
 skills:
-- Dynamics 365 Marketing 설명 (10-15%)
-- Dynamics 365 Sales 설명 (15-20%)
-- Dynamics 365 Customer Service 설명 (15-20%)
-- Dynamics 365 Field Service 설명 (15-20%)
-- 프로젝트 운영 설명 (15-20%)
-- 공유 기능 설명 (15-20%)
+- Describe Dynamics 365 Marketing (10-15%)
+- Describe Dynamics 365 Sales (15-20%)
+- Describe Dynamics 365 Customer Service (15-20%)
+- Describe Dynamics 365 Field Service (15-20%)
+- Describe Project Operations (15-20%)
+- Describe shared features (15-20%)
 roles:
 - business-owner
 - business-user
 - functional-consultant
 - student
-products: 
+products:
 - dynamics-365
 - dynamics-customer-engagement
 courses:
@@ -61,8 +67,8 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-customer-engagement-apps-crm
 resources:
-- title: 인증 학습 경로
-  description: 필수 시험을 준비하고 인증을 획득하는 데 도움을 주는 권장 훈련 리소스 입니다. 
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -76,9 +82,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

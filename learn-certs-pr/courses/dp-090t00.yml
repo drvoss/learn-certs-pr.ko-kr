@@ -1,16 +1,22 @@
 ### YamlMime:Course
 title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
 metadata:
-  title: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
-  description: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  title: '과정 DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  description: '과정 DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  ms.openlocfilehash: 0212a86eb1995b8bd8f314e82e4f8bc26b662b37
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107509"
 uid: course.dp-090t00
-courseNumber: 'DP-090T00'
+courseNumber: DP-090T00
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure Databricks 작업 영역 및 클러스터 프로비전
-- skill: Azure Databricks을 사용하여 기계 학습 모델 훈련
-- skill: MLflow을 사용하여 실험을 추적하고 기계 학습 모델 관리
+- skill: Azure Databricks 작업 영역 및 클러스터 프로비저닝
+- skill: Azure Databricks를 사용하여 기계 학습 모델 학습시키기
+- skill: MLflow를 사용하여 실험 추적 및 기계 학습 모델 관리
 - skill: Azure Databricks와 Azure Machine Learning 통합
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -21,93 +27,159 @@ roles:
 - data-scientist
 products:
 - azure
-summary: |-
-  Azure Databricks는 데이터 분석 및 기계 학습에 대한 cloud-규모 플랫폼입니다. 이 1-일 과정에서, Azure Databricks를 사용하여 데이터를 탐색, 준비 및 모델링 하는 방법을 배우게 됩니다; Databricks 기계 학습 프로세스를 Azure Machine Learning과 통합
+summary: >-
+  Azure Databricks는 데이터 분석 및 기계 학습을 위한 클라우드 규모의 플랫폼입니다. 이 1일 과정에서는 Azure Databricks를 사용하여 데이터를 탐색, 준비, 모델링하고 Databricks 기계 학습 프로세스를 Azure Machine Learning과 통합하는 방법에 대해 알아봅니다.
 
-  #### 구독자 프로필
 
-  이 과정은 Azure Databricks에 데이터 과학 및 기계 학습 기술을 적용하는 방법을 배워야 하는 Python의 경험이 있는 데이터 과학자들을 위해 디자인되었습니다. 
-prerequisitesSection: |-
-  이 과정에 참가하기 전에, Python을 사용하여 데이터 작업을 한 경험과, 기계 학습 개념의 지식이 있어야 합니다. 이 과정에 참가하기 전에, Microsoft Learn의 다음 학습 경로를 완료하십시오:
+  #### <a name="audience-profile"></a>대상 그룹 프로필
 
-  *   [기계 학습 모델링 생성](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
-outlineSection: |-
-  ### 모듈 1: Azure Databricks 소개
 
-  이 모듈에서는, Azure Databricks 작업 영역 및 클러스터를 프로비전 하고, 데이터 작업에 사용하는 방법을 배우게 됩니다.
+  이 과정은 Azure Databricks에서 데이터 과학 및 기계 학습 기술을 적용하는 방법을 학습해야 하는 Python 사용 경험이 있는 데이터 과학자를 위해 고안되었습니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전에 Python을 사용한 데이터 작업 수행 경험이 있고 기계 학습의 개념에 대해 어느 정도 알고 있어야 합니다. 이 과정에 참여하기 전에 Microsoft Learn:1613에서 다음 학습 경로를 완료하세요.
 
-  #### 레슨
 
-  *   Azure Databricks 시작하기
+  *   [기계 학습 모델 만들기](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
+outlineSection: >-
+  ### <a name="module-1-introduction-to-azure-databricks"></a>모듈 1: Azure Databricks 소개
 
-  *   Azure Databricks에서 데이터 작업하기
 
-  #### 랩 : Azure Databricks 시작하기
+  이 모듈에서는 Azure Databricks 작업 영역 및 클러스터를 프로비저닝하고 이를 통해 데이터를 사용하는 방법에 대해 설명합니다.
 
-  #### 랩 : Azure Databricks에서 데이터 작업하기
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
+  #### <a name="lessons"></a>단원
 
-  *   Azure Databricks 작업 영역 및 클러스터 프로 비전
 
-  *   Azure Databricks를 사용하여 데이터 작업
+  *   Azure Databricks 시작
 
-  ### 모듈 2: 기계 학습 모델 훈련 및 평가하기
 
-  이 모듈에서는, Azure Databricks 를 사용하여 모델링을 위한 데이터를 준비하고, 기계 학습 모델을 훈련하고 검증하는 방법을 배우게 됩니다. 
+  *   Azure Databricks에서 데이터 사용
 
-  #### 레슨
 
-  *   기계 학습을 위한 데이터 준비하기 
+  #### <a name="lab--getting-started-with-azure-databricks"></a>랩: Azure Databricks 시작
 
-  *   기계 학습 모델 훈련하기
 
-  #### 랩 : 기계 학습 모델 훈련하기
+  ####
 
-  #### 랩 : 기계 학습을 위한 데이터 준비하기
 
-  이 모듈을 완료 후, Azure Databricks를 사용하여 다음을 할 수 있게 됩니다:
+  #### <a name="lab--working-with-data-in-azure-databricks"></a>랩: Azure Databricks에서 데이터 사용
+
+
+  ####
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   Azure Databricks 작업 영역 및 클러스터 프로비저닝
+
+
+  *   Azure Databricks를 통해 데이터 사용
+
+
+  ### <a name="module-2-training-and-evaluating-machine-learning-models"></a>모듈 2: 기계 학습 모델 학습시키기 및 평가
+
+
+  이 모듈에서는 Azure Databricks를 사용하여 모델링을 위해 데이터를 준비하고 기계 학습 모델을 학습시키고 유효성을 검사하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Machine Learning을 위한 데이터 준비
+
+
+  *   Machine Learning 모델 학습시키기
+
+
+  #### <a name="lab--training-a-machine-learning-model"></a>랩: Machine Learning 모델 학습시키기
+
+
+  ####
+
+
+  #### <a name="lab--preparing-data-for-machine-learning"></a>랩: Machine Learning을 위한 데이터 준비
+
+
+  ####
+
+
+  이 모듈을 완료하면 Azure Databricks를 사용하여 다음을 할 수 있습니다.
+
 
   *   모델링을 위한 데이터 준비
 
-  *   기계 학습 모델 훈련 및 검증
 
-  ### 모듈 3: 실험 및 모델 관리하기
+  *   기계 학습 모델을 학습시키고 유효성을 검사
 
-  이 모듈에서는, MLflow를 사용하여 Azure Databricks에서 실행되는 실험을 추적하는 방법과 기계 학습 모델을 관리하는 방법을 배우게 됩니다.
 
-  #### 레슨
+  ### <a name="module-3-managing-experiments-and-models"></a>모듈 3: 실험 및 모델 관리
 
-  *   MLflow를 사용하여 실험 추적
 
-  *   모델 관리하기
+  이 모듈에서는 MLflow를 사용하여 Azure Databricks에서 실행하는 실험을 추적하고 기계 학습 모델을 관리하는 방법에 대해 설명합니다.
 
-  #### 랩 : 실험 추적을 위해 MLflow 사용하기
 
-  #### 랩 : 모델 관리하기
+  #### <a name="lessons"></a>단원
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
 
   *   MLflow를 사용하여 실험 추적
+
 
   *   모델 관리
 
-  ### 모듈 4: Azure Databricks와 Azure Machine Learning 통합하기
 
-  이 모듈에서는, Azure Databricks와 Azure Machine Learning을 통합하는 방법을 배우게 됩니다.
+  #### <a name="lab--using-mlflow-to-track-experiments"></a>랩: MLflow를 사용하여 실험 추적
 
-  #### 레슨
 
-  *   Azure Machine Learning으로 실험 추적하기
+  ####
 
-  *   모델 배포하기
 
-  #### 랩 : Azure Machine Learning에서 모델 배포하기
+  #### <a name="lab--managing-models"></a>랩: 모델 관리
 
-  #### 랩 : Azure Machine Learning에서 실험 실행하기
 
-  이 모듈을 완료 후, 다음을 할 수 있게 됩니다:
+  ####
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+
+  *   MLflow를 사용하여 실험 추적
+
+
+  *   모델 관리
+
+
+  ### <a name="module-4-integrating-azure-databricks-and-azure-machine-learning"></a>모듈 4: Azure Databricks 및 Azure Machine Learning 통합
+
+
+  이 모듈에서는 Azure Databricks를 Azure Machine Learning과 통합하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Machine Learning을 사용하여 실험 추적
+
+
+  *   모델 배포
+
+
+  #### <a name="lab--deploying-models-in-azure-machine-learning"></a>랩: Azure Machine Learning에서 모델 배포
+
+
+  ####
+
+
+  #### <a name="lab--running-experiments-in-azure-machine-learning"></a>랩: Azure Machine Learning에서 실험 실행
+
+
+  ####
+
+
+  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
 
   *   Azure Databricks 컴퓨팅에서 Azure Machine Learning 실험 실행
 
-  *   Azure Databricks에서 학습된 모델을 Azure Machine Learning으로 배포하기
+
+  *   Azure Databricks에서 학습시킨 모델을 Azure Machine Learning에 배포

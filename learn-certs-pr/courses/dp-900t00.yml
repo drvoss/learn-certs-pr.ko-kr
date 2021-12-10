@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Microsoft Azure Data Fundamentals
+title: Microsoft Azure 데이터 기본 사항
 metadata:
-  title: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals'
-  description: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals'
+  title: '과정 DP-900T00-A: Microsoft Azure Data Fundamentals'
+  description: '과정 DP-900T00-A: Microsoft Azure Data Fundamentals'
+  ms.openlocfilehash: 59c00af4e02f5e835431dc756f79193da4b5380c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107477"
 uid: course.dp-900t00
-courseNumber: 'DP-900T00-A'
+courseNumber: DP-900T00-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -34,69 +40,107 @@ products:
 - azure
 exams:
 - uid: exam.dp-900
-summary: |-
+summary: >-
   본 과정에서 학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 관계형, 비관계형, 빅 데이터 및 분석 등 핵심 데이터 개념을 식별 및 설명하고 Microsoft Azure로 이러한 기술을 구현하는 방법을 살펴봅니다. 그들은 데이터 세계에서 역할, 작업 및 책임을 탐구합니다. 학생들은 Microsoft Azure를 사용한 클라우드 데이터 솔루션을 통해 관계형 데이터 제공, 관계형 데이터베이스 프로비저닝과 배포 및 관계형 데이터 쿼리를 살펴봅니다. 비 관계형 데이터 제공, 비 관계형 데이터베이스 프로비저닝 및 배포, Microsoft Azure를 사용한 비 관계형 데이터 저장소를 살펴 봅니다. 학생들은 Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션을 살펴봅니다. Azure Synapse Analytics, Azure Databricks 및 Azure HDInsight를 살펴 봅니다. 학생들은 구성 요소 및 함께 작동하는 방법을 포함한 Power BI 개념을 학습합니다.
 
-  #### 대상 그룹 프로필
+
+  #### <a name="audience-profile"></a>잠재 고객 프로파일
+
   본 과정의 대상 그룹은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓으려는 개인입니다.
-prerequisitesSection: |-
-  이 과정을 수강하기 전에 필수 조건 인증은 필요하지 않습니다. 성공적인 Azure Data Fundamentals 학생들은컴퓨팅 및 인터넷 개념에 대한 기본적인 인식과 데이터에서 인사이트 추출에 대한 관심으로 시작합니다.
-  
-  구체적으로&#58;
-  - [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui)와 같은 웹 브라우저 사용 경험.
-  - 스프레드시트에서 데이터 테이블 작업 및 차트를 사용하여 데이터 시각화와 같은 기본 데이터 관련 개념에 익숙함.
-  -실제 탐구를 통해 배우려는 의지.
-outlineSection: |-
-  ### 모듈 1&#58; 핵심 데이터 개념 탐색
+prerequisitesSection: "이 과정을 수강하기 전에 필수 조건 인증은 필요하지 않습니다. 성공적인 Azure Data Fundamentals 학생은 컴퓨팅 및 인터넷 개념에 대해 어느 정도 기본적으로 알고 있으며 데이터에서 인사이트를 추출하는 데 대한 관심이 있습니다.\n\n구체적으로는 다음과 같습니다. \n-   [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui)와 같은 웹 브라우저 사용 경험.\n-   스프레드시트에서 데이터 테이블 작업 및 차트를 사용한 데이터 시각화와 같은 기본 데이터 관련 개념에 대한 이해.\n-   실습 탐색을 통해 배우려는 의지."
+outlineSection: >-
+  ### <a name="module-158-explore-core-data-concepts"></a>모듈 1: 핵심 데이터 개념 살펴보기
+
   학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 관계형, 비관계형, 빅 데이터 및 분석 등 핵심 데이터 개념을 식별 및 설명하고 Azure로 이러한 기술을 구현하는 방법을 살펴봅니다. 학생들은 데이터의 세계에서 역할, 작업 및 책임을 살펴봅니다.
-  #### 단원
-  - 핵심 데이터 개념 탐색
-  - 데이터의 세계에서 역할 및 책임 살펴보기
+
+  #### <a name="lessons"></a>단원
+
+  - 핵심 데이터 개념 살펴보기
+
+  - 데이터 세계에서 역할 및 책임 살펴보기
+
   - 관계형 데이터의 개념 설명하기
+
   - 비관계형 데이터의 개념 탐색
+
   - 데이터 분석의 개념 탐색
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure에서 클라우드 데이터 서비스의 기초 지식 보기
-  - 관계형, 비관계형, 빅 데이터 및 분석 등 핵심 데이터 개념 식별 및 설명
-  - Azure로 이러한 기술 구현 방법 설명
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure 내 클라우드 데이터 서비스에 대한 기본 지식 보유
+
+  - 관계형, 비관계형, 빅 데이터, 분석 등 핵심 데이터 개념 식별 및 설명
+
+  - Azure를 사용하여 해당 기술이 구현되는 방법 설명
 
 
-  ### 모듈 2&#58; Azure에서 관계형 데이터 탐색
+
+  ### <a name="module-258-explore-relational-data-in-azure"></a>모듈 2: Azure에서 관계형 데이터 살펴보기
+
   학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 Azure를 사용한 관계형 데이터 제공, 관계형 데이터베이스 프로비저닝 및 배포 및 관계형 데이터 저장소를 살펴봅니다.
-  #### 단원
-  - Azure에서 관계형 데이터 제공 탐색
-  - Azure에서 관계형 데이터베이스 제공 프로비저닝 및 배포 탐색
-  - Azure에서 관계형 데이터 쿼리
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure에서 관계형 데이터 제공 설명
-  - Azure에서 관계형 데이터베이스 프로비저닝 및 배포 설명
+  #### <a name="lessons"></a>단원
+
+  - Azure의 관계형 데이터 서비스 살펴보기
+
+  - Azure의 관계형 데이터베이스 서비스 프로비저닝 및 배포 살펴보기
+
+  - Azure에서 관계형 데이터 쿼리하기
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure의 관계형 데이터 서비스 설명
+
+  - Azure의 관계형 데이터베이스 프로비저닝 및 배포 설명
+
   - Azure에서 클라우드 데이터 솔루션을 통한 관계형 데이터 쿼리
 
 
-  ### 모듈 3&#58; Azure에서 비관계형 데이터 탐색
-  학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 Microsoft Azure를 사용한 비관계형 데이터 제공, 비관계형 데이터베이스 프로비저닝 및 배포 및 비관계형 데이터 저장소를 살펴봅니다.
-  #### 단원
-  - Azure에서 비관계형 데이터 제공 탐색
-  - Azure에서 비관계형 데이터 서비스 프로비저닝 및 배포 탐색
-  - Azure에서 비관계형 데이터 저장소 관리
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure에서 비관계형 데이터 제공 설명
+  ### <a name="module-358-explore-non-relational-data-in-azure"></a>모듈 3: Azure에서 비관계형 데이터 살펴보기
+
+  학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생은 Microsoft Azure를 사용하여 비관계형 데이터 서비스, 비관계형 데이터베이스 프로비저닝 및 배포, 비관계형 데이터 저장소를 살펴봅니다.
+
+  #### <a name="lessons"></a>단원
+
+  - Azure에서 비관계형 데이터 서비스 살펴보기
+
+  - Azure에서 비관계형 데이터 서비스 프로비저닝 및 배포 살펴보기
+
+  - Azure의 비관계형 데이터 저장소 관리
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure의 비관계형 데이터 서비스 설명
+
   - Azure에서 비관계형 데이터베이스 프로비저닝 및 배포 설명
+
   - Azure에서 비관계형 데이터 저장소 설명
 
 
-  ### 모듈 4&#58; Azure에서 최신 데이터 웨어하우스 분석 탐색
-  학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션을 살펴봅니다. 학생들은 Azure Synapse Analytics, Azure Databricks 및 Azure HDInsight를 살펴봅니다. 학생들은 구성 요소 및 함께 작동하는 방법을 포함한 Power BI 개념을 학습합니다.
-  #### 단원
-  - 최신 데이터 웨어하우스의 구성 요소 검토
-  - Azure에서 데이터 수집 탐색
-  - Azure에서 데이터 스토리지 및 처리 탐색
-  - Power BI로 구축 시작
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션 설명
-  - Azure Synapse Analytics, Azure Databricks 및 Azure HDInsight 설명
-  - 구성 요소 및 호상 작동 방법을 포함한 Microsoft Power BI 개념 설명
+  ### <a name="module-458-explore-modern-data-warehouse-analytics-in-azure"></a>모듈 4: Azure에서 최신 데이터 웨어하우스 분석 살펴보기
+
+  학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션을 살펴봅니다. 학생들은 Azure Synapse Analytics, Azure Databricks 및 Azure HDInsight를 살펴봅니다. 학생들은 구성 요소 및 함께 작동하는 방법을 포함한 Power BI 개념을 학습합니다.
+
+  #### <a name="lessons"></a>단원
+
+  - 최신 데이터 웨어하우스의 구성 요소 검사
+
+  - Azure의 데이터 수집 살펴보기
+
+  - Azure의 데이터 저장 및 처리 살펴보기
+
+  - Power BI로 빌드 시작
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
+
+  - Azure에서 데이터 분석 솔루션을 빌드할 때 사용 가능한 처리 옵션 설명
+
+  - Azure Synapse Analytics, Azure Databricks, Azure HDInsight 설명
+
+  - Microsoft Power BI가 무엇인지 설명(구성 요소 및 함께 작동하는 방법 포함)

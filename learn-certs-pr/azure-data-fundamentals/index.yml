@@ -3,29 +3,29 @@ title: 'Microsoft Certified: Azure Data Fundamentals'
 metadata:
   title: 'Microsoft Certified: Azure Data Fundamentals'
   description: Azure Data Fundamentals은 핵심 데이터 개념에 대한 기초 지식과 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 검증합니다.
+  ms.openlocfilehash: 7bfb07b1be9c81d02412cf05bf471fdbb1b754b3
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113186"
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: 
-  <div><font color='red'><strong>이 인증의 내용은 2021년 10월 25일 업데이트됩니다. 변경되는 내용을 확인하려면 <a href="/learn/certifications/exams/dp-900">DP-900 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-
-  Azure Data Fundamentals 응시자는 핵심 데이터 개념에 대한 기초 지식을 갖추고 있어야 하며 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 알고 있어야 합니다.  
-  
-  본 인증은 클라우드에서 데이터를 사용하기 시작하는 응시자를 대상으로 합니다.  
-  
-  응시자는 관계형 및 비관계형 데이터의 개념과 트랜잭션 또는 분석과 같은 다양한 유형의 데이터 워크로드에 익숙해야 합니다.  
-  
-  Azure Data Fundamentals는 Azure Database Administrator Associate 또는 Azure Data Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 인증에 대한 필수 조건은 아닙니다.
+summary: "<div><font color='red'><strong>이 인증의 내용은 2021년 10월 25일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href=\"/learn/certifications/exams/dp-900\">시험 DP-900 페이지</a>에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>\n\nAzure Data Fundamentals 응시자는 핵심 데이터 개념에 대한 기초 지식을 갖추고 있어야 하며 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 알고 있어야 합니다.  \n\n본 인증은 클라우드에서 데이터를 사용하기 시작하는 응시자를 대상으로 합니다.  \n\n응시자는 관계형 및 비관계형 데이터의 개념과 트랜잭션 또는 분석과 같은 다양한 유형의 데이터 워크로드에 익숙해야 합니다.  \n\nAzure Data Fundamentials는 Azure Database Administrator Associate 또는 Azure Data Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 인증에 대한 필수 조건은 아닙니다."
 subTitle: Azure Data Fundamentals은 핵심 데이터 개념에 대한 기초 지식과 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 검증합니다.
 levels:
 - beginner
 skills:
-- 핵심 데이터 개념 설명
-- Azure에서 관계형 데이터로 작업하는 방법 설명
-- Azure에서 비관계형 데이터로 작업하는 방법 설명
-- Azure에서 분석 워크로드 설명
+- Describe core data concepts
+- Describe how to work with relational data on Azure
+- Describe how to work with non-relational data on Azure
+- Describe an analytics workload on Azure
 roles:
-- data-engineer
 - database-administrator
+- data-analyst
+- data-engineer
+- developer
+- student
 type: fundamentals
 products:
 - azure
@@ -47,11 +47,11 @@ resources:
   description: Azure Data Fundamentals 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -59,9 +59,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-
