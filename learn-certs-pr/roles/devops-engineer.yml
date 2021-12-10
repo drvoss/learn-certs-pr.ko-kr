@@ -2,20 +2,20 @@
 title: DevOps 엔지니어
 metadata:
   title: DevOps 엔지니어
-  description: DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
-  ms.openlocfilehash: dfd538b92e6e6796cd9ded07ec3b04582300436d
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  description: DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치 있는 제품과 서비스를 지속적으로 제공합니다.
+  ms.openlocfilehash: 38e89137145de8d9010332bd7adc68a5a5eecc09
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132112034"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079471"
 uid: role.devops-engineer
 summary: >
-  DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
-subTitle: DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
+  DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치 있는 제품과 서비스를 지속적으로 제공합니다.
+subTitle: DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치 있는 제품과 서비스를 지속적으로 제공합니다.
 certificationPaths:
 - title: DevOps 엔지니어
-  linkedInKeywords: DevOps Engineer
+  linkedInKeywords: DevOps engineer
   uid: certification-path.devops-engineer
   prerequisites:
   - uid: certification.azure-fundamentals

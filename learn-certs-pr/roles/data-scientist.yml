@@ -3,19 +3,19 @@ title: 데이터 과학자
 metadata:
   title: 데이터 과학자
   description: 데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 학습, 평가 및 배포합니다.
-  ms.openlocfilehash: acce0563f14601d3dcdd5424da729fbff3a8be91
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.openlocfilehash: 3ce6e5dbb3b54a7c78e711061cfc3cbfc0d26ed6
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132112043"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078713"
 uid: role.data-scientist
 summary: >
   데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 학습, 평가 및 배포합니다.
 subTitle: 데이터 과학자는 기계 학습 기술을 적용하여 비즈니스 문제를 해결하는 모델을 학습, 평가 및 배포합니다.
 certificationPaths:
 - title: Azure 데이터 과학자
-  linkedInKeywords: Azure Data Scientist
+  linkedInKeywords: Azure data scientist
   uid: certification-path.azure-data-scientist
   prerequisites:
   - uid: certification.azure-fundamentals

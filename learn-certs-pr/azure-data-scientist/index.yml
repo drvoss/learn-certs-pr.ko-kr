@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
   description: Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다.
-  ms.openlocfilehash: 9431631dd2ae27025b23535290a6458a75b97c57
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.openlocfilehash: 49e2c00906fbae6d614c1714da8aec43d26debee
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132112002"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078493"
 uid: certification.azure-data-scientist
 certificationRenewalUid: renewal.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg

@@ -1,54 +1,59 @@
-### YamlMime:Role 
-title: Developer 
-metadata: 
-  title: Developer 
-  description: Developers [개발자는] 솔루션을 설계, 구축, 테스트 및 유지합니다. Developers [개발자는] 솔루션 아키텍처 및 고객과 협력하여 애플리케이션 및 서비스를 구현합니다.
-uid: role.developer 
-summary: | 
-  Developers [개발자는] 솔루션을 설계, 구축, 테스트 및 유지합니다. Developers [개발자는] 솔루션 아키텍처 및 고객과 협력하여 애플리케이션 및 서비스를 구현합니다. 
+### YamlMime:Role
+title: 개발자
+metadata:
+  title: 개발자
+  description: Developers [개발자는] 솔루션을 설계, 구축, 테스트 및 유지합니다. 개발자는 솔루션 아키텍트 및 고객과 협력하여 애플리케이션 및 서비스를 구현합니다.
+  ms.openlocfilehash: 3e721bab06b6d102f72dc9555c2433d03e89c5b6
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301837"
+uid: role.developer
+summary: "Developers [개발자는] 솔루션을 설계, 구축, 테스트 및 유지합니다. 개발자는 솔루션 아키텍트 및 고객과 협력하여 애플리케이션 및 서비스를 구현합니다. \n"
 subTitle: 개발자는 클라우드 솔루션을 설계, 구축, 테스트 및 유지합니다.
-certificationPaths: 
-- title: Azure Developer
-  linkedInKeywords: Azure Developer
-  uid: certification-path.developer 
-  prerequisites: 
+certificationPaths:
+- title: Azure 개발자
+  linkedInKeywords: Azure developer
+  uid: certification-path.developer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-developer
     levels:
-    - intermediate 
-- title: Dynamics 365 Finance and Operations Apps Developer
-  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
+    - intermediate
+- title: Dynamics 365 금융 및 운영 앱 개발자
+  linkedInKeywords: Dynamics 365 finance and operations apps developer
   uid: certification-path.d365-finance-and-operations-apps-developer-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
-    - intermediate 
-- title: Microsoft 365 Developer
-  linkedInKeywords: Microsoft 365 Developer
+    - intermediate
+- title: Microsoft 365 개발자
+  linkedInKeywords: Microsoft 365 developer
   uid: certification-path.m365-developer-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.m365-developer-associate
     levels:
-    - intermediate 
-- title: Power Platform Developer
-  linkedInKeywords: Power Platform Developer
+    - intermediate
+- title: Power Platform 개발자
+  linkedInKeywords: Power Platform developer
   uid: certification-path.power-platform-developer-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.power-platform-developer-associate
     levels:
     - intermediate
@@ -69,6 +74,9 @@ certifications:
 - uid: certification.azure-iot-developer-specialty
   requiredExams:
   - uid: exam.az-220
+- uid: certification.azure-cosmos-db-developer-specialty
+  requiredExams:
+  - uid: exam.dp-420
 resources:
 - title: Microsoft 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

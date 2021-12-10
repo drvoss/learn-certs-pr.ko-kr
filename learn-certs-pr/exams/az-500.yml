@@ -1,42 +1,64 @@
 ### YamlMime:Examination
-title: Microsoft Azure Security Technologies
+title: Microsoft Azure 보안 기술
 metadata:
-  title: 'Exam AZ-500: Microsoft Azure Security Technologies'
-  description: 'Exam AZ-500: Microsoft Azure Security Technologies'
+  title: '시험 AZ-500: Microsoft Azure Security Technologies'
+  description: '시험 AZ-500: Microsoft Azure Security Technologies'
+  ms.openlocfilehash: 6f5e14d217c69c8fdf0b411dd39a9b8bce6be786
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079494"
 uid: exam.az-500
 displayName: AZ-500
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
-  
-  이 시험의 응시자들은 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션 및 네트워크를 보호하는 Azure 보안 제어를 구현하는 주제 전문 지식을 갖추고 있어야 합니다.
-  
-  Azure Security Engineer의 책임에는 보안 태세 관리, 취약성 식별 및 수정, 위협 모델링 수행, 위협 보호 구현, 보안 사고 에스컬레이션 대응이 포합됩니다.
-  
-  Azure Security Engineers는 흔히 cloud-기반 관리 및 보안을 계획하고 구현하기 위한 더 큰 팀의 일원으로 일합니다.  
-  
-  이 시험의 응시자들은 Azure 및 하이브리드 환경 관리에 대한 실질적인 경험을 갖추고 있어야 합니다. 응시자들은 코드로서의 인프라, 보안 운영 프로세스, cloud 기능 및, Azure 서비스에 대한 경험이 있어야 합니다. 
-subTitle: '본 시험은 ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안에 대한 귀하의 수행 능력을 측정합니다.'
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
+
+
+  본 시험의 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션 및 네트워크를 보호하는 Azure 보안 구현에 관한 실무 전문 지식을 갖추어야 합니다.
+
+
+  Azure 보안 엔지니어는 보안 상태를 관리하고, 취약점을 식별 및 해결하며, 위협 모델링을 수행하고, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
+
+
+  Azure 보안 엔지니어는 종종 클라우드 기반 관리 및 보안을 계획하고 구현하는 더 큰 팀의 일원입니다.
+
+
+  이 시험의 응시자는 Azure 및 하이브리드 환경 관리에 관한 실무 경험이 있어야 합니다. 응시자는 코드, 보안 작업 프로세스, 클라우드 기능, Azure 서비스와 같은 인프라를 사용해본 경험이 있어야 합니다.
+
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+subTitle: '본 시험은 아래에 열거된 기술 작업에 대한 귀하의 수행 능력을 측정합니다: ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
 - zh-cn
 - ko
+- de
+- fr
+- es
+- pt-br
+- ar-sa
+- ru
+- zh-tw
+- it
+- id-id
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- ID 및 액세스 관리 (30-35%)
-- 플랫폼 보호 구현 (15-20%)
-- 보안 운영 관리 (25-30%)
-- 데이터 및 애플리케이션 보안 (25-30%)
+- The content of this exam was updated on September 29, 2021. Please download the exam skills outline below to see what changed.
+- Manage identity and access (30-35%)
+- Implement platform protection (15-20%)
+- Manage security operations (25-30%)
+- Secure data and applications (25-30%)
 roles:
 - security-engineer
 products:
@@ -49,12 +71,10 @@ products:
 courses:
 - uid: course.az-500t00
 paths:
-- uid: learn.security.secure-your-cloud-apps
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.security.implement-network-security
-- uid: learn.security.implement-host-security
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
+- uid: learn.wwl.manage-identity-access
+- uid: learn.wwl.implement-platform-protection
+- uid: learn.wwl.secure-your-data-applications
+- uid: learn.wwl.manage-security-operation
 relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
@@ -68,7 +88,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -77,10 +97,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

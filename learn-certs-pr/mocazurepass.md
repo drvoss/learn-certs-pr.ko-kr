@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 04/01/2020
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 43dcf2787010f6fbf3d59d4ae55b6899f4cb214a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.openlocfilehash: 3fa4daf6c258a3a0c4ee65e9a5d1924decd85d2b
+ms.sourcegitcommit: b36347474884bb8a8c6a61feb1242d467d28396f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132111132"
+ms.lasthandoff: 11/22/2021
+ms.locfileid: "132890584"
 ---
 # <a name="access-to-microsoft-learning-azure-passes-for-students-of-authorized-microsoft-learning-partners"></a>공인 Microsoft Learning Partners의 학생을 위한 Microsoft Learning Azure Pass 액세스
 
@@ -26,7 +26,7 @@ Microsoft는 Microsoft Official Courses을 통해 자격있는 Azure 관련 과�
 
 파트너의 경우 [여기](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) Courseware Marketplace를 통해 배포되는 Azure Pass에 대한 사용 약관을 참조하세요. Pass는 Courseware Marketplace에서 할당된 후 90일 동안 유효합니다. 만료된 Pass는 재발행할 수 없습니다.
 
-MCT는 적격있는 Azure 과정 준비에 1개의 Pass를 요청할 수 있습니다. 요청은 계속 적용되며, MCT는 해당 [여기](https://vouchers.cloudapp.net/AzurePass/)에서 Azure 과정 준비 Pass를 요청할 수 있지만, 이 제안은 언제든지 종료될 수 있습니다.
+MCT는 적격있는 Azure 과정 준비에 1개의 Pass를 요청할 수 있습니다. 요청은 계속 적용되며, MCT는 해당 [여기](https://aka.ms/mctazurepass)에서 Azure 과정 준비 Pass를 요청할 수 있지만, 이 제안은 언제든지 종료될 수 있습니다.
 
 Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습니다. 제공되는 기간에만 그리고 Microsoft Azure가 지원되는 [국가](https://www.windowsazure.com/pricing/faq/)에서만 사용할 수 있습니다.
 

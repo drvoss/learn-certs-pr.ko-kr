@@ -1,37 +1,48 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant'
+title: Microsoft Power Platform Functional Consultant
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  title: '시험 PL-200: Microsoft Power Platform Functional Consultant'
+  description: '시험 PL-200: Microsoft Power Platform Functional Consultant'
+  ms.openlocfilehash: 90cb08a23a9847b5f8587c460f344e31a2b045b6
+  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133101979"
 uid: exam.pl-200
 displayName: PL-200
-summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 10월 1일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><div><font color="red">제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 절차를 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일부터 시험에 반영됩니다.</font><br/><br/></div><div><font color='red'><strong>이 시험의 내용은 2021년 10월 1일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
-  본 시험의 응시자는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 Power Platform 솔루션과 앱 구성을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 생성합니다.
-  
-  응시자들은 솔루션 아키텍트와 협력하여 제공되는 디자인과 사용자 경험 디자이너가 확립한 표준, 브랜딩 및 아티팩트를 구현합니다. 타사 애플리케이션 및 서비스와 원활한 통합을 제공하기위해 통합을 디자인합니다. 
-  
-  응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
-  
-  Power Platform 기능 컨설턴트는 Power Platform 구성요소를 사용하여 Teams, Dynamics 365, Excel, 및 Word와 같은 Microsoft 앱과 서비스를 확정하고 사용자 지정하는데 능숙해야합니다. 
-subTitle: '이 시험은 다음과 같은 작업을 완료하는 능력을 측정합니다: Microsoft Dataverse 구성; Power Apps을 사용하여 앱 만들기; Power Automate 만들기 및 관리; Power Virtual Agents 챗봇 구현; 그리고 Power Apps을 다른 앱 및 서비스와 통합합니다.'
+
+  본 시험의 응시자는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 Microsoft Power Platform 솔루션과 앱 구성을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 생성합니다.
+
+
+  응시자는 솔루션 아키텍트와 협력하여 제공되는 설계와 사용자 환경 디자이너가 정한 표준, 브랜딩 및 아티팩트를 구현합니다. 응시자는 타사 애플리케이션 및 서비스와 완벽한 통합을 제공하기 위해 통합을 설계합니다.
+
+
+  응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Microsoft Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
+
+
+  Microsoft Power Platform 기능 컨설턴트는 Microsoft Power Platform 구성 요소를 사용하여 Teams, Dynamics 365, Excel, Word 등의 Microsoft 앱과 서비스를 확장하고 사용자 지정하는 방법을 잘 알고 있어야 합니다.
+subTitle: 이 시험에서는 Microsoft Dataverse 구성, Microsoft Power Apps을 사용하여 앱 만들기, Microsoft Power Automate 만들기 및 관리, Microsoft Power Virtual Agents 챗봇 구현, Microsoft Power Apps을 다른 앱 및 서비스와 통합하는 작업을 완료하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 10월 1일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- Microsoft Dataverse 구성 (25-30%)
-- Power Apps을 사용한 앱 생성 (20-25%)
-- Power Automate 생성 및 관리 (15-20%)
-- Power Virtual Agents 챗봇 구현 (10-15%)
-- Power Apps를 다른 앱 및 서비스와 통합 (15-20%)
+- The content of this exam was updated on October 1, 2021. Please download the exam skills outline below to see what changed.
+- Configure Microsoft Dataverse (20-25%)
+- Create apps by using Microsoft Power Apps (15-20%)
+- Create and manage Microsoft Power Automate (15-20%)
+- Implement Microsoft Power Virtual Agents chatbots (10-15%)
+- Integrate Microsoft Power Apps with other apps and services (10-15%)
+- Manage solutions (15-20%)
 roles:
 - business-analyst
 - developer
@@ -45,6 +56,11 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
 - uid: course.pl-200t00
 paths:
@@ -74,7 +90,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -83,9 +99,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

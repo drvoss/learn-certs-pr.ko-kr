@@ -1,0 +1,736 @@
+### YamlMime:Course
+title: Microsoft Azure Cosmos DB를 사용하여 클라우드 네이티브 애플리케이션 설계 및 구현
+metadata:
+  title: '과정 DP-420T00--A: Microsoft Azure Cosmos DB를 사용하여 클라우드 네이티브 애플리케이션 설계 및 구현'
+  description: '과정 DP-420T00--A: Microsoft Azure Cosmos DB를 사용하여 클라우드 네이티브 애플리케이션 설계 및 구현'
+  ms.openlocfilehash: 7800ccfa1f5050f7ee40d93eb7d9518b05aa8bf6
+  ms.sourcegitcommit: c116073237510c2d0096e8ace7a60c3c2384e870
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/12/2021
+  ms.locfileid: "132382815"
+uid: course.dp-420t00
+courseNumber: DP-420T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Cosmos DB SQL API 계정, 데이터베이스 및 컨테이너 만들기 및 구성
+- skill: .NET SDK를 사용하여 리소스를 관리하고 작업을 수행
+- skill: 다양한 복잡성 수준의 쿼리 수행
+- skill: 데이터 모델링 및 분할 전략 설계
+- skill: 애플리케이션의 특징을 바탕으로 쿼리 및 인덱스 최적화
+- skill: Azure Resource Manager를 사용하여 CLI 또는 JSON 및 Bicep 템플릿이 있는 계정과 리소스 관리
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.dp-420
+summary: >-
+  이 과정에서는 개발자에게 SQL API 및 Azure Cosmos DB 용 SDK를 사용하여 애플리케이션을 만드는 방법을 교육합니다. 학생들은 효율적인 쿼리를 작성하고, 인덱싱 정책을 만들고, 리소스를 관리 및 프로비전하고, SDK를 사용하여 일반적인 작업을 수행하는 방법을 배웁니다.
+
+
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
+  Azure Cosmos DB SQL API와 이 API의 다양한 SDK를 활용하는 클라우드 네이티브 솔루션을 제작해야 하는 소프트웨어 엔지니어입니다. C#, Python, Java 또는 JavaScript를 잘 알고 있습니다. 또한 SQL 또는 NoSQL 데이터베이스 플랫폼과 상호 작용하는 코드를 작성한 경험이 있습니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전, 학생들은 반드시 다음을 갖추어야 합니다:
+
+
+  *   Microsoft Azure에 대한 지식 및 Azure Portal 탐색 능력(AZ-900에 해당)
+
+
+  *   Azure에서 지원되는 언어로 작성하는 중간 수준의 경험. (C#, JavaScript, Python 또는 Java)
+
+
+  *   SQL 또는 NoSQL 데이터베이스 제품에 연결하고 작업을 수행하는 코드를 작성하는 능력. (SQL Server, Oracle, MongoDB, Cassandra 또는 이와 유사한 제품)
+outlineSection: >-
+  ### <a name="module-1-get-started-with-azure-cosmos-db-sql-api"></a>모듈 1: Azure Cosmos DB SQL API 시작하기
+
+
+  최신 앱은 다양한 형식과 다양한 원본의 실시간 데이터를 기반으로 합니다. 이러한 앱에는 전달되는 데이터의 다양성과 속도를 처리할 수 있는 최신 데이터베이스가 필요합니다. 이 모듈에서는 Azure Cosmos DB에 대해, 그리고 최신 애플리케이션이 유발하는 일부 문제를 SQL API로 해결하는 방법을 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API 소개
+
+
+  *   Azure Cosmos DB SQL API 시도
+
+
+
+  #### <a name="lab--exercise-create-an-azure-cosmos-db-sql-api-account"></a>랩: 연습: Azure Cosmos DB SQL API 계정 만들기
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   Azure Cosmos DB SQL API가 애플리케이션에 적합한 데이터베이스인지 평가합니다.
+
+
+  *   Azure Cosmos DB SQL API의 기능이 최신 애플리케이션에 적합한 이유를 설명
+
+
+  *   새 Azure Cosmos DB SQL API 계정 만들기
+
+
+  *   Azure Cosmos DB SQL API 계정에 대한 데이터베이스, 컨테이너 및 항목 리소스 만들기
+
+
+
+  ### <a name="module-2-plan-and-implement-azure-cosmos-db-sql-api"></a>모듈 2: Azure Cosmos DB SQL API 계획 및 구현
+
+
+  새 Azure Cosmos DB 계정을 만들 때는 대부분 많은 구성 항목을 선택해야 하며, 이 작업은 처음에는 어려울 수 있습니다. 많은 상황에서는 기본값을 이용하면 되지만, 계정 및 리소스가 솔루션에 최적으로 구성되게 하려면 구성 옵션을 숙지하는 것이 좋습니다. 이 모듈에서는 새 솔루션에 맞게 Azure Cosmos DB 계정 및 리소스를 준비하고 구성하는 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   리소스 요구 사항 계획
+
+
+  *   Azure Cosmos DB SQL API 데이터베이스 및 컨테이너 구성
+
+
+  *   Azure Cosmos DB SQL API로 데이터를 송수신
+
+
+
+  #### <a name="lab--exercise-configure-throughput-for-azure-cosmos-db-sql-api-with-the-azure-portal"></a>랩: 연습: Azure Portal을 사용하여 Azure Cosmos DB SQL API에 대한 처리량 구성
+
+
+  ####
+
+
+  #### <a name="lab--exercise-migrate-existing-data-using-azure-data-factory"></a>랩: 연습: Azure Data Factory를 사용하여 기존 데이터 마이그레이션
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   애플리케이션의 다양 한 요구 사항 평가
+
+
+  *   규모 및 보존 요구 사항 계획
+
+
+  *   처리량 할당 구성
+
+
+  *   TTL(Time to Live) 값 구성
+
+
+  *   Azure 서비스를 사용하여 데이터 마이그레이션
+
+
+  *   Spark 또는 Kafka를 사용하여 데이터 마이그레이션
+
+
+
+  ### <a name="module-3-connect-to-azure-cosmos-db-sql-api-with-the-sdk"></a>모듈 3: SDK를 사용하여 Azure Cosmos DB SQL API에 연결
+
+
+  .NET(C#), Java, Python, JavaScript(Node.js)를 포함하지만 이에 국한되지는 않는 인기 프로그래밍 언어에서, 다양한 SDK를 사용하여 Azure Cosmos DB SQL API에 연결할 수 있습니다. 이 모듈에서는 Azure Cosmos DB SQL API용 .NET SDK를 실습합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API SDK 사용
+
+
+  *   Azure Cosmos DB SQL API SDK 구성
+
+
+
+  #### <a name="lab--exercise-configure-the-azure-cosmos-db-sql-api-sdk-for-offline-development"></a>랩: 연습: 오프라인 개발을 위한 Azure Cosmos DB SQL API SDK 구성
+
+
+  ####
+
+
+  #### <a name="lab--exercise-connect-to-azure-cosmos-db-sql-api-with-the-sdk"></a>랩: 연습: SDK를 사용하여 Azure Cosmos DB SQL API에 연결
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   NuGet의 Microsoft.Azure.Cosmos SDK 라이브러리 통합
+
+
+  *   SDK와 .NET을 사용하여 Azure Cosmos DB SQL API 계정에 연결
+
+
+  *   오프라인 개발을 위한 SDK 구성
+
+
+  *   일반적인 연결 오류 해결
+
+
+  *   SDK에서 병렬 처리 구현
+
+
+  *   SDK를 사용하여 로깅 구성
+
+
+
+  ### <a name="module-4-access-and-manage-data-with-the-azure-cosmos-db-sql-api-sdks"></a>모듈 4: Azure Cosmos DB SQL API SDK를 사용하여 데이터 액세스 및 관리
+
+
+  Azure Cosmos DB용 SQL API SDK는 다양한 지점 작업을 수행하고, 트랜잭션을 실행하고, 대량 데이터를 처리하는 데 사용합니다. 이 모듈에서는 SDK를 사용하여 개별 문서나 문서 그룹을 조작합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API 지점 작업 실행
+
+
+  *   Azure Cosmos DB SQL API를 사용하여 문서 간 트랜잭션 작업 수행
+
+
+  *   Azure Cosmos DB SQL API의 대량 데이터 처리
+
+
+
+  #### <a name="lab--exercise-create-and-update-documents-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 문서 생성 및 업데이트
+
+
+  ####
+
+
+  #### <a name="lab--exercise-batch-multiple-point-operations-together-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 여러 지점 작업을 대량 처리
+
+
+  ####
+
+
+  #### <a name="lab--exercise-move-multiple-documents-in-bulk-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 여러 문서를 대량으로 이동
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   SDK를 사용하여 CRUD 작업 수행
+
+
+  *   특정 문서에 대한 TTL 구성
+
+
+  *   작업에 대한 낙관적 동시성 제어 구현
+
+
+  *   트랜잭션 대량 처리 생성 및 결과 검토
+
+
+  *   대량 작업 만들기
+
+
+  *   대량 작업의 결과 검토
+
+
+  *   대량 작업 모범 사례 구현
+
+
+
+  ### <a name="module-5-execute-queries-in-azure-cosmos-db-sql-api"></a>모듈 5: Azure Cosmos DB SQL API에서 쿼리 실행
+
+
+  Azure Cosmos DB SQL API는 JSON 쿼리 언어로서의 SQL(구조적 쿼리 언어)을 지원합니다. 이 모듈에서는 SQL 쿼리 언어를 사용하여 효율적인 쿼리를 만드는 방법을 배웁니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API 쿼리
+
+
+  *   Azure Cosmos DB SQL API를 사용하여 복잡한 쿼리 작성
+
+
+
+  #### <a name="lab--exercise-paginate-cross-product-query-results-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 제품 간 쿼리 결과에 페이지를 매김
+
+
+  ####
+
+
+  #### <a name="lab--exercise-execute-a-query-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 쿼리 실행
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   SQL 쿼리 생성 및 실행
+
+
+  *   쿼리 결과 추정
+
+
+  *   쿼리에서 기본 제공 함수 사용
+
+
+  *   관련된 하위 쿼리 구현
+
+
+  *   제품 간 쿼리 만들기
+
+
+
+  ### <a name="module-6-define-and-implement-an-indexing-strategy-for-azure-cosmos-db-sql-api"></a>모듈 6: Azure Cosmos DB SQL API용 인덱싱 전략 정의 및 구현
+
+
+  기본적으로 Azure Cosmos DB에서는 SQL API를 사용하여 저장된 문서의 모든 경로를 자동으로 인덱싱합니다. 복잡한 쿼리도 즉시 만들 수 있으므로 새 애플리케이션을 개발할 때 유용합니다. 애플리케이션이 발전하면 솔루션의 요구 사항에 맞게 인덱싱 정책을 사용자 지정할 수 있습니다. 이 모듈에서는 사용자 지정 인덱싱 정책을 만드는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API에서 인덱스를 정의합니다.
+
+
+  *   Azure Cosmos DB SQL API에서 인덱스를 사용자 지정합니다.
+
+
+
+  #### <a name="lab--exercise-review-the-default-index-policy-for-an-azure-cosmos-db-sql-api-container-with-the-portal"></a>랩: 연습: 포털에서 Azure Cosmos DB SQL API 컨테이너에 대한 기본 인덱스 정책을 검토합니다.
+
+
+  ####
+
+
+  #### <a name="lab--exercise-configure-an-azure-cosmos-db-sql-api-containers-index-policy-with-the-portal"></a>랩: 연습: 포털에서 Azure Cosmos DB SQL API 컨테이너의 인덱스 정책 구성
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   SQL API 컨테이너의 기본 인덱싱 정책 보기 및 이해
+
+
+  *   컨테이너의 인덱싱 정책 사용자 지정
+
+
+  *   인덱싱 정책에서 복합 인덱스 사용
+
+
+
+  ### <a name="module-7-integrate-azure-cosmos-db-sql-api-with-azure-services"></a>모듈 7: Azure 서비스와 Azure Cosmos DB SQL API 통합
+
+
+  Azure Cosmos DB는 Azure Functions, Azure Cognitive Search, Azure Event Hubs, Azure Storage, Azure Data Factory, Azure Stream Analytics 같은 다양한 Azure 서비스와의 긴밀한 통합을 지원합니다. 나아가 변경 피드를 사용하여 Azure Cosmos DB를 Azure 내외부의 다른 여러 서비스와 통합할 수도 있습니다. 이 모듈에서는 Azure Cosmos DB를 Azure Functions 및 Azure Cognitive Search와 통합합니다. 또한 SDK를 사용하여 변경 피드를 살펴보는 작업도 합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   SDK를 사용하여 Azure Cosmos DB SQL API 변경 피드 사용
+
+
+  *   Azure Functions와 Azure Cosmos DB SQL API 변경 피드를 사용하여 이벤트 처리
+
+
+  *   Azure Cognitive Search를 사용하여 Azure Cosmos DB SQL API 데이터 검색
+
+
+
+  #### <a name="lab--exercise-archive-azure-cosmos-db-sql-api-data-using-azure-functions"></a>랩: 연습: Azure Functions를 사용하여 Azure Cosmos DB SQL API 데이터 보관
+
+
+  ####
+
+
+  #### <a name="lab--exercise-process-change-feed-events-using-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 변경 피드 이벤트 처리
+
+
+  ####
+
+
+  #### <a name="lab--exercise-archive-data-using-azure-functions-and-azure-cosmos-db-sql-api"></a>랩: 연습: Azure Functions와 Azure Cosmos DB SQL API를 사용하여 데이터 보관
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   SDK를 사용하여 변경 피드 이벤트 처리
+
+
+  *   변경 피드 모범 사례 구현
+
+
+  *   Azure Cosmos DB에 대한 Azure Functions 트리거 만들기
+
+
+  *   Azure Cosmos DB에 대한 Azure Functions 입력 만들기
+
+
+  *   Azure Cognitive Search에서 Azure Cosmos DB 데이터 인덱싱
+
+
+
+  ### <a name="module-8-implement-a-data-modeling-and-partitioning-strategy-for-azure-cosmos-db-sql-api"></a>모듈 8: Azure Cosmos DB SQL API용 데이터 모델링 및 분할 전략 구현
+
+
+  Azure Cosmos DB는 수평 스케일링이 가능하고 비관계형입니다. 이 수준의 스케일링 성능을 달성하려면 사용자는 데이터를 모델링하고 분할하기 위한 NoSQL 데이터베이스 고유의 개념, 기법, 기술을 이해해야 합니다. 이 모듈에서는 Azure Cosmos DB SQL API 같은 NoSQL 데이터베이스에 맞게 데이터를 모델링하고 분할합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB에서 데이터 모델링 및 분할
+
+
+  *   Azure Cosmos DB용 고급 모델링 패턴을 사용하여 데이터베이스 최적화
+
+
+
+  #### <a name="lab--exercise-measure-performance-for-customer-entities"></a>랩: 연습: 고객 엔터티에 대한 성능 측정
+
+
+  ####
+
+
+  #### <a name="lab--exercise-advanced-modeling-patterns"></a>랩: 연습: 고급 모델링 패턴
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   기존 애플리케이션의 애플리케이션 액세스 패턴 식별
+
+
+  *   데이터를 포함하거나 참조해야 하는 경우 결정
+
+
+  *   변경 피드를 사용하여 참조 무결성 관리
+
+
+  *   단일 컨테이너에 여러 엔터티를 결합
+
+
+  *   단일 컨테이너에서 집계된 데이터 비정규화
+
+
+
+  ### <a name="module-9-design-and-implement-a-replication-strategy-for-azure-cosmos-db-sql-api"></a>모듈 9: Azure Cosmos DB SQL API의 복제 전략 설계 및 구현
+
+
+  오늘날의 애플리케이션은 응답성이 뛰어나며 항상 온라인을 유지해야 합니다. 짧은 대기 시간 및 고가용성을 이루려면 이러한 애플리케이션의 인스턴스를 해당 사용자에서 가까운 데이터 센터에 배포해야 합니다. 이 모듈에서는 Azure Cosmos DB SQL API를 사용하여 전 세계 데이터를 복제하고 일관성을 관리하는 방법을 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB에서 복제 구성 및 장애 조치(failover) 관리
+
+
+  *   Azure Cosmos DB SQL API에서 일관성 모델 사용
+
+
+  *   Azure Cosmos DB SQL API에서 다중 지역 쓰기 구성
+
+
+
+  #### <a name="lab--exercise-configure-consistency-models-in-the-portal-and-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: 포털 및 Azure Cosmos DB SQL API SDK에서 일관성 모델 구성
+
+
+  ####
+
+
+  #### <a name="lab--exercise-connect-to-different-regions-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 다중 지역에 연결
+
+
+  ####
+
+
+  #### <a name="lab--exercise-connect-to-a-multi-region-write-account-with-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 다중 지역 쓰기 계정에 연결
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   다양한 지리적 위치에 데이터 배포
+
+
+  *   자동 장애 조치(failover) 정책 정의
+
+
+  *   수동 장애 조치(failover) 수행
+
+
+  *   기본 일관성 모델 구성
+
+
+  *   세션별 일관성 모델 변경
+
+
+  *   SDK에서 다중 지역 쓰기 구성
+
+
+  *   사용자 지정 충돌 해결 정책 만들기
+
+
+
+  ### <a name="module-10-optimize-query-performance-in-azure-cosmos-db-sql-api"></a>모듈 10: Azure Cosmos DB SQL API에서 쿼리 성능 최적화
+
+
+  Azure Cosmos DB는 컨테이너 내 항목에서 작동하는 다양한 데이터베이스 작업 집합을 제공합니다. 이러한 작업 각각과 관련된 비용은 작업을 완료하는 데 필요한 CPU, IO 및 메모리에 따라 달라집니다. 이 모듈에서는 인덱싱 정책을 관리하고 쿼리를 편집하여 RU(쿼리당 요청 단위) 비용을 최소화하는 방법을 살펴봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API에서 인덱스 선택
+
+
+  *   Azure Cosmos DB SQL API에서 쿼리 최적화
+
+
+  *   통합 캐시 구현
+
+
+
+  #### <a name="lab--exercise-optimize-an-azure-cosmos-db-sql-api-containers-index-policy-for-common-operations"></a>랩: 연습: 일반적인 작업에 맞게 Azure Cosmos DB SQL API 컨테이너의 인덱스 정책 최적화
+
+
+  ####
+
+
+  #### <a name="lab--exercise-optimize-an-azure-cosmos-db-sql-api-containers-index-policy-for-a-specific-query"></a>랩: 연습: 특정 쿼리에 맞게 Azure Cosmos DB SQL API 컨테이너의 인덱스 정책 최적화
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   읽기 집약적 및 쓰기 집약적 인덱스 패턴을 검토하고 비교
+
+
+  *   인덱싱 정책을 업데이트하여 인덱스 성능 최적화
+
+
+  *   쿼리 비용을 RU(요청 단위)로 측정
+
+
+  *   지점 작업의 비용 측정
+
+
+  *   항목 및 쿼리 통합 캐시 작업
+
+
+  *   통합 캐시 부실 구성
+
+
+
+  ### <a name="module-11-administrating-and-monitoring-tasks-for-an-azure-cosmos-db-sql-api-solution"></a>모듈 11: Azure Cosmos DB SQL API 솔루션의 관리 및 모니터링 작업
+
+
+  Azure Cosmos DB 같은 Azure 리소스를 사용하는 중요한 애플리케이션 및 비즈니스 프로세스가 있는 경우, 이러한 리소스의 가용성, 성능 및 작업을 모니터링해야 합니다. 이 모듈에서는 Azure Cosmos DB 계정의 이벤트 및 성능을 모니터링하는 방법을 살펴봅니다. 일반적인 보안 조치와 Azure Cosmos DB에서의 백업 및 복원을 구현하는 방법도 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API에서 성능 측정
+
+
+  *   Azure Cosmos DB SQL API에서 응답 및 이벤트 모니터링
+
+
+  *   Azure Cosmos DB SQL API의 백업 및 복원 구현
+
+
+  *   Azure Cosmos DB SQL API에서 보안 구현
+
+
+
+  #### <a name="lab--exercise-troubleshoot-an-application-using-the-azure-cosmos-db-sql-api-sdk"></a>랩: 연습: Azure Cosmos DB SQL API SDK를 사용하여 애플리케이션 문제 해결
+
+
+  ####
+
+
+  #### <a name="lab--exercise-use-azure-monitor-to-analyze-an-azure-cosmos-db-sql-api-account"></a>랩: 연습: Azure Monitor를 사용하여 Azure Cosmos DB SQL API 계정 분석
+
+
+  ####
+
+
+  #### <a name="lab--exercise-recover-a-database-or-container-from-a-recovery-point"></a>랩: 연습: 복구 지점에서 데이터베이스 또는 컨테이너 복구
+
+
+  ####
+
+
+  #### <a name="lab--exercise-store-azure-cosmos-db-sql-api-account-keys-in-azure-key-vault"></a>랩: 연습: Azure Cosmos DB SQL API 계정 키를 Azure Key Vault에 저장
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   컨테이너 또는 데이터베이스에서 속도 제한 이벤트 관찰
+
+
+  *   Azure Monitor를 사용하여 리소스 로그 쿼리
+
+
+  *   일시적 및 속도 제한 오류를 검토하고 관찰
+
+
+  *   경고 구성
+
+
+  *   지속적인 백업 및 복구 구성
+
+
+  *   지정 시간 복구 수행
+
+
+  *   RBAC(역할 기반 액세스 제어) 사용
+
+
+  *   Azure AD 및 Microsoft Identity Platform을 사용하여 계정 리소스에 액세스
+
+
+
+  ### <a name="module-12-manage-an-azure-cosmos-db-sql-api-solution-using-devops-practices"></a>모듈 12: DevOps 사례를 사용하여 Azure Cosmos DB SQL API 솔루션 관리
+
+
+  Azure Cosmos DB SQL API 계정이 릴리스 수명 주기를 진행할 준비가 되면, 많은 운영 팀은 클라우드에서의 Azure Cosmos DB 리소스 생성을 자동화하려 합니다. 자동화를 구현하면 새 환경을 쉽게 배포하고, 과거 환경을 복원하거나 서비스 규모를 확장할 수 있습니다. 이 모듈에서는 Azure Resource Manager를 사용하여 Azure Cosmos DB 계정을, 그리고 JSON 템플릿, Bicep 템플릿 또는 Azure CLI를 사용하는 관련 하위 리소스를 관리하는 방법을 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API용 스크립트 작성
+
+
+  *   Azure Cosmos DB SQL API용 리소스 템플릿 만들기
+
+
+
+  #### <a name="lab--exercise-adjust-provisioned-throughput-using-an-azure-cli-script"></a>랩: 연습: 프로비전된 처리량을 Azure CLI 스크립트를 사용하여 조정
+
+
+  ####
+
+
+  #### <a name="lab--exercise-create-an-azure-cosmos-db-sql-api-container-using-azure-resource-manager-templates"></a>랩: 연습: Azure Resource Manager 템플릿을 사용하여 Azure Cosmos DB SQL API 컨테이너 만들기
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   특정 CLI 명령의 인수, 그룹 및 하위 그룹 보기
+
+
+  *   CLI를 사용하여 Azure Cosmos DB 계정, 데이터베이스 및 컨테이너 만들기
+
+
+  *   CLI를 사용하여 인덱싱 정책 관리
+
+
+  *   CLI를 사용하여 데이터베이스 또는 컨테이너 처리량 구성
+
+
+  *   CLI를 사용하여 장애 조치(failover)를 시작하고 장애 조치 지역을 관리
+
+
+  *   Azure Cosmos DB SQL API 계정의 가장 일반적인 세 가지 리소스 유형 식별
+
+
+  *   Azure Cosmos DB SQL API용 JSON Azure Resource Manager 템플릿 만들기 및 배포
+
+
+  *   Azure Cosmos DB SQL API용 Bicep Azure Resource Manager 템플릿 만들기 및 배포
+
+
+  *   JSON 또는 Bicep 템플릿을 사용하여 처리량 및 인덱스 정책 관리
+
+
+
+  ### <a name="module-13-create-server-side-programming-constructs-in-azure-cosmos-db-sql-api"></a>모듈 13: Azure Cosmos DB SQL API에서 서버 쪽 프로그래밍 구문 만들기
+
+
+  Azure Cosmos DB는 JavaScript의 언어 통합형, 트랜잭션 실행을 제공합니다. Azure Cosmos DB에서 SQL API를 사용하는 경우 JavaScript 언어로 저장 프로시저, 트리거 및 UDF(사용자 정의 함수)를 작성할 수 있습니다. 이 모듈에서는 데이터베이스 엔진 내에서 바로 실행하는 JavaScript 논리를 작성합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Azure Cosmos DB SQL API를 통해 다중 항목 트랜잭션 빌드
+
+
+  *   Azure Cosmos DB SQL API에서 쿼리 및 트랜잭션 기능 확장
+
+
+
+  #### <a name="lab--exercise-implement-and-then-use-a-udf-using-the-sdk"></a>랩: 연습: SDK를 사용하여 UDF 구현 및 사용
+
+
+  ####
+
+
+  #### <a name="lab--exercise-create-a-stored-procedure-with-the-azure-portal"></a>랩: 연습: Azure Portal을 사용하여 저장 프로시저 만들기
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   저장 프로시저 작성
+
+
+  *   저장 프로시저 트랜잭션 롤백
+
+
+  *   UDF 생성
+
+
+  *   pre-* 및 post-* 트리거 만들기

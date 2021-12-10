@@ -2,25 +2,33 @@
 title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
-  description: Microsoft 365 Developers [Microsoft 365 개발자는] Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리해야 합니다.
+  description: Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
+  ms.openlocfilehash: c21163e651a6ec4964736526f0292c4d2a5b5c17
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301694"
 uid: certification.m365-developer-associate
 certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/ms-600">MS-600 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  
-  Microsoft 365 Developers [Microsoft 365 개발자는] Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리해야 합니다.
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 29일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ms-600">시험 MS-600 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  Microsoft 365 개발자들은 Microsoft ID, Microsoft Graph, 및 Microsoft Teams를 위한 앱 구축에 있어 능숙합니다. 이들은 UI 요소 (Fluent UI (Office UI Fabric) 포함), 통합 지점 (Office 추가 기능, SharePoint 프레임워크, 실행 가능 메시지 포함), 및 워크로드 플랫폼 대상 결정에 대한 일반 지식을 가지고 있습니다.
-subTitle: Microsoft 365 Developers [Microsoft 365 개발자는] Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리해야 합니다.
+
+  Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
+
+
+  Microsoft 365 개발자는 Microsoft ID, Microsoft Graph, 그리고 Microsoft Teams용 앱 빌드에 능숙합니다. 이들은 UI 요소(Fluent UI(Office UI Fabric) 포함), 통합 지점(Office Add-ins, SharePoint Framework, Actionable Messages 포함) 및 워크로드 플랫폼 목표 결정에 대한 일반적인 지식이 있습니다.
+subTitle: Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
 levels:
 - intermediate
 skills:
-- Microsoft ID 구현
-- Microsoft Graph로 앱 빌드
-- SharePoint 확장 및 사용자 지정
-- Teams 확장
-- Office 확장
+- Implement Microsoft identity
+- Build apps with Microsoft Graph
+- Extend and customize SharePoint
+- Extend Microsoft Teams
+- Extend Office
 roles:
 - developer
 type: role-based
@@ -38,10 +46,10 @@ exams:
 - uid: exam.ms-600
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Developer Associate.'
+  description: 'Microsoft Certified: Developer Associate가 되는 데 필요한 훈련 리소스를 확인하세요.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -56,6 +64,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

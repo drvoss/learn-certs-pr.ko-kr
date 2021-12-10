@@ -2,26 +2,33 @@
 title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: 'Modern Desktop 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.'
+  description: Modern 데스크톱 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
+  ms.openlocfilehash: 5bc18a9f5b28a3b88d92fa35e90e16266976f9ca
+  ms.sourcegitcommit: 629987a1453ce12f333d7208ec519258e24f4d78
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/03/2021
+  ms.locfileid: "133530049"
 uid: certification.modern-desktop
 certificationRenewalUid: renewal.m365-modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 최근에 업데이트되었습니다. <a href="/learn/certifications/exams/md-101">MD-101</a>은 2021년 9월 2일 업데이트되었고, <a href="/learn/certifications/exams/md-100">MD-100</a>은 2021년 8월 5일 업데이트되었습니다. 변경된 내용을 확인하려면 관련 시험 페이지에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  
-  Modern Desktop 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
-subTitle: Modern Desktop 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 최근 업데이트되었습니다. <a href="/learn/certifications/exams/md-101">시험 MD-101</a>은 2021년 11월 24일에 업데이트되었고, <a href="/learn/certifications/exams/md-100">시험 MD-100</a>은 2021년 12월 3일에 업데이트되었습니다. 변경 사항을 확인하려면 관련 시험 페이지에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
+  Modern 데스크톱 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
+subTitle: Modern 데스크톱 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
 levels:
 - intermediate
 skills:
-- Windows 배포
-- 장치 및 데이터 관리
-- 저장소 및 연결 구성
-- Windows 유지 관리
-- 운영 체제 배포 및 업그레이드
-- 정책 및 프로필 관리
-- 장치 관리 및 보호
-- 앱 및 데이터 관리
+- Deploy Windows
+- Manage devices and data
+- Configure storage and connectivity
+- Maintain Windows
+- Deploy and upgrade operating systems
+- Manage policies and profiles
+- Manage and protect devices
+- Manage apps and data
 roles:
 - administrator
 type: role-based
@@ -41,7 +48,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Modern Desktop Administrator Associate.'
+  description: 'Microsoft Certified: Modern Desktop Administrator Associate가 되기 위한 교육 리소스를 찾아보세요.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -59,6 +66,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

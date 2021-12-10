@@ -1,21 +1,21 @@
 ### YamlMime:Role
-title: 솔루션 설계자
+title: 솔루션 아키텍트
 metadata:
-  title: 솔루션 설계자
-  description: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
-  ms.openlocfilehash: 243a932c9851ea1979962b5d66a9e6e9e2cfa4cd
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  title: 솔루션 아키텍트
+  description: 솔루션 아키텍트는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
+  ms.openlocfilehash: b46528c24a88aa486046c098860e3e01784570e1
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132112019"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078670"
 uid: role.solution-architect
 summary: >
-  솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
-subTitle: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
+  솔루션 아키텍트는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
+subTitle: 솔루션 아키텍트는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
 certificationPaths:
-- title: Azure Solutions Architect
-  linkedInKeywords: Azure Solutions Architect
+- title: Azure 솔루션 아키텍트
+  linkedInKeywords: Azure solutions architect
   uid: certification-path.azure-solutions-architect
   prerequisites:
   - uid: certification.azure-fundamentals
@@ -25,8 +25,8 @@ certificationPaths:
   - uid: certification.azure-solutions-architect
     levels:
     - advanced
-- title: Dynamics 365 금융 및 운영 앱 솔루션 아키텍처
-  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
+- title: Dynamics 365 금융 및 운영 앱 솔루션 아키텍트
+  linkedInKeywords: Dynamics 365 finance and operations apps solution architect
   uid: certification-path.d365-finance-and-operations-apps-solution-architect-expert
   prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
@@ -48,26 +48,14 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
     - advanced
-- title: Power Platform Solution Architect
-  linkedInKeywords: Power Platform Solution Architect
+- title: Power Platform 솔루션 아키텍트
+  linkedInKeywords: Power Platform solution architect
   uid: certification-path.power-platform-solution-architect-expert
   prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
     - beginner
-  - uid: certification.d365-functional-consultant-sales
-    levels:
-    - intermediate
-  - uid: certification.d365-functional-consultant-marketing
-    levels:
-    - intermediate
-  - uid: certification.d365-functional-consultant-customer-service
-    levels:
-    - intermediate
-  - uid: certification.d365-functional-consultant-field-service
-    levels:
-    - intermediate
   - uid: certification.power-platform-functional-consultant-associate
     levels:
     - intermediate

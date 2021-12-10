@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Teams Voice Engineer Expert'
+metadata:
+  title: 'Microsoft 365 Certified: Teams Voice Engineer Expert'
+  description: Microsoft Teams 음성 엔지니어는 조직에서 통합 커뮤니케이션 솔루션을 계획, 설계, 구성, 유지 관리하고 문제를 해결합니다.
+  ms.openlocfilehash: 2989db117e86b95f3ae8af704925067c99c97d61
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078846"
+uid: certification.m365-teams-voice-engineer-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: >-
+  Microsoft Teams를 사용하여 통합 커뮤니케이션 솔루션을 계획, 설계, 구성, 유지 관리하고 문제를 해결하는 방법을 알고 있는 통신 전문가라면, 이 전문가 인증을 이용하여 경력을 개발할 수 있습니다.
+
+
+  이 인증은 Microsoft Teams Phone with Calling Plans, Direct Routing, Operator Connect와 Microsoft Teams 디바이스, 음성/화상 회의 및 음성 마이그레이션을 다룹니다.
+
+
+  응시자는 통신 기술에 익숙하고 Microsoft Teams, Microsoft 365 및 PowerShell 관련 경험이 있어야 합니다. 응시자는 전화 통신 공급자 및 타사 공급업체와 협업하여 Microsoft Teams에서 고급 음성 기능을 구현합니다.
+
+
+  Microsoft 365 Certified: Teams Voice Engineer Expert 인증을 획득하려면 응시자는 <a href="/learn/certifications/m365-teams-administrator-associate/">Microsoft 365 Certified: Teams Administrator Associate</a> 인증도 획득해야 합니다.
+subTitle: Microsoft Teams 음성 엔지니어는 조직에서 통합 커뮤니케이션 솔루션을 계획, 설계, 구성, 유지 관리하고 문제를 해결합니다.
+levels:
+- advanced
+skills:
+- Plan and configure Microsoft Teams Phone
+- Optimize network performance
+- Plan and configure Direct Routing
+- Configure and manage Microsoft Teams Phone for voice users
+- Plan and configure Microsoft Teams clients and devices
+- Monitor and troubleshoot Microsoft Teams Phone
+roles:
+- administrator
+type: role-based
+products:
+- m365
+- office-teams
+courses:
+- uid: course.ms-720t00
+paths:
+- uid: learn.wwl.plan-configure-teams-voice
+- uid: learn.wwl.manage-teams-voice
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLQ8U
+exams:
+- uid: exam.ms-720
+prerequisites:
+- uid: certification.m365-teams-administrator-associate
+  isOptional: false
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  href: ../badges.md

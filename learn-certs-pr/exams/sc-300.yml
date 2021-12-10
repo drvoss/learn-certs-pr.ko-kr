@@ -1,22 +1,29 @@
 ### YamlMime:Examination
-title: 'Microsoft Identity and Access Administrator'
+title: Microsoft Identity and Access Administrator
 metadata:
-  title: 'Exam SC-300: Microsoft Identity and Access Administrator'
-  description: 'Exam SC-300: Microsoft Identity and Access Administrator'
+  title: '시험 SC-300: Microsoft Identity and Access Administrator'
+  description: '시험 SC-300: Microsoft Identity and Access Administrator'
+  ms.openlocfilehash: 5d9e4e847320573d121fe8c7a372af1c6c40b648
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079516"
 uid: exam.sc-300
 displayName: SC-300
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
-  Microsoft 식별 및 액세스 관리자는 Azure Active Directory (Azure AD)를 사용하여 조직의 식별 및 액세스 관리 시스템을 디자인하고, 구현하고, 운영합니다. 엔터프라이즈 애플리케이션에 액세스하기 위한 보안 인증 및 권한 부여를 제공하는 것과 같은 작업을 관리합니다. 관리자는 모든 사용자들에게 원활한 경험과 셀프-서비스 관리 능력을 제공합니다. 적응형 액세스 및 거버넌스는 역할을 위한 핵심 요소입니다. 이 역할은 또한 식별 및 액세스 환경에 대한 문제 해결, 모니터링 및 보고를 담당합니다. 
-  
-  식별 및 액세스 관리자는 단일 개인이거나 더 큰 팀의 구성원일 수도 있습니다. 이 역할은 조직의 많은 다른 역할과 협업하여 식별 솔루션을 현대화하고, 하이브리드 식별 솔루션을 구현하고, 식별 거버넌스를 구현하기 위한 전략 식별 프로젝트를 추진합니다. 
-  
-subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: 식별 관리 솔루션 구현; 인증 및 액세스 관리 솔루션 구현; 앱에 대한 액세스 관리 구현; 식별 거버넌스 전략 계획 및 구현.'
+
+  Microsoft ID 및 액세스 관리자는 Azure AD(Azure Active Directory)를 사용하여 조직의 ID 및 액세스 관리 시스템을 설계, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다. 관리자는 모든 사용자에게 원활한 환경 및 셀프 서비스 관리 기능을 제공합니다. 적응형 액세스 및 거버넌스는 이 역할의 핵심 요소입니다. 이 역할은 ID 및 액세스 환경에 대한 문제 해결, 모니터링, 보고도 담당합니다.
+
+
+  ID 및 액세스 관리자는 개인이거나 더 큰 팀의 멤버일 수 있습니다. 이 역할은 조직의 다른 많은 역할과 협업하여 전략적 ID 프로젝트를 진행하여 ID 솔루션을 현대화하고 하이브리드 ID 솔루션과 ID 거버넌스를 구현합니다.
+subTitle: 이 시험은 ID 관리 솔루션 구현, 인증 및 액세스 관리 솔루션 구현, 앱에 대한 액세스 관리 구현, ID 거버넌스 전략 계획 및 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
 practiceTestUrl: https://www.mindhub.com/p/MU-SC-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
 locales:
 - en
 - ja
@@ -33,11 +40,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 식별 관리 솔루션 구현 (25-30%)
-- 인증 및 액세스 관리 솔루션 구현 (25-30%)
-- 앱에 대한 액세스 관리 구현 (10-15%)
-- 식별 거버넌스 전략 계획 및 구현 (25-30%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Implement an identity management solution (25-30%)
+- Implement an authentication and access management solution (25-30%)
+- Implement access management for apps (10-15%)
+- Plan and implement an identity governance strategy (25-30%)
 roles:
 - administrator
 - identity-access-admin
@@ -64,7 +71,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -73,9 +80,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

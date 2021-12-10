@@ -3,12 +3,12 @@ title: Administering Windows Server Hybrid Core Infrastructure(베타)
 metadata:
   title: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
   description: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
-  ms.openlocfilehash: 223fddecdf2b691e33c11a87bdc0b288505451a1
-  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.openlocfilehash: 7e93a0c5d57f0591cafb35321146b084a3590631
+  ms.sourcegitcommit: 1c90e9a6d3070bf12127b97c72638372489444aa
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/17/2021
-  ms.locfileid: "132112514"
+  ms.lasthandoff: 11/23/2021
+  ms.locfileid: "132953230"
 uid: exam.az-800
 displayName: AZ-800
 summary: >-
@@ -18,8 +18,8 @@ summary: >-
   이 시험의 응시자는 Windows Server 운영 체제를 사용한 경험이 풍부해야 합니다.
 
 
-  <div><br/><font color='red'><strong>참고: 본 시험은 2021년 12월에 응시할 수 있습니다.</strong></font></div>
-subTitle: 본 시험은 2021년 12월에 응시할 수 있습니다. 이 시험에서는 온-프레미스 및 클라우드 환경에서 Active Directory Domain Services(AD DS) 배포 및 관리 기술 작업을 수행하는 능력, 하이브리드 환경에서 Windows Server 및 워크로드를 관리하는 능력, 가상 머신 및 컨테이너를 관리하는 능력, 온-프레미스 및 하이브리드 네트워킹 인프라를 구현하는 능력, 스토리지 및 파일 서비스를 관리하는 능력을 측정합니다.
+  <div><br/><font color='red'><strong>참고: 본 시험은 2021년 12월 7일 또는 그 즈음에 사용할 수 있습니다.</strong></font></div>
+subTitle: 본 시험은 2021년 12월 7일 또는 그 즈음에 사용할 수 있습니다. 이 시험에서는 온-프레미스 및 클라우드 환경에서 Active Directory Domain Services(AD DS) 배포 및 관리 기술 작업을 수행하는 능력, 하이브리드 환경에서 Windows Server 및 워크로드를 관리하는 능력, 가상 머신 및 컨테이너를 관리하는 능력, 온-프레미스 및 하이브리드 네트워킹 인프라를 구현하는 능력, 스토리지 및 파일 서비스를 관리하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
 locales:

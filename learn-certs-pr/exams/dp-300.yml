@@ -3,41 +3,61 @@ title: Administering Relational Databases on Microsoft Azure
 metadata:
   title: 'DP-300: Administering Relational Databases on Microsoft Azure'
   description: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  ms.openlocfilehash: 2174ca4ab6c8fade808ffa48f0eecbcdcbe79818
+  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133101825"
 uid: exam.dp-300
 displayName: DP-300
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
-  
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
+
+
   본 시험의 응시자는 Microsoft SQL Server 및 Microsoft Azure 데이터 서비스에 구축된 온-프레미스 및 클라우드 관계형 데이터베이스를 관리하는 데이터베이스 관리자 및 데이터 관리 전문가입니다.
-  
-  Azure Database Administrator는 Azure Data Services와 SQL Server에 구축 된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영적인 측면을 구현하고 관리합니다. Azure Database Administrator는 행정 관리 목적으로 T-SQL 사용에 대한 지식을 적용하는 것을 포함하여 일상 업무를 수행하기 위해 다양한 방법과 도구를 사용합니다.
-  
-  이 역할은 최신 관계형 데이터베이스 솔루션의 관리, 가용성, 보안 및 성능 모니터링 및 최적화를 담당합니다. Azure 데이터 기술자와 협업하여 데이터 플랫폼 솔루션의 운영 측면을 관리합니다.
-  
+
+
+  Azure 데이터베이스 관리자는 Azure Data Services 및 SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현하고 관리합니다. Azure 데이터베이스 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
+
+
+  본 역할은 최신 관계형 데이터베이스 솔루션의 관리, 가용성, 보안 및 성능 모니터링 및 최적화를 담당합니다. Azure 데이터 엔지니어와 협업하여 데이터 플랫폼 솔루션의 운영 측면을 관리합니다.
+
+
   <div></br>
-  이 역할의 응시자들은 <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.
+
+  이 역할의 응시자는 <a href='/learn/certifications/exams/dp-900'>시험 DP-900: Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.
+
   </div>
-subTitle: '이 시험은 데이터 플랫폼 리소스 계획 및 구현, 안전한 환경 구현, 운영 리소스 모니터링 및 최적화, 쿼리 성능 최적화, 작업 자동화 수행, 고가용성 및 재해 복구 환경(HADR) 계획 및 구현, T-SQL을 사용한 관리 수행과 같은 기술 과제를 수행할 수 있는 능력을 측정합니다.'
+subTitle: 본 시험은 데이터 플랫폼 리소스 계획 및 구현, 안전한 환경 구현, 운영 리소스 모니터링 및 최적화, 쿼리 성능 최적화, 작업 자동화 수행, 고가용성 및 재해 복구 환경(HADR) 계획 및 구현, T-SQL을 사용한 관리 수행이라는 기술 과제를 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
 practiceTestUrl: https://in.mindhub.com/dp-300-administering-relational-databases-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
 - zh-cn
 - ja
 - ko
+- fr
+- de
+- pt-br
+- ru
+- ar-sa
+- it
+- zh-tw
+- es
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 데이터 플랫폼 리소스 계획 및 구현 (15-20%)
-- 안전한 환경 구현 (15-20%)
-- 운영 리소스 모니터링 및 최적화 (15-20%)
-- 쿼리 성능 최적화 (5-10%)
-- 작업 자동화 수행 (10-15%)
-- 고가용성 및 재해 복구 환경(HADR) 계획 및 구현 (15-20%)
-- T-SQL을 사용한 관리 수행 (10-15%)
+- The content of this exam was updated on November 24, 2021. Please download the exam skills outline below to see what changed.
+- Plan and implement data platform resources (15-20%)
+- Implement a secure environment (15-20%)
+- Monitor and optimize operational resources (15-20%)
+- Optimize query performance (5-10%)
+- Perform automation of tasks (10-15%)
+- Plan and implement a High Availability and Disaster Recovery (HADR) environment (15-20%)
+- Perform administration by using T-SQL (10-15%)
 roles:
 - database-administrator
 products:
@@ -72,7 +92,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -81,10 +101,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

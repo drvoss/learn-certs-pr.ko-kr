@@ -1,0 +1,76 @@
+### YamlMime:Examination
+title: Microsoft Teams Voice Engineer(베타)
+metadata:
+  title: '시험 MS-720: Microsoft Teams Voice Engineer(베타)'
+  description: '시험 MS-720: Microsoft Teams Voice Engineer(베타)'
+  ms.openlocfilehash: 3455cb9764498974dc6125b4db0710849e973eea
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078647"
+uid: exam.ms-720
+displayName: MS-720
+summary: >-
+  이 시험의 응시자는 조직에서 통합 통신 솔루션을 계획, 설계, 구성, 유지 관리 및 해결하는 Microsoft Teams 음성 엔지니어입니다. 응시자는 비즈니스 요구 사항을 바탕으로 통신 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다.
+
+
+  응시자는 통신 기술에 익숙하고 Microsoft Teams, Microsoft 365 및 PowerShell 관련 경험이 있어야 합니다. Direct Routing, Operator Connect 및 Microsoft Teams Calling Plans를 통한 PSTN 연결을 바탕으로 Microsoft Teams Phone을 배포하고 구성할 수 있어야 합니다. 또한 응시자는 Microsoft Teams, 음성/화상 회의 및 음성 마이그레이션 관련 인증을 받은 디바이스를 관리합니다.
+
+
+  응시자는 전화 통신 공급자 및 타사 공급업체와 협업하여 Microsoft Teams에서 고급 음성 기능을 구현합니다. 또한 네트워킹, ID, 라이선스, 보안 및 규정 준수를 비롯한 다른 워크로드의 관리자와도 협업합니다.
+
+
+  <div><font color='red'><br/>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. <a href="/learn/certifications/beta-exams">베타 시험의 가치와 중요성에 대해 자세히 알아보세요.</a></font></div>
+subTitle: 이 시험에서는 Microsoft Teams Phone 계획 및 구성, 네트워크 성능 최적화, Direct Routing 계획 및 구성, 음성 사용자를 위한 Microsoft Teams Phone 구성 및 관리, Microsoft Teams 클라이언트 및 장비 구성과 관리, Microsoft Teams Phone 모니터링 및 문제 해결이라는 기술적 업무를 완수하는 능력을 측정합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFS2
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-720&examname=Exam%20MS-720:%20Microsoft%20Teams%20Voice%20Engineer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-720
+locales:
+- en
+levels:
+- advanced
+skills:
+- Plan and configure Microsoft Teams Phone (25-30%)
+- Optimize network performance (5-10%)
+- Plan and configure Direct Routing (15-20%)
+- Configure and manage Microsoft Teams Phone for voice users (15-20%)
+- Plan and configure Microsoft Teams clients and devices (5-10%)
+- Monitor and troubleshoot Microsoft Teams Phone (15-20%)
+roles:
+- administrator
+products:
+- m365
+- office-teams
+courses:
+- uid: course.ms-720t00
+paths:
+- uid: learn.wwl.plan-configure-teams-voice
+- uid: learn.wwl.manage-teams-voice
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-voice-engineer-expert
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+  href: ../request-accommodations.md
+- title: 시험 정책 및 FAQ
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

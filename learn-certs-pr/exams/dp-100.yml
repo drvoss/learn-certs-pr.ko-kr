@@ -1,25 +1,39 @@
 ### YamlMime:Examination
-title: Designing and Implementing a Data Science Solution on Azure
+title: Azure에서 데이터 과학 솔루션 디자인 및 구현
 metadata:
-  title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
-  description: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
+  title: '시험 DP-100: Azure에서 데이터 과학 솔루션 설계 및 구현'
+  description: '시험 DP-100: Azure에서 데이터 과학 솔루션 설계 및 구현'
+  ms.openlocfilehash: b6b0fb95d3b0370f2b65e2fce3b377c845c54644
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079482"
 uid: exam.dp-100
 displayName: DP-100
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험의 내용은 2021년 5월 20일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
+  <div><font color='red'><strong>이 시험의 내용은 2021년 5월 20일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 측정 능력 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
   </div>
-  
-  이 시험의 응시자들은 Microsoft Azure의 기계 학습 워크로드를 구현하고 실행하기 위한 데이터 과학 및 기계 학습을 적용하는 주제 전문 지식을 갖추고 있어야 합니다. 
-  
-  이 역할의 책임에는 Azure의 데이터 과학 워크로드에 적합한 작업 환경을 계획하고 만드는 것이 포함됩니다. 그들은 데이터 실험을 실행하고 예측 모델을 훈련합니다. 게다가, 기계 학습 모델을 관리, 최적화 및 생산으로 배포합니다.  
-  
-  이 인증의 후보자는 데이터 과학 및 Azure Machine Learning과 Azure Databricks 사용에 대한 지식과 경험이 있어야합니다.
-subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 기계 학습을 위한 Azure 리소스 관리; 실험 실행 및 모델 훈련; 기계 학습 솔루션 배포 및 운영; 그리고 책임감있는 기계 학습을 구현합니다.'
+
+
+  이 시험의 응시자는 데이터 과학 및 기계 학습을 적용하여 Microsoft Azure에서 기계 학습 워크로드를 구현하고 실행하는 전문 지식이 있어야 합니다.
+
+
+  이 역할이 담당하는 대표적인 일은 Azure에서의 데이터 과학 워크로드에 적합한 작업 환경을 계획하고 조성하는 것입니다. 이들은 데이터 실험을 실행하고 예측 모델을 학습합니다. 또한 기계 학습 모델을 관리 및 최적화하고 프로덕션으로 배포하는 일도 합니다.
+
+
+  Azure Data Scientist Associate 인증의 응시자들은, Azure의 기계 학습 워크로드를 구현하고 실행하기 위해 데이터 과학 및 기계 학습을 적용하는 주제 전문 지식이 있어야합니다.
+
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 기계 학습을 위한 Azure 리소스 관리; 실험 실행 및 모델 훈련; 기계 학습 솔루션 배포 및 운영; 그리고 책임감 있는 기계 학습을 구현합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -32,14 +46,15 @@ locales:
 - pt-br
 - ru
 - ar-sa
+- it
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 5월 20일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 기계 학습에 대한 Azure 리소스 관리 (25–30%)
-- 실험 실행 및 모델 훈련 (20–25%)
-- 기계 학습 솔루션 배포 및 운영 (35–40%)
-- 책임감있는 기계 학습 구현 (5–10%)
+- The content of this exam was updated on May 20, 2021. Please download the exam skills outline below to see what changed.
+- Manage Azure resources for machine learning (25–30%)
+- Run experiments and train models (20–25%)
+- Deploy and operationalize machine learning solutions (35–40%)
+- Implement responsible machine learning (5–10%)
 roles:
 - data-scientist
 products:
@@ -68,7 +83,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -77,10 +92,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-
