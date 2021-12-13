@@ -3,12 +3,12 @@ title: 보안 엔지니어
 metadata:
   title: 보안 엔지니어
   description: 보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다.
-  ms.openlocfilehash: 7eee755ed001183db2d9909bbb071d2a7450d78e
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.openlocfilehash: 23f9035bc8bcd035f88593c52e761ad49929b6f7
+  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "133079274"
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "133989064"
 uid: role.security-engineer
 summary: >
   보안 엔지니어는 보안 통제 및 위협 보호를 구현하고, ID 및 액세스를 관리하며, 데이터, 애플리케이션 및 네트워크를 보호합니다.
@@ -58,6 +58,17 @@ certificationPaths:
   - uid: certification.security-operations-analyst
     levels:
     - intermediate
+- title: Windows Server 하이브리드 관리자
+  linkedInKeywords: Windows Server hybrid administrator
+  uid: certification-path.windows-server-hybrid-administrator
+  prerequisites:
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.windows-server-hybrid-administrator
+    levels:
+    - intermediate
 certifications:
 - uid: certification.azure-security-engineer
   requiredExams:
@@ -71,6 +82,10 @@ certifications:
 - uid: certification.information-protection-administrator
   requiredExams:
   - uid: exam.sc-400
+- uid: certification.windows-server-hybrid-administrator
+  requiredExams:
+  - uid: exam.az-800
+  - uid: exam.az-801
 resources:
 - title: Microsoft 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

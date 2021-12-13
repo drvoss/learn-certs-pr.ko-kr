@@ -3,12 +3,12 @@ title: Azure로 SQL 워크로드 마이그레이션
 metadata:
   title: '과정 DP-050T00--A: Azure로 SQL 워크로드 마이그레이션'
   description: '과정 DP-050T00--A: Azure로 SQL 워크로드 마이그레이션'
-  ms.openlocfilehash: 0287991cce9796a10210e48dc6d220d63e7d8a92
-  ms.sourcegitcommit: 9692ea317681926114208c9658ff58ac8e8d36c4
+  ms.openlocfilehash: f701af7516525b08ad9d672f687d8b47d9cff29a
+  ms.sourcegitcommit: 70d4f4d2c67aa0a61b961408099c8c442190539a
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/02/2021
-  ms.locfileid: "133448657"
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "134381095"
 uid: course.dp-050t00
 courseNumber: DP-050T00
 hoursToComplete: 48
@@ -35,12 +35,12 @@ summary: >-
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
 
-  이 과정의 대상 그룹은 Microsoft Azure에 존재하는 데이터 플랫폼 마이그레이션 기술과 기존 SQL 기반 워크로드를 마이그레이션하고 현대화하는 방법을 알아보려는 데이터 전문가와 데이터 아키텍트입니다. 이 과정의 또 다른 대상 그룹은 기존 데이터 플랫폼 기술의 콘텐츠를 제공하는 데이터 플랫폼을 관리하거나 애플리케이션을 개발하는 개인입니다.
+  이 과정의 대상 그룹은 Microsoft Azure에 존재하는 데이터 플랫폼 마이그레이션 기술과 기존 SQL 기반 워크로드를 마이그레이션하고 현대화하는 방법을 알아보려는 데이터 전문가 및 데이터 아키텍트입니다. 이 과정의 또 다른 대상 그룹은 기존 데이터 플랫폼 기술의 콘텐츠를 제공하는 데이터 플랫폼을 관리하거나 애플리케이션을 개발하는 개인입니다.
 prerequisitesSection: >-
   성공적인 학생은 클라우드 컴퓨팅 개념에 대한 기본 지식과 SQL 솔루션 구현에 대한 전문적 경험을 갖추고 이 역할을 시작합니다.
 
 
-  특히:&nbsp;
+  구체적으로는 다음과 같습니다.&nbsp;
    * SQL 워크로드 작업 및 유지 관리&nbsp;
    * Azure를 사용한 리소스 배포 및 관리 등의 경험&nbsp;
 
@@ -75,7 +75,7 @@ outlineSection: >-
      *   마이그레이션 단계 이해
      *   데이터 마이그레이션 경로
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   데이터 플랫폼 현대화 이해
@@ -91,7 +91,7 @@ outlineSection: >-
   ### <a name="module-2-choose-the-right-tools-for-data-migration"></a>모듈 2: 데이터 마이그레이션에 적합한 도구 선택
 
 
-  이 모듈에서는 조직이 기존 데이터 플랫폼을 현대화하기 위한 단계별 지침에 사용해야 하는 정보 소스의 시작 지점으로서 데이터 마이그레이션 가이드를 소개합니다. 현재 환경에 존재하는 데이터 자산을 검색하는 데 도움이 되는 Microsoft 평가 및 계획 도구 키트의 가치를 살펴봅니다. Data Migration Assistant와 데이터베이스 실험 도우미를 모두 사용하여 호환성 또는 워크로드 문제를 해결하는 데 사용할 수 있는 도구에 대해 알아봅니다. 데이터베이스 온라인 마이그레이션을 지원하는 Azure Database Migration Service를 사용하여 가동 중지 시간을 단축할 수 있는 방법을 확인합니다. 마지막으로, SQL Migration Assistant의 개요를 통해 비 SQL Server 워크로드를 마이그레이션하는 방법을 소개합니다.
+  이 모듈에서는 조직이 기존 데이터 플랫폼을 현대화하기 위한 단계별 지침에 사용해야 하는 정보 소스의 시작점으로서의 데이터 마이그레이션 가이드를 소개합니다. 현재 환경에 존재하는 데이터 자산을 검색하는 데 도움이 되는 Microsoft 평가 및 계획 도구 키트의 가치를 살펴봅니다. 데이터 마이그레이션 및 데이터 실험 도우미를 모두 사용하여 호환성 또는 워크로드 문제를 해결하는 데 사용할 수 있는 도구에 대해 알아봅니다. 데이터베이스 온라인 마이그레이션을 지원하는 Azure Database Migration Service를 사용하여 가동 중지 시간을 단축할 수 있는 방법을 확인합니다. 마지막으로, SQL Migration Assistant의 개요를 통해 비 SQL Server 워크로드를 마이그레이션하는 방법을 소개합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -120,7 +120,7 @@ outlineSection: >-
      *   Data Migration Assistant를 사용하여 마이그레이션 후보 식별
      *   데이터베이스 실험 도우미를 사용하여 데이터 워크로드 평가
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Data Migration Assistant를 사용하여 마이그레이션 후보 식별
@@ -133,7 +133,7 @@ outlineSection: >-
   ### <a name="module-3-migrate-sql-workloads-to-azure-virtual-machines"></a>모듈 3: SQL 워크로드를 Azure Virtual Machines로 마이그레이션
 
 
-  이 모듈에서는 온-프레미스 SQL 워크로드를 SQL Server를 실행 중인 Azure Virtual Machines로 마이그레이션하는 방법을 알아봅니다. 먼저 온-프레미스 SQL Server에서 Azure Virtual Machines로 마이그레이션할 경우의 마이그레이션 고려 사항과 마이그레이션을 수행하여 얻을 수 있는 이점을 살펴봅니다. 그런 다음 Azure Virtual Machines로 마이그레이션할 때 수행할 수 있는 다양한 마이그레이션 옵션에 대해 알아봅니다. 여기에는 각 접근 방법의 이점과 제한 사항이 포함됩니다. 마지막으로 서비스 연속성을 보장하기 위해 고가용성과 재해 복구를 포함하는 SQL Server 워크로드를 살펴봅니다.
+  이 모듈에서는 온-프레미스 SQL 워크로드를 SQL Server 실행 중인 Azure Virtual Machines로 마이그레이션하는 방법을 알아봅니다. 먼저 온-프레미스 SQL Server에서 Azure Virtual Machines로 마이그레이션할 경우의 마이그레이션 고려 사항과 마이그레이션을 수행하여 얻을 수 있는 이점을 살펴봅니다. 그런 다음 Azure Virtual Machines로 마이그레이션할 때 수행할 수 있는 다양한 마이그레이션 옵션에 대해 알아봅니다. 여기에는 각 접근 방법의 이점 및 제한 사항이 포함됩니다. 마지막으로 서비스 연속성을 보장하기 위해 고가용성 및 재해 복구를 포함하는 SQL Server 워크로드를 살펴봅니다.
 
 
   #### <a name="lessons"></a>단원
@@ -155,7 +155,7 @@ outlineSection: >-
   ####
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   SQL Server에서 Azure VM으로 마이그레이션 시 고려 사항
@@ -171,7 +171,7 @@ outlineSection: >-
   ### <a name="module-4-migrate-sql-workloads-to-azure-sql-databases"></a>모듈 4: SQL 워크로드를 Azure SQL Database로 마이그레이션
 
 
-  이 모듈에서는 Azure SQL Database란 무엇이며 SQL 기반 워크로드에 적합한 대상인 이유를 살펴봅니다. 학생들은 적절한 SQL Server 인스턴스 옵션을 선택하는 방법과 데이터 플랫폼 현대화를 위한 비즈니스 요구 사항을 충족할 수 있는 이유를 학습합니다. 또한 본 모듈에서 Azure SQL Database로 오프라인 및 온라인 마이그레이션을 모두 수행하는 방법도 보여줍니다. 그러면 작업 중인 시나리오에 적합한 방법을 평가할 수 있습니다. 데이터 마이그레이션 프로세스를 사용하도록 설정하는 데 사용할 수 있는 도구도 소개합니다. 마지막으로 온-프레미스 인스턴스에서 Azure SQL Database로 데이터를 로드하는 데 사용할 수 있는 방법을 살펴봅니다.
+  이 모듈에서는 Azure SQL Database란 무엇이고 어째서 SQL 기반 워크로드에 적합한 대상인지 살펴봅니다. 학생들은 적절한 SQL Server 인스턴스 옵션을 선택하는 방법과 데이터 플랫폼 현대화를 위한 비즈니스 요구 사항을 충족할 수 있는 이유를 학습합니다. 또한 본 모듈에서 Azure SQL Database로 오프라인 및 온라인 마이그레이션을 모두 수행하는 방법도 보여줍니다. 그러면 작업 중인 시나리오에 적합한 방법을 평가할 수 있습니다. 데이터 마이그레이션 프로세스를 사용하도록 설정하는 데 사용할 수 있는 도구도 소개합니다. 마지막으로 온-프레미스 인스턴스에서 Azure SQL Database로 데이터를 로드하는 데 사용할 수 있는 방법을 살펴봅니다.
 
 
   #### <a name="lessons"></a>단원
@@ -193,7 +193,7 @@ outlineSection: >-
   ####
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Azure에서 적절한 SQL Server 인스턴스 옵션 선택
@@ -209,7 +209,7 @@ outlineSection: >-
   ### <a name="module-5-migrate-sql-workloads-to-azure-sql-database-managed-instance"></a>모듈 5: SQL 워크로드를 Azure SQL Database Managed Instance로 마이그레이션
 
 
-  이 모듈에서는 Azure SQL Database Managed Instance란 무엇이며 SQL 기반 워크로드에 적합한 대상인 이유를 살펴봅니다. 또한 Azure SQL Database Managed Instance가 데이터 플랫폼 현대화를 위한 비즈니스 요구 사항을 충족하는 방법을 알아봅니다. Azure SQL Database Managed Instance로 데이터 마이그레이션 프로세스에 사용할 수 있는 도구를 살펴봅니다. 온-프레미스 인스턴스에서 Azure SQL Database Managed Instance로 데이터를 로드하는 데 사용할 수 있는 방법과 도구를 살펴봅니다. 마지막으로 Azure SQL Database Managed Instance를 사용할 수 있도록 기존 SQL 기반 애플리케이션에 적용해야 할 수 있는 몇 가지 변경 사항을 알아봅니다.
+  이 모듈에서는 Azure SQL Database Managed Instance란 무엇이고 어째서 SQL 기반 워크로드에 적합한 대상인지 살펴봅니다. 또한 Azure SQL Database Managed Instance가 데이터 플랫폼 현대화를 위한 비즈니스 요구 사항을 충족하는 방법을 알아봅니다. Azure SQL Database Managed Instance로의 데이터 마이그레이션 프로세스에 사용할 수 있는 도구를 살펴봅니다. 온-프레미스 인스턴스에서 Azure SQL Database Managed Instance로 데이터를 로드하는 데 사용할 수 있는 방법 및 도구를 살펴봅니다. 마지막으로 Azure SQL Database Managed Instance를 사용할 수 있도록 기존 SQL 기반 애플리케이션에 적용해야 할 수 있는 몇 가지 변경 사항을 알아봅니다.
 
 
   #### <a name="lessons"></a>단원
@@ -231,7 +231,7 @@ outlineSection: >-
   ####
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   SQL Database Managed Instance로 마이그레이션 시나리오 평가
