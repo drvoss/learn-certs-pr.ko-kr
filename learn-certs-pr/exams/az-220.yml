@@ -3,12 +3,12 @@ title: Microsoft Azure IoT Developer
 metadata:
   title: '시험 AZ-220: Microsoft Azure IoT Developer'
   description: '시험 AZ-220: Microsoft Azure IoT Developer'
-  ms.openlocfilehash: 92d0e78131d0b400b5a07ea4c7e7bd116f611965
-  ms.sourcegitcommit: 8cad4571f4ed5db8e51cccdc1cf6355526195802
+  ms.openlocfilehash: 273f7b4171350de6625b796210a5e32785120418
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/26/2021
-  ms.locfileid: "132112643"
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680676"
 uid: exam.az-220
 displayName: AZ-220
 summary: >-
@@ -57,11 +57,18 @@ products:
 courses:
 - uid: course.az-220t00
 paths:
-- uid: learn.introduction-to-azure-iot
-- uid: learn.securely-connect-iot-devices-to-cloud
-- uid: learn.build-intelligent-edge-with-azure-iot-edge
-- uid: learn-develop-solutions-with-azure-iot-central
-- uid: learn.azure.develop-azure-digital-twins
+- uid: learn.wwl.create-azure-iot-services-azure-portal
+- uid: learn.wwl.implement-iot-device-communication-by-using-azure-iot-sdks
+- uid: learn.wwl.provision-iot-devices-at-scale-by-using-device
+- uid: learn.wwl.implement-device-message-processing-data-analytics
+- uid: learn.wwl.develop-data-insights-business-integrations
+- uid: learn.wwl.deploy-azure-iot-edge-devices-modules
+- uid: learn.wwl.develop-deploy-custom-iot-edge-modules
+- uid: learn.wwl.manage-iot-devices-by-using-iot-hub-apps
+- uid: learn.wwl.monitor-troubleshoot-iot-solution-by-using-azure-monitor
+- uid: learn.wwl.enhance-iot-solution-security-by-using-azure-defender
+- uid: learn.wwl.extend-iot-solutions-by-using-azure-digital-twins
+- uid: learn.wwl.build-low-touch-iot-solutions-by-using-azure-iot-central
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty

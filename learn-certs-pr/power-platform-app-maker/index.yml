@@ -3,13 +3,14 @@ title: 'Microsoft Certified: Power Platform App Maker Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform App Maker Associate'
   description: 앱 개발자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 및 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.
-  ms.openlocfilehash: ac8747e8b4b03610195769021fef4bede02208ad
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.openlocfilehash: 843c7e2dc25a25b7e73c822ba19c02f904b1dab9
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111738"
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694486"
 uid: certification.power-platform-app-maker
+certificationRenewalUid: renewal.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: "이 인증은 솔루션 분야의 깊이 있는 전문 지식을 갖춘 비즈니스 전문가이고 팀의 작업 및 프로세스를 간소화, 자동화, 혁신하기 위해 Microsoft Power Platform 솔루션 구축에 열정을 쏟으려는 응시자를 위한 인증입니다. 응시자는 데이터 모델링, 기본 UX 설계, 요구 사항 분석, 프로세스 분석과 같은 주요 기술적 비즈니스 분석 작업을 할 수 있는 기술이 있어야 합니다. \n\n자기 주도적이고 해결에 집중하며 Microsoft Power Platform의 제작자 도구를 사용하여 비즈니스 문제를 해결하는 응시자는 앱 제작자 역할의 프로필에 적합합니다. Visual Basic for Applications, Excel 피벗 테이블, Teams 및 기타 도구를 사용해 본 경험이 있을 수 있습니다. 공식적인 IT 교육을 받지 않았더라도 IT 관리자 및 Microsoft 플랫폼 개발자와 함께 기술을 사용하여 비즈니스 문제를 해결하는 데 익숙합니다. 다음을 담당하고 있습니다.  \n- 앱 디자인 및 작성과 워크플로 자동화. \n- 앱 또는 자동화된 워크플로의 컨텍스트에서 데이터 분석 및 시각화. \n- 앱 및 자동화된 워크플로의 구현 및 관리.\n\n자세한 내용은 게시물&#58; [Power Platform 앱 제작자이신가요? 이제 인증을 받으세요](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)를 참조하세요. 이 인증에 응시하기 전에 더 많은 경험이 필요한 경우 다음을 할 수 있습니다.\n- 데이터 모델링, 기본 UX 디자인, 요구 사항 분석 또는 프로세스 분석 실제 경험을 얻을 수 있는 프로젝트에 자원합니다.\n- Microsoft Learn의 학습 경로를 밟습니다.\n- 강사 진행 교육 과정에 등록합니다."
 subTitle: 앱 개발자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 및 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.

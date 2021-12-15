@@ -3,13 +3,14 @@ title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
   description: Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
-  ms.openlocfilehash: 50567f544a3415967facb31b5b5daf9d5815ef09
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.openlocfilehash: 72356810f9a14009c30d569dc47ce5c02af0390c
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111901"
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694563"
 uid: certification.power-platform-developer-associate
+certificationRenewalUid: renewal.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
   Microsoft Power Platform 솔루션을 디자인, 개발, 보안, 확장하는 데 열정이 있다면 이 인증이 적합할 수 있습니다. 이 인증을 취득하려면 애플리케이션 향상, 맞춤형 사용자 경험, 시스템 통합, 데이터 변환, 맞춤형 프로세스 자동화, 맞춤형 시각화를 포함한 솔루션 구성 요소를 생성할 수 있어야 합니다. Microsoft Power Platform 서비스에 대한 강력한 응용 지식과 Microsoft Power Platform에 대한 DevOps 사례에 대한 기본 이해가 필요합니다. 또한 배경에는 JavaScript, JSON, TypeScript, C#, HTML, .NET, Azure, Microsoft 365, RESTful 웹 서비스, ASP.NET, Power BI를 사용한 개발 경험이 포함되어야 합니다.
@@ -86,5 +87,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
