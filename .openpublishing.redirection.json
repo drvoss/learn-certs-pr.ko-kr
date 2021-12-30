@@ -589,6 +589,11 @@
             "source_path": "learn-certs-pr/courses/MB-330T03.yml",
             "redirect_url": "/learn/certifications/courses/browse/",
             "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/online-exams-psi.md",
+            "redirect_url": "/learn/certifications/online-exams-intro",
+            "redirect_document_id": false		
 		}
       ]
 
