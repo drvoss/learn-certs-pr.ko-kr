@@ -35,8 +35,6 @@ practiceTestUrl: https://www.mindhub.com/p/MU-AZ-104?utm_source=microsoft&utm_me
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
-- providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-104&provider=psi&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 - zh-cn
