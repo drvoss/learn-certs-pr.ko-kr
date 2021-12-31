@@ -35,8 +35,6 @@ practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_me
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
-- providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
