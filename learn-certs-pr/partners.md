@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 06/02/2020
 ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: 61fe209e5c1b2d01636f576a4427edeabb6fcf5a
-ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
-ms.translationtype: HT
+ms.openlocfilehash: 5de5c95a45643a107d6fb500ad04e9e5b284b1b0
+ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "133301716"
+ms.lasthandoff: 12/10/2021
+ms.locfileid: "134680792"
 ---
 # <a name="find-a-learning-partner"></a>학습 파트너 찾기
 
@@ -141,7 +141,7 @@ ms.locfileid: "133301716"
 
 | <a name="argentina"></a>아르헨티나 |
 |-----------|
-| [BS-Buffa Sistemas](https://bs.com.ar/microsoft)<br/>[EXO Training Center](https://www.exotraining.com/es_ar/azure-365.html)<br/>[Full Solutions SA](https://www.fullsolutions.com/cursos-microsoft-profesionales-de-it/) <br> [Fast Lane LATAM](https://www.flane.com.pa/microsoft)<br> [IT College S.A.](https://www.itcollege.com.ar/microsoft/) |
+| [BS-Buffa Sistemas](https://bs.com.ar/microsoft)<br/>[EXO Training Center](https://www.exotraining.com/es_ar/azure-365.html)<br/>[Full Solutions SA](https://www.fullsolutions.com/cursos-microsoft-profesionales-de-it/) <br> [Fast Lane LATAM](https://www.flane.com.pa/microsoft)<br> [IT College S.A.](https://www.itcollege.com.ar/microsoft/)<br> [Softline International](https://www.softlinelatinoamerica.com/price-ms) |
 
 | <a name="australia"></a>호주 |
 |-----------|
@@ -157,7 +157,7 @@ ms.locfileid: "133301716"
 
 | <a name="bahrain"></a>바레인 |
 |-----------|
-| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)<br/>[Thinksmart for Training and Development W.L.L.](http://thinksmart.bh/all_programs?cat=Forsati) |
+| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)<br/>[Thinksmart for Training and Development W.L.L.](https://thinksmart.bh/microsoft/) |
 
 | <a name="belgium"></a>벨기에 |
 |-----------|
@@ -313,7 +313,7 @@ ms.locfileid: "133301716"
 
 | <a name="kuwait"></a>쿠웨이트 |
 |-----------|
-| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner) |
+| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner) <br/>[Thinksmart for Training and Development W.L.L.](https://thinksmart.bh/microsoft/)|
 
 | <a name="lebanon"></a>레바논 |
 |-----------|
@@ -373,7 +373,7 @@ ms.locfileid: "133301716"
 
 | <a name="oman"></a>오만 |
 |-----------|
-| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses) <br/> [New Horizons](https://www.newhorizons.com/mspartner) |
+| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses) <br/> [New Horizons](https://www.newhorizons.com/mspartner)<br/>[Thinksmart for Training and Development W.L.L.](https://thinksmart.bh/microsoft/) |
 
 | <a name="pakistan"></a>파키스탄 |
 |-----------|
@@ -413,15 +413,15 @@ ms.locfileid: "133301716"
 
 | <a name="russia"></a>러시아 |
 |-----------|
-| [Centre of Computer Training Specialist](https://www.specialist.ru/vendor/microsoft)   </br>[Eureca](https://www.eureca.ru/edu/study/course/microsoft/)   </br>[Fast Lane Russia](https://www.flane.ru/microsoft)   </br>[Softline](https://edu.softline.com/vendors/microsoft/)</br>[Stars and S](https://stars-s.ru/microsoft.html) |
+| [Academy of Networking (LANIT)](https://academy.ru/catalog/microsoft/?view=square&arrFilter_ff%5BNAME%5D=&arrFilter_pf%5Btype%5D=&set_filter=Y&arrFilter_pf%5Bfilter_vendor%5D%5B%5D=5758101)   </br>[Centre of Computer Training Specialist](https://www.specialist.ru/vendor/microsoft)   </br>[Eureca](https://www.eureca.ru/edu/study/course/microsoft/)   </br>[Fast Lane Russia](https://www.flane.ru/microsoft)</br>[ICL](https://www.icl.ru/directions/training-and-certification/training-center/)</br>[인터페이스](http://www.interface.ru/iservices/training.asp?kId=43&vId=16)</br>[ITMO University](http://itcenter.itmo.ru/avtorizovannye_kursy_microsoft)</br>[Softline](https://edu.softline.com/vendors/microsoft/)</br>[Stars and S](https://stars-s.ru/microsoft.html) |
 
 | <a name="saudi-arabia"></a>사우디아라비아 |
 |-----------|
-| [Global Knowledge](https://www.globalknowledge.com/en-sa/training/courses/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)   </br>[IT Learning Solutions Training Services](https://www.itls.ae/microsoft)   </br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)   </br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner)   </br>[RAKCIT](https://www.rakict.com/ms-azure-careers/)   </br>[Spectrum Networks DMCC](https://specnt.com/) |
+| [Global Knowledge](https://www.globalknowledge.com/en-sa/training/courses/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)   </br>[IT Learning Solutions Training Services](https://www.itls.ae/microsoft)   </br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)   </br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner)   </br>[RAKCIT](https://www.rakict.com/ms-azure-careers/)   </br>[Spectrum Networks DMCC](https://specnt.com/)<br/>[Thinksmart for Training and Development W.L.L.](https://thinksmart.bh/microsoft/) |
 
 | <a name="serbia"></a>세르비아 |
 |-----------|
-| [Eccentrix](https://www.eccentrix.rs/en/courses/microsoft)  </br>[Informatika a.d.](https://www.informatika.edu.rs/microsoft-kursevi/)  </br>[LANACO](https://thellpa.com/members/lanaco-education-center/microsoft)   </br>[Semos Education](https://thellpa.com/members/semos/microsoft)  </br>[Smart d.o.o.](https://www.smartschool.rs/microsoft-sertifikacije/)  </br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
+| [CPU d.o.o](https://cpu.rs/edukacija/microsoft-sertifikati/)  </br>[Eccentrix](https://www.eccentrix.rs/en/courses/microsoft)  </br>[Informatika a.d.](https://www.informatika.edu.rs/microsoft-kursevi/)  </br>[LANACO](https://thellpa.com/members/lanaco-education-center/microsoft)   </br>[Semos Education](https://thellpa.com/members/semos/microsoft)  </br>[Smart d.o.o.](https://www.smartschool.rs/microsoft-sertifikacije/)  </br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
 
 | <a name="singapore"></a>싱가포르 |
 |-----------|
@@ -441,7 +441,7 @@ ms.locfileid: "133301716"
 
 | <a name="spain"></a>스페인 |
 |-----------|
-| [화살표](https://edu.arrow.com/es/c/index.html/463/microsoft-modern-workplace)   </br>[Fast Lane Spain](https://www.flane.es/microsoft)   </br>[Gadesoft](https://www.gadesoft.com/cursos-microsoft-office/)   </br>[Global Knowledge](https://www.globalknowledge.com/es-es/training/cursos/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)   </br>[Idese Formacion](https://idese.es/certificaciones-de-microsoft.html)</br>[Nanfor Iberica](https://nanfor.com/pages/microsoft-training-certification)   </br>[Netmind](https://thellpa.com/members/netmind/microsoft)   </br>[New Horizons Madrid](https://www.newhorizons.com/mspartner)   </br>[Pue](https://www.pue.es/cursos/microsoft)   </br>[Tech Data Corporation](https://academy.techdata.com/es/vendor/microsoft/training/)</br>[Tecnofor Iberica S.L.](https://tecnofor.es/azure/) |
+| [화살표](https://edu.arrow.com/es/c/index.html/463/microsoft-modern-workplace) </br>[Cas Training](https://www.cas-training.com/formacion-oficial-de-microsoft/)</br>[Fast Lane Spain](https://www.flane.es/microsoft)   </br>[Gadesoft](https://www.gadesoft.com/cursos-microsoft-office/)   </br>[Global Knowledge](https://www.globalknowledge.com/es-es/training/cursos/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)   </br>[Idese Formacion](https://idese.es/certificaciones-de-microsoft.html)</br>[Nanfor Iberica](https://nanfor.com/pages/microsoft-training-certification)   </br>[Netmind](https://thellpa.com/members/netmind/microsoft)   </br>[New Horizons Madrid](https://www.newhorizons.com/mspartner)   </br>[Pue](https://www.pue.es/cursos/microsoft)   </br>[Tech Data Corporation](https://academy.techdata.com/es/vendor/microsoft/training/)</br>[Tecnofor Iberica S.L.](https://tecnofor.es/azure/) |
 
 | <a name="sri-lanka"></a>스리랑카 |
 |-----------|

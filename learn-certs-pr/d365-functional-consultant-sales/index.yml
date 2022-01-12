@@ -2,32 +2,30 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Sales 기능 컨설턴트는 고객 연결 예측 및 계획, 처리 및 종료를 통한 거래 관리 및 데이터 분석을 사용하여 영업 팀의 성과를 가속화하는 솔루션을 구현합니다.'
+  description: Microsoft Dynamics 365 Sales 기능 컨설턴트는 고객 연결 예측 및 계획, 처리 및 종료를 통한 거래 관리 및 데이터 분석을 사용하여 영업 팀의 성과를 가속화하는 솔루션을 구현합니다.
+  ms.openlocfilehash: 6574312b89106402932acda7b22670ecdd879697
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078854"
 uid: certification.d365-functional-consultant-sales
 certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  만일 기능 컨설턴트, Microsoft Dynamics 365 Sales 를 사용하는 전문가이거나, 컨설팅 기술을 연마하려는 개발자라면, 이 인증이 경력을 향상시키는데 도움이 될 수 있습니다. 이는 프로젝트를 위해 자신을 보다 효과적으로 마케팅하고, 영업 인력을 강화하는데 Dynamics 365 Sales를 사용할 수 있는 것을 조직에 보여주게 합니다.
-  
-  이 인증의 응시자로서, Microsoft Power Platform 을 구성한 경험이 있고 Dynamics 365 모델-기반 애플리케이션 및 데이터-모델링 원칙을 알고있습니다. 조직의 이해관계자들과 요구사항을 수집하고 Dynamics 365 Sales 솔루션을 구현하기 위해 협력합니다. 리드, 기회, 견적 및 주문을 관리하고 제품 카탈로그와 가격 목록을 구성합니다. 또한 조직의 고유한 비즈니스 프로세스와 일치하도록 Dynamics 365 Sales 를 구성하고, Dynamics 365 Sales 데이터를 모델링합니다. Power Automate 및 Power Apps와 같은 Power Platform 구성요소를 사용하여 Dynamics 365 솔루션을 확장 할 수도 있습니다.
-  
-  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안사항이 있습니다&#58;
-  - Dynamics 365 모델-기반 앱 구현 프로젝스에서 작업합니다.
-  - Dynamics 365 Sales로 작업하는 기능 컨설턴트 혹은 솔루션 아키텍트를 쉐도우합니다.
-  - Microsoft Learn 에서 가능한 학습경로를 시작합니다.
-  - 강사 주도 교육 과정에 등록합니다.
+summary: "<div><font color='red'><strong>이 인증의 내용은 최근 업데이트되었습니다. <a href=\"/learn/certifications/exams/mb-210\">시험 MB-210</a>은 2021년 7월 23일에 업데이트되었고, <a href=\"/learn/certifications/exams/pl-200\">시험 PL-200</a>은 2021년 10월 1일에 업데이트되었습니다. 변경 사항을 확인하려면 관련 시험 페이지에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>\n\n기능 컨설턴트, Microsoft Dynamics 365 Sales를 사용하는 전문가 또는 컨설팅 기술을 연마하려는 개발자라면 이 인증이 경력을 향상하는 데 도움이 될 수 있습니다. 이를 통해 프로젝트를 더 효과적으로 마케팅할 수 있으며 Dynamics 365 Sales를 사용하여 판매 팀의 역량을 강화할 수 있음을 조직에 보여 줍니다. \n\n이 인증의 응시자는 Microsoft Power Platform을 구성한 경험이 있으며 Dynamics 365 모델 기반 애플리케이션 및 데이터 모델링 원칙을 알고 있습니다. 조직의 관련자와 협업하여 요구 사항을 수집하고 Dynamics 365 Sales 솔루션을 구현합니다. 잠재 고객, 기회, 견적, 주문을 관리하고 제품 카탈로그와 가격표를 구성합니다. 또한 조직의 고유한 비즈니스 프로세스와 일치하도록 Dynamics 365 Sales를 구성하고 Dynamics 365 Sales 데이터를 모델링합니다. Power Automate 및 Power Apps와 같은 Power Platform 구성 요소를 사용하여 Dynamics 365 솔루션을 확장할 수도 있습니다.\n\n이 인증을 얻기 전에 더 많은 경험이 필요하다면 다음 제안을 고려해 보세요.\n- Dynamics 365 모델 기반 앱 구현 프로젝트에서 일합니다.\n- Dynamics 365 Sales를 사용하는 기능 컨설턴트 또는 솔루션 설계자에게서 배웁니다.\n- Microsoft Learn에서 제공하는 학습 경로를 활용합니다.\n- 강사 진행 교육 과정에 등록합니다. "
 subTitle: Microsoft Dynamics 365 Sales 기능 컨설턴트는 고객 연결 예측 및 계획, 처리 및 종료를 통한 거래 관리 및 데이터 분석을 사용하여 영업 팀의 성과를 가속화하는 솔루션을 구현합니다.
 levels:
 - intermediate
 skills:
-- 구성 수행
-- 핵심 영업 엔터티 관리
-- 추가 도구 및 서비스 구성
-- Microsoft Dataverse 구성
-- Power Apps 사용하여 앱 만들기
-- Power Automate 생성 및 관리
-- Power Virtual Agents 챗봇 구현
-- Power Apps 를 다른 앱 및 서비스와 통합
+- Perform configuration
+- Manage core sales tables
+- Configure additional tools and services
+- Configure Microsoft Dataverse
+- Create apps by using Microsoft Power Apps
+- Create and manage Microsoft Power Automate
+- Implement Microsoft Power Virtual Agents chatbots
+- Integrate Microsoft Power Apps with other apps and services
+- Manage solutions
 roles:
 - functional-consultant
 type: role-based
@@ -68,9 +66,9 @@ resources:
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증서 학습 경로
-  description: 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
@@ -80,6 +78,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

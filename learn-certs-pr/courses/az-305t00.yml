@@ -1,0 +1,206 @@
+### YamlMime:Course
+title: Designing Microsoft Azure Infrastructure Solutions
+metadata:
+  title: '과정 AZ-305T00--A: Designing Microsoft Azure Infrastructure Solutions'
+  description: '과정 AZ-305T00--A: Designing Microsoft Azure Infrastructure Solutions'
+  ms.openlocfilehash: 8efda883e992339775e5d65ad00091c60ea93b8b
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079417"
+uid: course.az-305t00
+courseNumber: AZ-305T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 거버넌스 솔루션 설계.
+- skill: 컴퓨팅 솔루션 설계.
+- skill: 애플리케이션 아키텍처 설계.
+- skill: 비관계형 및 관계형 스토리지 설계.
+- skill: 데이터 통합 솔루션 설계.
+- skill: 인증, 권한 부여, ID 솔루션 설계.
+- skill: 네트워크 솔루션 설계.
+- skill: 백업 및 재해 복구 솔루션 설계.
+- skill: 모니터링 솔루션 설계.
+- skill: 마이그레이션 솔루션 설계.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-305
+summary: >-
+  이 과정은 Azure 솔루션 설계자에게 인프라 솔루션을 설계하는 방법을 설명합니다. 과정에서 다루는 토픽에는 거버넌스, 컴퓨팅, 애플리케이션 아키텍처, 스토리지, 데이터 통합, 인증, 네트워크, 비즈니스 연속성, 마이그레이션이 있습니다. 이 과정에서는 강의를 사례 연구와 결합하여 기본적인 설계자 설계 원칙을 설명합니다.
+
+
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
+  학생은 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼, 거버넌스와 같은 IT 운영에 대한 경험과 지식을 갖추고 있어야 합니다. 학생은 또한 솔루션을 디자인하고 설계한 경험이 있어야 합니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전에 학생은 Azure 리소스를 배포 또는 관리해 본 경험이 있으며 다음의 개념에 대한 지식이 있어야 합니다.
+
+
+  *   Azure Active Directory
+
+
+  *   VM, 컨테이너, 서버리스 솔루션과 같은 Azure 컴퓨팅 기술
+
+
+  *   부하 분산 장치를 포함하는 Azure 가상 네트워킹
+
+
+  *   Azure Storage 기술(비구조적 및 데이터베이스)
+
+
+  *   메시지 및 고가용성과 같은 일반적인 애플리케이션 설계 개념
+outlineSection: >-
+  ### <a name="module-1-design-governance-and-compute-solutions"></a>모듈1: 거버넌스 및 컴퓨팅 솔루션 설계
+
+
+  이 모듈에서는 거버넌스 및 컴퓨팅 솔루션에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   거버넌스 솔루션 설계
+
+
+  *   컴퓨팅 솔루션 디자인
+
+
+
+  #### <a name="lab--case-studies"></a>랩: 사례 연구
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   거버넌스 솔루션 설계.
+
+
+  *   컴퓨팅 솔루션 설계.
+
+
+
+  ### <a name="module-2-design-storage-and-data-integration-solutions"></a>모듈 2: 스토리지 및 데이터 통합 솔루션 설계
+
+
+  이 모듈에서는 비관계형 스토리지, 관계형 스토리지, 데이터 통합 솔루션에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   비관계형 스토리지 솔루션 설계
+
+
+  *   관계형 스토리지 솔루션 설계
+
+
+  *   데이터 통합 솔루션 설계
+
+
+
+  #### <a name="lab--case-studies"></a>랩: 사례 연구
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   비관계형 스토리지 솔루션 설계.
+
+
+  *   관계형 스토리지 솔루션 설계.
+
+
+  *   데이터 통합 솔루션 설계.
+
+
+
+  ### <a name="module-3-design-app-architecture-access-and-monitoring-solutions"></a>모듈 3: 앱 아키텍처, 액세스, 모니터링 솔루션 설계
+
+
+  이 모듈에서는 앱 아키텍처, 인증 및 권한 부여, 로깅 및 모니터링 솔루션에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   앱 아키텍처 솔루션 설계
+
+
+  *   인증 및 권한 부여 솔루션 디자인
+
+
+  *   로깅 및 모니터링 솔루션 설계
+
+
+
+  #### <a name="lab--case-studies"></a>랩: 사례 연구
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   앱 아키텍처 솔루션 설계.
+
+
+  *   인증 및 권한 부여 솔루션 디자인.
+
+
+  *   로깅 및 모니터링 솔루션 디자인.
+
+
+
+  ### <a name="module-4-design-network-continuity-and-migration-solutions"></a>모듈 4: 네트워크, 연속성 및 마이그레이션 솔루션 설계
+
+
+  이 모듈에서는 네트워킹, 비즈니스 연속성 및 마이그레이션 솔루션에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   네트워크 인프라 솔루션 설계
+
+
+  *   비즈니스 연속성 솔루션 설계
+
+
+  *   마이그레이션 솔루션 설계
+
+
+
+  #### <a name="lab--case-studies"></a>랩: 사례 연구
+
+
+  ####
+
+
+  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+
+
+  *   네트워킹 인프라 솔루션 설계.
+
+
+  *   비즈니스 연속성 솔루션 설계.
+
+
+  *   마이그레이션 솔루션 설계.

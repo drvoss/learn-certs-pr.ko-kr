@@ -3,16 +3,16 @@ title: Microsoft Dynamics 365 Marketing
 metadata:
   title: '시험 MB-220: Microsoft Dynamics 365 Marketing'
   description: '시험 MB-220: Microsoft Dynamics 365 Marketing'
-  ms.openlocfilehash: 4ba171c20829757a6e9ae42f2a0a124e829e361e
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: d87342b3981f0d13f630235a9359733be3470e32
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132105845"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079593"
 uid: exam.mb-220
 displayName: MB-220
 summary: >-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 9일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 9일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
 
   이 시험의 응시자는 Dynamics 365 Marketing 기능 컨설턴트입니다. 응시자는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니 채널 메시징을 표준화하며 마케팅 통찰력을 제공하는 솔루션을 구현해야 합니다.
@@ -22,11 +22,11 @@ summary: >-
 
 
   응시자는 Dynamics 365 및 Microsoft 365 애플리케이션과의 통합을 포함하여 Dynamics 365 애플리케이션 제품군과 관련된 마케팅 원칙 및 마케팅 애플리케이션의 역할에 대해 어느 정도 알고 있어야 합니다. 응시자는 업계 용어, 우선 순위, 공통 이니셔티브, 표준, 방법론 및 모범 사례에 대하여 이해하고 있어야 합니다.
-subTitle: 이 시험은 마케팅 애플리케이션 구성, 세그먼트 및 목록 관리, 마케팅 양식 및 페이지 만들기 및 관리, 잠재 고객, 연락처, 계정 관리, 마케팅 메일 만들기 및 관리, 고객 여정 관리, 이벤트 및 웨비나 관리, Dynamics 365 Customer Voice 구성과 같은 기술 작업을 수행하는 능력을 측정합니다.
+subTitle: 이 시험은 마케팅 애플리케이션 구성, 세그먼트 및 목록 관리, 마케팅 양식 및 페이지 만들기 및 관리, 잠재 고객, 연락처, 계정 관리, 마케팅 메일 만들기 및 관리, 고객 여정 관리, 이벤트 및 웨비나 관리, Dynamics 365 Customer Voice 구성과 같은 기술적 과제를 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
 practiceTestUrl: https://www.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en
 levels:

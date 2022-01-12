@@ -1,38 +1,54 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Customer Service
+title: Microsoft Dynamics 365 Customer Service Functional Consultant
 metadata:
-  title: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
-  description: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
+  title: '시험 MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant'
+  description: '시험 MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant'
+  ms.openlocfilehash: e922333e8c5872e0d09d57533f3dfcd584066261
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078438"
 uid: exam.mb-230
 displayName: MB-230
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>이 시험의 내용은 2021년 10월 15일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  <div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div>
+
+  <div><font color='red'><strong>이 시험의 내용은 2021년 10월 15일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+  <div><font color='red'>참고: 합격 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div>
+
   </div>
-  
-  Dynamics 365 Customer Service Functional Consultant는 서비스, 품질, 신뢰성, 효율성 및 고객 만족에 중점을 두는 옴니채널 솔루션 구현을 담당합니다.
+
+
+  Microsoft Dynamics 365 Customer Service 기능 컨설턴트는 서비스, 품질, 안정성, 효율성, 고객 만족에 집중하는 옴니채널 솔루션 구현을 담당합니다.
+
   <br/>
-  
-  Dynamics 365 Customer Service Functional Consultant는 솔루션 설계자가 협업으로 제공하는 서비스 관리 시각화 및 보고서를 구현하고 설계합니다. Functional Consultant는 고객 참여 관리자와 협력하여 참조 자료 관리, 고객 피드백 및 연결된 서비스를 포함한 Power Platform 구성 요소를 구현하고 업그레이드합니다.
-  
-  Dynamics 365 Customer Service Functional Consultant는 산업 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영 및 모범 사례 이해를 포함하여 고객 서비스에 대한 확실한 응용 지식이 있어야 합니다. 고객 서비스 전문 지식이 있는 Functional Consultant는 서비스 케이스, 참조 자료 관리, 큐, 권리 유형, 리소스 일정 관리, SLA(서비스 수준 계약), 시각화, 연결된 서비스, 고객 서비스 인사이트, Power Virtual Agent 및 고객 서비스를 위한 옴니채널을 포함하여 Dynamics 365 고객 서비스를 통해 사용자 니즈를 충족시키는 확실한 응용 지식이 있어야 합니다. Functional Consultant의 지식은 솔루션 아키텍처 및 품질 보증에 관해 기본적인 수준으로 이해하고 있어야 하며, Dynamics 365 제품군과의 관계에서 고객 서비스 애플리케이션의 역할의 종합적인 이해를 포함합니다.
-subTitle: '본 시험은 서비스 케이스 및 참조 자료 관리, 큐, 권리 유형 및 서비스 수준 계약 관리, 일정 관리 구현, 고객 서비스를 위한 옴니채널 구현 및 분석 관리 등의 기술 작업에 대한 수행 능력을 측정합니다.'
+
+
+  이 전문가는 솔루션 설계자가 제공하거나 솔루션 설계자와의 협업을 통해 제공된 서비스 관리 시각화 및 보고를 구현하고 설계합니다. 고객 참여 관리자와 협업하여 지식 관리, 고객 피드백, 연결된 서비스를 포함한 Microsoft Power Platform 구성 요소를 구현하고 업그레이드합니다.
+
+
+  Dynamics 365 Customer Service 기능 컨설턴트는 업계 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영, 모범 사례에 대한 이해를 포함하여 고객 서비스에 대한 강력한 응용 지식을 갖추고 있어야 합니다. 고객 서비스 전문 지식을 갖춘 기능 컨설턴트는 사례, 지식 관리, 큐, 자격, 리소스 예약, SLA(서비스 수준 계약), 시각화, 연결된 서비스, Microsoft Dynamics 365 Customer Service용 Customer Service Insights 추가 기능, Power Virtual Agents 및 Customer Service용 옴니채널에 대한 심층적인 이해를 포함하여 Dynamics 365 Customer Service를 통해 사용자 요구를 충족하는 방법에 대한 깊이 있는 실무 경험 및 지식이 필요합니다. 기능 컨설턴트의 지식에는 솔루션 아키텍처 및 품질 보증에 대한 기본적인 이해와 함께 Dynamics 365 애플리케이션 제품군과 관련된 고객 서비스 애플리케이션의 역할에 대한 전반적인 이해가 포함되어야 합니다.
+subTitle: 이 시험은 사례 관리 및 지식 관리, 큐, 권한, 서비스 수준 계약 관리, 예약 구현, 고객 서비스를 위한 옴니채널 구현, 분석 및 인사이트 관리, Customer Service 작업 영역 구현, Microsoft Power Platform 구현, Connected Customer Service 구현과 같은 기술적 과제를 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 practiceTestUrl: https://www.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 10월 15일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오. 
-- 서비스 케이스 및 참조 자료 관리 (20-25%)
-- 큐, 권리 유형 및 SLA(서비스 수준 계약) 관리 (15-20%)
-- 일정 관리 구현 (10-15%)
-- 고객 서비스를 위한 옴니채널 구현 (30-35%)
-- 분석 관리 (10-15%)
+- The content of this exam was updated on October 15, 2021. Please download the exam skills outline below to see what changed.
+- Manage cases and knowledge management (20-25%)
+- Manage queues, entitlements, and service-level agreements (15-20%)
+- Implement scheduling (5-10%)
+- Implement Omnichannel for Customer Service (10-15%)
+- Manage analytics and insights (5-10%)
+- Implement Customer Service workspaces (5-10%)
+- Implement Microsoft Power Platform (5-10%)
+- Implement Connected Customer Service (5–10%)
 roles:
 - functional-consultant
 products:
@@ -53,7 +69,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 인증서 학습 경로
-  description: 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -61,7 +77,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -70,10 +86,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

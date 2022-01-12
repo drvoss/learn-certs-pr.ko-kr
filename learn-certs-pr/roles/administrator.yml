@@ -3,12 +3,12 @@ title: 관리자
 metadata:
   title: 관리자
   description: Administrators 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
-  ms.openlocfilehash: 08972ba51ca7199fdbe46f8e4b2712933347b922
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
-  ms.translationtype: HT
+  ms.openlocfilehash: 0282dffc61f81b711b6305cd69eb048348ad2380
+  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "133079428"
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "133989041"
 uid: role.administrator
 summary: >
   Administrators 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
@@ -142,6 +142,17 @@ certificationPaths:
   - uid: certification.m365-teams-voice-engineer-expert
     levels:
     - advanced
+- title: Windows Server 하이브리드 관리자
+  linkedInKeywords: Windows Server hybrid administrator
+  uid: certification-path.windows-server-hybrid-administrator
+  prerequisites:
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.windows-server-hybrid-administrator
+    levels:
+    - intermediate
 certifications:
 - uid: certification.azure-administrator
   requiredExams:
@@ -181,6 +192,10 @@ certifications:
 - uid: certification.m365-teams-voice-engineer-expert
   requiredExams:
   - uid: exam.ms-720
+- uid: certification.windows-server-hybrid-administrator
+  requiredExams:
+  - uid: exam.az-800
+  - uid: exam.az-801
 resources:
 - title: Microsoft 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

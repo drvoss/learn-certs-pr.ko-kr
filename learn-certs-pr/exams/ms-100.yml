@@ -1,32 +1,40 @@
 ### YamlMime:Examination
 title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Exam MS-100: Microsoft 365 Identity and Services'
-  description: 'Exam MS-100: Microsoft 365 Identity and Services'
+  title: '시험 MS-100: Microsoft 365 Identity and Services'
+  description: '시험 MS-100: Microsoft 365 Identity and Services'
+  ms.openlocfilehash: 0e5fe1af181ff15294bbddd7b2ab3f41f94f99c2
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301848"
 uid: exam.ms-100
 displayName: MS-100
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
-    
-  이 시험의 응시자들은 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는데 참여하는 Microsoft 365 Enterprise Administrators입니다. 이들은 신원, 보안, 규정 준수, Power Platform, 및 지원 기술을 포함하여, 기업을 위한 Microsoft 365 테넌트 관리 작업을 수행합니다.
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div></div>
 
-  응시자들은 Microsoft 365 workloads에 대한 실무 지식이 있고 최소한 하나의 Exchange, SharePoint, Teams, 또는 Windows 10 배포를 위한 관리자였어야 합니다. 또한 응시자들은 네트워킹, 서버 관리, 및 DNS, Active Directory, 및 PowerShell과 같은 IT 기본 사항에 대한 실무 지식을 갖추고 있습니다.
-subTitle: '이 시험은 Microsoft 365 서비스 설계 및 구현, 사용자 ID 및 역할 관리, 액세스 및 인증 관리, Office 365 워크로드 및 애플리케이션 계획과 같은 기술적 과제를 수행하는 능력을 측정합니다.'
+
+  이 시험은 Microsoft 365 엔터프라이즈 서비스를 평가, 계획, 마이그레이션, 배포, 관리에 참여하는 Microsoft 365 Enterprise Administrator를 대상으로 실시됩니다. ID, 보안, 규정 준수, Power Platform, 지원 기술을 포함하여 엔터프라이즈를 위한 Microsoft 365 테넌트 관리 작업을 수행합니다.
+
+
+  응시자는 Microsoft 365 워크로드에 대한 실무 지식이 있으며 Exchange, SharePoint, Teams 또는 Windows 10 중 하나 이상의 배포 관리자여야 합니다. 응시자는 네트워킹, 서버 관리, DNS Active Directory 및 PowerShell과 같은 IT 기본 지식에 대한 실무 지식도 갖추고 있어야 합니다.
+subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다, Microsoft 365 서비스 설계 및 구현, 사용자 ID 및 역할 관리, 액세스 및 인증 관리, Office 365 워크로드 및 애플리케이션 계획.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- Microsoft 365 서비스 설계 및 구현 (25-30%)
-- 사용자 ID 관리 및 역할 관리 (25-30%)
-- 액세스 및 인증 관리 (15-20%)
-- Office 365 워크로드 및 애플리케이션 계획 (25-30%)
+- The content of this exam was updated on November 30, 2021. Please download the exam skills outline below to see what changed.
+- Design and implement Microsoft 365 services (25-30%)
+- Manage user identity and roles (25-30%)
+- Manage access and authentication (15-20%)
+- Plan Office 365 workloads and applications (25-30%)
 roles:
 - administrator
 products:
@@ -54,7 +62,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -63,10 +71,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

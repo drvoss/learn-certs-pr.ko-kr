@@ -2,29 +2,38 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'DevOps 엔지니어는 협업, 코드, 인프라, 소스 제어, 보안, 규정 준수, 지속적 통합, 테스트, 제공, 모니터링 및 피드백을 위한 전략을 디자인하고 구현합니다.'
+  description: DevOps 엔지니어는 협업, 코드, 인프라, 소스 제어, 보안, 규정 준수, 지속적 통합, 테스트, 제공, 모니터링 및 피드백을 위한 전략을 디자인하고 구현합니다.
+  ms.openlocfilehash: 03c210e74558d482a2747d98ab1d4e359fc2d5c4
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680828"
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-400">AZ-400 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/az-400">시험 AZ-400 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
   DevOps Engineer Expert 인증 후보자는 비즈니스 가치를 지속적으로 제공하기 위해 인력, 프로세스 및 기술과 관련된 주제 전문 지식을 보유하고 있어야합니다.
 
+
   이 역할의 책임에는 협업, 코드, 인프라, 소스 제어, 보안, 컴플라이언스, 지속적인 통합, 테스트, 제공, 모니터링 및 피드백을위한 전략 설계 및 구현이 포함됩니다.
+
 
   이 인증의 후보는 Azure 관리 및 개발에 모두 익숙해야하며 이러한 영역 중 하나 이상에 대해 전문가 여야합니다.
 subTitle: DevOps 엔지니어는 협업, 코드, 인프라, 소스 제어, 보안, 규정 준수, 지속적 통합, 테스트, 제공, 모니터링 및 피드백을 위한 전략을 디자인하고 구현합니다.
 levels:
 - advanced
 skills:
-- 계측 전략 개발
-- SRE (Site Reliability Engineering) 전략 개발
-- 보안 및 규정 준수 계획 개발
-- 소스 제어 관리
-- 커뮤니케이션 및 협업 촉진
-- 지속적인 통합 정의 및 구현
-- 지속적인 전달 및 릴리스 관리 전략 정의 및 구현
+- Develop an instrumentation strategy
+- Develop a Site Reliability Engineering (SRE) strategy
+- Develop a security and compliance plan
+- Manage source control
+- Facilitate communication and collaboration
+- Define and implement continuous integration
+- Define and implement a continuous delivery and release management strategy
 roles:
 - devops-engineer
 type: role-based
@@ -35,12 +44,16 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.az-400-develop-instrumentation-strategy
-- uid: learn.az-400-develop-sre-strategy
-- uid: learn.az-400-develop-security-compliance-plan
-- uid: learn.az-400-manage-source-control
-- uid: learn.az-400-facilitate-communication-collaboration
-- uid: learn.az-400-define-implement-continuous-integration
+- uid: learn.wwl.az-400-get-started-devops-transformation-journey
+- uid: learn.wwl.az-400-work-git-for-enterprise-devops
+- uid: learn.wwl.az-400-implement-ci-azure-pipelines-github-actions
+- uid: learn.wwl.az-400-design-implement-release-strategy
+- uid: learn.wwl.az-400-implement-secure-continuous-deployment
+- uid: learn.wwl.az-400-manage-infrastructure-as-code-using-azure
+- uid: learn.wwl.az-400-design-implement-dependency-management-strategy
+- uid: learn.wwl.az-400-create-manage-containers-using-docker-kubernetes
+- uid: learn.wwl.az-400-implement-continuous-feedback
+- uid: learn.wwl.az-400-implement-security-validate-code-basescompliance
 courses:
 - uid: course.az-400t00
 prerequisites:
@@ -74,6 +87,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

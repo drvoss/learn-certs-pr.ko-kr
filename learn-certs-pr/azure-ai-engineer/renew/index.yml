@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Azure AI Engineer Associate 인증 갱신'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate 인증 갱신'
   description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
-  ms.openlocfilehash: 63ba4f7ba614d2709b0ca1495242b21a98f5441e
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 206cbb46169d2d1bc6f6658edf6a552284124609
+  ms.sourcegitcommit: 8eea77e8e5c6afd5914ba7ef2f0058440816aee7
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111018"
+  ms.lasthandoff: 11/23/2021
+  ms.locfileid: "132963984"
 uid: renewal.azure-ai-engineer
 certificationUid: certification.azure-ai-engineer
 assessmentId: b7cbd4cb-022d-4be3-94f1-95b2206f91c0
@@ -16,11 +16,17 @@ durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Azure AI 업데이트를 파악하고 있음을 보여 주세요. 학습 모듈의 큐레이팅된 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
 skills:
-- Process and Translate Speech with Azure Cognitive Speech Services
-- Process and classify images with the Azure cognitive vision services
-- Process natural language with Azure Cognitive Language Services
-- Create conversational AI solutions
-- Implement knowledge mining with Azure Cognitive Search
+- Create speech-enabled apps with the Speech service
+- Translate speech with the speech service
+- Analyze video
+- Create a Language Understanding app
+- Publish and use a Language Understanding app
+- Extract insights from text with the Text Analytics service
+- Create a Bot with the Bot Framework SDK
+- Create a Bot with the Bot Framework Composer
+- Create an Azure Cognitive Search solution
+- Create a custom skill for Azure Cognitive Search
+- Create a knowledge store with Azure Cognitive Search
 examsPassed:
 - AI-100 or AI-102
 studyGuideDescription: '이 학습 모듈 컬렉션을 사용하면 Microsoft Certified: Azure AI Engineer Associate 갱신 평가를 준비하는 데 도움이 됩니다.'

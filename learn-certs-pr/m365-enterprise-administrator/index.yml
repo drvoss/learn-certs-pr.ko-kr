@@ -2,25 +2,32 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는 역할을 수행합니다.'
+  description: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는 역할을 수행합니다.
+  ms.openlocfilehash: be1b77f95088e704af018e3de723a199b78e8743
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301650"
 uid: certification.m365-enterprise-administrator
 certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 최근에 업데이트되었습니다. <a href="/learn/certifications/exams/ms-100">MS-100</a>은 2021년 9월 29일 업데이트되었고, <a href="/learn/certifications/exams/ms-101">MS-101</a>은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 관련 시험 페이지에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 최근 업데이트되었습니다. <a href="/learn/certifications/exams/ms-101">시험 MS-101</a>은 2021년 11월 24일에 업데이트되었고, <a href="/learn/certifications/exams/ms-100">시험 MS-100</a>은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 관련 시험 페이지에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
 
   Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 subTitle: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 levels:
 - advanced
 skills:
-- Microsoft 365 서비스 설계 및 구현
-- 사용자 ID 관리 및 역할 관리
-- 액세스 및 인증 관리
-- Office 365 워크로드 및 애플리케이션 계획
-- 최신 장치 서비스 구현
-- Microsoft 365 보안 및 위협 관리 구현
-- Microsoft 365 거버넌스 및 준수 관리
+- Design and implement Microsoft 365 services
+- Manage user identity and roles
+- Manage access and authentication
+- Plan Office 365 workloads and applications
+- Implement modern device services
+- Implement Microsoft 365 security and threat management
+- Manage Microsoft 365 governance and compliance
 roles:
 - administrator
 type: role-based
@@ -68,7 +75,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -78,6 +85,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

@@ -2,20 +2,20 @@
 title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
-  description: Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중점을 둡니다.
-  ms.openlocfilehash: 240d3609731f823cc6fa0573a6478d6ca0e2205c
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  description: Microsoft Dynamics 365 + Power Platform 솔루션 설계자는 성공적인 구현을 주도하고, 솔루션이 조직의 광범위한 비즈니스 및 기술 요구 사항을 해결하는 방법에 중점을 둡니다.
+  ms.openlocfilehash: 32c62beab08adc85e6a43146b7e975848d09946d
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111907"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079087"
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: >-
-  <div><font color="red"><strong>이 인증은 폐지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지</a>를 참조하세요. 폐지 날짜 이전에 취득한 모든 인증은 <a href="https://aka.ms/certdashboard">인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong></font><br/><br/></div>
+  <div><font color="red"><strong>이 인증은 사용 중지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지</a>를 참조하세요. 사용 중지 날짜 이전에 취득한 모든 인증은 <a href="https://aka.ms/certdashboard">인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong></font><br/><br/></div>
 
 
-  Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중점을 둡니다.
+  Microsoft Dynamics 365 + Power Platform 솔루션 설계자는 성공적인 구현을 주도하고, 솔루션이 조직의 광범위한 비즈니스 및 기술 요구 사항을 해결하는 방법에 중점을 둡니다.
 
 
   <div><br/><strong>참고: 다음 두 가지 인증을 취득하면 이 인증의 전제 조건이 됩니다. 이 전제 조건은 사이트 제한으로 인해 아래에 나열되지 않습니다.</strong><ul>
@@ -25,7 +25,7 @@ summary: >-
   <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified: Power Platform Developer Associate</a></li>
 
   </ul></div>
-subTitle: Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중점을 둡니다.
+subTitle: Microsoft Dynamics 365 + Power Platform 솔루션 설계자는 성공적인 구현을 주도하고, 솔루션이 조직의 광범위한 비즈니스 및 기술 요구 사항을 해결하는 방법에 중점을 둡니다.
 levels:
 - advanced
 skills:
@@ -77,5 +77,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

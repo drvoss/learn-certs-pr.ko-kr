@@ -1,33 +1,52 @@
 ### YamlMime:Examination
-title: Designing and Implementing Microsoft Azure Networking Solutions
+title: Microsoft Azure 네트워킹 솔루션 설계 및 구현
 metadata:
-  title: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
-  description: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
+  title: '시험 AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
+  description: '시험 AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
+  ms.openlocfilehash: ca1b83d8d1b3377f9b02e091d35cd6b564cf2e22
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680718"
 uid: exam.az-700
 displayName: AZ-700
-summary: |-
-  <div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div>
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
-  이 시험의 응시자들은 하이브리드 네트워킹, 연결, 라우팅, 보안, 및 Azure 서비스에 대한 비공개 액세스를 포함하는 Azure 네트워킹 솔루션을 계획하고, 구현하고, 유지 관리하는 것에 대한 주제별 전문 지식을 갖추어야 합니다.
-  
-  또한 이 시험의 응시자들은 네트워킹, 하이브리드 연결, 및 네트워크 보안에 대한 광범위한 경험 및 지식 외에도, 전문 Azure 관리 기술이 있어야 합니다.
-  
-subTitle: '이 시험은 다음과 같은 기술 업무를 수행하는 능력을 측정합니다: 하이브리드 네트워킹 디자인, 구현, 및 관리; 핵심 네트워킹 인프라 디자인 및 구현; 라우팅 디자인 및 구현; 네트워크 보안 및 모니터링; Azure 서비스에 대한 비공개 액세스 디자인 및 구현.'
+
+  이 시험의 응시자는 하이브리드 네트워킹, 연결, 라우팅, 보안, Azure 서비스에 대한 프라이빗 액세스를 포함하여 Azure 네트워킹 솔루션의 계획, 구현, 유지 관리에 대한 실무 전문 지식을 갖추고 있어야 합니다.
+
+
+  이 시험의 응시자는 네트워킹, 하이브리드 연결, 네트워크 보안에 대한 광범위한 경험 및 지식뿐만 아니라 전문 Azure 관리 기술도 보유하고 있어야 합니다.
+subTitle: 이 시험은 하이브리드 네트워킹 설계, 구현, 관리와 핵심 네트워킹 인프라 설계 및 구현, 라우팅 설계 및 구현, 네트워크 보호 및 모니터링, Azure 서비스에 대한 프라이빗 액세스 설계 및 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ar-sa
+- ru
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- 하이브리드 네트워킹 디자인, 구현, 및 관리 (10-15%)
-- 핵심 네트워킹 인프라 디자인 및 구현 (20-25%)
-- 라우팅 디자인 및 구현 (25-30%)
-- 네트워크 보안 및 모니터링 (15-20%)
-- Azure 서비스에 대한 비공개 액세스 디자인 및 구현 (10-15%)
+- The content of this exam was updated on November 23, 2021. Please download the exam skills outline below to see what changed.
+- Design, implement, and manage hybrid networking (10-15%)
+- Design and implement core networking infrastructure (20-25%)
+- Design and implement routing (25-30%)
+- Secure and monitor networks (15-20%)
+- Design and implement Private access to Azure Services (10-15%)
 roles:
 - network-engineer
 products:
@@ -76,6 +95,6 @@ resources:
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

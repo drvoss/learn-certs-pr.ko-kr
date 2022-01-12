@@ -2,12 +2,12 @@
 metadata:
   ms.topic: hub-page
   ms.prod: learning-azure
-  ms.openlocfilehash: 1749938a52394fdaf35f7b8fc01e46c2178e5b10
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
-  ms.translationtype: HT
+  ms.openlocfilehash: 0d3b795deb72df72a5170685cca3ef6da0d8c358
+  ms.sourcegitcommit: c14c3a1e24239ac3e56e978ed347f6d7d24e48d3
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "133079230"
+  ms.lasthandoff: 12/20/2021
+  ms.locfileid: "135417196"
 title: Microsoft 인증
 summary: 현재의 기술 역할과 요구 사항에 맞는 능력을 갖추고 있음을 보여 주는 인증을 획득하세요. 인증 경로를 검색하려면 작업 역할을 선택하세요.
 roles:
@@ -70,11 +70,11 @@ certificationsSection:
       text: 추가 인증 찾아보기
       url: /learn/certifications/browse?resource_type=certification
 upworkSection:
-  title: 추가 수입을 원하십니까?
-  summary: Upwork와 협업하여 Azure 인증 프리랜서와 고객을 연결하고 있습니다.
+  title: 무료로 Microsoft 인증 갱신
+  summary: Microsoft 역할 기반 및 전문 인증은 갱신하지 않으면 만료되는 것을 알고 계신가요? Microsoft Learn에서 온라인 평가에 합격하여 직무 역할을 위한 기술에 대한 최신 업데이트를 알아보고 무료로 인증을 갱신하세요.
   signupLink:
-    text: Upwork에 가입
-    url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
+    text: 자세한 정보
+    url: /learn/certifications/renew-your-microsoft-certification
 trainingSection:
   title: 인증 시험 준비 방법
   summary: Microsoft는 모든 사람이 각기 다른 학습 선호도를 가지고 있음을 이해하며 인증 여정 전체에서 인증 및 교육 옵션을 제공합니다.

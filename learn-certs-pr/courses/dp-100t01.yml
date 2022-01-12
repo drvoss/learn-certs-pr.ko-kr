@@ -3,12 +3,13 @@ title: Azure에서 데이터 과학 솔루션 디자인 및 구현
 metadata:
   title: '과정 DP-100T01--A: Designing and Implementing a Data Science Solution on Azure'
   description: '과정 DP-100T01--A: Designing and Implementing a Data Science Solution on Azure'
-  ms.openlocfilehash: e1dc5bf761eab2b96228d24d2d0aa730128e631b
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  iltScheduling: true
+  ms.openlocfilehash: 019463950200cf314b017b2a062aa5af686074f6
+  ms.sourcegitcommit: 44591b9175e3d494b65f91971f9d96ec4040cece
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107504"
+  ms.lasthandoff: 11/14/2021
+  ms.locfileid: "132438360"
 uid: course.dp-100t01
 courseNumber: DP-100T01
 hoursToComplete: 72
@@ -36,408 +37,408 @@ summary: >-
 
   이 과정은 클라우드에서 기계 학습 솔루션을 구축 및 운영하기를 원하고 Scikit-Learn, PyTorch 및 Tensorflow 등 Python 및 기계 학습 프레임워크에 대한 기존 지식이 있는 데이터 과학자를 대상으로 합니다.
 prerequisitesSection: >-
-  성공적인 Azure 데이터 과학자는 클라우드 컴퓨팅 개념에 대한 기본적인 지식과 일반적인 데이터 과학, 기계 학습 도구, 기술에 대한 경험을 바탕으로 이 역할을 시작합니다.&nbsp;
+  Successful Azure Data Scientists start this role with a fundamental knowledge of cloud computing concepts, and experience in general data science and machine learning tools and techniques.<ph id="ph1">&amp;nbsp;</ph>
 
 
-  특히 다음 사항에 주의하세요.
+  Specifically:
 
 
-  *   Microsoft Azure에서 클라우드 리소스 만들기.
+  *   Creating cloud resources in Microsoft Azure.
 
 
-  *   Python을 사용하여 데이터 탐색 및 시각화.
+  *   Using Python to explore and visualize data.
 
 
-  *   Scikit-Learn, PyTorch, TensorFlow와 같은 일반적인 프레임워크를 사용하여 기계 학습 모델을 학습시키고 유효성 검사.
+  *   Training and validating machine learning models using common frameworks like Scikit-Learn, PyTorch, and TensorFlow.
 
 
-  *   컨테이너 사용
-
-
-
-  이러한 필수 기술을 배우려면 과정에 참여하기 전에 다음 무료 온라인 교육을 수강하세요.
-
-
-  *   [Microsoft 클라우드 개념 살펴보기](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/).
-
-
-  *   [기계 학습 모델 만들기](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
-
-
-  *   [Azure에서 컨테이너 관리](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)
+  *   Working with containers
 
 
 
-  데이터 과학 및 기계 학습을 처음 사용하는 경우 먼저 [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)를 완료하세요.
+  To gain these prerequisite skills, take the following free online training before attending the course:
+
+
+  *   <bpt id="p1">[</bpt>Explore Microsoft cloud concepts<ept id="p1">](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/)</ept>.
+
+
+  *   <bpt id="p1">[</bpt>Create machine learning models<ept id="p1">](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)</ept>.
+
+
+  *   <bpt id="p1">[</bpt>Administer containers in Azure<ept id="p1">](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)</ept>
+
+
+
+  If you are completely new to data science and machine learning, please complete <bpt id="p1">[</bpt>Microsoft Azure AI Fundamentals<ept id="p1">](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)</ept> first.
 outlineSection: >-
-  ### <a name="module-1-getting-started-with-azure-machine-learning"></a>모듈 1: Azure Machine Learning 시작
+  ### <a name="module-1-getting-started-with-azure-machine-learning"></a>Module 1: Getting Started with Azure Machine Learning
 
 
-  이 모듈에서는 Azure Machine Learning 작업 영역을 프로비저닝하고 데이터, 컴퓨팅, 모델 학습 코드, 기록된 메트릭 및 학습된 모델 등 기계 학습 자산을 관리하는 방법을 학습합니다. 웹 기반 Azure Machine Learning Studio 인터페이스, Azure Machine Learning SDK 및 Visual Studio, Jupyter Notebook과 같은 개발자 도구를 사용하여 작업 영역에서 자산을 작업하는 방법을 학습합니다.
+  In this module, you will learn how to provision an Azure Machine Learning workspace and use it to manage machine learning assets such as data, compute, model training code, logged metrics, and trained models. You will learn how to use the web-based Azure Machine Learning studio interface as well as the Azure Machine Learning SDK and developer tools like Visual Studio Code and Jupyter Notebooks to work with the assets in your workspace.
 
 
-  #### <a name="lessons"></a>단원
+  #### <a name="lessons"></a>Lessons
 
 
-  *   Azure Machine Learning 소개
+  *   Introduction to Azure Machine Learning
 
 
-  *   Azure Machine Learning 작업
-
-
-
-  #### <a name="lab--create-an-azure-machine-learning-workspace"></a>랩: Azure Machine Learning 작업 영역 만들기
-
-
-  ####
-
-
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
-
-
-  *   Azure Machine Learning 작업 영역 프로비저닝
-
-
-  *   도구 및 코드를 사용하여 Azure Machine Learning 사용
+  *   Working with Azure Machine Learning
 
 
 
-  ### <a name="module-2-visual-tools-for-machine-learning"></a>모듈 2: 기계 학습을 위한 시각적 도구
-
-
-  이 모듈에서는 코드를 작성하지 않고 기계 학습 모델을 학습시키고 평가하고 배포하는 데 사용할 수 있는 자동화된 Machine Learning 및 디자이너 시각적 도구를 소개합니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   자동화된 Machine Learning
-
-
-  *   Azure Machine Learning 디자이너
-
-
-
-  #### <a name="lab--use-automated-machine-learning"></a>랩: 자동화된 Machine Learning 사용
+  #### <a name="lab--create-an-azure-machine-learning-workspace"></a>Lab : Create an Azure Machine Learning Workspace
 
 
   ####
 
 
-  #### <a name="lab--use-azure-machine-learning-designer"></a>랩: Azure Machine Learning 디자이너 사용
+  After completing this module, you will be able to
+
+
+  *   Provision an Azure Machine Learning workspace
+
+
+  *   Use tools and code to work with Azure Machine Learning
+
+
+
+  ### <a name="module-2-visual-tools-for-machine-learning"></a>Module 2: Visual Tools for Machine Learning
+
+
+  This module introduces the Automated Machine Learning and Designer visual tools, which you can use to train, evaluate, and deploy machine learning models without writing any code.
+
+
+  #### <a name="lessons"></a>Lessons
+
+
+  *   Automated Machine Learning
+
+
+  *   Azure Machine Learning Designer
+
+
+
+  #### <a name="lab--use-automated-machine-learning"></a>Lab : Use Automated Machine Learning
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
-
-
-  *   자동화된 기계 학습을 사용하여 기계 학습 모델 학습시키기
-
-
-  *   Azure Machine Learning 디자이너를 사용하여 모델 학습시키기
-
-
-
-  ### <a name="module-3-running-experiments-and-training-models"></a>모듈 3: 실험 실행 및 모델 학습시키기
-
-
-  이 모듈에서는 데이터 처리 및 모델 학습 코드를 캡슐화하고 이를 사용하여 기계 학습 모델을 학습시키는 실험을 시작합니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   실험 소개
-
-
-  *   모델 학습시키기 및 등록
-
-
-
-  #### <a name="lab--train-models"></a>랩: 모델 학습시키기
+  #### <a name="lab--use-azure-machine-learning-designer"></a>Lab : Use Azure Machine Learning Designer
 
 
   ####
 
 
-  #### <a name="lab--run-experiments"></a>랩: 실험 실행
+  After completing this module, you will be able to
+
+
+  *   Use automated machine learning to train a machine learning model
+
+
+  *   Use Azure Machine Learning designer to train a model
+
+
+
+  ### <a name="module-3-running-experiments-and-training-models"></a>Module 3: Running Experiments and Training Models
+
+
+  In this module, you will get started with experiments that encapsulate data processing and model training code, and use them to train machine learning models.
+
+
+  #### <a name="lessons"></a>Lessons
+
+
+  *   Introduction to Experiments
+
+
+  *   Training and Registering Models
+
+
+
+  #### <a name="lab--train-models"></a>Lab : Train Models
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
-
-
-  *   Azure Machine Learning 작업 영역에서 코드 기반 실험 실행
-
-
-  *   기계 학습 모델 학습시키기 및 등록
-
-
-
-  ### <a name="module-4-working-with-data"></a>모듈 4: 데이터 사용
-
-
-  데이터는 기계 학습 워크로드의 기본 요소입니다. 따라서 이 모듈에서는 Azure Machine Learning 작업 영역에서 ‘데이터 저장소’ 및 ‘데이터 세트’를 만들고 관리하는 방법과 모델 학습 실험에서 해당 데이터 저장소 및 데이터 세트를 사용하는 방법에 관해 알아봅니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   데이터 저장소 사용
-
-
-  *   데이터 세트 사용
-
-
-
-  #### <a name="lab--work-with-data"></a>랩: 데이터 사용
+  #### <a name="lab--run-experiments"></a>Lab : Run Experiments
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
+  After completing this module, you will be able to
 
 
-  *   데이터 저장소 생성 및 사용
+  *   Run code-based experiments in an Azure Machine Learning workspace
 
 
-  *   데이터 세트 생성 및 사용
-
-
-
-  ### <a name="module-5-working-with-compute"></a>모듈 5: 컴퓨팅 사용
-
-
-  클라우드의 주요 이점 중 하나는 요청시 컴퓨팅 리소스를 활용하여 자신의 하드웨어에서 실행 불가능한 정도까지 기계 학습 프로세스를 확장할 수 있다는 것입니다. 이 모듈에서는 실험에 대한 런타임 일관성을 보장하는 실험 환경 관리와 실험 실행을 위한 컴퓨팅 생성 및 사용 방법을 학습합니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   환경 사용
-
-
-  *   컴퓨팅 대상 사용
+  *   Train and register machine learning models
 
 
 
-  #### <a name="lab--work-with-compute"></a>랩: 컴퓨팅 사용
+  ### <a name="module-4-working-with-data"></a>Module 4: Working with Data
 
 
-  ####
+  Data is a fundamental element in any machine learning workload, so in this module, you will learn how to create and manage datastores and datasets in an Azure Machine Learning workspace, and how to use them in model training experiments.
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
+  #### <a name="lessons"></a>Lessons
 
 
-  *   환경을 만들고 사용
+  *   Working with Datastores
 
 
-  *   컴퓨팅 대상을 만들고 사용
-
-
-
-  ### <a name="module-6-orchestrating-operations-with-pipelines"></a>모듈 6: 파이프라인을 사용하여 작업 오케스트레이션
-
-
-  데이터 자산과 컴퓨팅 리소스를 활용하는 실험을 통해 워크로드 실행의 기초를 이해 하였으니 이제 이러한 워크로드를 연결된 단계의 파이프라인으로 조정하는 방법을 배울 차례입니다. 파이프라인은 Azure에서 효과적인 ML Ops(Machine Learning Operationalization) 솔루션을 구현하는 데 중요하므로 이 모듈에서 파이프라인을 정의하고 실행하는 방법을 살펴봅니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   파이프라인 소개
-
-
-  *   파이프라인 게시 및 실행
+  *   Working with Datasets
 
 
 
-  #### <a name="lab--create-a-pipeline"></a>랩: 파이프라인 만들기
+  #### <a name="lab--work-with-data"></a>Lab : Work with Data
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
+  After completing this module, you will be able to
 
 
-  *   파이프라인을 만들어 기계 학습 워크플로 자동화
+  *   Create and use datastores
 
 
-  *   파이프라인 서비스 게시 및 실행
-
-
-
-  ### <a name="module-7-deploying-and-consuming-models"></a>모듈 7: 모델 배포 및 사용
-
-
-  모델은 예측을 통해 의사 결정을 지원하도록 설계되었으므로 애플리케이션을 배포하고 사용할 수 있는 경우에만 유용합니다. 이 모듈에서는 실시간 추론 및 배치 추론을 위한 모델을 배포하는 방법을 학습합니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   실시간 유추
-
-
-  *   일괄 처리 유추
-
-
-  *   연속 통합 및 지속적인 업데이트
+  *   Create and use datasets
 
 
 
-  #### <a name="lab--create-a-real-time-inferencing-service"></a>랩: 실시간 유추 서비스 만들기
+  ### <a name="module-5-working-with-compute"></a>Module 5: Working with Compute
+
+
+  One of the key benefits of the cloud is the ability to leverage compute resources on demand, and use them to scale machine learning processes to an extent that would be infeasible on your own hardware. In this module, you'll learn how to manage experiment environments that ensure consistent runtime consistency for experiments, and how to create and use compute targets for experiment runs.
+
+
+  #### <a name="lessons"></a>Lessons
+
+
+  *   Working with Environments
+
+
+  *   Working with Compute Targets
+
+
+
+  #### <a name="lab--work-with-compute"></a>Lab : Work with Compute
 
 
   ####
 
 
-  #### <a name="lab--create-a-batch-inferencing-service"></a>랩: 일괄 처리 유추 서비스 만들기
+  After completing this module, you will be able to
+
+
+  *   Create and use environments
+
+
+  *   Create and use compute targets
+
+
+
+  ### <a name="module-6-orchestrating-operations-with-pipelines"></a>Module 6: Orchestrating Operations with Pipelines
+
+
+  Now that you understand the basics of running workloads as experiments that leverage data assets and compute resources, it's time to learn how to orchestrate these workloads as pipelines of connected steps. Pipelines are key to implementing an effective Machine Learning Operationalization (ML Ops) solution in Azure, so you'll explore how to define and run them in this module.
+
+
+  #### <a name="lessons"></a>Lessons
+
+
+  *   Introduction to Pipelines
+
+
+  *   Publishing and Running Pipelines
+
+
+
+  #### <a name="lab--create-a-pipeline"></a>Lab : Create a Pipeline
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
+  After completing this module, you will be able to
 
 
-  *   실시간 유추 서비스로서 모델 게시
+  *   Create pipelines to automate machine learning workflows
 
 
-  *   일괄 처리 유추 서비스로서 모델 게시
-
-
-  *   지속적인 통합 및 배달을 구현하기 위한 기술 설명
+  *   Publish and run pipeline services
 
 
 
-  ### <a name="module-8-training-optimal-models"></a>모듈 8: 최적 모델 학습시키기
+  ### <a name="module-7-deploying-and-consuming-models"></a>Module 7: Deploying and Consuming Models
 
 
-  이 과정의 이 단계까지 기계 학습 모델을 학습, 배포 및 사용하는 엔드투엔드 프로세스를 학습했습니다. 그러나, 모델을 사용하여 데이터에 가장 적합한 예측 출력을 생성하도록 하려면 어떻게 할까요? 이 모듈에서는 하이퍼파라미터 튜닝 및 자동화된 기계 학습을 사용하여 클라우드 스케일 컴퓨팅을 활용하고 데이터에 가장 적합한 모델을 찾는 방법을 살펴 봅니다.
+  Models are designed to help decision making through predictions, so they're only useful when deployed and available for an application to consume. In this module learn how to deploy models for real-time inferencing, and for batch inferencing.
 
 
-  #### <a name="lessons"></a>단원
+  #### <a name="lessons"></a>Lessons
 
 
-  *   하이퍼 매개 변수 튜닝
+  *   Real-time Inferencing
 
 
-  *   자동화된 Machine Learning
+  *   Batch Inferencing
+
+
+  *   Continuous Integration and Delivery
 
 
 
-  #### <a name="lab--use-automated-machine-learning-from-the-sdk"></a>랩: SDK에서 자동화된 Machine Learning 사용
-
-
-  ####
-
-
-  #### <a name="lab--tune-hyperparameters"></a>랩: 하이퍼 매개 변수 튜닝
+  #### <a name="lab--create-a-real-time-inferencing-service"></a>Lab : Create a Real-time Inferencing Service
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
-
-
-  *   모델 학습을 위한 하이퍼 매개 변수 최적화
-
-
-  *   자동화된 기계 학습을 사용하여 데이터에 대한 최적 모델 찾기
-
-
-
-  ### <a name="module-9-responsible-machine-learning"></a>모듈 9: 책임 있는 기계 학습
-
-
-  데이터 과학자에게는 데이터를 분석하고 책임감 있게 기계 학습 모델을 학습시키며 개인의 프라이버시를 존중하고 편견을 완화하며 투명성을 보장할 의무가 있습니다. 이 모듈에서는 책임 있는 기계 학습 원칙을 적용하기 위한 몇 가지 고려 사항과 기술을 살펴봅니다.
-
-
-  #### <a name="lessons"></a>단원
-
-
-  *   차등 프라이버시
-
-
-  *   모델 해석력
-
-
-  *   공정성
-
-
-
-  #### <a name="lab--explore-differential-provacy"></a>랩: 차등 개인 정보 보호 살펴보기
+  #### <a name="lab--create-a-batch-inferencing-service"></a>Lab : Create a Batch Inferencing Service
 
 
   ####
 
 
-  #### <a name="lab--interpret-models"></a>랩: 모델 해석
+  After completing this module, you will be able to
+
+
+  *   Publish a model as a real-time inference service
+
+
+  *   Publish a model as a batch inference service
+
+
+  *   Describe techniques to implement continuous integration and delivery
+
+
+
+  ### <a name="module-8-training-optimal-models"></a>Module 8: Training Optimal Models
+
+
+  By this stage of the course, you've learned the end-to-end process for training, deploying, and consuming machine learning models; but how do you ensure your model produces the best predictive outputs for your data? In this module, you'll explore how you can use hyperparameter tuning and automated machine learning to take advantage of cloud-scale compute and find the best model for your data.
+
+
+  #### <a name="lessons"></a>Lessons
+
+
+  *   Hyperparameter Tuning
+
+
+  *   Automated Machine Learning
+
+
+
+  #### <a name="lab--use-automated-machine-learning-from-the-sdk"></a>Lab : Use Automated Machine Learning from the SDK
 
 
   ####
 
 
-  #### <a name="lab--detect-and-mitigate-unfairness"></a>랩: 불공정성 감지 및 완화
+  #### <a name="lab--tune-hyperparameters"></a>Lab : Tune Hyperparameters
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
+  After completing this module, you will be able to
 
 
-  *   데이터 분석에 차등 개인 정보 보호 적용
+  *   Optimize hyperparameters for model training
 
 
-  *   설명자를 사용하여 기계 학습 모델 해석
-
-
-  *   공정성을 위한 모델 평가
+  *   Use automated machine learning to find the optimal model for your data
 
 
 
-  ### <a name="module-10-monitoring-models"></a>모듈 10: 모델 모니터링
+  ### <a name="module-9-responsible-machine-learning"></a>Module 9: Responsible Machine Learning
 
 
-  모델을 배포한 후 모델이 생산에서 사용되는 방식과 데이터 드리프트로 인한 효율성 저하를 감지하는 방법을 이해하는 것이 중요합니다. 이 모듈에서는 모델과 데이터를 모니터링하는 기술을 설명합니다.
+  Data scientists have a duty to ensure they analyze data and train machine learning models responsibly; respecting individual privacy, mitigating bias, and ensuring transparency. This module explores some considerations and techniques for applying responsible machine learning principles.
 
 
-  #### <a name="lessons"></a>단원
+  #### <a name="lessons"></a>Lessons
 
 
-  *   Application Insights를 사용하여 모델 모니터링
+  *   Differential Privacy
 
 
-  *   데이터 드리프트 모니터링
+  *   Model Interpretability
+
+
+  *   Fairness
 
 
 
-  #### <a name="lab--monitor-data-drift"></a>랩: 데이터 드리프트 모니터링
-
-
-  ####
-
-
-  #### <a name="lab--monitor-a-model-with-application-insights"></a>랩: Application Insights를 사용하여 모델 모니터링
+  #### <a name="lab--explore-differential-provacy"></a>Lab : Explore Differential provacy
 
 
   ####
 
 
-  이 모듈을 마친 후, 다음을 할 수 있게 됩니다
+  #### <a name="lab--interpret-models"></a>Lab : Interpret Models
 
 
-  *   Application Insights를 사용하여 게시된 모델 모니터링
+  ####
 
 
-  *   데이터 드리프트 모니터링
+  #### <a name="lab--detect-and-mitigate-unfairness"></a>Lab : Detect and Mitigate Unfairness
+
+
+  ####
+
+
+  After completing this module, you will be able to
+
+
+  *   Apply differential provacy to data analysis
+
+
+  *   Use explainers to interpret machine learning models
+
+
+  *   Evaluate models for fairness
+
+
+
+  ### <a name="module-10-monitoring-models"></a>Module 10: Monitoring Models
+
+
+  After a model has been deployed, it's important to understand how the model is being used in production, and to detect any degradation in its effectiveness due to data drift. This module describes techniques for monitoring models and their data.
+
+
+  #### <a name="lessons"></a>Lessons
+
+
+  *   Monitoring Models with Application Insights
+
+
+  *   Monitoring Data Drift
+
+
+
+  #### <a name="lab--monitor-data-drift"></a>Lab : Monitor Data Drift
+
+
+  ####
+
+
+  #### <a name="lab--monitor-a-model-with-application-insights"></a>Lab : Monitor a Model with Application Insights
+
+
+  ####
+
+
+  After completing this module, you will be able to
+
+
+  *   Use Application Insights to monitor a published model
+
+
+  *   Monitor data drift

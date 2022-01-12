@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 306a1cbee1790cee626d1fdfcc1fcb6ba22bdba7
-ms.sourcegitcommit: 2ab0583efc592a5dfb36f426738f85de35ffbcf6
-ms.translationtype: HT
+ms.openlocfilehash: 070ba53648e136a860a9b86243c9f817362791fa
+ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "132112683"
+ms.lasthandoff: 12/18/2021
+ms.locfileid: "135412679"
 ---
 # <a name="microsoft-certified-trainer"></a>Microsoft Certified Trainer
 
@@ -104,6 +104,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
 - [Microsoft 365 Certified: Teams Support Engineer Associate](/learn/certifications/m365-teams-support-engineer-associate)
+- [Microsoft 365 Certified: Teams Voice Engineer Expert ](/learn/certifications/m365-teams-voice-engineer-expert)
 - [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)

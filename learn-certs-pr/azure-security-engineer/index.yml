@@ -2,28 +2,38 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azure Security Engineers는 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 및 네트워크를 보호하는 Azure 보안 제어를 구현합니다.
+  description: Azure 보안 엔지니어는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 네트워크를 보호하는 Azure 보안 컨트롤을 구현합니다.
+  ms.openlocfilehash: 68aae0a994213e05fcafdfccf40f8bdb3c947838
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078460"
 uid: certification.azure-security-engineer
 certificationRenewalUid: renewal.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 29일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-500">AZ-500 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  
-  Azure Security Engineer 인증의 응시자들은 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 및 네트워크를 보호하는 Azure 보안 제어를 구현하는 것에 있어 주제 전문 지식을 갖추고 있어야 합니다.
-  
-  Azure Security Engineer의 책임에는 보안 태세 관리, 취약성 식별 및 수정, 위협 모델링 수행, 위협 보호 구현, 및 보안 사고 에스컬레이션 대응이 포함됩니다. 
-  
-  Azure Security Engineers는 흔히 cloud-기반 관리 및 보안을 계획하고 구현하기 위한 더 큰 팀의 일원으로 일합니다.  
-  
-  이 인증의 응시자들은 Azure 및 하이브리드 환경 관리에 대한 실질적인 경험을 갖추고 있어야 합니다. 응시자들은 코드로서의 인프라, 보안 운영 프로세스, cloud 기능 및, Azure 서비스에 대한 경험이 있어야 합니다.
-subTitle: Azure Security Engineers는 종단 간 인프라의 일부로 cloud 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 및 네트워크를 보호하는 Azure 보안 제어를 구현합니다.
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 29일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/az-500">시험 AZ-500 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
+  Azure Security Engineer Associate 인증 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 네트워크를 보호하는 Azure 보안 구현에 관한 실무 전문 지식을 갖추어야 합니다.
+
+
+  Azure 보안 엔지니어는 보안 상태를 관리하고, 취약점을 식별 및 해결하며, 위협 모델링을 수행하고, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
+
+
+  Azure 보안 엔지니어는 종종 클라우드 기반 관리 및 보안을 계획하고 구현하는 더 큰 팀의 일원입니다.
+
+
+  이 인증의 응시자는 Azure 및 하이브리드 환경 관리에 대한 실무 경험이 있어야 합니다. 응시자는 코드, 보안 작업 프로세스, 클라우드 기능, Azure 서비스와 같은 인프라를 사용해본 경험이 있어야 합니다.
+subTitle: Azure 보안 엔지니어는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 네트워크를 보호하는 Azure 보안 컨트롤을 구현합니다.
 levels:
 - intermediate
 skills:
-- ID 및 액세스 관리
-- 플랫폼 보호 구현
-- 보안 운영 관리
-- 데이터 및 애플리케이션 보안
+- Manage identity and access
+- Implement platform protection
+- Manage security operations
+- Secure data and applications
 roles:
 - security-engineer
 type: role-based
@@ -37,12 +47,10 @@ products:
 courses:
 - uid: course.az-500t00
 paths:
-- uid: learn.security.secure-your-cloud-apps
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.security.implement-network-security
-- uid: learn.security.implement-host-security
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
+- uid: learn.wwl.manage-identity-access
+- uid: learn.wwl.implement-platform-protection
+- uid: learn.wwl.secure-your-data-applications
+- uid: learn.wwl.manage-security-operation
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
 exams:
 - uid: exam.az-500
@@ -54,7 +62,7 @@ resources:
   description: Azure Security Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -66,9 +74,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

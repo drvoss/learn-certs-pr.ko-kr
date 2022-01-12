@@ -1,0 +1,79 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
+  description: Azure Cosmos DB 개발자는 데이터 모델 및 데이터 배포를 설계하고 구현하며, Azure Cosmos DB 데이터베이스에 데이터를 로드하고, 솔루션을 최적화 및 유지 관리합니다.
+  ms.openlocfilehash: 84065ffd9d110ef96b80644343880e866a9ece91
+  ms.sourcegitcommit: fff1846d9a8cf0c925fb142b42daa47ab66f0f42
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/04/2021
+  ms.locfileid: "133560216"
+uid: certification.azure-cosmos-db-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: >-
+  Azure Cosmos DB Developer Specialty 인증의 응시자는 데이터를 저장하고 관리하는 클라우드 네이티브 애플리케이션을 설계, 구현, 모니터링하는 실무 전문 지식을 갖추고 있어야 합니다.
+
+
+  이 역할의 책임에는 데이터 모델 및 데이터 배포 설계 및 구현, Azure Cosmos DB 데이터베이스로 데이터 로드, 솔루션 최적화 및 유지 관리 등이 포함됩니다. 이러한 전문가는 솔루션을 다른 Azure 서비스와 통합합니다. 또한 보안, 가용성, 탄력성, 성능 요구 사항을 고려하는 솔루션을 설계, 구현, 모니터링합니다.
+
+
+  이 인증의 응시자는 Azure용 앱 개발 및 Azure Cosmos DB 데이터베이스 기술 사용에 대한 견고한 지식과 경험이 있어야 합니다. 핵심(SQL) API 및 SDK를 사용하여 애플리케이션을 개발하고, 효율적인 쿼리를 작성하고 적절한 인덱스 정책을 만들며, Azure에서 리소스를 프로비전 및 관리하고, JavaScript를 사용하여 서버 쪽 개체를 만드는 데 능숙해야 합니다. JSON을 해석하고, C# 또는 Java 코드를 읽고, PowerShell을 사용할 수 있어야 합니다.
+subTitle: Azure Cosmos DB 개발자는 데이터 모델 및 데이터 배포를 설계하고 구현하며, Azure Cosmos DB 데이터베이스에 데이터를 로드하고, 솔루션을 최적화 및 유지 관리합니다.
+levels:
+- intermediate
+skills:
+- Design and implement data models
+- Design and implement data distribution
+- Integrate an Azure Cosmos DB solution
+- Optimize an Azure Cosmos DB solution
+- Maintain an Azure Cosmos DB solution
+roles:
+- developer
+- data-engineer
+- solution-architect
+type: specialty
+products:
+- azure
+- azure-cosmos-db
+paths:
+- uid: learn.wwl.get-started-azure-cosmos-db-sql-api
+- uid: learn.wwl.plan-implement-azure-cosmos-db-sql-api
+- uid: learn.wwl.connect-to-azure-cosmos-db-sql-api-sdk
+- uid: learn.wwl.access-manage-data-azure-cosmos-db-sql-api-sdks
+- uid: learn.wwl.execute-queries-azure-cosmos-db-sql-api
+- uid: learn.wwl.define-implement-indexing-strategy-cosmos-db-sql-api
+- uid: learn.wwl.integrate-azure-cosmos-db-sql-api-azure-services
+- uid: learn.wwl.implement-modeling-partitioning-azure-cosmos-db-sql-api
+- uid: learn.wwl.design-implement-replication-strategy-cosmos-db-sql-api
+- uid: learn.wwl.optimize-query-performance-azure-cosmos-db-sql-api
+- uid: learn.wwl.monitor-troubleshoot-azure-cosmos-db-sql-api-solution
+- uid: learn.wwl.manage-cosmos-db-sql-api-solution-using-devops-practices
+- uid: learn.wwl.create-server-side-programming-azure-cosmos-db-sql-api
+courses:
+- uid: course.dp-420t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWN6ga
+exams:
+- uid: exam.dp-420
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 네트워크와 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  href: ../badges.md

@@ -1,23 +1,30 @@
 ### YamlMime:Examination
 title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
 metadata:
-  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
-  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  title: '시험 AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: '시험 AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  ms.openlocfilehash: 09bcaaff1937b9bb9915d5687e0f59a70f35224c
+  ms.sourcegitcommit: aff11b575edcec99afa93eb5c014d5d58cb81e0b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133028376"
 uid: exam.az-600
 displayName: AZ-600
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래에서 기술 측정 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div></div>
 
-  AZ-600 시험 응시자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure administrators 이거나 Azure Stack Hub 운영자들 입니다.
-  
-  이 시험의 응시자들은 Azure Stack Hub 환경을 관리하고 운영하는데 상당한 경험이 있어야합니다. 가상화, 네트워킹 및 신원 관리에 대한 어느 정도의 지식 외에도, Azure에 대한 상당한 이해가 있어야합니다. Azure Stack Hub가 DevOps 프로세스와 하이브리드 개발 모델을 가능하게하는 방법도 이해하고 있어야합니다.
-  
-subTitle: '이 시험은 다음과 같은 기술 작업을 완수하는 능력을 측정합니다: 서비스 제공; 데이터 센터 통합 구현; 신원 및 접근 관리; 인프라 관리.'
+
+  시험 AZ-600의 응시자는 Azure Stack Hub을 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 클라우드 서비스를 제공하는 Azure 관리자 또는 Azure Stack Hub 운영자입니다.
+
+
+  응시자는 풍부한 Azure Stack Hub 환경 관리 및 운영 경험을 가지고 있어야 합니다. 응시자는 Azure를 매우 잘 이해하고 있으며 가상화, 네트워킹, ID 관리에 대해 어느 정도 알고 있어야 합니다. 응시자는 Azure Stack Hub에서 DevOps 프로세스와 하이브리드 개발 모델을 지원하는 방법을 이해해야 합니다.
+subTitle: 이 시험은 서비스 제공, 데이터 센터 통합 구현, ID 및 액세스 관리, 인프라 관리와 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
 locales:
 - en
 - ja
@@ -34,11 +41,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 서비스 제공 (30-35%)
-- 데이터 센터 통합 구현 (15-20%)
-- 신원 및 접근 관리 (10-15%)
-- 인프라 관리(30-35%)
+- The content of this exam was updated on November 23, 2021. Please download the exam skills outline below to see what changed.
+- Provide services (30-35%)
+- Implement data center integration (15-20%)
+- Manage identity and access (10-15%)
+- Manage infrastructure (30-35%)
 roles:
 - administrator
 products:
@@ -56,8 +63,8 @@ relatedCertifications:
 - related:
     uid: certification.azure-stack-hub-operator
 resources:
-- title: 인증을 향한 여정
-  description: Azure Stack Hub Operator Associate로서 인증을 받기 위한 단계 및 준비에 도움이 될 수 있는 리소스를 살펴봅니다.
+- title: 인증으로의 여정
+  description: Azure Stack Hub Operator Associate 인증을 받기 위한 단계와 준비하는 데 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -65,7 +72,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -74,10 +81,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

@@ -69,6 +69,8 @@
       items:
         - name: 학생 할인
           href: student-discounts.md
+        - name: 학생 교육 및 인증
+          href: student-training-and-certification.md
         - name: 인증 시험에 대한 대학 학점
           href: college-credit.md
     - name: 정책 및 계약

@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
   description: Azure 개발자는 클라우드 솔루션 및 서비스를 설계, 구성, 테스트 및 유지 관리합니다.
-  ms.openlocfilehash: 092f30e3979d3432184f4500f1b8f99e3b53a75b
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: ff4041c0a7c462ab7a6ba56d5fb1425e07d17d5e
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132110970"
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680630"
 uid: certification.azure-developer
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -50,13 +50,18 @@ courses:
 - uid: course.az-204t00
 - uid: course.az-020t00
 paths:
-- uid: learn.create-serverless-applications
-- uid: learn.connect-your-services-together
-- uid: learn.store-data-in-azure
-- uid: learn.deploy-a-website-with-azure-virtual-machines
-- uid: learn.manage-resources-in-azure
-- uid: learn.deploy-a-website-with-azure-app-service
-- uid: learn.secure-your-cloud-data
+- uid: learn.wwl.create-azure-app-service-web-apps
+- uid: learn.wwl.implement-azure-functions
+- uid: learn.wwl.develop-solutions-that-use-blob-storage
+- uid: learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+- uid: learn.wwl.az-204-implement-iaas-solutions
+- uid: learn.wwl.az-204-implement-authentication-authorization
+- uid: learn.wwl.az-204-implement-secure-cloud-solutions
+- uid: learn.wwl.az-204-implement-api-management
+- uid: learn.wwl.az-204-develop-event-based-solutions
+- uid: learn.wwl.az-204-develop-message-based-solutions
+- uid: learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+- uid: learn.wwl.az-204-integrate-caching-content-delivery-within-solutions
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
 exams:
 - uid: exam.az-204
@@ -83,5 +88,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

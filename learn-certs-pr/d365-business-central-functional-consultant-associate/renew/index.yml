@@ -1,0 +1,35 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate 인증 갱신'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate 인증 갱신'
+  description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
+  ms.openlocfilehash: f637aa6289f50fba781d9e4151a96ea2e71d4cf8
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134741917"
+uid: renewal.d365-business-central-functional-consultant-associate
+certificationUid: certification.d365-business-central-functional-consultant-associate
+assessmentId: 20fbc582-4398-40ec-80ea-013ee3ed306a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 통과하여 Microsoft Dynamics 365 Business Central의 최신 업데이트 사항을 파악하고 있음을 보여 주세요. 학습 모듈의 큐레이팅된 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
+skills:
+- Create new companies in Business Central
+- Create workflows in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+- Manage sales prices in Dynamics 365 Business Central
+- Set up inventory planning in Dynamics 365 Business Central
+- Customize Microsoft Dynamics 365 Business Central
+- Create sales documents in Dynamics 365 Business Central
+- Enter payments in the cash receipt journal and the payment journal in Dynamics 365 Business Central
+examsPassed:
+- mb-800
+studyGuideDescription: '본 학습 모듈은 Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
+resources:
+- title: 인증 갱신 정보
+  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -2,28 +2,28 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Azure 데이터 엔지니어들은 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 구축에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
-  ms.openlocfilehash: 6c5abf2ecb3efc01b05936bbea8895bd81b20eaf
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  description: Azure 데이터 엔지니어는 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 빌드에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
+  ms.openlocfilehash: 00e4f08310ba976118ca22b620cac90e8d09640d
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111007"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078603"
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  Azure Data Engineer Associate 인증 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합, 변환 및 통합하는 주제 전문 지식을 보유해야 합니다.
+  Azure Data Engineer Associate 인증 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합, 변환 및 통합하는 실무 전문 지식을 보유해야 합니다.
 
 
   이 역할의 책임에는 다양한 도구와 기술을 통해 안전하고 규정을 준수하는 데이터 처리 파이프라인을 빌드하고 유지 관리하여 관련자가 데이터를 이해하도록 지원하는 것이 포함됩니다. 이러한 전문가는 다양한 Azure 데이터 서비스 및 언어를 사용하여 분석을 위해 정제되고 향상된 데이터 세트를 저장하고 생성합니다.
 
 
-  Azure 데이터 엔지니어는 또한 특정 비즈니스 요구 사항 및 제약 조건이 주어지면 데이터 파이프라인 및 데이터 저장소가 고성능, 효율적이고 조직적이며 신뢰할 수 있는지 확인하는 데 도움이 됩니다. 이 전문가는 예상치 못한 문제를 신속하게 처리하고 데이터 손실을 최소화합니다. 또한 Azure 데이터 엔지니어는 데이터 파이프라인 요구 사항을 충족하기 위해 데이터 플랫폼을 디자인, 구현, 모니터링, 최적화합니다.
+  Azure 데이터 엔지니어는 또한 특정 비즈니스 요구 사항 및 제약 조건이 주어지면 데이터 파이프라인 및 데이터 저장소가 성능이 뛰어나고, 효율적이며, 조직적이고, 신뢰할 수 있는지 확인하는 데 도움이 됩니다. 이 전문가는 예상치 못한 문제를 신속하게 처리하고 데이터 손실을 최소화합니다. 또한 Azure 데이터 엔지니어는 데이터 파이프라인 요구 사항을 충족하기 위해 데이터 플랫폼을 설계, 구현, 모니터링, 최적화합니다.
 
 
   이 인증의 응시자는 SQL, Python 또는 Scala와 같은 데이터 처리 언어에 대한 확실한 지식이 있어야 하며 병렬 처리 및 데이터 아키텍처 패턴을 이해해야 합니다.
-subTitle: Azure 데이터 엔지니어들은 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 구축에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
+subTitle: Azure 데이터 엔지니어는 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 빌드에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
 levels:
 - intermediate
 skills:
@@ -80,5 +80,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

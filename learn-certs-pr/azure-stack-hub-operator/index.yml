@@ -2,27 +2,37 @@
 title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
-  description: 'Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.'
+  description: Azure Stack Hub Operator Associate 인증의 응시자는 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 클라우드 서비스를 제공하는 Azure 관리자나 Azure Stack Hub 운영자입니다.
+  ms.openlocfilehash: af52f02246e8b78e9d56910e1b0b715872797cf5
+  ms.sourcegitcommit: aff11b575edcec99afa93eb5c014d5d58cb81e0b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133028335"
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-600">AZ-600 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/az-600">시험 AZ-600 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.
-  
-  그들의 책무는 Azure Stack Hub 인프라를 계획, 배포, 포장 및 유지하는 것입니다. 이들은 또한 하이브리드 cloud 리소스와 요청된 서비스를 제공하고 서비스형 인프라 (IaaS) 및 서비스형 인프라 (PaaS)를 관리합니다.
-  
-  그들은 클라우드-기반 관리 및 보안이나 전반적인 인프라의 부분과 같은 하이브리드 환경을 전담하는 더 큰 팀의 일부로 종사합니다.
-  
-  이 인증의 응시자들은 Azure Stack Hub 환경을 관리하고 운영하는데 상당한 경험이 있어야합니다. 가상화, 네트워킹 및 신원 관리에 대한 어느 정도의 지식 외에도, Azure에 대한 상당한 이해가 있어야합니다. Azure Stack Hub가 DevOps 프로세스와 하이브리드 개발 모델을 가능하게하는 방법도 이해하고 있어야합니다.
-subTitle: 'Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.'
+
+  Azure Stack Hub Operator Associate 인증의 응시자는 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 클라우드 서비스를 제공하는 Azure 관리자나 Azure Stack Hub 운영자입니다.
+
+
+  Azure Stack Hub 인프라 계획, 배포, 패키지, 업데이트, 유지 관리를 담당합니다. 또한 하이브리드 클라우드 리소스 및 요청된 서비스를 제공하고 IaaS(서비스 제공 인프라) 및 PaaS(Platform as a Service)를 관리합니다.
+
+
+  엔드투엔드 인프라의 일부로 클라우드 기반 관리 및 보안 또는 하이브리드 환경을 전담하는 더 큰 팀의 일원입니다.
+
+
+  이 인증의 응시자는 Azure Stack Hub 환경 관리 및 운영에 상당한 경험이 있어야 합니다. Azure에 대해 매우 잘 이해하고 있으며 가상화, 네트워킹, ID 관리에 대해 어느 정도 알고 있어야 합니다. Azure Stack Hub에서 DevOps 프로세스와 하이브리드 개발 모델을 지원하는 방법을 이해해야 합니다.
+subTitle: Azure Stack Hub Operator Associate 인증의 응시자는 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 클라우드 서비스를 제공하는 Azure 관리자나 Azure Stack Hub 운영자입니다.
 levels:
 - intermediate
 skills:
-- 서비스 제공 
-- 데이터 센터 통합 구현
-- 신원 및 접근 관리 
-- 인프라 관리
+- Provide services
+- Implement data center integration
+- Manage identity and access
+- Manage infrastructure
 roles:
 - administrator
 type: role-based
@@ -35,8 +45,6 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
-courses:
-- uid: course.az-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
 exams:
 - uid: exam.az-600
@@ -44,11 +52,11 @@ resources:
 - title: Azure 인증 포스터
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 인증을 향한 여정
-  description: Azure Stack Hub Operator Associate로서 인증을 받기 위한 단계 및 준비에 도움이 될 수 있는 리소스를 살펴봅니다.
+- title: 인증으로의 여정
+  description: Azure Stack Hub Operator Associate 인증을 받기 위한 단계와 준비하는 데 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -63,5 +71,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

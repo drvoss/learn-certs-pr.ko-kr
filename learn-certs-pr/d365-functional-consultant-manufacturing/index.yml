@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
   description: Dynamics 365 Supply Chain Management, Manufacturing 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제조 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.
-  ms.openlocfilehash: 61dbf9909672cc222c0847149673c38446285b37
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: c9496ed170afe4a20111dc296e7f6541a43d7da8
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132106824"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079527"
 uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -16,7 +16,7 @@ summary: >-
   제조업계 표준을 심층적으로 이해하고 있는 기능 컨설턴트 또는 비즈니스 사용자인 경우 이 인증이 유용할 수 있습니다. 또한 조직의 요구 사항을 충족하기 위해 Dynamics 365 Supply Chain Management를 구성하고 구현한 경험이 있어야 합니다. 공급망 관리, 제조 기능 컨설턴트는 재무, 상거래, 공급망에서 개발자, 솔루션 설계자, 프로젝트 관리자, 기능 컨설턴트와 협업하는 주요 리소스입니다.
 
 
-  이 인증을 취득하기 위해 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이 있습니다.
+  이 인증을 얻기 전에 더 많은 경험이 필요하다면 다음 제안을 고려해 보세요.
 
 
   - Microsoft Learn에서 공급망 관리, 제조 모듈을 연구하고 더 많은 실습을 완료하세요.
@@ -89,5 +89,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

@@ -3,12 +3,12 @@ title: Microsoft Teams Voice Engineer
 metadata:
   title: '과정 MS-720T00--A: Microsoft Teams Voice Engineer'
   description: '과정 MS-720T00--A: Microsoft Teams Voice Engineer'
-  ms.openlocfilehash: 8e7c2c9e5221d8750a6608f9a2032390def5a63f
-  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
-  ms.translationtype: HT
+  ms.openlocfilehash: 8154ba7d639f71c9221c754d90a7baf87f256c27
+  ms.sourcegitcommit: c14c3a1e24239ac3e56e978ed347f6d7d24e48d3
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "132113098"
+  ms.lasthandoff: 12/20/2021
+  ms.locfileid: "135417185"
 uid: course.ms-720t00
 courseNumber: MS-720T00
 hoursToComplete: 72
@@ -104,6 +104,13 @@ outlineSection: >-
      *   사용자가 통화할 수 있도록 준비
      *   음성 회의 설정 구성
      *   통화 큐 및 자동 전화 교환 구성
+
+  #### <a name="lab--expand-your-teams-voice-environment-to-use-direct-routing"></a>랩: 직접 라우팅을 사용하도록 Teams 음성 환경 확장
+
+
+  ####
+     *   SBC(Session Border Controller) 구성
+     *   직접 라우팅 설정 구성
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 

@@ -2,28 +2,39 @@
 title: 'Microsoft Certified: Azure Database Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Database Administrator Associate'
-  description: 'Azure Database 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.'
+  description: Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
+  ms.openlocfilehash: 57a9c1c27a900aac16d61f1f29c75a1fd4927b90
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694409"
 uid: certification.azure-database-administrator-associate
+certificationRenewalUid: renewal.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/dp-300">DP-300 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  
-  Azure Database 관리자는 Microsoft SQL Server 및 Microsoft Azure Data Services에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다. Azure Database 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
-  
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/dp-300">시험 DP-300 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+
+
+  Azure 데이터베이스 관리자는 Microsoft SQL Server 및 Microsoft Azure Data Services를 사용하여 빌드된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현하고 관리합니다. Azure 데이터베이스 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
+
+
   <div></br>
-  이 역할의 응시자들은 <a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.</a>.
+
+  이 역할의 응시자는 <a href='/learn/certifications/exams/dp-900'>시험 DP-900: Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.
+
   </div>
-subTitle: Azure Database 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
+subTitle: Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
 levels:
 - intermediate
 skills:
-- 데이터 플랫폼 리소스 계획 및 구현
-- 안전한 환경 구현
-- 운영 리소스 모니터링 및 최적화
-- 쿼리 성능 최적화
-- 작업 자동화 수행
-- 고가용성 및 재해 복구 환경(HADR) 계획 및 구현
-- T-SQL을 사용한 관리 수행
+- Plan and implement data platform resources
+- Implement a secure environment
+- Monitor and optimize operational resources
+- Optimize query performance
+- Perform automation of tasks
+- Plan and implement a High Availability and Disaster Recovery (HADR) environment
+- Perform administration by using T-SQL
 roles:
 - database-administrator
 type: role-based
@@ -58,11 +69,11 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 시험 재응시
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
@@ -72,6 +83,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

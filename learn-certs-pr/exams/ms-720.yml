@@ -1,17 +1,20 @@
 ### YamlMime:Examination
-title: Microsoft Teams Voice Engineer(베타)
+title: Microsoft Teams Voice Engineer
 metadata:
-  title: '시험 MS-720: Microsoft Teams Voice Engineer(베타)'
-  description: '시험 MS-720: Microsoft Teams Voice Engineer(베타)'
-  ms.openlocfilehash: 3455cb9764498974dc6125b4db0710849e973eea
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
-  ms.translationtype: HT
+  title: '시험 MS-720: Microsoft Teams Voice Engineer'
+  description: '시험 MS-720: Microsoft Teams Voice Engineer'
+  ms.openlocfilehash: 3dccbd448bf8d33877ed44d7ccb8a342bc942944
+  ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "133078647"
+  ms.lasthandoff: 12/18/2021
+  ms.locfileid: "135412691"
 uid: exam.ms-720
 displayName: MS-720
 summary: >-
+  <div><strong>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></strong></div>
+
+
   이 시험의 응시자는 조직에서 통합 통신 솔루션을 계획, 설계, 구성, 유지 관리 및 해결하는 Microsoft Teams 음성 엔지니어입니다. 응시자는 비즈니스 요구 사항을 바탕으로 통신 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다.
 
 
@@ -19,15 +22,12 @@ summary: >-
 
 
   응시자는 전화 통신 공급자 및 타사 공급업체와 협업하여 Microsoft Teams에서 고급 음성 기능을 구현합니다. 또한 네트워킹, ID, 라이선스, 보안 및 규정 준수를 비롯한 다른 워크로드의 관리자와도 협업합니다.
-
-
-  <div><font color='red'><br/>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. <a href="/learn/certifications/beta-exams">베타 시험의 가치와 중요성에 대해 자세히 알아보세요.</a></font></div>
 subTitle: 이 시험에서는 Microsoft Teams Phone 계획 및 구성, 네트워크 성능 최적화, Direct Routing 계획 및 구성, 음성 사용자를 위한 Microsoft Teams Phone 구성 및 관리, Microsoft Teams 클라이언트 및 장비 구성과 관리, Microsoft Teams Phone 모니터링 및 문제 해결이라는 기술적 업무를 완수하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFS2
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-720&examname=Exam%20MS-720:%20Microsoft%20Teams%20Voice%20Engineer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-720
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-720&examname=Exam%20MS-720:%20Microsoft%20Teams%20Voice%20Engineer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-720
 locales:
 - en
 levels:

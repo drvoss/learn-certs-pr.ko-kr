@@ -1,0 +1,31 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft Certified: Azure Virtual Desktop Specialty 인증 갱신'
+metadata:
+  title: 'Microsoft Certified: Azure Virtual Desktop Specialty 인증 갱신'
+  description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
+  ms.openlocfilehash: 7abed787cd97f16c799e42cf6736afa1b027e1d1
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134741854"
+uid: renewal.azure-virtual-desktop-specialty
+certificationUid: certification.azure-virtual-desktop-specialty
+assessmentId: fb6f4146-40fd-4bfb-841b-8e2dea9ff8ca
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 통과하여 Azure Virtual Desktop의 최신 업데이트 사항을 파악하고 있음을 보여 주세요. 학습 모듈의 큐레이팅된 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
+skills:
+- Business continuity and disaster recovery for Azure Virtual Desktop
+- Deploy applications by using MSIX app attach for Azure Virtual Desktop
+- Optimize Azure Virtual Desktop
+- Connect to virtual machines through the Azure portal by using Azure Bastion
+- Secure an Azure Virtual Desktop deployment
+- Prepare for Azure Virtual Desktop
+examsPassed:
+- az-140
+studyGuideDescription: '본 학습 모듈은 Microsoft Certified: Azure Virtual Desktop Specialty 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
+resources:
+- title: 인증 갱신 정보
+  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

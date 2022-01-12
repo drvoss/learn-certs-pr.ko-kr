@@ -1,36 +1,45 @@
 ### YamlMime:Examination
 title: Microsoft 365 Messaging
 metadata:
-  title: 'Exam MS-203: Microsoft 365 Messaging'
-  description: 'Exam MS-203: Microsoft 365 Messaging'
+  title: '시험 MS-203: Microsoft 365 Messaging'
+  description: '시험 MS-203: Microsoft 365 Messaging'
+  ms.openlocfilehash: 77847da0a7a18e61b19ad9d35df613de28f6d714
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301683"
 uid: exam.ms-203
 displayName: MS-203
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 3월 23일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-  </div>
-  
-  본 시험은 하이브리드 및 클라우드 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.
-  
-  메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 전송, 사서함, 클라이언트 액세스를 관리하는 업무를 수행할 수 있어야 합니다.
-  
-  메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 또는 클라우드 전용 토폴로지를 구현할 수 있어야 합니다.
-  
-  메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
-subTitle: '본 시험은 조직 설정 및 리소스 관리, 메일 아키텍처 계획 및 관리, 하이브리드 구성 및 마이그레이션 계획 및 구현, 메시징 환경 보호 등의 기술적 작업을 수행할 수 있는 능력을 측정합니다.'
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div></div>
+
+
+  이 시험의 응시자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링하는 메시지 관리자입니다.
+
+
+  메시지 관리자는 메시지 예방 조치, 사용 권한, 메시지 인프라, 하이브리드 구성, 마이그레이션, 전송, 사서함, 클라이언트 액세스를 관리할 책임이 있습니다.
+
+
+  메시지 관리자는 다른 워크로드 관리자 및 Microsoft 365 Enterprise 관리자와 협업하여 기업의 비즈니스 요구 사항을 충족하는 보안 하이브리드 또는 클라우드 전용 메시지 토폴로지를 구현합니다.
+
+
+  메시지 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
+subTitle: 이 시험은 조직 설정 및 리소스 관리, 메일 전송 아키텍처 계획 및 관리, 하이브리드 구성 및 마이그레이션 계획 및 구현, 메시지 환경 보호와 같은 기술적 과제를 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
 practiceTestUrl: https://www.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 3월 23일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 최적화 설정 및 리소스 관리(30-35%)
-- 메일 아키텍처 계획 및 관리(20-25%)
-- 하이브리드 구성 및 마이그레이션 계획 및 구현 (20-25%)
-- 메시징 환경 보안(20-25%)
+- The content of this exam was updated on November 30, 2021. Please download the exam skills outline below to see what changed.
+- Manage organizational settings and resources (30-35%)
+- Plan and manage the mail transport architecture (20-25%)
+- Plan and implement a hybrid configuration and migration (15-20%)
+- Secure the messaging environment (25-30%)
 roles:
 - administrator
 products:
@@ -46,7 +55,7 @@ relatedCertifications:
     uid: certification.m365-messaging-administrator
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -58,12 +67,11 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

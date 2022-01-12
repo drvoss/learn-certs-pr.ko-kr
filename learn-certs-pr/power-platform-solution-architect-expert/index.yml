@@ -2,14 +2,15 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: Power Platform Solution Architect Expert는 관련자와 협업하고 조직의 광범위한 비즈니스 및 기술 요구 사항에 영향을 미치는 솔루션에 집중합니다. 응시자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft 클라우드 솔루션, 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다.
-  ms.openlocfilehash: 9af26f94a68041c7e09b364a7e1c166fbfefff70
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  description: Microsoft Power Platform 솔루션 설계자는 관련자와 협업하고 조직의 광범위한 비즈니스 및 기술 요구 사항에 영향을 미치는 솔루션에 집중합니다.
+  ms.openlocfilehash: f68253b8ec9bc87084bf6715761791f3c17a1f16
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111799"
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694365"
 uid: certification.power-platform-solution-architect-expert
+certificationRenewalUid: renewal.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: >-
   Microsoft Power Platform 또는 Microsoft Dynamics 365 솔루션 설계자로서의 전문성을 입증하려는 경우 또는 솔루션 설계자가 되기 위한 다음 단계를 밟을 준비가 된 개발자 또는 수석 컨설턴트인 경우 이 Expert 인증이 도움이 될 수 있습니다. 당신의 경력에서 앞으로 나아가세요.
@@ -25,7 +26,7 @@ summary: >-
   - 강사 진행 교육 과정에 등록합니다.
 
   - [Microsoft Learn](/learn/paths/become-solution-architect/)에서 제공하는 학습 경로를 살펴봅니다.
-subTitle: Power Platform Solution Architect Expert는 관련자와 협업하고 조직의 광범위한 비즈니스 및 기술 요구 사항에 영향을 미치는 솔루션에 집중합니다. 응시자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft 클라우드 솔루션, 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다.
+subTitle: Microsoft Power Platform 솔루션 설계자는 관련자와 협업하고 조직의 광범위한 비즈니스 및 기술 요구 사항에 영향을 미치는 솔루션에 집중합니다.
 levels:
 - advanced
 skills:
@@ -89,5 +90,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

@@ -3,12 +3,12 @@ title: Microsoft Dynamics 365 + Power Platform Solution Architect
 metadata:
   title: '시험 MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
   description: '시험 MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
-  ms.openlocfilehash: 7557cd2511d0d6803880cda8cb4c518a147b49ae
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 4a59c5b03f92dc96b8b46746cb3ae11098aba144
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132105805"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079043"
 uid: exam.mb-600
 displayName: MB-600
 summary: >-
@@ -19,14 +19,14 @@ summary: >-
   </div>
 
 
-  Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중점을 둡니다.
+  Microsoft Dynamics 365 + Power Platform 솔루션 설계자는 성공적인 구현을 주도하고, 솔루션이 조직의 광범위한 비즈니스 및 기술 요구 사항을 해결하는 방법에 중점을 둡니다.
 
 
-  솔루션 설계자는 Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing 및 Dynamics 365 Sales, 관련 Microsoft 클라우드 솔루션 및 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 아키텍처는 사전에 예방적 작업을 수행하여 고객의 투자 가치를 높이고 조직 상태의 수준을 올립니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
+  솔루션 설계자는 Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing 및 Dynamics 365 Sales, 관련 Microsoft 클라우드 솔루션 및 기타 타사 기술과 같은 Dynamics 365의 Power Platform 모델 기반 앱에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 설계자는 고객의 투자 가치를 높이고 조직 상태의 수준을 올리기 위해 사전 예방적 작업을 수행합니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
 
 
-  솔루션 아키텍처는 Dynamics 365에서 Power Platform 및 모델 기반 앱의 기능 및 기술 분야 전반에 대한 경험이 있어야 합니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에서 디자인 결정을 쉽게 내릴 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
-subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
+  솔루션 설계자는 Dynamics 365에서 Power Platform 및 모델 기반 앱의 기능 및 기술 분야 전반에 대한 경험이 있어야 합니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 사용 가능성, 스토리지 및 변경 관리 전반에서 설계 결정을 지원할 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
+subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술적 과제를 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
 locales:

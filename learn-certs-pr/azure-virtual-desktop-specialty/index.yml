@@ -2,28 +2,39 @@
 title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
 metadata:
   title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
-  description: Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다. 
+  description: Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다.
+  ms.openlocfilehash: b299828d778c7715a28b6d345aae5ddb4b4fd49d
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694420"
 uid: certification.azure-virtual-desktop-specialty
+certificationRenewalUid: renewal.azure-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/az-140">AZ-140 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 22일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/az-140">시험 AZ-140 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다. 
-  
-  이 역할의 책임에는 가상 데스크톱 환경 및 앱을 Azure에 배포하는 것이 포함됩니다. 이 역할의 전문가들은 Azure Virtual Desktop에서 애플리케이션을 제공하고 다중-세션 가상 환경에서 실행되도록 최적화합니다. 이러한 경험을 제공하기 위해, Microsoft 365 관리자들과 함께, Azure 관리자들 및 설계자들과 긴밀하게 협력합니다.
-  
-  이 인증의 응시자들은 가상화, 네트워킹, 식별, 스토리지, 백업, 복원력, 및 재해 복구를 포함하는, Azure 기술에 대한 경험이 있어야 합니다. Azure Virtual Desktop으로 마이그레이션하는 것과 관련된 온-프레미스 가상 데스크톱 인프라 기술을 이해해야 합니다. 이러한 전문가들은 Azure portal 및 Azure Resource Manager (ARM) 템플릿을 사용하여 많은 작업을 수행합니다. 더 효율적인 자동화를 위해 PowerShell 및 Azure Command-Line Interface (CLI)를 사용할 지도 모릅니다.
-  
-  이 인증의 응시자들은 반드시 Azure 관리 기술을 갖추어야 합니다.
-subTitle: Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다. 
+
+  Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다.
+
+
+  이 역할의 대표적인 책임은 가상 데스크톱 환경 및 앱을 Azure에 배포하는 것입니다. 이 역할을 수행하는 전문가는 Azure Virtual Desktop에 애플리케이션을 제공하고 다중 세션 가상 환경에서 실행되도록 최적화합니다. 이러한 환경을 제공하기 위해 전문가는 Azure 관리자 및 설계자, Microsoft 365 관리자와 긴밀하게 협업합니다.
+
+
+  이 인증의 응시자는 가상화, 네트워킹, ID, 스토리지, 백업, 복원력, 재해 복구 등을 포함한 Azure 기술에 대한 경험이 있어야 합니다. Azure Virtual Desktop으로의 마이그레이션과 관련된 온-프레미스 가상 데스크톱 인프라 기술을 이해해야 합니다. 이러한 전문가는 Azure Portal 및 ARM(Azure Resource Manager) 템플릿을 사용하여 많은 작업을 수행합니다. 더 효율적인 자동화를 위해 PowerShell 및 Azure CLI(명령줄 인터페이스)를 사용할 수 있습니다.
+
+
+  Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다.
+subTitle: Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다.
 levels:
 - intermediate
 skills:
-- Azure Virtual Desktop Architecture 계획
-- Azure Virtual Desktop Infrastructure 구현
-- 액세스 및 보안 관리 
-- 사용자 환경 및 앱 관리
-- Azure Virtual Desktop Infrastructure 모니터링 및 유지 관리 
+- Plan an Azure Virtual Desktop architecture
+- Implement an Azure Virtual Desktop infrastructure
+- Manage access and security
+- Manage user environments and apps
+- Monitor and maintain an Azure Virtual Desktop infrastructure
 roles:
 - administrator
 type: specialty
@@ -50,10 +61,10 @@ products:
 - azure-monitor
 - azure-advisor
 - azure-virtual-desktop
-courses:
-- uid: course.az-140t00
 paths:
 - uid: learn-m365.windows-virtual-desktop
+courses:
+- uid: course.az-140t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
 exams:
 - uid: exam.az-140
@@ -61,11 +72,11 @@ resources:
 - title: Azure 인증 포스터
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 인증을 향한 여정
-  description: Azure의 가상 데스크톱 전문성에 대한 인증을 받기 위한 단계와 준비에 도움이 될 수 있는 리소스를 살펴봅니다.
+- title: 인증으로의 여정
+  description: Azure에서 Virtual Desktop Specialty 인증을 받기 위한 단계와 준비에 도움이 되는 리소스를 살펴보세요.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -77,8 +88,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
