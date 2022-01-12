@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Data Analyst Associate 인증 갱신'
 metadata:
   title: 'Microsoft Certified: Data Analyst Associate 인증 갱신'
   description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
-  ms.openlocfilehash: a3c6993bf1221778228ea090b6944c5f51cacbff
-  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
-  ms.translationtype: HT
+  ms.openlocfilehash: 2d01254a7a0753a907bf04c00205601f617c0901
+  ms.sourcegitcommit: a61be9b4415a75b4b46de445e157780d4d0f8d8c
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/13/2021
-  ms.locfileid: "134741805"
+  ms.lasthandoff: 12/15/2021
+  ms.locfileid: "135134696"
 uid: renewal.data-analyst-associate
 certificationUid: certification.data-analyst-associate
 assessmentId: de8d170e-54a0-4755-bc8a-587d31330bd0
@@ -18,14 +18,11 @@ summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우
 skills:
 - Get data in Power BI
 - Clean, transform, and load data in Power BI
-- Introduction to creating measures using DAX in Power BI
-- Optimize a model for performance in Power BI
-- Work with Power BI visuals
-- Create dashboards in Power BI
+- Design a data model in Power BI
+- Write DAX formulas for Power BI Desktop models
 - Create a data-driven story with Power BI reports
-- Create paginated reports
-- Work with AI visuals in Power BI
-- Perform analytics in Power BI
+- Manage datasets in Power BI
+- Create and manage workspaces in Power BI
 examsPassed:
 - da-100
 studyGuideDescription: '본 학습 모듈은 Microsoft Certified: Data Analyst Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
