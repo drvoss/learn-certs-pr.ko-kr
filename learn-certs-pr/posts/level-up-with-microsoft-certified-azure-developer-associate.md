@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Certified: Azure Developer Associate로 수준 높이기 | Microsoft Docs'
-description: 'Microsoft Certified: Azure Developer Associate로 수준 높이기'
+title: 'Microsoft Certified: Azure Developer Associate | Microsoft Docs 로 준 높이기'
+description: 'Microsoft Certified: Azure Developer Associate 로 수준 높기'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,13 @@ ms.date: 05/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 9663684c514beeddad709e0a338d43a0493b3bbd
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111438"
 ---
-# <a name="level-up-with-microsoft-certified-azure-developer-associate"></a>Microsoft Certified: Azure Developer Associate로 수준 높이기
+# <a name="level-up-with-microsoft-certified-azure-developer-associate"></a>Microsoft Certified: Azure Developer Associate 로 수준 높기
 
 게시: 2020년 5월 20일, **Sandra Marin, Microsoft Learning Azure 교육 및 인증 GTM 리드**
 
@@ -34,7 +34,7 @@ ___
 
 ## <a name="how-can-you-get-ready"></a>어떻게 준비해야 하나요?
 
-여정을 계획하는 데 도움이 필요한 경우 [“Microsoft Certified를 향한 여정: Azure Developer Associate” 인포그래픽](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5)을 확인하세요. Azure 개발자를 위한 기타 유용한 도움말이 포함된 인증 및 시험 페이지의 [리소스 섹션](https://docs.microsoft.com/learn/certifications/azure-developer#certification-resources)에서도 찾을 수 있습니다.
+여정을 계획하는 데 도움이 필요한 경우 [“Microsoft Certified: Azure Developer Associate를 향한 여정” 인포그래픽](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5)을 확인하세요. Azure 개발자를 위한 기타 유용한 도움말이 포함된 인증 및 시험 페이지의 [리소스 섹션](https://docs.microsoft.com/learn/certifications/azure-developer#certification-resources)에서도 찾을 수 있습니다.
 
 여정을 매핑하려면 인포그래픽의 시퀀스를 따릅니다. 먼저 이 인증이 적합한 인증인지 여부를 결정합니다.
 
@@ -47,7 +47,7 @@ ___
 시험을 통과하고 인증을 받은 후에는 다른 많은 인증 기회를 확인하세요. 도구 키트에 추가하시겠어요? AI 앱이나 DevOps에서 기술을 연마하는 것을 고려하세요.
 
 **참고**: Microsoft 인증은 실제 비즈니스 문제를 해결하기 위해 알고 있는 내용을 얼마나 잘 적용하는지 평가한다는 점을 기억하세요. 교육 리소스는 지식을 강화하는 데 유용하지만 항상 해당 역할과 플랫폼에 대한 경험이 필요합니다.<br/><br/>
-![Microsoft Certified: Azure Developer Associate로의 여정](images/azurecerts-developer.png)
+![ Microsoft Certified Azure Developer Associate로의 여정:](images/azurecerts-developer.png)
 
 ## <a name="its-time-to-level-up"></a>한 단계 끌어올릴 때가 됐습니다.
 

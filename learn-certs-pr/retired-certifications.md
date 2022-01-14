@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: df515f3561b4b1145bc3549f029fbb07175ee4ce
-ms.sourcegitcommit: 323a3a87c21cb338e05d34ca80341cb6b2e84520
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132113058"
 ---
 # <a name="certification-retirement"></a>인증 만료
@@ -38,7 +38,7 @@ ms.locfileid: "132113058"
 | [MTA: Introduction to Programming Using Python](/learn/certifications/mta-introduction-to-programming-using-python) | 2022년 6월 30일에 폐지 |
 | [MTA: Networking Fundamentals](/learn/certifications/mta-networking-fundamentals) | 2022년 6월 30일에 폐지 |
 | [MTA: Introduction to Programming Using HTML and CSS](/learn/certifications/mta-introduction-to-programming-using-html-and-css) | 2022년 6월 30일에 폐지 |
-| [MTA: JavaScript를 사용한 프로그래밍 소개](/learn/certifications/mta-introduction-to-programming-using-javascript) | 2022년 6월 30일에 폐지 |
+| [MTA: Introduction to Programming Using JavaScript](/learn/certifications/mta-introduction-to-programming-using-javascript) | 2022년 6월 30일에 폐지 |
 | [MTA: Mobility and Device Fundamentals](/learn/certifications/mta-mobility-and-device-fundamentals) | 2022년 6월 30일에 폐지 |
 
 ## <a name="recently-retired-certifications"></a>최근 폐지된 인증 
@@ -66,7 +66,7 @@ ms.locfileid: "132113058"
 | [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | 2021년 1월 31일 |
 | [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)         | 2021년 1월 31일 |
 | [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | 2021년 1월 31일 |
-| [MCSA: 웹 애플리케이션](/learn/certifications/mcsa-web-applications-certification) | 2021년 1월 31일 |
+| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | 2021년 1월 31일 |
 | [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 2021년 1월 31일 |
 | [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 2021년 1월 31일 |
 

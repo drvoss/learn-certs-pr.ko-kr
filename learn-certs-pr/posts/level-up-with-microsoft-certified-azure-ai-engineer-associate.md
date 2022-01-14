@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Certified: Azure AI Engineer Associate로 수준 높이기 | Microsoft Docs'
+title: 'Microsoft Certified: Azure AI Engineer Associate | Microsoft Docs로 수준 높이기'
 description: 'Microsoft Certified: Azure AI Engineer Associate로 수준 높이기'
 documentationcenter: NA
 author: micsullivan
@@ -10,10 +10,10 @@ ms.date: 05/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3205a130731d476eb55f4f805196b819fc51b3ef
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112275"
 ---
 # <a name="level-up-with-microsoft-certified-azure-ai-engineer-associate"></a>Microsoft Certified: Azure AI Engineer Associate로 수준 높이기
@@ -32,7 +32,7 @@ AI 솔루션에 대한 요구 사항 분석, 적절한 도구 및 기술 추천,
 
 ## <a name="how-can-you-get-ready"></a>어떻게 준비해야 하나요?
 
-여정을 계획하는 데 도움이 되는 [“Microsoft Certified로의 여정: Azure AI Engineer Associate” 인포그래픽](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u)을 확인하세요. Azure AI Engineer Associates를 위한 기타 유용한 도움말이 포함된 인증 및 시험 페이지의 [리소스 섹션](https://docs.microsoft.com/learn/certifications/azure-ai-engineer#certification-resources)에서도 찾을 수 있습니다.
+여정을 계획하는 데 도움이 되는 [“Microsoft Certified: Azure AI Engineer Associate로의 여정” 인포그래픽](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u)을 확인하세요. Azure AI Engineer Associates를 위한 기타 유용한 도움말이 포함된 인증 및 시험 페이지의 [리소스 섹션](https://docs.microsoft.com/learn/certifications/azure-ai-engineer#certification-resources)에서도 찾을 수 있습니다.
 
 인포그래픽의 시퀀스를 따라 여정을 매핑합니다. 먼저 이 인증이 적합한 인증인지 여부를 결정합니다.
 

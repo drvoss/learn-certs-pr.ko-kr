@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 0afcbe6719131a4fa50f4fa1b4f36d8860c40e8c
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111552"
 ---
 # <a name="transition-exams-are-retiring-soon-don39t-miss-your-chance-to-upgrade-to-role-based-certifications"></a>전환 시험 종료 예정! 역할 기반 인증으로 업그레이드할 기회
@@ -33,7 +33,7 @@ ___
 | 다음 70-xxx 시리즈 시험을 통과한 응시자들은 | 이러한 전환 시험에 응시하여 | 역할 기반 Microsoft 인증을 획득 할 수 있습니다.  |
 | --- | --- | --- |
 | [70-533: Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/learning/exam-70-533.aspx)(2018년 12월 31일 종료) | [AZ-102: Microsoft Azure Administrator Certification Transition](https://www.microsoft.com/learning/exam-AZ-102.aspx)(2019년 6월 30일 종료)<i style="font-size:inherit;font-style:italic;font-weight:inherit;height:10px;line-height:inherit;margin:3px 0px 0px 5px;padding:0px;position:absolute;vertical-align:baseline;width:20px;color:#d83b01;" title="향후 인증에 적용되도록 종료 날짜 전에 이 시험을 완료하세요. 종료 날짜 이후에는 관련 인증에서 시험 요구 사항을 참조하세요.">*</i> | [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx) |
-| [70-535: Architecting Microsoft Azure Solutions](https://www.microsoft.com/learning/exam-70-535.aspx)(2018년 12월 31일 종료) | [AZ-302: Microsoft Azure Solutions Architect Certification Transition](https://www.microsoft.com/learning/exam-AZ-302.aspx)(2019년 6월 30일 종료)<i style="font-size:inherit;font-style:italic;font-weight:inherit;height:10px;line-height:inherit;margin:3px 0px 0px 5px;padding:0px;position:absolute;vertical-align:baseline;width:20px;color:#d83b01;" title="향후 인증에 적용되도록 종료 날짜 전에 이 시험을 완료하세요. 종료 날짜 이후에는 관련 인증에서 시험 요구 사항을 참조하세요.">*</i> | [Microsoft Certified: Azure 솔루션 설계자 전문가](https://www.microsoft.com/learning/azure-solutions-architect.aspx) |
+| [70-535: Architecting Microsoft Azure Solutions](https://www.microsoft.com/learning/exam-70-535.aspx)(2018년 12월 31일 종료) | [AZ-302: Microsoft Azure Solutions Architect Certification Transition](https://www.microsoft.com/learning/exam-AZ-302.aspx)(2019년 6월 30일 종료)<i style="font-size:inherit;font-style:italic;font-weight:inherit;height:10px;line-height:inherit;margin:3px 0px 0px 5px;padding:0px;position:absolute;vertical-align:baseline;width:20px;color:#d83b01;" title="향후 인증에 적용되도록 종료 날짜 전에 이 시험을 완료하세요. 종료 날짜 이후에는 관련 인증에서 시험 요구 사항을 참조하세요.">*</i> | [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx) |
 | [70-339: Managing Microsoft SharePoint Server 2016](https://www.microsoft.com/learning/exam-70-339.aspx)  | [MS-302: Microsoft 365 Teamwork Administrator Certification Transition](https://www.microsoft.com/learning/exam-MS-302.aspx)(2019년 9월 30일 종료)<i style="font-size:inherit;font-style:italic;font-weight:inherit;height:10px;line-height:inherit;margin:3px 0px 0px 5px;padding:0px;position:absolute;vertical-align:baseline;width:20px;color:#d83b01;" title="향후 인증에 적용되도록 종료 날짜 전에 이 시험을 완료하세요. 종료 날짜 이후에는 관련 인증에서 시험 요구 사항을 참조하세요.">*</i> | [Microsoft 365 Certified: Teamwork Administrator Associate ](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) |
 | [70-345: Designing and Deploying Microsoft Exchange Server 2016](https://www.microsoft.com/learning/exam-70-345.aspx) | [MS-202: Microsoft 365 Messaging Administrator Certification Transition](https://www.microsoft.com/learning/exam-MS-202.aspx)(2019년 9월 30일 종료)<i style="font-size:inherit;font-style:italic;font-weight:inherit;height:10px;line-height:inherit;margin:3px 0px 0px 5px;padding:0px;position:absolute;vertical-align:baseline;width:20px;color:#d83b01;" title="향후 인증에 적용되도록 종료 날짜 전에 이 시험을 완료하세요. 종료 날짜 이후에는 관련 인증에서 시험 요구 사항을 참조하세요.">*</i> | [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx) |
 

@@ -10,10 +10,10 @@ ms.date: 08/09/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 0bd0c3bfa739b9a83e4276549e51d851908c5657
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112250"
 ---
 # <a name="new-role-based-certification-and-training-is-here-and-were-just-getting-started"></a>새로운 역할 기반 인증과 교육이 막 출시되었습니다!
@@ -50,7 +50,7 @@ ___
 | --- | --- | --- |
 | [70-532: Developing Microsoft Azure Solutions](https://www.microsoft.com/learning/exam-70-532.aspx) | [AZ-202: Microsoft Azure Developer Certification Transition](https://www.microsoft.com/learning/exam-AZ-202.aspx)(2019년 3월 31일 종료) | [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx) |
 | [70-533: Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/learning/exam-70-533.aspx) | [AZ-102: Microsoft Azure Administrator Certification Transition](https://www.microsoft.com/learning/exam-AZ-102.aspx)(2019년 6월 30일 종료) | [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx) |
-| [70-535: Architecting Microsoft Azure Solutions](https://www.microsoft.com/learning/exam-70-535.aspx) | [AZ-302: Microsoft Azure Solutions Architect Certification Transition](https://www.microsoft.com/learning/exam-AZ-302.aspx)(2019년 6월 30일 종료) | [Microsoft Certified: Azure 솔루션 설계자 전문가](https://www.microsoft.com/learning/azure-solutions-architect.aspx) |
+| [70-535: Architecting Microsoft Azure Solutions](https://www.microsoft.com/learning/exam-70-535.aspx) | [AZ-302: Microsoft Azure Solutions Architect Certification Transition](https://www.microsoft.com/learning/exam-AZ-302.aspx)(2019년 6월 30일 종료) | [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx) |
 
 **시험에 통과하셨나요?**
 
