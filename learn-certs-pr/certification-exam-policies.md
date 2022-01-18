@@ -10,10 +10,10 @@ ms.date: 10/14/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 826bb37e39688b180b8523a87d4cf90167beb742
-ms.sourcegitcommit: 08de83d8c07ad5bad17ae3ec18f70ddfb898708c
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132454859"
 ---
 # <a name="exam-policies-and-faqs"></a>시험 정책 및 FAQ

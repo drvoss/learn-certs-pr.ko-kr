@@ -4,10 +4,10 @@ metadata:
   title: '과정 MD-101T03-A: Protecting Modern Desktops and Devices'
   description: '과정 MD-101T03-A: Protecting Modern Desktops and Devices'
   ms.openlocfilehash: ae985a001a628a4f14e4ccce38efa24a41f6c3ad
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107136"
 uid: course.md-101t03
 courseNumber: MD-101T03-A
@@ -165,4 +165,4 @@ outlineSection: >-
 
 
 
-  #### <a name="lab-58-graded-lab"></a>랩: 등급이 있는 랩
+  #### <a name="lab-58-graded-lab"></a>랩: 등급이 매겨진 랩

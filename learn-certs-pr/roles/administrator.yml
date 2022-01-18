@@ -4,10 +4,10 @@ metadata:
   title: 관리자
   description: Administrators 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
   ms.openlocfilehash: 0282dffc61f81b711b6305cd69eb048348ad2380
-  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/07/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133989041"
 uid: role.administrator
 summary: >

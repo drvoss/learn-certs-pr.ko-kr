@@ -10,10 +10,10 @@ ms.date: 08/09/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: d8c491eac7dacd9f3ea6983f8af37fe4f6811b78
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111954"
 ---
 # <a name="more-tips-about-beta-exams-what-to-expect-when-you39re-expecting-your-beta-results-that-is"></a>베타 시험 관련 추가 팁: 예상되는 일(베타 결과)

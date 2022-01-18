@@ -3,16 +3,16 @@ title: Microsoft 보안, 규정 준수, ID 기본 사항
 metadata:
   title: '시험 SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
   description: '시험 SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
-  ms.openlocfilehash: 34b71c696266795682f68edb215b1009db89d1a3
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 0ec84c8f560a930917ab2d5a9ccd4adba06cd659
+  ms.sourcegitcommit: 741c0f68de10dd00859f4bb679ed11dbb5a15674
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132105640"
+  ms.lasthandoff: 12/30/2021
+  ms.locfileid: "135583291"
 uid: exam.sc-900
 displayName: SC-900
 summary: >-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><div><strong>중요: 이 시험의 영어 버전은 2022년 1월 28일에 업데이트됩니다. 변경 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.</strong><br/><br/></div><div>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></div></div>
 
 
   이 시험은 클라우드 기반 및 관련 Microsoft 서비스에서 SCI(보안, 규정 준수, ID) 기본 사항을 숙지하려는 사람을 대상으로 합니다.
@@ -28,7 +28,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr8
 practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:
@@ -48,7 +48,7 @@ locales:
 levels:
 - beginner
 skills:
-- The content of this exam was updated on July 26, 2021. Please download the exam skills outline below to see what changed.
+- The English language version of this exam will be updated on January 28, 2022. Please download the exam skills outline below to see what’s changing.
 - Describe the concepts of security, compliance, and identity (10-15%)
 - Describe the capabilities of Microsoft identity and access management solutions (30-35%)
 - Describe the capabilities of Microsoft security solutions (35-40%)

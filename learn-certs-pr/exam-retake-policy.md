@@ -10,10 +10,10 @@ ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3c93d7ac163910e4940a6895d4c9e9c845f0efbd
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132106568"
 ---
 # <a name="exam-retake-policy"></a>시험 재응시 정책

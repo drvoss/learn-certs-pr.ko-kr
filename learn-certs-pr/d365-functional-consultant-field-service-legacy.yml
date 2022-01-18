@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (Legacy)'
   description: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
   ms.openlocfilehash: 79abf6d07c00eecd9e92d8dba42d4e10ab1f4067
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132106885"
 uid: certification.d365-functional-consultant-field-service-erlr
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -89,5 +89,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: badges.md

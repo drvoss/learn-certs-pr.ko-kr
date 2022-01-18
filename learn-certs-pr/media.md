@@ -10,10 +10,10 @@ ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: f7c934962eb966ea793b9e30635bb26751945d74
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111414"
 ---
 # <a name="training-and-certification-in-media"></a>미디어의 교육 및 인증

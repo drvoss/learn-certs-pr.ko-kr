@@ -3,12 +3,12 @@ title: 기능 컨설턴트
 metadata:
   title: 기능 컨설턴트
   description: 기능 컨설턴트는 Microsoft Dynamics 365 및 Microsoft Power Platform을 활용하여 고객의 요구를 예측하고 계획합니다.
-  ms.openlocfilehash: b34e4ee923d360f8da041733ede93d59762a83cd
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
-  ms.translationtype: HT
+  ms.openlocfilehash: 6306bbc0a8d07f3354aba5b6a30c91317dc0c3e9
+  ms.sourcegitcommit: 15832c0b302b429735730b73fbfd30bb4b3f0771
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "133079098"
+  ms.lasthandoff: 01/04/2022
+  ms.locfileid: "135763457"
 uid: role.functional-consultant
 summary: >
   기능 컨설턴트는 Microsoft Dynamics 365 및 Microsoft Power Platform을 활용하여 고객의 요구를 예측하고 계획합니다.
@@ -156,6 +156,9 @@ certifications:
 - uid: certification.d365-business-central-functional-consultant-associate
   requiredExams:
   - uid: exam.mb-800
+- uid: certification.customer-data-platform-specialty
+  requiredExams:
+  - uid: exam.mb-260
 resources:
 - title: Microsoft 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

@@ -4,10 +4,10 @@ metadata:
   title: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
   description: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
   ms.openlocfilehash: da6b4fda5fc7ab8c7f3df8d1ab7d75ff78b88f34
-  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/07/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133989053"
 uid: exam.az-800
 displayName: AZ-800
@@ -22,7 +22,7 @@ summary: >-
 subTitle: 이 시험에서는 온-프레미스 및 클라우드 환경에서 Active Directory Domain Services(AD DS) 배포 및 관리 기술 작업을 수행하는 능력, 하이브리드 환경에서 Windows Server 및 워크로드를 관리하는 능력, 가상 머신 및 컨테이너를 관리하는 능력, 온-프레미스 및 하이브리드 네트워킹 인프라를 구현하는 능력, 스토리지 및 파일 서비스를 관리하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-800&examname=Exam%20AZ-800:%20Administering%20Windows%20Server%20Hybrid%20Core%20Infrastructure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-800
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-800&examname=Exam%20AZ-800:%20Administering%20Windows%20Server%20Hybrid%20Core%20Infrastructure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-800
 locales:
 - en
 levels:

@@ -4,10 +4,10 @@ metadata:
   title: '시험 AZ-300: Microsoft Azure Architect Technologies'
   description: '시험 AZ-300: Microsoft Azure Architect Technologies'
   ms.openlocfilehash: 1d1bec9153028f4852089e0e18935ec34f482f5d
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132105893"
 uid: exam.az-300
 displayName: AZ-300

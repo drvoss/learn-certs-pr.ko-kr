@@ -10,10 +10,10 @@ ms.date: 08/15/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 162c297a9107eae0b4c3dc2efff58220f4e58e44
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111960"
 ---
 # <a name="microsoft-professional-program-is-retiring-explore-our-new-role-based-training-and-certifications"></a>Microsoft Professional Program은 만료되는 중입니다. 새로운 역할 기반 학습 및 인증 탐색

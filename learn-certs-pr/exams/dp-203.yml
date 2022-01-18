@@ -1,32 +1,32 @@
 ### YamlMime:Examination
 title: Data Engineering on Microsoft Azure
 metadata:
-  title: '시험 DP-203: Data Engineering on Microsoft Azure'
-  description: '시험 DP-203: Data Engineering on Microsoft Azure'
+  title: '시험 DP-203: Microsoft Azure 데이터 엔지니어링'
+  description: '시험 DP-203: Microsoft Azure 데이터 엔지니어링'
   ms.openlocfilehash: 49bd3e450bc6e3b043fa56d6e18f8c2a50d1d006
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133078658"
 uid: exam.dp-203
 displayName: DP-203
 summary: >-
-  이 시험의 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 빌드에 적합한 구조로 통합, 변환, 종합하는 실무 전문 지식을 갖추고 있어야 합니다.
+  이 시험의 후보에게는 다양한 구조화 및 비정형 데이터 시스템의 데이터를 분석 솔루션 빌드에 적합한 구조로 통합, 변환 및 통합하는 주제별 전문 지식이 있어야 합니다.
 
 
-  Azure 데이터 엔지니어는 관련자가 탐색을 통해 데이터를 이해하도록 돕고 다양한 도구와 기술을 사용하여 안전하고 규정을 준수하는 데이터 처리 파이프라인을 빌드하고 유지 관리합니다. 이러한 전문가는 다양한 Azure 데이터 서비스 및 언어를 사용하여 분석을 위해 정제되고 향상된 데이터 세트를 저장하고 생성합니다.
+  Azure 데이터 엔지니어는 이해 관계자가 탐색을 통해 데이터를 이해할 수 있도록 지원하며, 다양한 도구와 기술을 사용하여 안전하고 규정을 준수하는 데이터 처리 파이프라인을 빌드하고 유지 관리합니다. 이러한 전문가는 다양한 Azure 데이터 서비스 및 언어를 사용하여 분석을 위해 정리되고 향상된 데이터 세트를 저장하고 생성합니다.
 
 
-  또한 Azure 데이터 엔지니어는 일련의 비즈니스 요구 사항 및 제약 조건을 고려하여 데이터 파이프라인 및 데이터 저장소가 성능이 뛰어나고, 효율적이며, 조직적이고, 신뢰할 수 있는지 확인하는 데 도움이 됩니다. 예기치 않은 문제를 신속하게 처리하고 데이터 손실을 최소화합니다. 또한 데이터 파이프라인 요구 사항을 충족하기 위해 데이터 플랫폼을 설계, 구현, 모니터링, 최적화합니다.
+  또한 Azure 데이터 엔지니어는 일련의 비즈니스 요구 사항 및 제약 조건이 주어진 경우 데이터 파이프라인 및 데이터 저장소의 성능이 높고 효율적이며 구성되고 안정적인지 확인하는 데 도움이 됩니다. 예기치 않은 문제를 신속하게 처리하고 데이터 손실을 최소화합니다. 또한 데이터 파이프라인 요구 사항에 맞게 데이터 플랫폼을 디자인, 구현, 모니터링 및 최적화합니다.
 
 
-  이 시험의 응시자들은 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합, 변환 및 강화하는 주제 전문 지식을 갖추고 있어야 합니다.
-subTitle: 이 시험은 데이터 스토리지 설계 및 구현, 데이터 처리 설계 및 개발, 데이터 보안 설계 및 구현, 데이터 스토리지 및 데이터 처리 모니터링 및 최적화와 같은 기술적 과제를 수행하는 능력을 측정합니다.
+  이 시험의 후보는 SQL, Python 또는 Scala와 같은 데이터 처리 언어에 대해 잘 알고 있어야 하며 병렬 처리 및 데이터 아키텍처 패턴을 이해해야 합니다.
+subTitle: 이 시험에서는 데이터 스토리지 디자인 및 구현과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 데이터 처리 디자인 및 개발 데이터 보안 디자인 및 구현 데이터 스토리지 및 데이터 처리를 모니터링하고 최적화합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
 practiceTestUrl: https://in.mindhub.com/dp-203-data-engineering-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=DP-203&examname=Exam%20DP-203:%20Data%20Engineering%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-203&examname=Exam%20DP-203:%20Data%20Engineering%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-203
 locales:
 - en
 - zh-cn

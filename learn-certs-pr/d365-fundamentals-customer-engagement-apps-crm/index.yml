@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
   description: 비즈니스 운영, CRM(고객 관계 관리)에 대해 잘 알고 있으며 일반적으로 또는 업무 경험을 통해 IT에 정통한 경우 이 인증을 활용하여 기술을 강조하세요. Dynamics 365의 고객 참여 기능에 대해 폭넓게 접했음을 검증하고 경력 여정을 향상하세요.
   ms.openlocfilehash: 370d9b9e521d6b83750e2cdae537d3e07b111b73
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132106701"
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -65,5 +65,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

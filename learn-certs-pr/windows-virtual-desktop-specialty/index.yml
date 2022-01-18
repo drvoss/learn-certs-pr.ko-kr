@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Windows Virtual Desktop Specialty'
   description: Windows Virtual Desktop Specialty 인증의 응시자들은 Azure에서 모든 디바이스에 대한 가상 데스크톱 경험 및 원격 앱을 계획하고, 제공하고, 관리하는 데 있어 주제 전문 지식을 갖춘 Microsoft Azure 관리자입니다.
   ms.openlocfilehash: 365dc3f76275e92d5e5c532b8e723de1d314d2b7
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132111180"
 uid: certification.windows-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
@@ -82,5 +82,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

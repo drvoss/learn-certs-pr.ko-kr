@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
   description: '여러 Office 프로그램에서 Microsoft Office Specialist: Expert 인증을 취득하여 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
   ms.openlocfilehash: 1e851e2082a0894b42d74815a7c6f1676d380a5c
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132111480"
 uid: certification.microsoft-office-specialist-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
@@ -63,5 +63,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

@@ -10,10 +10,10 @@ ms.date: 04/09/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 2f2ec1c7635dd1146c6f0f2934f4d394f6f3f658
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112106"
 ---
 # <a name="data-analysts-its-time-to-earn-your-microsoft-certification"></a>데이터 분석가: Microsoft 인증을 받을 시간
@@ -34,13 +34,13 @@ ___
 
 **2020년 3월 31일 이전에 DA-109(베타) 시험에 응시하는 응시자는 선착순으로 300명까지 80% 할인을 받을 수 있습니다!** ([베타 시험이 더 이상 무료가 아닌 이유를 알아보세요](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374922)).
 
-할인을 받으려면 지금 등록하고, 결제를 요청하는 메시지가 표시되면 **코드 DA100MARION을 사용** 하세요. 이것은 프라이빗 액세스 코드가 아닙니다. 할인은 선착순으로 제공됩니다. 2020년 5월 31일까지 시험에 응시해야 합니다.
+할인을 받으려면 지금 등록하고, 결제를 요청하는 메시지가 표시되면 **코드 DA100MARION을 사용** 하세요. 이것은 프라이빗 액세스 코드가 아닙니다. 할인 기회는 선착순으로 제공됩니다. 2020년 5월 31일까지 시험에 응시해야 합니다.
 
 다음은 DA-100(베타) 시험 응시를 준비하는 방법입니다.
 
 - DA-100(베타) 시험 페이지에서 자세한 내용을 검토하세요. 문서에 나오는 기술을 통해 시험에서 다루는 핵심 주제를 알 수 있습니다.
-- [Microsoft Learn](/learn/browse)에서 무료 학습 경로, 과정과 실습을 탐색합니다. 준비하는 데 도움이 되는 새로운 콘텐츠를 포함하여 Microsoft 인증을 업데이트하려면 [@MicrosoftLearn](https://twitter.com/MicrosoftLearn)을 팔로우하세요.
-- 보다 심층적인 교육을 원하시나요? 해당 지역의 [Microsoft Learning 파트너](https://aka.ms/LearningPartners)에 대면 교육을 문의하세요.
+- [Microsoft Learn](/learn/browse)에서 무료 학습 경로, 과정과 실습을 탐색합니다. 준비하는 데 도움이 되는 새로운 콘텐츠를 포함하여 Microsoft 인증에 대한 업데이트를 보려면 [@MicrosoftLearn](https://twitter.com/MicrosoftLearn)을 팔로우하세요.
+- 더 심층적인 교육을 원하시나요? 해당 지역의 [Microsoft Learning 파트너](https://aka.ms/LearningPartners)를 만나 오프라인 교육을 받으세요.
 - 다른 준비 아이디어가 필요하신가요? [베타 시험 준비](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544)에 관한 블로그 게시물을 확인하세요.
 
 ## <a name="beta-exam-conditions"></a>베타 시험 조건

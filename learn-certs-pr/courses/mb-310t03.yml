@@ -4,10 +4,10 @@ metadata:
   title: '과정 MB-310T03-A: Finance and Operations에서 예산, 고정 자산, 추가 기능 구성 및 사용'
   description: '과정 MB-310T03-A: Finance and Operations에서 예산, 고정 자산, 추가 기능 구성 및 사용'
   ms.openlocfilehash: 385772d2e77389a5450cc0e65284a24f8cf56166
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107328"
 uid: course.mb-310t03
 courseNumber: MB-310T03-A
@@ -31,7 +31,7 @@ summary: >-
 
   #### <a name="audience-profile"></a>잠재 고객 프로파일
 
-  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
+  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션, 서비스 통합을 사용하여 솔루션을 구현합니다.
 prerequisitesSection: ERP 및 CRM 개념에 대한 기본적인 이해.
 outlineSection: >-
   ### <a name="module--158-configure-post-dated-checks"></a>모듈 1&#58; 선일자 수표 구성
@@ -384,8 +384,8 @@ outlineSection: >-
 
   - 과정 요약
 
-  - 과정 이후 설문 조사
+  - 과정 후 설문 조사
 
 
 
-  수강생이 과정을 마칩니다.
+  학생이 과정을 완료합니다.

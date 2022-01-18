@@ -4,15 +4,15 @@ metadata:
   title: '시험 PL-600: Microsoft Power Platform Solution Architect'
   description: '시험 PL-600: Microsoft Power Platform Solution Architect'
   ms.openlocfilehash: 6fc587c007fa12cbb495d19f4ea6a8a846e4d238
-  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133101902"
 uid: exam.pl-600
 displayName: PL-600
 summary: >-
-  <div><font color="red">제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 절차를 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다.</font><br/><br/>
+  <div><font color="red">제품 팀은 최근에 Microsoft Dataverse와 Common Data Service 다시 브랜드를 완료 했습니다. 이제 사용자 보안 역할 Common Data Service 기본 사용자입니다. 이제 Common Data Service 커넥터가 Microsoft Dataverse 커넥터입니다.</font><br/><br/>
 
   </div>
 
@@ -23,12 +23,12 @@ summary: >-
   솔루션 설계자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft 클라우드 솔루션, 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 설계자는 고객의 투자 가치를 높이고 조직 상태의 수준을 올리기 위해 사전 예방적 작업을 수행합니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
 
 
-  솔루션 설계자는 Power Platform의 기능 및 기술 분야에 대한 경험이 있습니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 사용 가능성, 스토리지 및 변경 관리 전반에서 설계 결정을 지원할 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
-subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술적 과제를 수행하는 능력을 측정합니다.
+  솔루션 설계자는 Power Platform의 기능 및 기술 분야에 대한 경험이 있습니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 사용 가능성, 스토리지, 변경 관리 전반에 걸쳐 디자인 결정을 지원할 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
+subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:

@@ -4,10 +4,10 @@ metadata:
   title: '과정 DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
   description: '과정 DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
   ms.openlocfilehash: 932297ed517816bc895d7ccc002805a0720575b6
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107533"
 uid: course.dp-060t00
 courseNumber: DP-060T00-A

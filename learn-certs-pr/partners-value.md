@@ -10,10 +10,10 @@ ms.date: 04/15/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 19cf119b640f294eb657bf95d9daf11b78247199
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111115"
 ---
 # <a name="value-of-learning-partners"></a>학습 파트너의 가치

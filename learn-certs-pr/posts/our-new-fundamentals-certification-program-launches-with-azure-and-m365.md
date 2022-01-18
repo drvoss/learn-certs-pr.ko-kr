@@ -10,10 +10,10 @@ ms.date: 08/09/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: a1252fae13e9abefb030ffd34eb72b2be79351b6
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112227"
 ---
 # <a name="our-new-fundamentals-certification-program-launches-with-microsoft-azure-and-microsoft-365"></a>Microsoft Azure 및 Microsoft 365를 대상으로 새로운 Fundamentals 인증 프로그램 시작

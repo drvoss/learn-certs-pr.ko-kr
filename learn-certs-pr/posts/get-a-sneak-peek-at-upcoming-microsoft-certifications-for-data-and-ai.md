@@ -10,10 +10,10 @@ ms.date: 02/28/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 558df6819e5d170523d68055a563396c326646c1
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111066"
 ---
 # <a name="get-a-sneak-peek-at-upcoming-microsoft-certifications-for-data--ai"></a>예정된 Microsoft 데이터 및 AI 인증 미리 살펴보기

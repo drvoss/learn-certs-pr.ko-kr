@@ -10,10 +10,10 @@ ms.date: 08/11/2020
 ms.author: venkato
 ms.prod: non-product-specific
 ms.openlocfilehash: cb7878ce75b7fc77b9f2ccc40d907801c1b735fd
-ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132113315"
 ---
 # <a name="certification-exam-and-renewal-assessment-item-challenge-process"></a>인증 시험 및 갱신 평가 항목 이의 제기 프로세스

@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
   description: 'Microsoft Office Specialist: Microsoft Outlook 2016'
   ms.openlocfilehash: c3fdfafbd1b14a421e871f53ac4faaadba22015e
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132111264"
 uid: certification.mos-outlook-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -41,5 +41,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 네트워크와 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

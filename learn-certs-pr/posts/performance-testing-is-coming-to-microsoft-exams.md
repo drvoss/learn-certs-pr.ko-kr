@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3e2248e8ba5508c80c3def38c4743f86807562f1
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111948"
 ---
 # <a name="performance-testing-is-coming-to-microsoft-exams-here-is-what-you-should-know"></a>Microsoft Exams에 수행 테스트 도입 예정: 알아야 할 사항

@@ -10,10 +10,10 @@ ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 57d22322e84905c3233363cfc230d8176e23dcca
-ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112563"
 ---
 # <a name="access-your-certification-dashboard"></a>귀하의 Certification Dashboard에 접근
@@ -52,7 +52,7 @@ ms.locfileid: "132112563"
 
 ## <a name="keeping-your-microsoft-account-active"></a>Microsoft 계정 활성 상태로 유지
 
-인증 대시보드에 대한 액세스를 유지하려면 Microsoft 계정을 활성 상태로 유지해야 합니다. 적어도 2년에 한 번 Microsoft 계정에 로그인하면 계정을 활성 상태로 유지할 수 있습니다. 계정이 비활성화된 경우 고객 지원팀에 문의하여 복구 프로세스를 지원 받아 인증 정보에 다시 액세스해야 할 수 있습니다.
+인증 대시보드에 대한 액세스를 유지하려면 Microsoft 계정을 활성 상태로 유지해야 합니다. 적어도 2년에 한 번 Microsoft 계정에 로그인하면 계정을 활성 상태로 유지할 수 있습니다. 계정이 비활성화된 경우 고객 지원팀에 문의하여 복구 프로세스를 통해 도움을 받아 인증 정보에 다시 액세스해야 할 수 있습니다.
 
 ## <a name="recover-your-lost-or-forgotten-microsoft-certification-credentials"></a>분실하거나 잊어버린 Microsoft 인증 자격 증명 복구
 

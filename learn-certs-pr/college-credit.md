@@ -10,10 +10,10 @@ ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 1d625c7dc512f4b6776cc5a450cec7d80cb5c4a1
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132110848"
 ---
 # <a name="college-credit-for-certification-exams"></a>인증 시험에 대한 대학 학점

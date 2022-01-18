@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
   description: Microsoft Dynamics 365의 재무 및 운영 앱으로 작업하는 개발자는 애플리케이션을 비즈니스 요구 사항을 충족하도록 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 현실화된 솔루션을 제공해야 합니다.
   ms.openlocfilehash: 3b148a577473f7e96e116da2ccef1f445e77e373
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133079065"
 uid: certification.d365-finance-and-operations-apps-developer-associate
 certificationRenewalUid: renewal.d365-finance-and-operations-apps-developer-associate

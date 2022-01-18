@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 95a400e0a8377582f88fdce241cbb601c288fbd8
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 26819146b1e346987c753829855b4210a134f2d8
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132112171"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638711"
 ---
 # <a name="request-accommodations"></a>편의 시설 요청
 
@@ -56,7 +56,3 @@ Microsoft 인증을 받는 데 관심이 있는 모든 사람이 자신의 기�
 ## <a name="testing-accommodations-with-certiport-for-students-and-academic-institutions"></a>Certiport를 통한 테스트 편의 시설(학생 및 교육 기관용)
 
 시험이 모국어로 제공되지 않고 질문을 읽고 답하기 위한 추가 시간을 요청하고자 하거나 특수 장비가 필요하거나 시험을 응시할 때 다른 편의 시설을 요청하고자 하는 경우 [Certiport 테스트 편의 시설 사이트](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)에서 설명하는 절차에 따라 Certiport를 통해 편의 시설을 요청할 수 있습니다. Certiport에서 자료를 검토하고 회신을 통해 연락하는 데 영업일 기준 최대 10일이 걸릴 수 있습니다. 편의 시설이 확인된 후에는 시험 응시 시 편의 시설이 마련되는 데 몇 주가 걸릴 수 있습니다.
-
-## <a name="testing-accommodations-with-psi-for-job-seekers-affected-by-covid-19"></a>PSI를 통한 테스트 편의 시설(코로나19의 영향을 받는 구직자용)
-
-시험 편의 시설을 요청하려면 시험 예약 전에 [PSI를 통해 편의 시설 요청을 제출](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872)하세요. PSI는 업무 시간 기준 48시간 이내에 요청에 응답합니다.

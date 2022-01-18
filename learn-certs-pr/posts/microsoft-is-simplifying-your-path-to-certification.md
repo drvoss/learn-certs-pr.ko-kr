@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 92aeebde16a53042386dff3462ae3be35566c14f
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111576"
 ---
 # <a name="great-news-azure-developers-microsoft-is-simplifying-your-path-to-certification"></a>Azure Developers, 좋은 뉴스입니다! Microsoft는 인증을 받는 경로를 간소화하고 있습니다.

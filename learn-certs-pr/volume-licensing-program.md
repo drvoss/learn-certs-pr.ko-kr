@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 7ad19a8d04ef0b52e200ece1663cc3d19b47bcde
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112194"
 ---
 # <a name="volume-licensing-for-microsoft-training-and-certification-solutions"></a>Microsoft 교육 및 인증 솔루션을 위한 볼륨 라이선싱

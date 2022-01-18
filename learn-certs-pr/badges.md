@@ -10,10 +10,10 @@ ms.date: 05/28/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 6a24d92fa49468f20a660f4f57d049b73fb17642
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132110897"
 ---
 # <a name="use-and-share-certification-badges"></a>인증 배지 사용 및 공유

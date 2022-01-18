@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: ba76660143714e366cd290aabc8532fb3511a957
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112314"
 ---
 # <a name="build-and-certify-expertise-with-microsoft-dynamics-365-intelligent-business-apps"></a>Microsoft Dynamics 365 인텔리전트 비즈니스 앱을 사용하여 전문 지식 습득 및 인증

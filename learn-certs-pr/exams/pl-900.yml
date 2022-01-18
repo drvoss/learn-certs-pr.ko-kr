@@ -3,16 +3,16 @@ title: Microsoft Power Platform 기본 사항
 metadata:
   title: '시험 PL-900: Microsoft Power Platform Fundamentals'
   description: '시험 PL-900: Microsoft Power Platform Fundamentals'
-  ms.openlocfilehash: aeef942e84af968e4ab47bce0fd823d80a206110
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 91ffe84c2a1e1621beeafa55e6a0c738481a3d3f
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132105648"
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694589"
 uid: exam.pl-900
 displayName: PL-900
 summary: >-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 3월 10일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><div><font color="red">제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 절차를 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일부터 시험에 반영됩니다.</font><br/><br/></div><div><font color='red'><strong>이 시험의 내용은 2021년 3월 10일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
   </div>
 
@@ -40,7 +40,7 @@ locales:
 - it
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 levels:

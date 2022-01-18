@@ -10,10 +10,10 @@ ms.date: 08/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 2d364f25404d903c88c16807d01e66d811989cc3
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132105624"
 ---
 # <a name="certification-support"></a>인증 지원

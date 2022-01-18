@@ -4,10 +4,10 @@ metadata:
   title: '과정 SC-200T00--A: Microsoft Security Operations Analyst'
   description: '과정 SC-200T00--A: Microsoft Security Operations Analyst'
   ms.openlocfilehash: 51065a83e803180a1321b02f384024c16609b9b8
-  ms.sourcegitcommit: 70d4f4d2c67aa0a61b961408099c8c442190539a
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/08/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "134382269"
 uid: course.sc-200t00
 courseNumber: SC-200T00
@@ -338,7 +338,7 @@ outlineSection: >-
   ### <a name="module-5-configure-your-microsoft-sentinel-environment"></a>모듈5: Microsoft Sentinel 환경 구성
 
 
-  Microsoft Sentinel 작업 영역을 올바르게 구성하여 Microsoft Sentinel을 시작합니다. 기존 SIEM(보안 정보 및 이벤트 관리) 시스템은 대부분 설정하고 구성하는 데 시간이 오래 걸립니다. 그리고 클라우드 워크로드를 염두에 두고 설계되지도 않습니다. Microsoft Sentinel을 사용하면 클라우드와 온-프레미스 데이터에서 귀중한 보안 관련 정보를 빠르게 얻을 수 있습니다. 이 모듈에서는 시작하는 데 도움이 되는 정보를 제공합니다. 조직의 보안 작업 요구 사항에 맞게 시스템을 구성할 수 있도록 Microsoft Sentinel 작업 영역의 아키텍처에 대해 알아봅니다. 보안 운영 분석가는 작업 영역에서 수집된 테이블, 필드, 데이터를 이해해야 합니다. Microsoft Sentinel에서 가장 많이 사용되는 데이터 테이블을 쿼리하는 방법을 알아봅니다.
+  Microsoft Sentinel 작업 영역을 올바르게 구성하여 Microsoft Sentinel을 시작합니다. 기존 SIEM(보안 정보 및 이벤트 관리) 시스템은 대부분 설정하고 구성하는 데 시간이 오래 걸립니다. 그리고 클라우드 워크로드를 염두에 두고 설계되지도 않습니다. Microsoft Sentinel을 사용하면 클라우드와 온-프레미스 데이터에서 귀중한 보안 인사이트를 빠르게 얻을 수 있습니다. 이 모듈에서는 시작하는 데 도움이 되는 정보를 제공합니다. 조직의 보안 작업 요구 사항에 맞게 시스템을 구성할 수 있도록 Microsoft Sentinel 작업 영역의 아키텍처에 대해 알아봅니다. 보안 운영 분석가는 작업 영역에서 수집된 테이블, 필드, 데이터를 이해해야 합니다. Microsoft Sentinel에서 가장 많이 사용되는 데이터 테이블을 쿼리하는 방법을 알아봅니다.
 
 
   #### <a name="lessons"></a>단원

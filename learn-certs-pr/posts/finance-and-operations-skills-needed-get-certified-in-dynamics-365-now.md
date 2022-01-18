@@ -10,10 +10,10 @@ ms.date: 05/04/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: f37be2ebf31857e4cdca077eb51f53ca1fc58150
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111109"
 ---
 # <a name="finance-and-operations-skills-needed-get-certified-in-dynamics-365-now"></a>필요한 재무 및 운영 기술 - 지금 Dynamics 365에서 인증을 받으세요.

@@ -1,35 +1,35 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: '시험 MD-101: Managing Modern Desktops'
-  description: '시험 MD-101: Managing Modern Desktops'
+  title: 'MD-101 시험: 최신 데스크톱 관리'
+  description: 'MD-101 시험: 최신 데스크톱 관리'
   ms.openlocfilehash: c777395261416e10dd51848fad599a97030711b7
-  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133101836"
 uid: exam.md-101
 displayName: MD-101
 summary: >-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래에서 기술 측정 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
 
   이 시험은 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리, 모니터링하는 관리자를 대상으로 실시됩니다. 응시자는 ID, 액세스, 정책, 업데이트 및 앱을 관리하게 됩니다.
 
 
-  응시자는 관리자로서 일반적으로 Microsoft 365 기업 관리자와 협업하여 현대적인 조직에서 요구하는 비즈니스 요구 사항을 충족시키는 디바이스 전략을 설계 및 구현하게 됩니다.
+  관리자로서, 응시자는 일반적으로 Microsoft 365 Enterprise 관리자와 협력하여 현대적인 조직에서 요구하는 비즈니스 요구 사항을 충족시키는 장치 전략을 설계 및 구현하게 됩니다.
 
 
-  응시자는 Microsoft 365 워크로드에 익숙해야 하며 Windows 10 및 비 Windows 디바이스 및 기술의 배포, 구성, 유지 관리에 능숙하여야 하며, 관련 경험을 갖추어야 합니다.
+  후보는 Microsoft 365 워크로드에 익숙해야 하며 Windows 10 및 Windows 이외의 디바이스 및 기술을 배포, 구성 및 유지 관리하는 데 능숙하고 경험이 있어야 합니다.
 
 
   이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
-subTitle: 이 시험은 운영 체제 배포 및 업그레이드, 정책 및 프로필 관리, 디바이스 관리 및 보호, 앱 및 데이터 관리와 같은 기술 작업을 수행하는 능력을 측정합니다.
+subTitle: 이 시험에서는 운영 체제 배포 및 업그레이드와 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 정책 및 프로필 관리 디바이스 관리 및 보호 앱 및 데이터를 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
 levels:

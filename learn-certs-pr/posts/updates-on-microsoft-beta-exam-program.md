@@ -10,10 +10,10 @@ ms.date: 08/09/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 13783cedb78d613ec8b0472d863545bc0cd760c7
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111655"
 ---
 # <a name="updates-on-microsoft-beta-exam-program-read-this"></a>Microsoft 베타 시험 프로그램 업데이트: 이 내용을 읽어보세요!

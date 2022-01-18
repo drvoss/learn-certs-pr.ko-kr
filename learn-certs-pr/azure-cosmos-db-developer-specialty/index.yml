@@ -1,25 +1,25 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
+title: 'Microsoft 인증: Azure Cosmos DB 개발자 특기'
 metadata:
-  title: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
-  description: Azure Cosmos DB 개발자는 데이터 모델 및 데이터 배포를 설계하고 구현하며, Azure Cosmos DB 데이터베이스에 데이터를 로드하고, 솔루션을 최적화 및 유지 관리합니다.
+  title: 'Microsoft 인증: Azure Cosmos DB 개발자 특기'
+  description: Azure Cosmos DB 개발자는 데이터 모델 및 데이터 배포를 디자인 하 고 구현 하며, Azure Cosmos DB 데이터베이스로 데이터를 로드 하 고, 솔루션을 최적화 하 고 유지 관리 합니다.
   ms.openlocfilehash: 84065ffd9d110ef96b80644343880e866a9ece91
-  ms.sourcegitcommit: fff1846d9a8cf0c925fb142b42daa47ab66f0f42
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/04/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133560216"
 uid: certification.azure-cosmos-db-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: >-
-  Azure Cosmos DB Developer Specialty 인증의 응시자는 데이터를 저장하고 관리하는 클라우드 네이티브 애플리케이션을 설계, 구현, 모니터링하는 실무 전문 지식을 갖추고 있어야 합니다.
+  Azure Cosmos DB Developer 전문 인증 후보자는 데이터를 저장 하 고 관리 하는 클라우드 네이티브 응용 프로그램을 디자인, 구현 및 모니터링 하는 데 관련 된 전문 지식을 갖추고 있어야 합니다.
 
 
-  이 역할의 책임에는 데이터 모델 및 데이터 배포 설계 및 구현, Azure Cosmos DB 데이터베이스로 데이터 로드, 솔루션 최적화 및 유지 관리 등이 포함됩니다. 이러한 전문가는 솔루션을 다른 Azure 서비스와 통합합니다. 또한 보안, 가용성, 탄력성, 성능 요구 사항을 고려하는 솔루션을 설계, 구현, 모니터링합니다.
+  이 역할의 책임에는 데이터 모델 및 데이터 배포 디자인 및 구현, Azure Cosmos DB 데이터베이스로 데이터 로드, 솔루션 최적화 및 유지 관리 등이 포함 됩니다. 이러한 전문가는 솔루션을 다른 Azure 서비스와 통합 합니다. 또한 보안, 가용성, 복원 력 및 성능 요구 사항을 고려 하는 솔루션을 디자인, 구현 및 모니터링 합니다.
 
 
-  이 인증의 응시자는 Azure용 앱 개발 및 Azure Cosmos DB 데이터베이스 기술 사용에 대한 견고한 지식과 경험이 있어야 합니다. 핵심(SQL) API 및 SDK를 사용하여 애플리케이션을 개발하고, 효율적인 쿼리를 작성하고 적절한 인덱스 정책을 만들며, Azure에서 리소스를 프로비전 및 관리하고, JavaScript를 사용하여 서버 쪽 개체를 만드는 데 능숙해야 합니다. JSON을 해석하고, C# 또는 Java 코드를 읽고, PowerShell을 사용할 수 있어야 합니다.
-subTitle: Azure Cosmos DB 개발자는 데이터 모델 및 데이터 배포를 설계하고 구현하며, Azure Cosmos DB 데이터베이스에 데이터를 로드하고, 솔루션을 최적화 및 유지 관리합니다.
+  이 인증에 대 한 후보자는 Azure 용 앱을 개발 하 고 Azure Cosmos DB 데이터베이스 기술을 사용 하는 데 견고한 지식과 경험을 제공 해야 합니다. 핵심 (SQL) API 및 sdk를 사용 하 여 응용 프로그램을 개발 하 고, 효율적인 쿼리를 작성 하 고, 적절 한 인덱스 정책을 만들고, Azure에서 리소스를 프로 비전 및 관리 하 고, JavaScript를 사용 하 여 서버 쪽 개체를 만드는 것이 좋습니다. JSON을 해석 하 고 c # 또는 Java 코드를 읽고 PowerShell을 사용할 수 있어야 합니다.
+subTitle: Azure Cosmos DB 개발자는 데이터 모델 및 데이터 배포를 디자인 하 고 구현 하며, Azure Cosmos DB 데이터베이스로 데이터를 로드 하 고, 솔루션을 최적화 하 고 유지 관리 합니다.
 levels:
 - intermediate
 skills:
@@ -75,5 +75,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 네트워크와 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

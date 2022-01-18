@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 0dcb7112a1f8b4ffee728a8f44378c9f964a7a48
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111840"
 ---
 # <a name="help-us-create-exams-and-learning-content-join-our-sme-database-today"></a>시험 및 학습 콘텐츠 만들기를 도와주세요. 지금 SME 데이터베이스에 가입하세요.

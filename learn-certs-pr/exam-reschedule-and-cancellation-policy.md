@@ -10,10 +10,10 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: ed64d8c323c6760f2984de9c7b585e578c9cb3bc
-ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112570"
 ---
 # <a name="exam-reschedule-and-cancellation-policy"></a>시험 일정 변경 및 취소 정책

@@ -5,10 +5,10 @@ metadata:
   description: '과정 AZ-900T01-A: Microsoft Azure Fundamentals (1일)'
   iltScheduling: true
   ms.openlocfilehash: 514adfbe8bfe5a6cbcc00b895d2cee964746b8ab
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107560"
 uid: course.az-900t01
 courseNumber: AZ-900T01-A

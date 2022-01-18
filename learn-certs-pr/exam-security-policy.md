@@ -10,10 +10,10 @@ ms.date: 03/31/2021
 ms.author: venkato
 ms.prod: non-product-specific
 ms.openlocfilehash: 90d5ad4cd4bf75605916f24ba1d07ca9d6eeea4c
-ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132113491"
 ---
 # <a name="exam-security-policy"></a>시험 보안 정책

@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: Dynamics 365의 ERP(전사적 자원 계획) 기능에 대해 폭넓게 접했고 재무 및 운영 앱이 전체 Microsoft 에코시스템 내에 어떻게 어울리는지에 대한 기본 사항을 이해한다면 이 인증이 적합합니다.
   ms.openlocfilehash: d86b1094c55e010d60f13e0efed6fd15bb567240
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132106696"
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -82,5 +82,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

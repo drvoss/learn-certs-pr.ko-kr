@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
   description: Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
   ms.openlocfilehash: c21163e651a6ec4964736526f0292c4d2a5b5c17
-  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/30/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133301694"
 uid: certification.m365-developer-associate
 certificationRenewalUid: renewal.m365-developer-associate

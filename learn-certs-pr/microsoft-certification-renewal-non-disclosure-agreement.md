@@ -10,10 +10,10 @@ ms.date: 05/13/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 6b0896135ea2663b804599af6fe4da12f00d3d1a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111367"
 ---
 # <a name="microsoft-certification-renewal-assessment-non-disclosure-agreement"></a>Microsoft Certification Renewal Assessment Non-disclosure Agreement

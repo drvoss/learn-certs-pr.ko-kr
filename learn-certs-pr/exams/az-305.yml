@@ -3,23 +3,23 @@ title: Designing Microsoft Azure Infrastructure Solutions(베타)
 metadata:
   title: '시험 AZ-305: Designing Microsoft Azure Infrastructure Solutions(베타)'
   description: '시험 AZ-305: Designing Microsoft Azure Infrastructure Solutions(베타)'
-  ms.openlocfilehash: 6bbb41f483d4bf353859766cdaec2a1a79b81496
-  ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
-  ms.translationtype: HT
+  ms.openlocfilehash: 51fbd8259f9b79739b028c9565794c00ad001440
+  ms.sourcegitcommit: 6491474c7565815a27be28fa0c264bf6c093f5b4
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/18/2021
-  ms.locfileid: "135412701"
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "135540234"
 uid: exam.az-305
 displayName: AZ-305
 summary: >-
   이 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼 및 거버넌스 같은 IT 운영에 대한 고급 경험과 지식을 갖추고 있어야 합니다. 이 역할을 담당하는 전문가는 각 영역에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 Azure 관리, Azure 개발 및 DevOps 프로세스 관련 경험이 있어야 합니다.
 
 
-  [Microsoft Certified: Azure Solutions Architect Expert](/learn/certifications/azure-solutions-architect/) 인증을 획득하려면 다음 요구 사항을 충족해야 합니다.
+  [Microsoft Certified: Azure 솔루션 아키텍트 Expert](/learn/certifications/azure-solutions-architect/) 인증을 받으려면 다음 요구 사항을 완료합니다.
 
-  - [Microsoft Certified: Azure Solutions Architect Expert](/learn/certifications/azure-solutions-architect/) 인증을 획득하고 [시험 AZ-305](/learn/certifications/exams/az-305)**를 통과하거나**
+  - [Microsoft Certified: Azure Administrator Associate](/learn/certifications/azure-administrator/) 인증을 획득하고 [시험 AZ-305](/learn/certifications/exams/az-305)를 통과 **하거나**
 
-  - [시험 AZ-303](/learn/certifications/exams/az-303) 및 [시험 AZ-304](/learn/certifications/exams/az-304)**를 통과하거나(2022년 3월 31일에 사용 중지되기 전에)**
+  - [AZ-303](/learn/certifications/exams/az-303) 시험 및 [AZ-304 시험](/learn/certifications/exams/az-304) *통과(2022년 3월 31일에 사용이 사용이 허가되기 전)* **또는**
 
   - [시험 AZ-303](/learn/certifications/exams/az-303)*(2022년 3월 31일에 중단되기 전에)* 및 [시험 AZ-305](/learn/certifications/exams/az-305) 통과합니다.
 
@@ -28,7 +28,7 @@ summary: >-
 subTitle: 이 시험은 ID, 거버넌스 및 모니터링 솔루션 설계, 데이터 스토리지 솔루션 설계, 비즈니스 연속성 솔루션 설계와 인프라 솔루션 설계 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-305&examname=Exam%20AZ-305:%20Designing%20Microsoft%20Azure%20Infrastructure%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-305
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-305&examname=Exam%20AZ-305:%20Designing%20Microsoft%20Azure%20Infrastructure%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-305
 locales:
 - en
 levels:

@@ -1,27 +1,40 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure Data Fundamentals'
+title: Microsoft Azure 데이터 기본 사항
 metadata:
-  title: 'Exam DP-900: Microsoft Azure Data Fundamentals'
-  description: 'Exam DP-900: Microsoft Azure Data Fundamentals'
+  title: '시험 DP-900: Microsoft Azure Data Fundamentals'
+  description: '시험 DP-900: Microsoft Azure Data Fundamentals'
+  ms.openlocfilehash: 74c0070e7435b94b459791dd6cc52f0527540bc1
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694637"
 uid: exam.dp-900
 displayName: DP-900
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 10월 25일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 10월 25일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
-  본 시험의 응시자는 핵심 데이터 개념과 관련 Microsoft Azure 데이터 서비스를 사용하여 구현하는 방법에 대한 기초 지식이 있어야 합니다.
 
-  본 시험은 클라우드에서 데이터를 사용하기 시작하는 응시자를 대상으로 합니다.
+  이 시험의 후보에게는 핵심 데이터 개념과 Microsoft Azure 데이터 서비스를 사용하여 구현되는 방법에 대한 기본 지식이 있어야 합니다.
+
+
+  이 시험은 클라우드에서 데이터 작업을 시작하는 후보를 대상으로 합니다.
+
 
   응시자는 관계형 및 비관계형 데이터의 개념과 트랜잭션 또는 분석과 같은 다양한 유형의 데이터 워크로드에 익숙해야 합니다.
 
-  Azure Data Fundamentals는 Azure Database Administrator Associate 또는 Azure Data Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 인증에 대한 필수 조건은 아닙니다.
-subTitle: '핵심 데이터 개념, Azure에서 관계형 데이터 관련 작업 방법, Azure에서 비관계형 데이터 관련 작업 방법 및 Azure에서 분석 워크로드에 대해 설명할 수 있음을 입증합니다.'
+
+  Azure Data Fundamentials는 Azure Database Administrator Associate 또는 Azure Data Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 인증에 대한 필수 조건은 아닙니다.
+
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+subTitle: 핵심 데이터 개념을 설명할 수 있음을 증명합니다. Azure에서 관계형 데이터로 작업하는 방법 Azure에서 비관계형 데이터로 작업하는 방법 및 Azure의 분석 워크로드.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
 practiceTestUrl: https://www.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:
@@ -41,14 +54,17 @@ locales:
 levels:
 - beginner
 skills:
-- 이 시험의 내용은 2021년 10월 25일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.  
-- 핵심 데이터 개념 설명 (15-20%)
-- Azure에서 관계형 데이터로 작업하는 방법 설명 (25-30%)
-- Azure에서 비관계형 데이터로 작업하는 방법 설명 (25-30%)
-- Azure에서 분석 워크로드 설명 (25-30%)
+- The content of this exam was updated on October 25, 2021. Please download the exam skills outline below to see what changed.
+- Describe core data concepts (15-20%)
+- Describe how to work with relational data on Azure (25-30%)
+- Describe how to work with non-relational data on Azure (25-30%)
+- Describe an analytics workload on Azure (25-30%)
 roles:
-- data-engineer
 - database-administrator
+- data-analyst
+- data-engineer
+- developer
+- student
 products:
 - azure
 courses:
@@ -71,7 +87,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -80,10 +96,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

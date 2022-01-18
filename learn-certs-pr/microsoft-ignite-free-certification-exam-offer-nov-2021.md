@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Ignite Cloud Skills Challenge – 2021년 11월: 무료 인증 시험 | Microsoft Docs'
-description: 'Microsoft Ignite Cloud Skills Challenge – 2021년 11월: 무료 인증 시험'
+title: 'Microsoft Ignite Cloud Skills Challenge – November 2021: 무료 인증 시험 | Microsoft Docs'
+description: 'Microsoft Ignite Cloud Skills Challenge – November 2021: 무료 인증 시험'
 documentationcenter: NA
 author: venkatorugantimsft
 ms.topic: article
@@ -10,21 +10,21 @@ ms.date: 11/01/2021
 ms.author: venkato
 ms.prod: non-product-specific
 ms.openlocfilehash: cb0426b4288b7c229c0b7b7e34553c925dea07c1
-ms.sourcegitcommit: d80173e30006986f164a370573cac47d596ddb52
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/06/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "133742902"
 ---
-# <a name="microsoft-ignite-cloud-skills-challenge--november-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge – 2021년 11월: 무료 인증 시험
+# <a name="microsoft-ignite-cloud-skills-challenge--november-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge – November 2021: 무료 인증 시험
 
-[Microsoft Ignite Cloud Skills Challenge - 2021년 11월](https://aka.ms/ignitecsc)을 완료해 주셔서 감사합니다. 하나 이상의 챌린지를 완료한 모든 참가자에게는 [사용 약관](#terms-and-conditions)에 따라 계속해서 기술을 향상시키고 고용주와 동료에게 기술 전문 지식을 입증하는 데 도움이 되는 무료 인증 시험이 제공됩니다.
+[2021 년 11 월 Microsoft Ignite 클라우드 기술 챌린지](https://aka.ms/ignitecsc)를 완료 해 주셔서 감사 합니다. 하나 이상의 챌린지를 완료한 모든 참가자에게는 [사용 약관](#terms-and-conditions)에 따라 계속해서 기술을 향상시키고 고용주와 동료에게 기술 전문 지식을 입증하는 데 도움이 되는 무료 인증 시험이 제공됩니다.
 
 ## <a name="details"></a>세부 정보
 
-무료 인증 시험은 2021년 12월 7일부터 신청할 수 있으며 2022년 3월 15일까지 유효합니다. 해당 기간 내에 [적격 시험](#eligible-exams)을 예약하지 않고 참가하지 않으면 제안을 무료 시험으로 교환할 수 없습니다.
+무료 인증 시험은 2021년 12월 7일부터 신청할 수 있으며 2022년 3월 15일까지 유효합니다. 해당 기간 내에 [적격 시험](#eligible-exams)을 예약하고 응시하지 않으면 제안을 사용할 수 없습니다.
 
-## <a name="how-to-claim-your-free-exam"></a>무료 시험을 요청하는 방법
+## <a name="how-to-claim-your-free-exam"></a>무료 시험을 신청하는 방법
 
 다음은 무료 시험을 청구하는 방법에 대한 단계별 지침입니다.
 
@@ -34,7 +34,7 @@ ms.locfileid: "133742902"
 ![Pearson VUE 일정 예약 단추를 클릭하여 온라인 등록 프로세스 시작](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-1.png)
 <br/>
 <br/>
-2. 기존 Microsoft 인증 프로필에 로그인하거나 Microsoft 계정을 사용하여 인증 프로필을 만듭니다.
+2. 기존 Microsoft 인증 프로필에 로그인 하거나 Microsoft 계정을 사용 하 여 계정을 만드세요.
 <br/>
 <br/>
 ![Microsoft 인증 프로필에 로그인](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-2.png)
@@ -87,13 +87,13 @@ ms.locfileid: "133742902"
 
 ## <a name="certification-support"></a>인증 지원
 
-시험 예약과 관련된 문제가 있다면 [Microsoft 인증 지원](https://aka.ms/CertificationSupport)을 통해 도움을 받으세요. 포럼의 조정자는 업무일 하루만에 응답할 것입니다.
+시험을 예약 하는 문제에 대 한 자세한 내용은 [Microsoft 인증 지원](https://aka.ms/CertificationSupport) 을 참조 하세요. 포럼의 조정자는 업무일 하루만에 응답할 것입니다.
 
 ## <a name="eligible-exams"></a><a name="eligible-exams"></a> 적격 시험
 
 적격 시험에는 아래에 나열된 시험만 포함됩니다.
 
-| 토픽별 | 시험 |
+| 항목별 | 시험 |
 | --- | --- |
 | Azure | [AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)<br/>[AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[AZ-800: Administering Windows Server Hybrid Core Infrastructure](/learn/certifications/exams/az-800)<br/>[AZ-801: Configuring Windows Server Hybrid Advanced Services](/learn/certifications/exams/az-801) |
 | Dynamics 365 | [MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330) |
@@ -115,54 +115,54 @@ ms.locfileid: "133742902"
 
 **Q: Microsoft Ignite에 등록했지만 Cloud Skills Challenge에 등록하거나 완료하지 않은 경우에도 이 제안을 계속 청구할 수 있습니까?**
 
-**A:** 아니요, 이 제안은 Microsoft Ignite Cloud Skills Challenge – 2021년 내의 챌린지 중 하나를 완료한 사람에게만 적용됩니다.
+**A:** 아니요,이 제품은 Microsoft Ignite 클라우드 기술 챌린지 – 2021 내에서 문제 중 하나를 완료 한 사용자 에게만 적용 됩니다.
 
-### <a name="scheduling-your-free-exam"></a>무료 시험 일정 예약하기
+### <a name="scheduling-your-free-exam"></a>무료 시험 예약
 
-**Q: 2022년 3월 15일 또는 그 이전에 시험에 응시해야 하나요?**
+**Q: 2022 년 3 월 15 일 이전에 시험을 수행 해야 하나요?**
 
-**A:** 예, 2022년 3월 15일 또는 그 이전에 시험에 응시해야 합니다.
+**A:** 예, 2022 년 3 월 15 일 이전에 시험을 수행 해야 합니다.
 
 **Q: 무료 시험을 예약하는 데 문제가 있습니다. 어디에서 지원을 받을 수 있나요?**
 
-**A:** [Microsoft 인증 지원](https://aka.ms/CertificationSupport)에 문의하여 도움을 받을 수 있습니다. 조정자는 업무일 하루만에 응답할 것입니다.
+**A:** [Microsoft 인증 지원](https://aka.ms/CertificationSupport) 에 문의 하 여 도움을 받을 수 있습니다. 조정자는 업무일 하루만에 응답할 것입니다.
 
-**Q: 예약된 시험을 직접 보거나 온라인으로 응시할 수 있는 옵션이 있습니까?**
+**Q: 예약된 시험에 직접 응시하거나 온라인으로 응시할 수 있는 옵션이 있나요?**
 
-**A:** 예, 예약된 시험을 현지 테스트 센터(이용 가능한 경우)에서 Pearson Vue를 통해 직접 응시하거나 [온라인](/learn/certifications/online-exams)을 통해 응시할 수 있는 옵션이 있습니다. COVID-19 제한으로 인해 테스트 센터를 일시적으로 닫을 수 있습니다. 현재 [Pearson Vue의 테스트 응시 가능성 정보](https://home.pearsonvue.com/coronavirus-update)에서 최신 정보를 확인하세요.
+**A:** 예, 로컬 테스트 센터 (사용 가능한 경우) 또는 [온라인](/learn/certifications/online-exams)을 통해 사용자에 게 피어슨 vue를 통해 예약 된 시험을 수행할 수 있습니다. COVID-19 제한으로 인해 테스트 센터를 일시적으로 닫을 수 있습니다. [피어슨 Vue의 현재 테스트 가용성 정보](https://home.pearsonvue.com/coronavirus-update) 를 최신 상태로 유지 합니다.
 
-### <a name="cancellation-and-reschedule-policy"></a>취소 및 일정 조정 정책
+### <a name="cancellation-and-reschedule-policy"></a>취소 및 일정 변경 정책
 
-**Q: 필요한 경우 이 제안에서 시험 일정을 변경할 수 있습니까?**
+**Q: 필요한 경우 이 제안에서 시험 일정을 변경할 수 있나요?**
 
 **A:** 예, 시험 일정을 변경할 수 있지만 제안 만료 전에 해야 합니다. 자세한 내용은 [취소 및 일정 변경 정책](/learn/certifications/exam-reschedule-and-cancellation-policy)을 참조하세요.
 
 **Q: 시험 일정을 변경하거나 예약을 취소할 경우 수수료가 부과되나요?**
 
-**A:** 취소하기 전에 충분한 통지를 제공하지 않으면 무료 시험 제안이 박탈될 수 있습니다. 일정을 변경하기 전에 충분한 통지를 제공하지 않으면 수수료가 부과됩니다. 자세한 내용은 [취소 및 일정 변경 정책](/learn/certifications/exam-reschedule-and-cancellation-policy)을 참조하세요.
+**A:** 취소하기 전에 충분히 통지하지 않으면 무료 시험 제안을 사용하지 못하게 될 수 있습니다. 일정을 변경하기 전에 충분한 통지를 제공하지 않으면 수수료가 부과됩니다. 자세한 내용은 [취소 및 일정 변경 정책](/learn/certifications/exam-reschedule-and-cancellation-policy)을 참조하세요.
 
-**Q: 예약한 시험을 치르지 않고 일정을 변경하거나 취소하지 않은 경우에는 어떻게 되나요?**
+**Q: 예약한 시험에 응시하지 않았고 일정을 변경하거나 취소하지 않은 경우에는 어떻게 되나요?**
 
-**A:** 시험 일정을 놓치고 [취소 및 일정 변경 정책](/learn/certifications/exam-reschedule-and-cancellation-policy)에 따라 예약 일정을 변경하거나 취소하지 않으면 본 제안에서 무료 시험을 박탈할 수 있습니다.
+**A:** 예약한 시험에 응시하지 않고 [취소 및 일정 변경 정책](/learn/certifications/exam-reschedule-and-cancellation-policy)에 따라 시험 일정을 변경하거나 취소하지 않으면 이 제안의 무료 시험을 사용하지 못하게 될 수 있습니다.
 
 ### <a name="retake-policy"></a>재응시 정책
 
-**Q: 무료 인증 시험 제안을 사용하여 응시한 첫 번째 시험에 불합격한 경우 무료로 시험에 재응시할 수 있나요?**
+**Q: 무료 인증 시험 제안을 사용한 첫 시험에 불합격한 경우 무료로 시험에 다시 응시할 수 있나요?**
 
-**A:** 아니요. 이 제안은 한 번만 시도할 수 있으며, 시험 재응시는 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](/learn/certifications/exam-retake-policy)을 참조하세요.
+**A:** 아니요, 이 제안은 1회만 유효하며 시험에 재응시하려면 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](/learn/certifications/exam-retake-policy)을 참조하세요.
 
 ## <a name="terms-and-conditions"></a><a name="terms-and-conditions"></a> 사용 약관
 
-- Microsoft Ignite Cloud Skills Challenge – 2021년 11월은 2021년 11월 2일 오후 4:00 UTC(16:00)에 시작하여 2021년 11월 30일 오후 4:00 UTC(16:00)에 종료되었습니다.
-- Microsoft Ignite Cloud Skills Challenge – 2021년 11월에 등록하는 과정에서 이메일 주소를 입력해야 합니다. 무료 인증 세부 정보를 제공하는 이메일 주소를 통해 연락을 받게 됩니다.
-- 이 시험 제안은 Microsoft Ignite Cloud Skills Challenge – 2021년 11월에서 하나의 챌린지를 완료한 적격 개인에게 제공됩니다.
-- 완료한 챌린지 수에 관계없이 1명당 하나의 제안만 청구할 수 있습니다.
-- 정부 직원은 무료 인증 시험으로 교환하기 전에 관련 정책 및 법률에 따라 참여가 허용되는지 고용주에게 확인해야 합니다.
-- 이 시험 제안은 공인 Pearson Vue 테스트 센터 또는 Pearson Vue 온라인 감독 사이트를 통해 제공되는 1개의 Microsoft 인증 시험을 치르는 데 사용할 수 있습니다.
-- 이 시험 제안은 시험마다 다르며 일부 Microsoft 시험으로만 교환할 수 있습니다. [적격 시험](#eligible-exams)을 참조하세요.
+- Microsoft Ignite 클라우드 기술 과제 – 11 월 2 일 오후 2021 2021에 4:00 PM UTC (16:00)에서 년 11 월 30 일에 시작 되 고 2021 년 11 월 30 일 (4:00)에 종료 됩니다.
+- Microsoft Ignite Cloud Skills Challenge – November 2021에 등록하는 과정에서 메일 주소를 입력해야 합니다. 입력한 메일 주소로 무료 인증 세부 정보를 받게 됩니다.
+- 이 시험 제안은 Microsoft Ignite Cloud Skills Challenge – November 2021에서 하나의 챌린지를 완료한 적격 개인에게 제공됩니다.
+- 완료한 챌린지의 수와 관계없이 사용자당 하나의 제품을 요청할 수 있습니다.
+- 무료 인증 시험에 응시하기 전에 정부 직원은 해당 고용주를 확인하여 참여를 허용하는지와 적용 가능한 정책 및 법률을 준수하는지 확인해야 합니다.
+- 이 시험 제안을 사용하여 공인 Pearson Vue 테스트 센터 또는 Pearson Vue 온라인 감독 사이트를 통해 제공되는 Microsoft 인증 시험 1회에 응시할 수 있습니다.
+- 이 시험 제안은 시험별로 제공되며 일부 Microsoft 시험에만 사용할 수 있습니다. [적격 시험](#eligible-exams)을 참조하세요.
 - 이 시험 제안 사용 기간은 2021년 12월 7일에 시작하여 2022년 3월 15일에 만료됩니다.
-- 이 시험 제안의 만료일은 어떠한 경우에도 연장할 수 없습니다.
-- 이 시험 제안은 한 번만 제공될 수 있습니다.
-- 이 시험 제안은 상환되거나 현금, 크레딧 또는 환불로 교환할 수 없습니다.
+- 이 시험 제안 만료 날짜는 어떤 경우에도 연장할 수 없습니다.
+- 이 시험 제안은 한 번만 사용할 수 있습니다.
+- 이 시험 제안은 현금, 크레딧 또는 환불로 사용되거나 교환될 수 없습니다.
 - 이 시험 제안은 양도할 수 없으며 변경, 수정 또는 양도할 경우 무효가 됩니다.
-- 쿠바, 이란, 북한, 러시아, 시리아, 크리미아 지역 및 금지 대상 국가에서는 무효입니다.
+- 쿠바, 이란, 북한, 러시아, 시리아, 크림반도와 금지된 지역에서는 무효입니다.

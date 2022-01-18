@@ -10,10 +10,10 @@ ms.date: 04/21/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: f0671d53b0c82bbc6c82c56c7e29a8e5159aca6a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111667"
 ---
 # <a name="global-knowledge---a-world-leader-in-innovative-comprehensive-tech-training"></a>Global Knowledge - 혁신적이고 포괄적인 기술 교육 분야의 세계적 리더

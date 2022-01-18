@@ -1,13 +1,13 @@
 ### YamlMime:Course
 title: 'Microsoft Azure 데이터 기본 사항 '
 metadata:
-  title: '과정 DP-900T00-A: Microsoft Azure Data Fundamentals '
-  description: '과정 DP-900T00-A: Microsoft Azure Data Fundamentals '
+  title: '과정 DP-900T00--A: Microsoft Azure 데이터 기본 사항 '
+  description: '과정 DP-900T00--A: Microsoft Azure 데이터 기본 사항 '
   ms.openlocfilehash: 30a879d12a0ebad9508f920812add478f391f2bf
-  ms.sourcegitcommit: df42898ed639d3feba24f26e3268c74b3950df7d
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/17/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132689167"
 uid: course.dp-900t00
 courseNumber: DP-900T00
@@ -38,15 +38,15 @@ summary: >-
 
   본 과정의 대상 그룹은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓으려는 개인입니다.
 prerequisitesSection: >-
-  이 과정을 수강하는 데 필요한 선행 필수 인증은 없습니다. 성공적인 Azure Data Fundamentals 학생은 컴퓨팅 및 인터넷 개념에 대해 어느 정도 기본적으로 알고 있으며 데이터에서 인사이트를 추출하는 데 대한 관심이 있습니다.
+  이 과정을 수강하기 전에 필수 조건 인증은 필요하지 않습니다. 성공적인 Azure Data Fundamentals 학생은 컴퓨팅 및 인터넷 개념에 대해 어느 정도 기본적으로 알고 있으며 데이터에서 인사이트를 추출하는 데 대한 관심이 있습니다.
 
 
   특히:&nbsp; &nbsp;
-   * [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&amp;ui)와 같은 웹 브라우저 사용 경험
+   * [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&amp;ui)와 같은 웹 브라우저 사용 경험.
    * 스프레드시트에서 데이터 테이블 작업 및 차트를 사용한 데이터 시각화와 같은 기본 데이터 관련 개념에 대한 이해.
    * 실습 탐색을 통해 배우려는 의지.
 outlineSection: >-
-  ### <a name="module-1-explore-core-data-concepts"></a>모듈 1: 핵심 데이터 개념 탐색
+  ### <a name="module-1-explore-core-data-concepts"></a>모듈 1: 핵심 데이터 개념 살펴보기
 
 
   학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 관계형, 비관계형, 빅 데이터 및 분석 등 핵심 데이터 개념을 식별 및 설명하고 Azure로 이러한 기술을 구현하는 방법을 살펴봅니다. 학생들은 데이터의 세계에서 역할, 작업 및 책임을 살펴봅니다.
@@ -71,7 +71,7 @@ outlineSection: >-
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Azure 내 클라우드 데이터 서비스에 대한 기본 지식 보유
@@ -103,13 +103,13 @@ outlineSection: >-
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Azure의 관계형 데이터 서비스 설명
 
 
-  *   Azure의 관계형 데이터베이스 프로비전 및 배포 설명
+  *   Azure의 관계형 데이터베이스 프로비저닝 및 배포 설명
 
 
   *   Azure에서 클라우드 데이터 솔루션을 통한 관계형 데이터 쿼리
@@ -119,7 +119,7 @@ outlineSection: >-
   ### <a name="module-3-explore-non-relational-data-in-azure"></a>모듈 3: Azure에서 비관계형 데이터 탐색
 
 
-  학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 Microsoft Azure를 사용하여 비관계형 데이터 서비스, 비관계형 데이터베이스 프로비전 및 배포, 비관계형 데이터 저장소를 살펴봅니다.
+  학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생은 Microsoft Azure를 사용하여 비관계형 데이터 서비스, 비관계형 데이터베이스 프로비저닝 및 배포, 비관계형 데이터 저장소를 살펴봅니다.
 
 
   #### <a name="lessons"></a>단원
@@ -128,27 +128,27 @@ outlineSection: >-
   *   Azure에서 비관계형 데이터 서비스 살펴보기
 
 
-  *   Azure에서 비관계형 데이터 서비스 프로비전 및 배포 살펴보기
+  *   Azure에서 비관계형 데이터 서비스 프로비저닝 및 배포 살펴보기
 
 
   *   Azure의 비관계형 데이터 저장소 관리
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Azure의 비관계형 데이터 서비스 설명
 
 
-  *   Azure에서 비관계형 데이터베이스 프로비전 및 배포 설명
+  *   Azure에서 비관계형 데이터베이스 프로비저닝 및 배포 설명
 
 
   *   Azure에서 비관계형 데이터 저장소 설명
 
 
 
-  ### <a name="module-4-explore-modern-data-warehouse-analytics-in-azure"></a>모듈 4: Azure에서 최신 데이터 웨어하우스 분석 탐색
+  ### <a name="module-4-explore-modern-data-warehouse-analytics-in-azure"></a>모듈 4: Azure에서 최신 데이터 웨어하우스 분석 살펴보기
 
 
   학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션을 살펴봅니다. 학생들은 Azure Synapse Analytics, Azure Databricks 및 Azure HDInsight를 살펴봅니다. 학생들은 구성 요소 및 함께 작동하는 방법을 포함한 Power BI 개념을 학습합니다.
@@ -167,10 +167,10 @@ outlineSection: >-
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션 설명
+  *   Azure에서 데이터 분석 솔루션을 빌드할 때 사용 가능한 처리 옵션 설명
 
 
   *   Azure Synapse Analytics, Azure Databricks, Azure HDInsight 설명

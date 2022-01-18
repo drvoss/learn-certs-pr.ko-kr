@@ -10,10 +10,10 @@ ms.date: 10/28/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: b5d9410a82179741509d5699068975374ba5c8e1
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111679"
 ---
 # <a name="attending-microsoft-ignite-you39ll-want-to-stop-by-the-microsoft-learn-booth"></a>Microsoft Ignite를 수강합니까? Microsoft Learn 부스를 방문하세요! 

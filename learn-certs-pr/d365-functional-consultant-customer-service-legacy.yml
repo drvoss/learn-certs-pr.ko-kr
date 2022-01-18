@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (Legacy)'
   description: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 요구를 예측하는 실용적인 통찰력을 얻습니다.
   ms.openlocfilehash: 7d1cd8f0bb8dcff9b45f981306326e8de954d478
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132106901"
 uid: certification.d365-functional-consultant-customer-service-erlr
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -92,5 +92,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: badges.md

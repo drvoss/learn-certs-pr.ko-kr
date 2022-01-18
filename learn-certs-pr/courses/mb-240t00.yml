@@ -1,13 +1,13 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Field Service
 metadata:
-  title: '과정 MB-240T00-A: Microsoft Dynamics 365 Field Service'
-  description: '과정 MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  title: '과정 MB-240T00--A: Microsoft Dynamics 365 Field Service'
+  description: '과정 MB-240T00--A: Microsoft Dynamics 365 Field Service'
   ms.openlocfilehash: c429a2ccc34514f303b325edc9eb8f8f70531c6e
-  ms.sourcegitcommit: df42898ed639d3feba24f26e3268c74b3950df7d
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/17/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132689178"
 uid: course.mb-240t00
 courseNumber: MB-240T00
@@ -38,10 +38,10 @@ summary: >-
 
   본 과정은 대규모 고객에게 현장 서비스 솔루션을 제공한 경험이 있거나 관심이 있는 IT 전문가를 대상으로 합니다.
 outlineSection: >-
-  ### <a name="module-1-configure-field-service"></a>모듈 1: Field Service 구성
+  ### <a name="module-1-configure-field-service"></a>모듈 1: 필드 서비스 구성
 
 
-  이 입문 단계 모듈에서는 예약 가능한 리소스를 포함하여 Dynamics 365 Field Service의 주요 개념을 소개합니다.
+  이 소개 모듈에서는 예약 가능한 리소스를 포함하여 Dynamics 365 Field Service의 주요 개념을 소개합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -50,20 +50,20 @@ outlineSection: >-
   *   Microsoft Dynamics 365 Field Service 구성
 
 
-  *   예약 가능 리소스 구성
+  *   예약 가능한 리소스 구성
 
 
   *   팀, 시설 및 리소스 풀 예약
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Field Service 구성
+  *   필드 서비스 구성
 
 
-  *   예약 가능 리소스 구성
+  *   예약 가능한 리소스 구성
 
 
   *   팀, 시설 및 리소스 풀 구성 및 예약
@@ -89,45 +89,45 @@ outlineSection: >-
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   작업 주문, 계약, 재고 및 구매 처리
 
 
-  *   인시던트 유형 관리
+  *   인시던트 유형
 
 
   *   검사 만들기 및 관리
 
 
 
-  ### <a name="module-3-schedule-and-dispatch-work-orders"></a>모듈 3: 작업 주문 예약 및 발송
+  ### <a name="module-3-schedule-and-dispatch-work-orders"></a>모듈 3: 작업 주문 예약 및 디스패치
 
 
-  이 모듈에서는 일정 게시판을 사용하여 작업 주문을 예약하고 발송하는 방법을 알아봅니다.
+  이 모듈에서는 일정 보드를 사용하여 작업 주문을 예약하고 발송하는 방법을 알아봅니다.
 
 
   #### <a name="lessons"></a>단원
 
 
-  *   일정 관리 옵션
+  *   일정 옵션 관리
 
 
-  *   일정 게시판 사용자 정의
+  *   일정 보드 사용자 정의
 
 
-  *   RSO(리소스 일정 관리 최적화) 배포
+  *   RSO(리소스 예약 최적화) 배포
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   작업 오더 일정 설정 및 배포하기
+  *   작업 주문 예약 및 디스패치
 
 
-  *   일정 게시판 사용자 정의
+  *   일정 보드 사용자 정의
 
 
   *   RSO 배포
@@ -149,17 +149,17 @@ outlineSection: >-
   *   모바일 앱 사용자 지정 및 구성
 
 
-  *   Remote Assist 통합
+  *   통합 Remote Assist
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Field Service 모바일 앱 사용자 지정 및 구성
 
 
-  *   Remote Assist 통합
+  *   통합 Remote Assist
 
 
 
@@ -172,27 +172,27 @@ outlineSection: >-
   #### <a name="lessons"></a>단원
 
 
-  *   Field Service 작업 주문 구성
+  *   현장 서비스 작업 주문 구성
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   작업 주문 구성
 
 
-  *   재고 관리 및 창고 관리를 사용하여 재고 관리
+  *   재고 관리 및 웨어하우스 관리를 사용하여 인벤토리 관리
 
 
-  *   재고 조정 및 이동
+  *   인벤토리 조정 및 전송
 
 
 
   ### <a name="module-6-implement-assets-and-connected-devices"></a>모듈 6: 자산 및 연결된 디바이스 구현
 
 
-  이 모듈에서는 Connected Field Service, 고객 자산 및 IoT 데이터에서 작업 주문 만들기를 소개합니다.
+  이 모듈에서는 연결된 필드 서비스, 고객 자산 및 IoT 데이터에서 작업 주문 만들기를 소개합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -205,20 +205,20 @@ outlineSection: >-
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   고객 자산 만들기 및 연결
 
 
-  *   Connected Field Service를 사용하여 IoT 데이터에서 작업 주문 만들기
+  *   연결된 필드 서비스를 사용하여 IoT 데이터에서 작업 주문 만들기
 
 
 
-  ### <a name="module-7-microsoft-power-platform-and-field-service"></a>모듈 7: Microsoft Power Platform 및 Field Service
+  ### <a name="module-7-microsoft-power-platform-and-field-service"></a>모듈 7: Microsoft Power Platform 및 필드 서비스
 
 
-  이 모듈에서는 Microsoft Power Platform을 사용하여 Field Service 솔루션을 개선하는 사용자 지정 앱을 만드는 방법을 알아봅니다.
+  이 모듈에서는 Microsoft Power Platform 사용하여 사용자 지정 앱을 만들어 Field Service 솔루션을 개선하는 방법을 알아봅니다.
 
 
   #### <a name="lessons"></a>단원
@@ -231,7 +231,7 @@ outlineSection: >-
 
 
 
-  본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Dynamics 365 Field Service용 사용자 지정 앱 만들기

@@ -4,10 +4,10 @@ metadata:
   title: '과정 DP-420T00--A: Microsoft Azure Cosmos DB를 사용하여 클라우드 네이티브 애플리케이션 설계 및 구현'
   description: '과정 DP-420T00--A: Microsoft Azure Cosmos DB를 사용하여 클라우드 네이티브 애플리케이션 설계 및 구현'
   ms.openlocfilehash: 7800ccfa1f5050f7ee40d93eb7d9518b05aa8bf6
-  ms.sourcegitcommit: c116073237510c2d0096e8ace7a60c3c2384e870
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/12/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132382815"
 uid: course.dp-420t00
 courseNumber: DP-420T00

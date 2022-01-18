@@ -10,10 +10,10 @@ ms.date: 08/09/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 1543ad3c8c18654f9d3635b0066ac70669c1a9a4
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111529"
 ---
 # <a name="revisiting-a-newish-question-type-understanding-questions-that-you-can39t-review"></a>새로운 문제 유형 다시 보기: 검토할 수 없는 문제 이해하기

@@ -3,11 +3,11 @@ title: Microsoft Azure 네트워킹 솔루션 설계 및 구현
 metadata:
   title: '과정 AZ-700T00--A: Microsoft Azure 네트워킹 솔루션 설계 및 구현'
   description: '과정 AZ-700T00--A: Microsoft Azure 네트워킹 솔루션 설계 및 구현'
-  ms.openlocfilehash: d7d76778aed0b0b0411cf60f9501d492d2994092
-  ms.sourcegitcommit: 9692ea317681926114208c9658ff58ac8e8d36c4
-  ms.translationtype: HT
+  ms.openlocfilehash: c51685f381e488de03c54ee427a3c106a6de2b6b
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/02/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133448668"
 uid: course.az-700t00
 courseNumber: AZ-700T00
@@ -124,6 +124,9 @@ outlineSection: >-
   ####
 
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
   *   가상 네트워크 구현
 
 
@@ -180,6 +183,9 @@ outlineSection: >-
   ####
 
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
   *   사이트 간 VPN 연결 디자인 및 구현
 
 
@@ -233,6 +239,9 @@ outlineSection: >-
   ####
 
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
   *   Expressroute 설계 및 구현
 
 
@@ -274,6 +283,9 @@ outlineSection: >-
   ####
 
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
   *   Azure Laod Balancer 설계 및 구현
 
 
@@ -310,6 +322,9 @@ outlineSection: >-
 
 
   ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Azure Application Gateway 디자인 및 구현
@@ -365,6 +380,9 @@ outlineSection: >-
   ####
 
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
   *   Azure DDoS 보호 계획 구성 및 모니터링
 
 
@@ -412,6 +430,9 @@ outlineSection: >-
   ####
 
 
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
   *   Private Link 서비스와 프라이빗 엔드포인트 간의 차이점 정의
 
 
@@ -451,6 +472,9 @@ outlineSection: >-
 
 
   ####
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   Azure Monitor를 사용하여 네트워크 상태 경고 및 로깅 구성

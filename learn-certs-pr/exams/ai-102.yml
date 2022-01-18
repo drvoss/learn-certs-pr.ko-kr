@@ -4,10 +4,10 @@ metadata:
   title: '시험 AI-102: Microsoft Azure AI 솔루션 설계 및 구현'
   description: '시험 AI-102: Microsoft Azure AI 솔루션 설계 및 구현'
   ms.openlocfilehash: 183038aa484c42fb2b0c9fa37f14cbf6368a14c9
-  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/30/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133301826"
 uid: exam.ai-102
 displayName: AI-102
@@ -32,7 +32,7 @@ subTitle: 이 시험은 Azure Cognitive Services 솔루션 계획 및 관리, �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
 practiceTestUrl: https://www.mindhub.com/p/MU-AI-102?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
 locales:
 - en
 - ja

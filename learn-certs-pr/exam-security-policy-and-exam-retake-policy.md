@@ -10,10 +10,10 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 481c92497219b66f863d8f19fc2c743d2c88d369
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132106541"
 ---
 # <a name="exam-security-policy-and-exam-retake-policy"></a>시험 보안 정책 및 시험 재응시 정책

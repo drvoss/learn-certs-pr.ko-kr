@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Azure AI Fundamentals'
   description: Azure AI Fundamentals는 Machine Learning 및 인공지능 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 검증합니다.
   ms.openlocfilehash: 1703a99d3be61ba068479422516000049a4c972d
-  ms.sourcegitcommit: 2c1db6d125fa1f6992ec5e35173a89a353dd8543
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/11/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132270557"
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg

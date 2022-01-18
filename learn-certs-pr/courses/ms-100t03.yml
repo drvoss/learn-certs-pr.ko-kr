@@ -4,10 +4,10 @@ metadata:
   title: '과정 MS-100T03-A: Microsoft 365 Identity Management'
   description: '과정 MS-100T03-A: Microsoft 365 Identity Management'
   ms.openlocfilehash: 8dafff81fec9758e24a6c39318692e90d3e1da0d
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107085"
 uid: course.ms-100t03
 courseNumber: MS-100T03-A
@@ -47,9 +47,9 @@ summary: >-
 
   본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
 prerequisitesSection: >-
-  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 같은 역할 기반 관리자 과정을 이수.
+  - 메시지, 팀워크, 보안 및 규정 준수, 협업과 같은 역할 기반 관리자 과정 완료.
 
-  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험
+  - DNS에 능숙하며 Microsoft 365 서비스의 기본적인 기능 사용 경험.
 
   - 일반적인 IT 관행에 대한 능숙한 이해
 outlineSection: >-

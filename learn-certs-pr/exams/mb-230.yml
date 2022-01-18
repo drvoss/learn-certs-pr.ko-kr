@@ -1,40 +1,40 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Customer Service Functional Consultant
+title: Microsoft Dynamics 365 Customer Service 기능 컨설턴트
 metadata:
-  title: '시험 MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant'
-  description: '시험 MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant'
+  title: '시험 MB-230: Microsoft Dynamics 365 Customer Service 기능 컨설턴트'
+  description: '시험 MB-230: Microsoft Dynamics 365 Customer Service 기능 컨설턴트'
   ms.openlocfilehash: e922333e8c5872e0d09d57533f3dfcd584066261
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133078438"
 uid: exam.mb-230
 displayName: MB-230
 summary: >-
   <div>
 
-  <div><font color='red'><strong>이 시험의 내용은 2021년 10월 15일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 10월 15일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
-  <div><font color='red'>참고: 합격 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div>
+  <div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div>
 
   </div>
 
 
-  Microsoft Dynamics 365 Customer Service 기능 컨설턴트는 서비스, 품질, 안정성, 효율성, 고객 만족에 집중하는 옴니채널 솔루션 구현을 담당합니다.
+  Microsoft Dynamics 365 Customer Service 기능 컨설턴트는 서비스, 품질, 안정성, 효율성 및 고객 만족도에 초점을 맞춘 옴니채널 솔루션을 구현하는 업무를 담당합니다.
 
   <br/>
 
 
-  이 전문가는 솔루션 설계자가 제공하거나 솔루션 설계자와의 협업을 통해 제공된 서비스 관리 시각화 및 보고를 구현하고 설계합니다. 고객 참여 관리자와 협업하여 지식 관리, 고객 피드백, 연결된 서비스를 포함한 Microsoft Power Platform 구성 요소를 구현하고 업그레이드합니다.
+  이 전문가는 솔루션 설계자와 공동으로 제공된 서비스 관리 시각화 및 보고서를 구현하고 디자인합니다. 고객 참여 관리자와 협업하여 기술 관리, 고객 피드백 및 연결된 서비스를 비롯한 Microsoft Power Platform 구성 요소를 구현하고 업그레이드합니다.
 
 
-  Dynamics 365 Customer Service 기능 컨설턴트는 업계 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영, 모범 사례에 대한 이해를 포함하여 고객 서비스에 대한 강력한 응용 지식을 갖추고 있어야 합니다. 고객 서비스 전문 지식을 갖춘 기능 컨설턴트는 사례, 지식 관리, 큐, 자격, 리소스 예약, SLA(서비스 수준 계약), 시각화, 연결된 서비스, Microsoft Dynamics 365 Customer Service용 Customer Service Insights 추가 기능, Power Virtual Agents 및 Customer Service용 옴니채널에 대한 심층적인 이해를 포함하여 Dynamics 365 Customer Service를 통해 사용자 요구를 충족하는 방법에 대한 깊이 있는 실무 경험 및 지식이 필요합니다. 기능 컨설턴트의 지식에는 솔루션 아키텍처 및 품질 보증에 대한 기본적인 이해와 함께 Dynamics 365 애플리케이션 제품군과 관련된 고객 서비스 애플리케이션의 역할에 대한 전반적인 이해가 포함되어야 합니다.
-subTitle: 이 시험은 사례 관리 및 지식 관리, 큐, 권한, 서비스 수준 계약 관리, 예약 구현, 고객 서비스를 위한 옴니채널 구현, 분석 및 인사이트 관리, Customer Service 작업 영역 구현, Microsoft Power Platform 구현, Connected Customer Service 구현과 같은 기술적 과제를 수행하는 능력을 측정합니다.
+  Dynamics 365 Customer Service 기능 컨설턴트는 업계 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영 및 모범 사례에 대한 이해를 포함하여 고객 서비스에 대한 강력한 적용 지식을 가지고 있어야 합니다. 고객 서비스 전문 지식을 갖춘 기능 컨설턴트는 사례, 지식 관리, 큐, 자격, 리소스 예약, SLA(서비스 수준 계약), 시각화, 연결된 서비스, 고객 서비스 Insights Microsoft Dynamics 365 고객 서비스용 추가 기능 등에 대한 심층적인 이해를 포함하여 Dynamics 365 고객 서비스를 통해 사용자 요구를 충족하는 방법에 대한 심층적이고 실용적인 경험 및 지식이 필요합니다. Power Virtual Agents 및 Customer Service용 옴니채널. 기능 컨설턴트의 지식에는 Dynamics 365 애플리케이션 제품군과 관련하여 고객 서비스 애플리케이션의 역할에 대한 포괄적인 이해와 솔루션 아키텍처 및 품질 보증에 대한 기본적인 이해가 포함되어야 합니다.
+subTitle: 이 시험에서는 사례 및 기술 관리와 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 큐, 자격 및 서비스 수준 계약 관리 일정 구현; 고객 서비스용 옴니채널 구현 분석 및 인사이트 관리 고객 서비스 작업 영역을 구현합니다. 구현 Microsoft Power Platform; 연결된 고객 서비스를 구현합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 practiceTestUrl: https://www.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
 levels:

@@ -5,10 +5,10 @@ metadata:
   description: '과정 MD-100T01-A: Installing Windows 10'
   iltScheduling: true
   ms.openlocfilehash: f52728f103ec2fff0d65c012f42efd74d4e9382e
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107197"
 uid: course.md-100t01
 courseNumber: MD-100T01-A

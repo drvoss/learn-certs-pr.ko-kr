@@ -10,10 +10,10 @@ ms.date: 12/18/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: f5c565df1decb69c4c00e3645fda5c332ea5f9c6
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111936"
 ---
 # <a name="wherever-you-are-in-your-career-learning-new-skills-should-be-on-your-list"></a>경력 수준에 상관없이, 새 기술 학습은 언제나 고려 대상이어야 합니다

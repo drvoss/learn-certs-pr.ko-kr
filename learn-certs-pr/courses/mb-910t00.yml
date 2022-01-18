@@ -4,10 +4,10 @@ metadata:
   title: '과정 MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
   description: '과정 MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
   ms.openlocfilehash: bcb4fbab9fff918734880aa117ad3e1504fe4b4f
-  ms.sourcegitcommit: 9bfbb97729fa34bbe669b33c8b394f497cfc6cb1
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/06/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132113587"
 uid: course.mb-910t00
 courseNumber: MB-910T00
@@ -53,7 +53,7 @@ outlineSection: >-
   ### <a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>모듈 1: Dynamics 365 마케팅의 기본 사항 알아보기
 
 
-  이 모듈에서는 Dynamics 365 마케팅을 시작하기 전에 고객 참여의 기본 개념과 고객 참여 앱의 공통 기능을 살펴봅니다. 먼저 표준 마케팅 비즈니스 프로세스 및 마케팅에서 이러한 프로세스를 처리하는 방법을 살펴봅니다. 그런 다음에는 제품 기능을 확인합니다. 마지막에는 LinkedIn Campaign Manager, Dynamics 365 Customer Voice, Dynamics 365 Customer Insights 같은 다른 마케팅 앱을 살펴봅니다.
+  이 모듈에서는 Dynamics 365 마케팅을 시작하기 전에 고객 참여의 기본 개념과 고객 참여 앱의 공통 기능을 살펴봅니다. 먼저 표준 마케팅 비즈니스 프로세스 및 마케팅에서 이러한 프로세스를 처리하는 방법을 살펴봅니다. 그런 다음 제품 기능을 검토합니다. 마지막으로 LinkedIn Campaign Manager, Dynamics 365 Customer Voice, Dynamics 365 Customer Insights와 같은 추가 마케팅 앱에 대해 설명합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -311,4 +311,4 @@ outlineSection: >-
   #### <a name="additional-reading"></a>추가 자료
 
 
-  Microsoft Learn에서 이 과정과 관련된 콘텐츠를 검토하세요. 각 제품의 별도 학습 경로가 있는지 확인하세요.
+  Microsoft Learn에서 이 과정에 연결된 콘텐츠를 검토하세요. 각 제품에 대한 별도의 학습 경로가 있는지 확인하세요.

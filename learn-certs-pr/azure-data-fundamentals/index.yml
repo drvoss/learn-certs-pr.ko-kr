@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Azure Data Fundamentals'
   description: Azure Data Fundamentals은 핵심 데이터 개념에 대한 기초 지식과 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 검증합니다.
   ms.openlocfilehash: 7bfb07b1be9c81d02412cf05bf471fdbb1b754b3
-  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/02/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132113186"
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -62,5 +62,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

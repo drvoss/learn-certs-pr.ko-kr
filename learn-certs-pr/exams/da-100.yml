@@ -1,24 +1,36 @@
 ### YamlMime:Examination
-title: Analyzing Data with Microsoft Power BI
+title: Microsoft Power BI를 사용하여 데이터 분석
 metadata:
-  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
-  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
+  title: '시험 DA-100: Analyzing Data with Microsoft Power BI'
+  description: '시험 DA-100: Analyzing Data with Microsoft Power BI'
+  ms.openlocfilehash: 5016abe1012a7407ac79ff84cff6f49bc32443a7
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694619"
 uid: exam.da-100
 displayName: DA-100
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
-  데이터 분석가는 기업이 Microsoft Power BI를 사용하여 데이터 자산 가치를 극대화하도록 합니다. 실무 전문가인 데이터 분석가는 확장성 있는 데이터 모델 설계 및 구축, 데이터 정리 및 변환, 이해하기 쉬운 데이터 시각화로 의미있는 비즈니스 가치를 제공하는 고급 분석 기능의 활성화를 담당합니다. 데이터 분석가는 수직 시장의 주요 비즈니스 이해 관계자와 협력하여 식별된 비즈니스 요구 사항에 따라 관련 정보를 제공합니다.
+
+  데이터 분석가를 통해 기업은 Microsoft Power BI 사용하여 데이터 자산의 가치를 최대화할 수 있습니다. 실무 전문가로서 데이터 분석가는 확장 가능한 데이터 모델을 설계 및 빌드하고, 데이터를 정리 및 변환하고, 이해하기 쉬운 데이터 시각화를 통해 의미 있는 비즈니스 가치를 제공하는 고급 분석 기능을 사용할 책임이 있습니다. 또한 데이터 분석가는 수직 분야의 주요 이해 관계자와 협업하여 식별된 비즈니스 요구 사항에 따라 관련 인사이트를 제공합니다.
+
   <br/>
 
-  데이터 분석가는 온-프레미스 및 클라우드에서 데이터 리포지토리 및 데이터 처리에 관해 기본적으로 이해해야 합니다.
-subTitle: '본 시험은 데이터 준비, 데이터 모델링, 데이터 시각화, 데이터 분석 및 결과물 배포 및 유지 관리와 같은 기술 과제를 수행할 수 있는 능력을 측정합니다.'
+
+  데이터 분석가는 온-프레미스와 클라우드 모두에서 데이터 리포지토리 및 데이터 처리에 대한 기본적인 이해가 있어야 합니다.
+
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+subTitle: 이 시험에서는 다음과 같은 기술 작업을 수행하는 기능을 측정합니다. 데이터 준비; 데이터를 모델링합니다. 데이터를 시각화합니다. 데이터 분석 및 는 배달물을 배포하고 유지 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
 - zh-cn
@@ -36,12 +48,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 데이터 준비 (20-25%)
-- 데이터 모델링 (25-30%)
-- 데이터 시각화 (20-25%)
-- 데이터 분석 (10-15%)
-- 결과물 배포 및 유지 관리 (10-15%)
+- The content of this exam was updated on November 23, 2021. Please download the exam skills outline below to see what changed.
+- Prepare the data (20-25%)
+- Model the data (25-30%)
+- Visualize the data (20-25%)
+- Analyze the data (10-15%)
+- Deploy and maintain deliverables (10-15%)
 roles:
 - data-analyst
 products:
@@ -60,7 +72,7 @@ relatedCertifications:
     uid: certification.data-analyst-associate
 resources:
 - title: 인증으로의 여정
-  description: Data Analyst Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  description: 데이터 분석가 인증을 받는 단계와 준비하는 데 사용할 수 있는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -68,7 +80,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -77,10 +89,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

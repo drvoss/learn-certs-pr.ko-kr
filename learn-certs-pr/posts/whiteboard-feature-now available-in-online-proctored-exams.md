@@ -10,10 +10,10 @@ ms.date: 08/09/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 834da8588d6033fd9177d9f5955dab483c0a10d5
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111918"
 ---
 # <a name="whiteboard-feature-now-available-in-online-proctored-exams"></a>화이트보드 기능을 이제 온라인 감독 시험에서도 사용할 수 있습니다

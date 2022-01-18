@@ -2,34 +2,34 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: Azure AI 엔지니어는 Azure Cognitive Services 및 Azure Applied AI Services를 활용하는 AI 솔루션을 빌드, 관리 및 배포합니다.
+  description: Azure AI 엔지니어는 azure Cognitive Services 및 Azure에서 적용 되는 ai 서비스를 활용 하는 AI 솔루션을 빌드, 관리 및 배포 합니다.
   ms.openlocfilehash: e136658d14177265832e1597648e68dae3d55a59
-  ms.sourcegitcommit: d80173e30006986f164a370573cac47d596ddb52
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/06/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133742847"
 uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ai-102">시험 AI-102 페이지</a>에서 실력 측정 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 인증의 콘텐츠는 2021 년 11 월 30 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 <a href="/learn/certifications/exams/ai-102">시험 AI-102 페이지</a> 에서 기술 측정 문서를 다운로드 하세요.</strong></font><br/><br/></div>
 
 
-  Azure AI Engineer Associate 인증의 응시자는 Azure Cognitive Services 및 Azure Applied AI Services를 활용하는 AI 솔루션을 빌드, 관리 및 배포합니다.
+  Azure AI 엔지니어는 Azure Cognitive Services 및 Azure에서 적용 되는 ai 서비스를 활용 하는 AI 솔루션을 빌드, 관리 및 배포 하는 인증을 연결 합니다.
 
 
-  이러한 책임에는 요구 사항 정의 및 설계부터 개발, 배포, 유지 관리, 성능 조정, 모니터링에 이르기까지 AI 솔루션 개발의 모든 단계에 대한 참여가 포함됩니다.
+  이러한 책임에는 요구 사항 정의 및 설계부터 개발, 배포, 유지 관리, 성능 조정에서 모니터링에 이르기까지 AI 솔루션 개발의 모든 단계에 대한 참여가 포함됩니다.
 
 
   이들은 솔루션 아키텍트와 함께 작업하면서 솔루션 아키텍트의 비전을 번역하고 데이터 과학자, 데이터 엔지니어, IoT 전문가, AI 개발자들과 협력하여 완벽한 엔드투엔드 AI 솔루션을 구축합니다.
 
 
-  이 인증의 응시자는 C# 또는 Python에 능숙해야 하며 REST 기반 API 및 SDK를 사용하여 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝, 대화형 AI 솔루션을 빌드할 수 있어야 합니다.
+  이 인증에 대 한 후보는 c # 또는 Python에서 능숙 해야 하며, REST 기반 Api 및 Sdk를 사용 하 여 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝 및 대화형 AI 솔루션을 빌드할 수 있어야 합니다.
 
 
   응시자들은 Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 스토리지 옵션도 알고 있어야 합니다. 또한 응시자는 책임 있는 AI 원칙을 이해하고 적용할 수 있어야 합니다.
-subTitle: Azure AI 엔지니어는 Azure Cognitive Services 및 Azure Applied AI Services를 활용하는 AI 솔루션을 빌드, 관리 및 배포합니다.
+subTitle: Azure AI 엔지니어는 azure Cognitive Services 및 Azure에서 적용 되는 ai 서비스를 활용 하는 AI 솔루션을 빌드, 관리 및 배포 합니다.
 levels:
 - intermediate
 skills:
@@ -99,5 +99,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 네트워크와 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

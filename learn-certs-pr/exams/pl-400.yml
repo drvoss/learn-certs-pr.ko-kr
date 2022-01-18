@@ -4,15 +4,15 @@ metadata:
   title: '시험 PL-400: Microsoft Power Platform Developer'
   description: '시험 PL-400: Microsoft Power Platform Developer'
   ms.openlocfilehash: 861a3f65908fa1a9f950d15d80cacb14df9340ba
-  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133101968"
 uid: exam.pl-400
 displayName: PL-400
 summary: >-
-  <div><div><font color="red">제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 절차를 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경된 내용은 2021년 11월 24일부터 시험에 반영됩니다.</font><br/><br/></div><div><font color="red"><strong>이 시험의 내용은 2021년 6월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div></div>
+  <div><div><font color="red">제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 절차를 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일부터 시험에 반영됩니다.</font><br/><br/></div><div><font color="red"><strong>이 시험의 내용은 2021년 6월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div></div>
 
 
   본 시험의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현해야 합니다.
@@ -22,11 +22,11 @@ summary: >-
 
 
   응시자는 Power Platform 서비스, JavaScript, TypeScript, C#, HTML, JSON, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET 및 Microsoft Power BI를 포함하는 개발 경험이 있어야 합니다.
-subTitle: 이 시험은 기술 디자인 작성, Microsoft Dataverse 구성, Power Apps 작성 및 구성, 비즈니스 프로세스 자동화 구성, 사용자 경험 확장, 플랫폼 확장, 통합 개발과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다.
+subTitle: 이 시험은 기술 디자인 만들기와 같은 기술 작업을 수행할 수 있는 능력을 측정 합니다. Microsoft Dataverse 구성; Power Apps를 만들고 구성 하 고, 비즈니스 프로세스 자동화를 구성 하 고, 사용자 환경을 확장 하 고, 플랫폼을 확장 하 고, 통합을 개발 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
 practiceTestUrl: https://in.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:

@@ -3,12 +3,12 @@ title: Microsoft Azure 보안 기술
 metadata:
   title: '시험 AZ-500: Microsoft Azure Security Technologies'
   description: '시험 AZ-500: Microsoft Azure Security Technologies'
-  ms.openlocfilehash: 6f5e14d217c69c8fdf0b411dd39a9b8bce6be786
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
-  ms.translationtype: HT
+  ms.openlocfilehash: a122cddff30b6937519d241e4d98c002585d0ff1
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "133079494"
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694718"
 uid: exam.az-500
 displayName: AZ-500
 summary: >-
@@ -34,7 +34,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja

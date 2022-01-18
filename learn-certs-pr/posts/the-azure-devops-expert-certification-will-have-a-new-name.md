@@ -10,10 +10,10 @@ ms.date: 05/07/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: da3a4a9f454441e577ba3f9859ab153152b2992d
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111061"
 ---
 # <a name="the-azure-devops-expert-certification-will-have-a-new-name"></a>Azure DevOps Expert 인증의 새 이름

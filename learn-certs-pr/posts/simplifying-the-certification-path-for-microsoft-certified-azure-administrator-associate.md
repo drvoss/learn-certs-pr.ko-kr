@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 5cdddcea7df9716842ee9b79cbbe6cd21bf14b71
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111078"
 ---
 # <a name="simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate"></a>Microsoft Certified: Azure Administrator Associate 인증 경로 간소화

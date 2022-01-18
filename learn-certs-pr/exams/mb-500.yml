@@ -4,10 +4,10 @@ metadata:
   title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
   description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
   ms.openlocfilehash: afc6fb2a93ee6e2745b3b4e66bd346dba3763630
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132105813"
 uid: exam.mb-500
 displayName: MB-500
@@ -28,7 +28,7 @@ summary: >-
 subTitle: 이 시험은 아키텍처 및 솔루션 디자인 계획, 개발자 도구 적용, AOT 요소 디자인 및 개발, 코드 개발 및 테스트, 보고 구현, 데이터 솔루션 통합 및 관리, 보안 구현 및 성능 최적화와 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
 - ja

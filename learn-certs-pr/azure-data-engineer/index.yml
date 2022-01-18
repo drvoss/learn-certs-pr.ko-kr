@@ -2,28 +2,28 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Azure 데이터 엔지니어는 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 빌드에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
+  description: Azure 데이터 엔지니어는 다양 한 구조화 및 구조화 되지 않은 데이터 시스템의 데이터를 분석 솔루션을 구축 하는 데 적합 한 구조로 통합, 변환 및 통합 합니다.
   ms.openlocfilehash: 00e4f08310ba976118ca22b620cac90e8d09640d
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133078603"
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  Azure Data Engineer Associate 인증 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합, 변환 및 통합하는 실무 전문 지식을 보유해야 합니다.
+  Azure Data Engineer Associate 인증 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합, 변환 및 통합하는 주제 전문 지식을 보유해야 합니다.
 
 
   이 역할의 책임에는 다양한 도구와 기술을 통해 안전하고 규정을 준수하는 데이터 처리 파이프라인을 빌드하고 유지 관리하여 관련자가 데이터를 이해하도록 지원하는 것이 포함됩니다. 이러한 전문가는 다양한 Azure 데이터 서비스 및 언어를 사용하여 분석을 위해 정제되고 향상된 데이터 세트를 저장하고 생성합니다.
 
 
-  Azure 데이터 엔지니어는 또한 특정 비즈니스 요구 사항 및 제약 조건이 주어지면 데이터 파이프라인 및 데이터 저장소가 성능이 뛰어나고, 효율적이며, 조직적이고, 신뢰할 수 있는지 확인하는 데 도움이 됩니다. 이 전문가는 예상치 못한 문제를 신속하게 처리하고 데이터 손실을 최소화합니다. 또한 Azure 데이터 엔지니어는 데이터 파이프라인 요구 사항을 충족하기 위해 데이터 플랫폼을 설계, 구현, 모니터링, 최적화합니다.
+  또한 Azure 데이터 엔지니어는 특정 비즈니스 요구 사항 및 제약 조건 집합을 고려 하 여 데이터 파이프라인과 데이터 저장소의 성능이 뛰어나고 효율적이 고 효율적이 고 신뢰할 수 있는지 확인 하는 데 도움이 됩니다. 이 전문가는 예상치 못한 문제를 신속하게 처리하고 데이터 손실을 최소화합니다. 또한 Azure 데이터 엔지니어는 데이터 파이프라인 요구를 충족 하기 위해 데이터 플랫폼을 설계, 구현, 모니터링 및 최적화 합니다.
 
 
   이 인증의 응시자는 SQL, Python 또는 Scala와 같은 데이터 처리 언어에 대한 확실한 지식이 있어야 하며 병렬 처리 및 데이터 아키텍처 패턴을 이해해야 합니다.
-subTitle: Azure 데이터 엔지니어는 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 빌드에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
+subTitle: Azure 데이터 엔지니어는 다양 한 구조화 및 구조화 되지 않은 데이터 시스템의 데이터를 분석 솔루션을 구축 하는 데 적합 한 구조로 통합, 변환 및 통합 합니다.
 levels:
 - intermediate
 skills:

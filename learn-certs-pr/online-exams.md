@@ -10,10 +10,10 @@ ms.date: 02/29/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 186dabf51008c8a4e35a5dc235b69d35c1cca591
-ms.sourcegitcommit: 4a6bc4df3dac54bc91c8397a2bb871c66d1c3a47
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112490"
 ---
 # <a name="about-online-exams-with-pearson-vue"></a>Pearson VUE 온라인 시험에 대하여

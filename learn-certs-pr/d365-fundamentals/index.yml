@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
   description: Microsoft Dynamics 365, 인공 지능(AI), 혼합 현실(MR), Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 보안, 일반 데이터 서비스(CDS), Dynamics 365 보고, Dynamics 365 통합 및 클라우드 배포를 이해하고 있음을 입증하십시오.
   ms.openlocfilehash: 0edb49ac92e60e6f1c783250b14b37f138dbc8d5
-  ms.sourcegitcommit: 2ab0583efc592a5dfb36f426738f85de35ffbcf6
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 10/01/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132112690"
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -67,5 +67,5 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 배지 공유
-  description: 여러분이 달성한 성취를 지인들과 함께 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

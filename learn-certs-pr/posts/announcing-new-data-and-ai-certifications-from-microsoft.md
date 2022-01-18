@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 9766041c7f207b3e10217c41b829e9582554b167
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111672"
 ---
 # <a name="announcing-new-data-and-ai-certifications-from-microsoft-what-they-are-and-how-to-earn-one"></a>Microsoft의 새로운 데이터 및 AI 인증 공지: 자세한 내용 및 획득 방법
@@ -45,7 +45,7 @@ Microsoft의 [기술 인증](https://www.microsoft.com/learning/browse-new-certi
 
 ## <a name="questions"></a>궁금한 점이 더 있나요?
 
-다시 설계된 프로그램에 대한 개요는 [역할 기반 인증 블로그 공지](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375161)를 확인하세요. 또한 [시험 FAQ](https://www.microsoft.com/learning/certification-exam-policies.aspx)서 응시할 준비가 되면 필요한 내용에 대한 자세한 내용을 확인할 수도 있습니다.
+다시 디자인된 프로그램에 대한 개요는 [역할 기반 인증 블로그 공지](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375161)를 확인하세요. 또한 [시험 FAQ](https://www.microsoft.com/learning/certification-exam-policies.aspx)서 응시할 준비가 되면 필요한 내용에 대한 자세한 내용을 확인할 수도 있습니다.
 
 *Anderson, Cushing. [클라우드 기술 및 조직에 주는 영향: 클라우드 기술이 IT 전문가의 경력을 가속화하는 방법](https://download.microsoft.com/download/C/3/0/C3068200-2F9B-4D8D-BF5D-32E1F7ED669A/IDC_Microsoft_How_Cloud_Skills_Are_Accelerating_IT_Pro_Careers_May_2017.pdf) IDC/Microsoft, May 2017.
 

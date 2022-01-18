@@ -4,10 +4,10 @@ metadata:
   title: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
   description: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
   ms.openlocfilehash: 6f8b0a097d9f067d73c1d8f33dceff91d55a6f8e
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132105821"
 uid: exam.mb-300
 displayName: MB-300
@@ -32,7 +32,7 @@ subTitle: '이 시험은 다음과 같은 기술 업무를 수행하는 능력�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 locales:
 - en
 - ja

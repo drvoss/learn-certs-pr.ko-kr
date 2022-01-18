@@ -10,10 +10,10 @@ ms.date: 12/19/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 384b43fa161bdff5a0fb495e751b8cbb1acf309f
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111817"
 ---
 # <a name="share-your-insights-on-cloud-and-workplace-technologies"></a>클라우드 및 작업 영역 기술에 대한 인사이트 공유

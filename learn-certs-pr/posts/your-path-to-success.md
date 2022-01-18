@@ -10,10 +10,10 @@ ms.date: 08/07/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 2c9db3730cf9a9bc460fb4ec872ec5b13075c2ae
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111913"
 ---
 # <a name="your-path-to-success"></a>성공으로 가는 경로

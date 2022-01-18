@@ -5,10 +5,10 @@ metadata:
   description: '과정 MB-200T01-A: Dynamics 365: Power Platform applications'
   iltScheduling: true
   ms.openlocfilehash: eabed96fb778b2ddb7a2505915fc543668d71c04
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107472"
 uid: course.mb-200t01
 courseNumber: MB-200T01-A

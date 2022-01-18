@@ -2,42 +2,42 @@
 title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
-  description: Dynamics 365 Finance 기능 컨설턴트는 글로벌 재무 및 운영을 통합하고 업무 및 워크플로를 자동화하며 고객의 주문, 판매, 송장 발행 및 보고 기능을 간소화합니다.
+  description: Dynamics 365 재무 기능 컨설턴트는 글로벌 financials 및 작업을 통합 합니다. 작업 및 워크플로 자동화 고객 주문, 판매, 송장 청구 및 보고를 간소화 합니다.
   ms.openlocfilehash: efc7218e70699c4f56125d77b1b1baf3c84f8062
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133078878"
 uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증 페이지에는 해당 인증과 관련된 시험에서 측정되는 능력이 포함되어 있습니다. 해당 능력에 대한 예정된 변경 사항이나 최근 변경 사항은 포함되어 있지 않습니다. 예정된 변경 사항 또는 최근 변경 사항에 대한 자세한 내용은 관련 시험 세부 정보 페이지를 참조하세요.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 인증 페이지에는이 인증과 관련 된 시험에서 측정 된 기술이 포함 되어 있습니다. 이러한 기술에 적용 된 예정 된 변경 내용 또는 최신 변경 내용은 포함 되지 않습니다. 예정 된 변경 내용 또는 최근 변경 내용에 대 한 자세한 내용은 관련 된 시험 세부 정보 페이지를 참조 하세요.</strong></font><br/><br/></div>
 
 
-  비즈니스 요구 사항을 분석하고 업계 모범 사례를 기반으로 성공적인 비즈니스 프로세스 및 솔루션으로 변환하는 기능 컨설턴트로서의 경험이 있는 경우 이 인증은 기술을 증명하고 경력을 발전시키는 데 도움이 됩니다. 비즈니스 요구 사항을 충족하려면 Dynamics 365 Finance를 구현하고 구성한 경험이 있어야 합니다.
+  이 인증을 사용 하 여 비즈니스 요구 사항을 분석 하 고 업계 모범 사례를 기반으로 성공적인 비즈니스 프로세스 및 솔루션으로 변환 하는 기능을 담당 하는 컨설턴트 인 경우이 인증을 사용 하 여 경력을 높일 수 있습니다. 비즈니스 요구 사항을 충족 하기 위해 Dynamics 365 재무를 구현 하 고 구성 하는 경험이 필요 합니다.
 
 
-  이 인증은 수취 계정, 지급 계정, 총계정원장, 고정 자산, 예산 책정, 비용 회계 및 비용 관리 또는 경비를 사용하는 재무 부서의 사람에게 적합합니다. 비즈니스 회계 원칙 및 재무 운영을 기본적으로 이해하고 있어야 합니다.
+  이 인증은 외상 미수금, 외상 매입금, 일반 원장, 고정 자산, 예산, 비용 회계 및 비용 관리 또는 비용을 담당 하는 재무 부서의 사람들에 게 적합 합니다. 비즈니스 회계 원리 및 재무 운영에 대 한 기본적인 이해가 있어야 합니다.
 
 
   이 인증을 취득하기 위해 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이 있습니다.
 
-  - Dynamics 365 Finance를 사용하는 기능 컨설턴트와 협업합니다.
+  - Dynamics 365 재무를 사용 하는 기능 컨설턴트를 사용 하세요.
 
-  - 하나 이상의 프로젝트에서 기능 컨설턴트로 일합니다.
+  - 하나 이상의 프로젝트에서 함수형 컨설턴트로 작업 합니다.
 
-  - 재무 컨설팅 프로젝트에서 일합니다.
+  - 재무 컨설팅 프로젝트에서 작업 합니다.
 
-  - [community.dynamics.com](https://community.dynamics.com/)에서 전문가 및 동료 커뮤니티에 가입하세요.
+  - [Community.dynamics.com](https://community.dynamics.com/)에서 전문가 및 동료 커뮤니티에 참여 하세요.
 
   - Microsoft Learn에서 제공하는 학습 경로를 활용합니다.
 
   - 강사 진행 교육 과정에 등록합니다.
 
   - 더 많은 실습을 완료합니다.
-subTitle: Dynamics 365 Finance 기능 컨설턴트는 글로벌 재무 및 운영을 통합하고 업무 및 워크플로를 자동화하며 고객의 주문, 판매, 송장 발행 및 보고 기능을 간소화합니다.
+subTitle: Dynamics 365 재무 기능 컨설턴트는 글로벌 financials 및 작업을 통합 합니다. 작업 및 워크플로 자동화 고객 주문, 판매, 송장 청구 및 보고를 간소화 합니다.
 levels:
 - intermediate
 skills:

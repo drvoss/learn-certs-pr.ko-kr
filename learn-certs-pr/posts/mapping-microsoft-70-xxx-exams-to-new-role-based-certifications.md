@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 30cb199780f3b89f215ff5a52e5b638d84d19cc7
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111690"
 ---
 # <a name="mapping-microsoft-70-xxx-exams-to-new-role-based-certifications"></a>Microsoft 70-xxx 시험을 새로운 역할 기반 인증에 매핑

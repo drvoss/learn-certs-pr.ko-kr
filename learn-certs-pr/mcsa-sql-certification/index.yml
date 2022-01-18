@@ -4,10 +4,10 @@ metadata:
   title: 'MCSA: SQL Server 2012/2014'
   description: 'MCSA: SQL Server 2012/2014'
   ms.openlocfilehash: 17fc80bd59c64bd43f464b09408bfee369863d8f
-  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 10/15/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132113018"
 uid: certification.mcsa-sql-certification
 iconUrl: /media/learn/certification/badges/mcsa-badge.svg
@@ -67,5 +67,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

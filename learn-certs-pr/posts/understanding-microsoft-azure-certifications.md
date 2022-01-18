@@ -10,10 +10,10 @@ ms.date: 05/19/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 37b9f941c72520c4a565adeee4bad8b83536b0fa
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111535"
 ---
 # <a name="understanding-microsoft-azure-certifications"></a>Microsoft Azure 인증 이해

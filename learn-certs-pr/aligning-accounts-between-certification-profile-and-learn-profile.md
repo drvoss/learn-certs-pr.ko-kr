@@ -10,10 +10,10 @@ ms.date: 03/01/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 545129d06ba1e87771e819b5e9cb46e24a1729cf
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111630"
 ---
 # <a name="aligning-accounts-between-certification-profile-and-learn-profile"></a>인증 프로필과 Learn 프로필 간 계정 정렬

@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 92f47075291b2c9f3ce114d2e755272794c06327
-ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112842"
 ---
 # <a name="exam-retirement"></a>시험 폐지

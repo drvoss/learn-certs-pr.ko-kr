@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
   description: Modern 데스크톱 관리자는 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리 및 모니터링합니다.
   ms.openlocfilehash: 5bc18a9f5b28a3b88d92fa35e90e16266976f9ca
-  ms.sourcegitcommit: 629987a1453ce12f333d7208ec519258e24f4d78
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/03/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133530049"
 uid: certification.modern-desktop
 certificationRenewalUid: renewal.m365-modern-desktop

@@ -10,10 +10,10 @@ ms.date: 10/25/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 63f282d2c8b8f556d1c478880acc5c94d879244d
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112090"
 ---
 # <a name="dynamics-365-certification-and-exam-names-are-changing"></a>Dynamics 365 인증 및 시험 이름 변경

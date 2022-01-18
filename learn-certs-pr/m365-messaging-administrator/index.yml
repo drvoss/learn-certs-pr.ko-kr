@@ -2,22 +2,22 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
+  description: Microsoft 365 메시징 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 받는 사람, 규정 준수, 위협 방지 및 메일 흐름을 배포, 구성, 관리, 문제 해결 및 모니터링 합니다.
   ms.openlocfilehash: 7aa3241deb25988f416350e396e1e19865c428e5
-  ms.sourcegitcommit: d80173e30006986f164a370573cac47d596ddb52
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/06/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133742935"
 uid: certification.m365-messaging-administrator
 certificationRenewalUid: renewal.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ms-203">시험 MS-203 페이지</a>에서 실력 측정 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 인증의 콘텐츠는 2021 년 11 월 30 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 <a href="/learn/certifications/exams/ms-203">시험 MS-203 페이지</a> 에서 기술 측정 문서를 다운로드 하세요.</strong></font><br/><br/></div>
 
 
-  Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
-subTitle: Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
+  Microsoft 365 메시징 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 받는 사람, 규정 준수, 위협 방지 및 메일 흐름을 배포, 구성, 관리, 문제 해결 및 모니터링 합니다.
+subTitle: Microsoft 365 메시징 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 받는 사람, 규정 준수, 위협 방지 및 메일 흐름을 배포, 구성, 관리, 문제 해결 및 모니터링 합니다.
 levels:
 - intermediate
 skills:
@@ -56,5 +56,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 네트워크와 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

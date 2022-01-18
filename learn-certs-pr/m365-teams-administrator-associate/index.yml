@@ -4,10 +4,10 @@ metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
   description: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관합니다.
   ms.openlocfilehash: 4e784b20f745eec032e93c61f5795d870a6bdb31
-  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 10/07/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132112794"
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
@@ -64,5 +64,5 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 귀하의 성취를 네트워크와 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md

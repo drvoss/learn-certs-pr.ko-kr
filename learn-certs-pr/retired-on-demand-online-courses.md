@@ -10,10 +10,10 @@ ms.date: 06/30/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 1ac7b6c16a1670d5daba7e78c38fb7ba45dfee3c
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112051"
 ---
 # <a name="moc-on-demand-courses-are-retired"></a>MOC On-Demand Courses are Retired

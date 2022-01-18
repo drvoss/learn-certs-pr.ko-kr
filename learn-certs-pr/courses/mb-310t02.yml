@@ -4,10 +4,10 @@ metadata:
   title: '과정 MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
   description: '과정 MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
   ms.openlocfilehash: db8f47170b0b2cd803446cddf6231f17a2afa609
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107333"
 uid: course.mb-310t02
 courseNumber: MB-310T02-A
@@ -255,7 +255,7 @@ outlineSection: >-
 
   - 과정 요약
 
-  - 과정 이후 설문 조사
+  - 과정 후 설문 조사
 
 
   학생이 과정을 완료합니다.

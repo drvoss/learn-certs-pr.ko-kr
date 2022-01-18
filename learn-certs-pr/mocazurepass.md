@@ -10,10 +10,10 @@ ms.date: 04/01/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3fa4daf6c258a3a0c4ee65e9a5d1924decd85d2b
-ms.sourcegitcommit: b36347474884bb8a8c6a61feb1242d467d28396f
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132890584"
 ---
 # <a name="access-to-microsoft-learning-azure-passes-for-students-of-authorized-microsoft-learning-partners"></a>공인 Microsoft Learning Partners의 학생을 위한 Microsoft Learning Azure Pass 액세스

@@ -10,10 +10,10 @@ ms.date: 04/14/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 57f2307b4b46dfa379751629640b2598c18b8fc0
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112066"
 ---
 # <a name="learning-partners-offer-vital-virtual-dynamics-365-training"></a>Learning Partners, 중요한 가상 Dynamics 365 교육 제공

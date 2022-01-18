@@ -10,10 +10,10 @@ ms.date: 10/31/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 91e854d72df99c2eab22f03f0c8266f94f3efc5f
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111846"
 ---
 # <a name="are-you-a-microsoft-dynamics-365-finance-and-operations-apps-developer-beta-exam-now-available"></a>Microsoft Dynamics 365: Finance and Operations 앱 개발자인가요? 베타 시험 출시

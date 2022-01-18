@@ -1,29 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft 365 Mobility and Security
 metadata:
-  title: '시험 MS-101: Microsoft 365 Mobility and Security'
-  description: '시험 MS-101: Microsoft 365 Mobility and Security'
+  title: 'MS-101 시험: Microsoft 365 모바일 및 보안'
+  description: 'MS-101 시험: Microsoft 365 모바일 및 보안'
   ms.openlocfilehash: 1106c18970489caacc7394d8e34633ca2c278540
-  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133101847"
 uid: exam.ms-101
 displayName: MS-101
 summary: >-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
 
 
-  이 시험은 Microsoft 365 엔터프라이즈 서비스를 평가, 계획, 마이그레이션, 배포, 관리에 참여하는 Microsoft 365 Enterprise Administrator를 대상으로 실시됩니다. 응시자는 ID, 보안, 규제 준수 및 지원 기술을 포함해 기업용 Microsoft 365 테넌트 관리 작업을 수행하게 됩니다.
+  이 시험의 후보는 Microsoft 365 서비스의 평가, 계획, 마이그레이션, 배포 및 관리에 참여하는 엔터프라이즈 관리자를 Microsoft 365. ID, 보안, 규정 준수 및 지원 기술을 포함하여 엔터프라이즈에 대한 Microsoft 365 테넌트 관리 작업을 수행합니다.
 
 
-  응시자는 Microsoft 365 워크로드에 대한 실무 지식이 있으며 Exchange, SharePoint, Teams 또는 Windows 10 중 하나 이상의 배포 관리자여야 합니다. 응시자는 네트워킹, 서버 관리, DNS Active Directory 및 PowerShell과 같은 IT 기본 지식에 대한 실무 지식도 갖추고 있어야 합니다.
-subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 최신 장치 서비스 구현, Microsoft 365 보안 및 위협 관리 구현, Microsoft 365 거버넌스 및 준수 관리.
+  후보는 Microsoft 365 워크로드에 대한 실무 지식이 있으며 적어도 Exchange, SharePoint, Teams Windows 10 배포에 대한 관리자여야 합니다. 또한 후보는 네트워킹, 서버 관리 및 DNS, Active Directory 및 PowerShell과 같은 IT 기본 사항을 잘 알고 있습니다.
+subTitle: 이 시험에서는 최신 디바이스 서비스 구현과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. Microsoft 365 보안 및 위협 관리를 구현하고 Microsoft 365 거버넌스 및 규정 준수를 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja

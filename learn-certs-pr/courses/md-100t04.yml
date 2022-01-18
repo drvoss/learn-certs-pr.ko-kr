@@ -4,10 +4,10 @@ metadata:
   title: '과정 MD-100T04-A: Maintaining Windows 10'
   description: '과정 MD-100T04-A: Maintaining Windows 10'
   ms.openlocfilehash: 5d58876a92cd2c5052242b957aa9a9188b5a8f5e
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132107168"
 uid: course.md-100t04
 courseNumber: MD-100T04-A
@@ -50,7 +50,7 @@ prerequisitesSection: >-
 outlineSection: >-
   ### <a name="module--158-supporting-the-windows-10-environment"></a>모듈 1: Windows 10 환경 지원
 
-  이 모듈에서는 Windows 10 아키텍처 및 일반적인 환경에 대해 설명합니다. Windows를 유지 관리하는 데 사용되는 다양한 도구를 소개합니다. 또한 이 모듈에서 문제를 효과적으로 해결하기 위한 방법론과 Windows 10을 사전에 관리하고 최적화하는 방법을 설명합니다.
+  이 모듈에서는 Windows 10 아키텍처 및 일반적인 환경에 대해 설명합니다. 학생에게 Windows를 유지 관리하는 데 사용되는 다양한 도구를 소개합니다. 이 모듈에서는 또한 문제를 효과적으로 해결하기 위한 방법론과 Windows 10을 사전에 관리하고 최적화하는 방법에 대해 설명합니다.
 
   #### <a name="lessons"></a>단원
 
@@ -110,7 +110,7 @@ outlineSection: >-
 
   ### <a name="module--358-troubleshooting-files--applications"></a>모듈 3: 파일 및 애플리케이션 문제 해결
 
-  이 모듈은 파일 백업 및 복구를 계획하는 데 도움이 됩니다.  데이터 보호 전략을 계획하고 구성하는 방법 및 다양한 파일 및 시스템 복구 방법을 수행하는 방법을 알아봅니다.  이 모듈에는 애플리케이션 설치 문제를 해결하고, 호환성 문제를 해결하고, 브라우저 문제 해결을 위한 일반적인 방법도 포함되어 있습니다
+  이 모듈은 파일 백업 및 복구를 계획하는 데 도움이 됩니다.  학생은 데이터 보호 전략 계획 및 구성 방법과 다양한 파일 및 시스템 복구 수행 방법에 대해 알아봅니다.  이 모듈에는 애플리케이션 설치 문제, 호환성 문제, 브라우저 문제 해결을 위한 일반적인 방법도 포함되어 있습니다.
 
   #### <a name="lessons"></a>단원
 
@@ -148,11 +148,11 @@ outlineSection: >-
 
   ### <a name="module--458-troubleshooting-hardware-and-drivers"></a>모듈 4: 하드웨어 및 드라이버 문제 해결
 
-  이 모듈에서는 하드웨어 문제 해결을 소개합니다.  드라이버 관리 및 디바이스 문제 해결 방법을 알아봅니다. 또한 진단 방법 및 해결 방법을 포함하여 시스템 하드웨어와 외부 주변 장치(예: USB 드라이브 및 프린터)의 문제를 해결하는 단계도 알아봅니다.
+  이 모듈에서는 하드웨어 문제 해결을 소개합니다.  학생은 드라이버 관리 및 디바이스 문제 해결 방법에 대해 알아봅니다. 학생은 또한 진단 방법 및 수정을 포함한 시스템 하드웨어 및 외부 주변 장치(예: USB 드라이브 및 프린터)의 문제 해결 단계에 대해 알아봅니다.
 
   #### <a name="lessons"></a>단원
 
-  - 디바이스 드라이버 오류 문제 해결
+  - 디바이스 드라이버 실패 문제 해결
 
   - 하드웨어 문제 해결 개요
 
@@ -190,4 +190,4 @@ outlineSection: >-
 
 
 
-  #### <a name="lab-58-graded-lab"></a>랩: 등급이 있는 랩
+  #### <a name="lab-58-graded-lab"></a>랩: 등급이 매겨진 랩

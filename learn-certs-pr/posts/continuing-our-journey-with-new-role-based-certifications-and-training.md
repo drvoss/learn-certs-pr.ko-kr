@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 39f2be8b81c622e5a822e11ec3f5950ef17d9b50
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112114"
 ---
 # <a name="catching-up-continuing-our-journey-with-new-role-based-certifications-and-training"></a>최신 소식: 새로운 역할 기반 인증으로 교육 여정 계속

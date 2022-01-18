@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 71d03ed9642ed07dbf7d6c3fcd9a5b8668c77a1b
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111228"
 ---
 # <a name="wow-a-summary-of-all-exams-and-certifications-launched-in-january-2019"></a>와우! 2019년 1월에 출시된 모든 시험 및 인증 요약!

@@ -10,10 +10,10 @@ ms.date: 01/29/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: d1f5ecfde5f522966c6aa09f9b44669ad67d08e3
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111216"
 ---
 # <a name="are-you-a-microsoft-dynamics-365-finance-and-operations-apps-solution-architect-validate-your-expertise-today"></a>Microsoft Dynamics 365 Finance and Operations Apps 솔루션 아키텍트이신가요? 지금 자신의 전문성을 검증하세요
@@ -37,11 +37,11 @@ Dynamics 365 플랫폼을 활용하는 잘 정의되고 비용 효율적인 솔�
 - [MB-700 준비 가이드](https://docs.microsoft.com/learn/certifications/exams/mb-700?WT.mc_id=mb700_MB700blog_cert-exammb700-blog-wwl)를 검토하고 나열된 기술을 연습합니다.
 - [Microsoft Learning 파트너에서 강의실 교육과 온라인 교육을 찾습니다](https://www.microsoft.com/en-us/learning/course-list.aspx).
 - [Microsoft Learn에서 무료 학습 경로, 과정 및 실습 교육을 탐색합니다](https://docs.microsoft.com/learn/browse).
-- 다른 준비 아이디어가 필요하신가요? [베타 시험 준비에 관한 블로그 게시물](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544)을 확인하세요.
+- 다른 준비 아이디어가 필요하신가요? [베타 시험 준비에 대한 블로그 게시물](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544)을 확인합니다.
 
-베타 시험에 응시하면 실제 시험에 포함될 문제에 관한 의견을 제시할 수 있습니다. 재채점 절차는 시험이 시작되는 날에 개시되며, 최종 점수는 약 10일 후 발표됩니다. 재채점 완료 소식을 받고 싶다면 Twitter에서 팔로우하세요([@libertymunson](https://twitter.com/LibertyMunson)). 베타 시험 채점 및 라이브 시험 릴리스 시점에 관한 질문이 있다면 [베타 시험에서 라이브 시험으로의 경로](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) 및 [베타 시험에 관한 추가 팁](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) 블로그 게시물을 참조하세요.
+베타 시험에 응시하면 실제 시험에 포함될 문제에 관한 의견을 제시할 수 있습니다. 재채점 절차는 시험이 시작되는 날에 개시되며, 최종 점수는 약 10일 후 발표됩니다. 재채점 완료 소식을 받고 싶다면 Twitter에서 팔로우하세요([@libertymunson](https://twitter.com/LibertyMunson)). 베타 시험 채점 및 라이브 시험 릴리스 시기에 대한 질문이 있는 경우 [베타 시험에서 라이브 시험으로의 경로](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) 및 [베타 시험에 대한 추가 팁](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) 블로그 게시물을 참조하세요.
 
-할인권은 제한되어 있으니, 순서가 지나면 할인을 받을 수 없습니다. 일부 국가(터키, 파키스탄, 인도, 중국 포함)에서는 베타 코드를 사용할 수 없다는 점도 유념해야 합니다. 이러한 국가에서는 베타 시험에 응시할 수 없습니다.
+할인권은 제한되어 있으므로 소진되면 할인을 받을 수 없습니다. 일부 국가(터키, 파키스탄, 인도, 중국 포함)에서는 베타 코드가 작동하지 않는다는 점에 유의하세요. 이러한 국가에서는 베타 시험에 응시할 수 없습니다.
 
 또한 베타 시험은 점수가 바로 채점되지 않습니다. 최종 점수와 통과 여부는 라이브 시험 이후에 전달됩니다.
 

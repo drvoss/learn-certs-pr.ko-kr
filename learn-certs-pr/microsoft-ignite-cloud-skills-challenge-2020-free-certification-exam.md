@@ -10,10 +10,10 @@ ms.date: 10/13/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 0bd83d766fd8af42c7630fd82ac4ff46112a8007
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111306"
 ---
 # <a name="microsoft-ignite-cloud-skills-challenge-2020-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge 2020: 무료 인증 시험

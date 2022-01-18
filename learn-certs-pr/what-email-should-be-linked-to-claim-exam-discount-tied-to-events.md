@@ -10,10 +10,10 @@ ms.date: 10/15/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 42ca3c3ae2a8f91ed4aedd8a9687d45125d61e04
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112186"
 ---
 # <a name="what-email-should-be-linked-to-claim-exam-discount-tied-to-events"></a>이벤트에 연결된 시험 할인을 요구하려면 어떤 이메일을 연결해야 하나요?

@@ -3,12 +3,12 @@ title: Microsoft Azure AI Fundamentals
 metadata:
   title: '시험 AI-900: Microsoft Azure AI Fundamentals'
   description: '시험 AI-900: Microsoft Azure AI Fundamentals'
-  ms.openlocfilehash: e8c853ce58fc23411b028d48dfe6c84ce65a1838
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 1de02f8c20aa7400cdab2f0903984c3647356ea8
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132105957"
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694745"
 uid: exam.ai-900
 displayName: AI-900
 summary: >-
@@ -25,13 +25,16 @@ summary: >-
 
 
   Azure AI Fundamentials는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다.
+
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
 subTitle: Azure 기계 학습의 기본 원칙, Azure의 컴퓨터 비전 워크로드 기능, Azure의 NLP(자연어 처리) 워크로드 기능, Azure의 대화형 AI 워크로드 기능에 대해 설명할 수 있음을 보여 주세요.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
 practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:
@@ -86,6 +89,8 @@ paths:
 - uid: learn.wwl.explore-computer-vision-microsoft-azure
 - uid: learn.wwl.explore-natural-language-processing
 - uid: learn.wwl.explore-conversational-ai
+- uid: learn.wwl.explore-fundamentals-of-decision-support
+- uid: learn.wwl.explore-fundamentals-of-knowledge-mining
 relatedCertifications:
 - related:
     uid: certification.azure-ai-fundamentals
