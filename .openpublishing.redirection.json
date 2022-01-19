@@ -599,7 +599,52 @@
             "source_path": "learn-certs-pr/skillingoffer.md",
             "redirect_url": "/learn/certifications/",
             "redirect_document_id": false		
-		}
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-500t01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-500t02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-500t03.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-500t04.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-100t01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-100t02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-100t03.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-101t01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-101t02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		}		
       ]
 
 
