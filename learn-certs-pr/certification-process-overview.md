@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 3240dad74194b13e59ea7a9b1179072d2f0e3242
-ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.openlocfilehash: 763fee488a910f649e027248795ae1d0fb699e0d
+ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2021
-ms.locfileid: "135638682"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135801631"
 ---
 # <a name="certification-process-overview"></a>인증 프로세스 개요
 
@@ -52,9 +52,9 @@ Microsoft는 여러 시험 제공업체와 협업하여 다양한 유형의 응�
 
 ## <a name="getting-your-exam-results-and-certifications"></a>시험 결과 및 인증 가져오기
 
-피어슨 VUE를 사용 하 여 시험 하는 경우 시험을 완료 하는 몇 분 내에 결과에 대 한 알림이 표시 됩니다. [인증 대시보드에서](https://aka.ms/certdashboard) 점수 보고서를 가져올 수 있습니다. 시험 점수 매기기 및 점수 매기기 보고서를 방문 하세요. 베타 시험에 응시한 경우 시험이 라이브로 전환된 후 약 10일이 지나서 점수를 받게 됩니다. 방문: [베타 시험](/learn/certifications/beta-exams).
+Vuon VUE를 통해 수행된 시험의 경우 시험이 완료된 후 몇 분 이내에 결과를 알 수 있습니다. [인증 대시보드에서](https://aka.ms/certdashboard) 점수 보고서를 얻을 수 있습니다. 방문: [시험 점수 매기기 및 보고서 점수 매기기](/learn/certifications/exam-scoring-reports) 베타 시험에 응시한 경우 시험이 라이브로 전환된 후 약 10일이 지나서 점수를 받게 됩니다. 베타 [시험 을 방문하세요.](/learn/certifications/beta-exams)
 
-Certiport를 사용 하 여 시험 하는 경우 시험을 완료 한 직후 최종 점수와 합격/불합격 상태를 나타내는 결과 화면이 표시 됩니다. 베타 시험을 수행한 경우 일반적으로 베타 기간이 끝난 후 6 주에서 8 주까지 최종 점수를 받고 성공/실패 상태를 전달 합니다. [Certiport 성적 증명서](https://www.certiport.com/portal/SSL/Login.aspx) 에서도 결과를 사용할 수 있습니다. [Certiport의 faq](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs) 를 방문 하세요.
+Certiport를 통해 수행된 시험의 경우 시험 완료 후 즉시 최종 점수 및 통과/실패 상태를 나타내는 결과 화면이 표시됩니다. 베타 시험을 통과한 경우 일반적으로 베타 기간이 끝난 후 6~8주 후에 최종 점수 및 통과/실패 상태를 받게 됩니다. 결과는 [Certiport 기록에서도](https://www.certiport.com/portal/SSL/Login.aspx) 사용할 수 있습니다. [Certiport FAQ를 방문하세요.](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)
 
 모든 시험을 통과하여 인증을 취득했다면 축하합니다. 각 성취를 배지 또는 인증서로 보고 다운로드하고 공유하거나 Microsoft 인증 성적표에서 인증 및 시험의 전체 기록을 얻을 수 있습니다. 자세한 내용은 [인증서, 배지, 성적표에 액세스](/learn/certifications/access-certificates-badges-transcript)를 참조하세요.
 
