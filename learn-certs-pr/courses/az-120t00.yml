@@ -3,12 +3,12 @@ title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
   title: '과정 AZ-120T00--A: Planning and Administering Microsoft Azure for SAP Workloads'
   description: '과정 AZ-120T00--A: Planning and Administering Microsoft Azure for SAP Workloads'
-  ms.openlocfilehash: a0533254edb6f56e7ee71efe2b148d7595a3e17a
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 21b2a95d16e258235cad567d363be3ca86bc53ae
+  ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132113498"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "135801547"
 uid: course.az-120t00
 courseNumber: AZ-120T00
 hoursToComplete: 96
@@ -30,6 +30,17 @@ products:
 - azure
 exams:
 - uid: exam.az-120
+studyGuide:
+- uid: learn.wwl.prepare-for-ai-engineering
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
+- uid: learn.wwl.build-qna-solution
+- uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.extract-text-from-images-documents
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 summary: >-
   이 과정에서는 SAP 솔루션 관련 경험이 있는 IT 전문가에게 가상 머신, 가상 네트워크, 스토리지 계정 및 Azure AD(하이브리드 ID 구현 및 관리 포함)의 배포 및 구성을 포함한, Azure 리소스를 활용하는 방법을 설명합니다. 이 과정을 수강하는 학생은 개념, 시나리오, 절차 및 실습 랩을 통해 Azure에서의 SAP 솔루션 마이그레이션 및 운영을 가장 잘 계획하고 구현하는 방법을 배웁니다. 구독, 가상 머신 만들기 및 크기 조정, 스토리지 솔루션 구현, 가상 네트워킹 구성, 데이터 백업 및 공유, Azure 및 온-프레미스 사이트 연결, 네트워크 트래픽 관리, Azure Active Directory 구현, ID 보안 및 솔루션 모니터링 관련 지침을 받을 수 있습니다.
 

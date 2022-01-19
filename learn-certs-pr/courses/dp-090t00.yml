@@ -3,12 +3,12 @@ title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
 metadata:
   title: '과정 DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
   description: '과정 DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
-  ms.openlocfilehash: 0212a86eb1995b8bd8f314e82e4f8bc26b662b37
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 14007a362a6725776c54438baac427f76778c9f0
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107509"
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573291"
 uid: course.dp-090t00
 courseNumber: DP-090T00
 hoursToComplete: 24
@@ -18,9 +18,12 @@ skillsGained:
 - skill: Azure Databricks를 사용하여 기계 학습 모델 학습시키기
 - skill: MLflow를 사용하여 실험 추적 및 기계 학습 모델 관리
 - skill: Azure Databricks와 Azure Machine Learning 통합
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 roles:
@@ -36,7 +39,7 @@ summary: >-
 
   이 과정은 Azure Databricks에서 데이터 과학 및 기계 학습 기술을 적용하는 방법을 학습해야 하는 Python 사용 경험이 있는 데이터 과학자를 위해 고안되었습니다.
 prerequisitesSection: >-
-  이 과정에 참여하기 전에 Python을 사용한 데이터 작업 수행 경험이 있고 기계 학습의 개념에 대해 어느 정도 알고 있어야 합니다. 이 과정에 참여하기 전에 Microsoft Learn:1613에서 다음 학습 경로를 완료하세요.
+  이 과정에 참여하기 전에 Python을 사용한 데이터 작업 수행 경험이 있고 기계 학습의 개념에 대해 어느 정도 알고 있어야 합니다. 이 과정에 참여 하기 전에 Microsoft Learn에서 다음 학습 경로를 완료 합니다.
 
 
   *   [기계 학습 모델 만들기](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
@@ -54,6 +57,7 @@ outlineSection: >-
 
 
   *   Azure Databricks에서 데이터 사용
+
 
 
   #### <a name="lab--getting-started-with-azure-databricks"></a>랩: Azure Databricks 시작
@@ -77,6 +81,7 @@ outlineSection: >-
   *   Azure Databricks를 통해 데이터 사용
 
 
+
   ### <a name="module-2-training-and-evaluating-machine-learning-models"></a>모듈 2: 기계 학습 모델 학습시키기 및 평가
 
 
@@ -90,6 +95,7 @@ outlineSection: >-
 
 
   *   Machine Learning 모델 학습시키기
+
 
 
   #### <a name="lab--training-a-machine-learning-model"></a>랩: Machine Learning 모델 학습시키기
@@ -113,6 +119,7 @@ outlineSection: >-
   *   기계 학습 모델을 학습시키고 유효성을 검사
 
 
+
   ### <a name="module-3-managing-experiments-and-models"></a>모듈 3: 실험 및 모델 관리
 
 
@@ -126,6 +133,7 @@ outlineSection: >-
 
 
   *   모델 관리
+
 
 
   #### <a name="lab--using-mlflow-to-track-experiments"></a>랩: MLflow를 사용하여 실험 추적
@@ -149,6 +157,7 @@ outlineSection: >-
   *   모델 관리
 
 
+
   ### <a name="module-4-integrating-azure-databricks-and-azure-machine-learning"></a>모듈 4: Azure Databricks 및 Azure Machine Learning 통합
 
 
@@ -162,6 +171,7 @@ outlineSection: >-
 
 
   *   모델 배포
+
 
 
   #### <a name="lab--deploying-models-in-azure-machine-learning"></a>랩: Azure Machine Learning에서 모델 배포

@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 12b1929dea0439a9647482d54f3b72324d1188ab
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 8b6941ae5c42f0c987c0acea96c32dc57994f5f1
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132112195"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638631"
 ---
 # <a name="register-and-schedule-an-exam"></a>시험 등록 및 예약
 
@@ -29,17 +29,16 @@ Microsoft는 여러 시험 공급자와 협력하여 다양한 유형의 응시�
 - 일부 시험에서는 하나의 공급자 옵션만 제공합니다. 이러한 시험은 Pearson VUE에서 제공합니다.
 - 여러 공급자 옵션이 있는 시험의 경우 인증 시험 자체에 또는 교육 프로그램의 일부로 시험에 응시하는 개인은 “Pearson VUE로 예약”을 선택해야 합니다.
 - 학생, 교육 기관의 구성원 및 MOS(Microsoft Office Specialist) 시험에 응시하는 응시자는 “Certiport로 예약”을 선택합니다.
-- 할인된 시험을 이용하려는 COVID-19의 영향을 받은 구직자의 경우 “USD15에 등록”을 선택하고 지침에 따라 이 제안을 사용하세요. 이러한 시험은 온라인 감독으로만 제공되며 PSI에서 제공됩니다.
 
 ## <a name="decide-whether-to-take-your-exam-at-a-test-center-or-use-online-proctoring"></a>테스트 센터에서 시험에 응시할지 또는 온라인 감독을 사용할지 여부 결정
 
-예약 프로세스 중에 일부 공급자는 현지 테스트 센터 또는 온라인을 통해 시험에 응시할 수 있는 옵션을 제공합니다. 각각에는 이점이 있습니다. 현지 테스트 센터는 Microsoft의 최소 표준을 충족하는 테스트 환경 및 컴퓨터를 제공합니다. 온라인 감독 시험의 경우 거의 모든 곳에서 시험에 응시할 수 있지만 본인의 컴퓨터를 사용하게 됩니다. USD15 제안은 PSI에서 제공하는 온라인 감독을 통해서만 사용할 수 있습니다.
+예약 프로세스 중에 일부 공급자는 현지 테스트 센터 또는 온라인을 통해 시험에 응시할 수 있는 옵션을 제공합니다. 각각에는 이점이 있습니다. 현지 테스트 센터는 Microsoft의 최소 표준을 충족하는 테스트 환경 및 컴퓨터를 제공합니다. 온라인 감독 시험의 경우 거의 모든 곳에서 시험에 응시할 수 있지만 본인의 컴퓨터를 사용하게 됩니다.
 
 ## <a name="run-a-system-pre-check"></a>시스템 사전 점검 실시
 
 온라인으로 시험에 응시하는 경우 시험 등록 **전에** 시스템 사전 점검을 실행하여 컴퓨터가 요구 사항을 충족하는지 확인해야 합니다. 다른 컴퓨터에서 시험에 응시하는 경우 해당 컴퓨터에서 시스템 점검을 실행해야 합니다.
 
-선택한 시험 공급자에 따른 시스템 사전 점검 방법에 관한 구체적인 지침은 [Pearson VUE 온라인 시험 정보](/learn/certifications/online-exams) 또는 [PSI 온라인 시험 정보](/learn/certifications/online-exams-psi)를 확인하세요. Certiport는 현재 온라인 감독 시험을 제공하지 않습니다.
+시스템 사전 검사를 진행하는 방법에 대한 자세한 지침은 [다음을 방문하세요. 가 있는 온라인 시험 정보()를 방문하세요.](/learn/certifications/online-exams) Certiport는 현재 온라인 감독 시험을 제공하지 않습니다.
 
 선택할 시험 공급자를 알 수 없는 경우 [시험 공급자 선택 방법](#how-to-choose-an-exam-delivery-provider)을 참조하세요.
 
@@ -48,7 +47,7 @@ Microsoft는 여러 시험 공급자와 협력하여 다양한 유형의 응시�
 1. 모든 인증 또는 시험 세부 정보 페이지에서 버튼을 선택하여 선택한 시험 공급자를 통해 시험을 예약합니다.
 <br/>
 <br/>
-![선택 버튼을 사용하여 시험 공급자를 통해 시험 예약](images/instructions-to-register-for-exam-step-1.png)
+![선택 버튼을 사용하여 시험 공급자를 통해 시험 예약](images/step-by-step-instructions-to-register-for-exam-step-1.png)
 <br/>
 <br/>
 2. 개인용 Microsoft 계정으로 로그인하라는 메시지가 표시됩니다. 인증 프로필이 이미 있는 경우 연결된 Microsoft 계정을 사용합니다. 없는 경우 개인용 Microsoft 계정을 사용하여 인증 프로필을 만들 수 있습니다.

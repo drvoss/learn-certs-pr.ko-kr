@@ -1,0 +1,578 @@
+### YamlMime:Course
+title: Windows Server 하이브리드 고급 서비스 구성
+metadata:
+  title: '과정 AZ-801T00--A: Windows Server 하이브리드 고급 서비스 구성'
+  description: '과정 AZ-801T00--A: Windows Server 하이브리드 고급 서비스 구성'
+  ms.openlocfilehash: c55d4436d3f9062c869152658bd5ef54eff7859e
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573395"
+uid: course.az-801t00
+courseNumber: AZ-801T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows Server 운영 체제 환경의 보안 구성을 강화합니다.
+- skill: Azure Security Center, Azure Sentinel 및 Windows Update Management를 사용하여 하이브리드 보안 향상.
+- skill: 중요 리소스 보호를 위한 보안 기능 적용.
+- skill: 고가용성 및 재해 복구 솔루션 구현.
+- skill: 하이브리드 시나리오에서 복구 서비스를 구현합니다.
+- skill: 하이브리드 및 클라우드 전용 마이그레이션, 백업 및 복구 시나리오 계획 및 구현.
+- skill: AD DS 및 스토리지와 관련된 업그레이드 수행 및 마이그레이션.
+- skill: WAC, Azure Arc, Azure Automation 및 Azure Monitor를 사용하여 하이브리드 시나리오 관리 및 모니터링.
+- skill: 서비스 모니터링 및 성능 모니터링 구현 및 문제 해결 적용.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.az-801
+summary: >-
+  강사가 진행하는 이 과정은 온-프레미스, 하이브리드 및 클라우드 기술을 사용하여 고급 Windows Server 서비스를 구성하는 IT 전문가를 위해 고안되었습니다. 이러한 전문가는 온-프레미스 및 Azure IaaS 호스팅 Windows 서버 기반 워크로드를 포함하는 인프라를 관리하고 지원합니다. 이 과정에서는 IT 전문가에게 Azure의 하이브리드 기능을 활용하는 방법, 가상 및 물리적 서버 워크로드를 Azure IaaS로 마이그레이션하는 방법 및 Windows Server를 실행하는 Azure VM을 관리하고 보호하는 방법을 교육합니다. 이 과정에서는 고가용성, 문제 해결 및 재해 복구와 관련된 작업을 수행하는 방법도 다룹니다. 이 과정에서는 Windows 관리 센터, PowerShell, Azure Arc, Azure Automation 업데이트 관리, Microsoft Defender for Identity, Azure Security Center, Azure Migrate 및 Azure Monitor 비롯한 다양한 관리 도구와 기술을 중점화합니다.
+
+
+  #### <a name="audience-profile"></a>대상 그룹 프로필
+
+
+  이 4일간의 과정은 Windows Server로 작업한 경험이 있고 온-프레미스와 하이브리드 기술을 결합하여 온-프레미스 환경의 기능을 확장하려는 Windows Server 하이브리드 관리자를 위한 것입니다. 이미 온-프레미스 핵심 기술을 구현하고 관리하는 Windows 서버 하이브리드 관리자는 환경을 보호하고, 가상 및 물리적 워크로드를 Azure Iaas로 마이그레이션하고, 고가용성, 완전 중복 환경을 사용하도록 설정하고, 모니터링 및 문제 해결을 수행하려고 합니다.
+prerequisitesSection: >-
+  이 과정에 참여하기 전, 학생들은 반드시 다음을 갖추어야 합니다:
+
+
+  *   AD DS, DNS, DFS, Hyper-V, 파일 및 스토리지 서비스와 같은 온-프레미스 시나리오에서 Windows Server 운영 체제 및 Windows Server 워크로드를 관리해 본 경험
+
+
+  *   일반적인 Windows 서버 관리 도구 경험(첫 번째 필수 구성에 암시).
+
+
+  *   핵심 Microsoft 컴퓨팅, 스토리지, 네트워킹 및 가상화 기술에 대한 기본 지식(첫 번째 필수 구성요소에서 암시).
+
+
+  *   IP 주소 지정, 이름 확인 및 DHCP(동적 호스트 구성 프로토콜)와 같은 핵심 네트워킹 기술에 대한 경험 및 이해
+
+
+  *   작업 경험 및 Microsoft Hyper-V 및 기본 서버 가상화 개념 이해
+
+
+  *   기본 보안 모범 사례에 대한 인식
+
+
+  *   보안 관련 기술(방화벽, 암호화, 다단계 인증, SIEM/SOAR)에 대한 기본적인 이해
+
+
+  *   온-프레미스 복원력 Windows Server 기반 컴퓨팅 및 스토리지 기술(장애 조치, 스토리지 공간)에 대한 기본 지식
+
+
+  *   Microsoft Azure에서 IaaS 서비스를 구현하고 관리해 본 기본적인 경험
+
+
+  *   Azure Active Directory에 대한 기본 지식
+
+
+  *   Windows 10 또는 Windows 11 같은 Windows 클라이언트 운영 체제를 실습해보세요.
+
+
+  *   Windows PowerShell 기본 환경
+
+
+
+  다음과 같은 개념이 Windows Server 기술과 어떻게 관련되는지에 대한 이해:
+   * 고가용성 및 재해 복구
+   * 자동화
+   * 모니터링
+   * 문제 해결
+outlineSection: >-
+  ### <a name="module-1-windows-server-security"></a>모듈 1: Windows Server 보안
+
+
+  이 모듈에서는 사용자 계정을 최소 권한으로 보호하고 보호된 사용자 그룹에 배치하여 Active Directory 환경을 보호하는 방법을 설명합니다. 이 모듈에서는 인증 범위를 제한하고 안전하지 않은 계정을 수정하는 방법을 설명합니다. 이 모듈에서는 Windows Server 운영 체제 환경의 보안 구성을 강화하는 방법도 설명합니다. 또한 모듈에서는 Windows Server Update Services 사용하여 네트워크의 컴퓨터에 운영 체제 업데이트를 배포하는 방법을 설명합니다. 마지막으로 이 모듈에서는 Windows Server DNS를 보호하여 네트워크 이름 확인 인프라를 보호하는 방법을 다룹니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   보안 Windows Sever 사용자 계정
+
+
+  *   Windows Server 강화
+
+
+  *   Windows Server 업데이트 관리
+
+
+  *   Windows Server DNS 보안
+
+
+
+  #### <a name="lab--configuring-security-in-windows-server"></a>랩: Windows Server에서 보안 구성
+
+
+  ####
+     *   Windows Defender Credential Guard 구성
+     *   문제가 있는 계정 찾기
+     *   LAPS 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Windows Server 리소스의 잠재적인 보안 취약성을 진단하고 수정합니다.
+
+
+  *   Windows Server 운영 체제 환경의 보안 구성을 강화합니다.
+
+
+  *   Windows Server Update Services 사용하여 네트워크의 컴퓨터에 운영 체제 업데이트를 배포합니다.
+
+
+  *   네트워크 이름 확인 인프라를 보호하기 위해 Windows 서버 DNS를 보호합니다.
+
+
+  *   DNS 정책을 구현합니다.
+
+
+
+  ### <a name="module-2-implementing-security-solutions-in-hybrid-scenarios"></a>모듈 2: 하이브리드 시나리오에서 보안 솔루션 구현
+
+
+  이 모듈에서는 온-프레미스 Windows Server 리소스 및 Azure IaaS 워크로드를 보호하는 방법을 설명합니다. 이 모듈에서는 Windows Server IaaS(Infrastructure as a Service) VM(가상 머신)에 대한 네트워크 보안을 개선하는 방법과 해당 VM의 네트워크 보안 문제를 진단하는 방법을 다룹니다. 또한 모듈에서는 Azure Security Center 소개하고 Security Center Windows Server 컴퓨터를 온보딩하는 방법을 설명합니다. 또한 이 모듈에서는 Azure 업데이트 관리 사용하도록 설정하고, 업데이트를 배포하고, 업데이트 평가를 검토하고, Azure VM에 대한 업데이트를 관리하는 방법을 설명합니다. 이 모듈에서는 적응형 애플리케이션 제어 및 BitLocker 디스크 암호화를 사용하여 Windows Server IaaS VM을 보호하는 방법을 설명합니다. 마지막으로, 이 모듈에서는 Windows Server Azure IaaS VM에서 파일 및 레지스트리의 변경 내용을 모니터링하고 애플리케이션 소프트웨어에 대한 수정 사항을 모니터링하는 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Windows Server IaaS VM 네트워크 보안을 구현합니다.
+
+
+  *   Windows Server IaaS Virtual Machines의 보안 감사
+
+
+  *   Azure 업데이트 관리
+
+
+  *   적응형 애플리케이션 제어를 통한 애플리케이션 허용 목록 생성 및 구현
+
+
+  *   Windows IaaS Virtual Machines를 위한 BitLocker 디스크 암호화 구성
+
+
+  *   Windows Server IaaS VM에 대한 변경 추적 및 파일 무결성 모니터링 구현
+
+
+
+  #### <a name="lab--using-azure-security-center-in-hybrid-scenarios"></a>랩: 하이브리드 시나리오에서 Azure Security Center 사용
+
+
+  ####
+     *   Windows Server를 실행하는 Azure VM 프로비전
+     *   Azure Security Center 구성
+     *   온-프레미스 Windows Server를 Azure Security Center 온보딩
+     *   Azure Security Center의 하이브리드 기능 확인
+     *   Azure VM에서 Windows Server 2019 보안 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Windows Server IaaS 가상 머신의 네트워크 보안 문제를 진단합니다.
+
+
+  *   Azure Security Center에 Windows 컴퓨터를 온보딩합니다.
+
+
+  *   Azure Automation 업데이트 관리 사용하도록 설정하여 Azure VM에 대한 업데이트를 배포하고 관리합니다.
+
+
+  *   적응형 애플리케이션 제어를 구현하여 Windows Server IaaS VM을 보호합니다.
+
+
+  *   Windows IaaS VM(가상 머신)에 대한 Azure Disk Encryption 구성합니다.
+
+
+  *   암호화된 데이터를 백업하고 복구합니다.
+
+
+  *   Windows Server Azure IaaS VM에서 파일 및 레지스트리의 변경 내용을 모니터링합니다.
+
+
+
+  ### <a name="module-3-implementing-high-availability"></a>모듈 3: 고가용성 구현
+
+
+  이 모듈에서는 고가용성 Windows Server 환경을 만들기 위한 기술 및 옵션을 설명합니다. 이 모듈에서는 여러 클러스터 노드에서 공유 스토리지 액세스를 위한 클러스터된 공유 볼륨을 소개합니다. 또한 이 모듈에서는 Windows Server 워크로드의 고가용성을 구현하기 위한 장애 조치(failover) 클러스터링, 확장 클러스터 및 클러스터 집합을 강조 표시합니다. 그런 다음, 이 모듈에서는 네트워크 부하 분산, 실시간 마이그레이션 및 스토리지 마이그레이션과 같은 Hyper-V 및 Windows Server VM에 대한 고가용성 프로비전에 대해 설명합니다. 이 모듈에서는 Windows Server 파일 서버에서 호스트되는 공유에 대한 고가용성 옵션도 다룹니다. 마지막으로, 이 모듈에서는 가상 머신 확장 집합 및 부하가 분산된 VM에 대한 크기 조정을 구현하는 방법과 Azure Site Recovery 구현하는 방법을 설명합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   클러스터 공유 볼륨을 소개합니다.
+
+
+  *   Windows Server 장애 조치(failover) 클러스터링을 구현합니다.
+
+
+  *   Windows Server VM의 고가용성을 구현합니다.
+
+
+  *   Windows 서버 파일 서버 고가용성을 구현합니다.
+
+
+  *   Windows Server VM을 사용하여 확장 및 고가용성을 구현합니다.
+
+
+
+  #### <a name="lab--implementing-failover-clustering"></a>랩: 장애 조치 (failover) 클러스터링 구현
+
+
+  ####
+     *   iSCSI 스토리지 구성
+     *   장애 조치(failover) 클러스터 구성
+     *   고가용성 파일 서버 배포 및 구성
+     *   고가용성 파일 서버 배포 확인
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   클러스터 된 공유 볼륨을 사용 하 여 항상 사용 가능한 저장소 볼륨을 구현 합니다.
+
+
+  *   장애 조치 클러스터링을 사용 하 여 항상 사용 가능한 Windows 서버 작업을 구현 합니다.
+
+
+  *   Hyper-V VM 부하 분산에 관해 설명합니다.
+
+
+  *   Hyper-v Vm 실시간 마이그레이션 및 Hyper-v Vm 저장소 마이그레이션을 구현 합니다.
+
+
+  *   서버 파일 서버 high 가용성 옵션 Windows 설명 합니다.
+
+
+  *   가상 머신 확장 집합 및 부하 분산 Vm에 대 한 크기 조정을 구현 합니다.
+
+
+  *   Azure Site Recovery 구현.
+
+
+
+  ### <a name="module-4-disaster-recovery-in-windows-server"></a>모듈 4: Windows 서버에서 재해 복구
+
+
+  이 모듈에서는 가상 환경에 대 한 비즈니스 연속성 및 재해 복구 솔루션으로 Hyper-v 복제본을 소개 합니다. 이 모듈에서는 Hyper-v 복제본 시나리오 및 사용 사례와이를 사용 하기 위한 필수 구성 요소에 대해 설명 합니다. 이 모듈에서는 재해 복구를 위해 온-프레미스 시나리오에서 Azure Site Recovery를 구현 하는 방법에 대해서도 설명 합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Hyper-V 복제본 구현
+
+
+  *   Azure Site Recovery를 사용하여 재해로부터 온-프레미스 인프라 보호
+
+
+
+  #### <a name="lab--implementing-hyper-v-replica-and-windows-server-backup"></a>랩: hyper-v 복제본 및 Windows Server 백업 구현
+
+
+  ####
+     *   Hyper-V 복제본 구현
+     *   Windows Server 백업을 사용하여 백업 및 복원 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Hyper-v 복제본, 사용에 대 한 필수 구성 요소 및 상위 수준 아키텍처 및 구성 요소에 대해 설명 합니다.
+
+
+  *   Hyper-v 복제본 사용 사례 및 보안 고려 사항에 대해 설명 합니다.
+
+
+  *   Hyper-V 복제본 설정, 상태 모니터링 및 장애 조치(failover) 옵션을 구성합니다.
+
+
+  *   확장 복제에 관해 설명합니다.
+
+
+  *   Azure Site Recovery를 사용 하 여 가상 머신 및 물리적 서버를 복제, 장애 조치 및 장애 복구 (failback) 합니다.
+
+
+
+  ### <a name="module-5-implementing-recovery-services-in-hybrid-scenarios"></a>모듈 5: 하이브리드 시나리오에서 복구 서비스 구현
+
+
+  이 모듈은 하이브리드 시나리오에서 재해 복구를 구현 하기 위한 도구 및 기술에 대해 설명 하는 반면, 이전 모듈은 온-프레미스 시나리오에 대 한 BCDR 솔루션에 초점을 둡니다. 모듈은 복구 자격 증명 모음 및 Azure Backup 정책을 구현 하는 방법을 강조 표시 하기 전에 파일과 폴더를 보호 하는 서비스로 Azure Backup로 시작 합니다. 이 모듈에서는 IaaS 가상 컴퓨터 Windows 복구 하 고, 온-프레미스 워크 로드의 백업 및 복원을 수행 하 고, Azure VM 백업을 관리 하는 방법을 설명 합니다. 또한이 모듈은 Azure Site Recovery를 사용 하 여 Azure 가상 머신의 복제, 장애 조치 및 장애 복구를 관리 하 고 오케스트레이션 하 여 Azure 인프라에 대 한 재해 복구를 제공 하는 방법을 다룹니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Windows Server IaaS를 사용하여 하이브리드 백업 및 복구 구현
+
+
+  *   Azure Site Recovery를 사용하여 Azure 인프라 보호
+
+
+  *   Azure Backup을 사용하여 가상 머신 보호
+
+
+
+  #### <a name="lab--implementing-azure-based-recovery-services"></a>랩: Azure 기반 복구 서비스 구현
+
+
+  ####
+     *   랩 환경 구현
+     *   Azure Site Recovery 자격 증명 모음 만들기 및 구성
+     *   Azure Site Recovery 자격 증명 모음을 사용하여 Hyper-V VM 보호 구현
+     *   Azure Backup 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Azure Backup를 사용 하 여 Windows Server IaaS 가상 컴퓨터를 복구 합니다.
+
+
+  *   Azure Backup를 사용 하 여 온-프레미스 서버 및 가상화 된 워크 로드에 대 한 데이터를 보호할 수 있습니다.
+
+
+  *   복구 자격 증명 모음 및 Azure Backup 정책을 구현 합니다.
+
+
+  *   Azure Site Recovery를 사용 하 여 Azure Vm을 보호 합니다.
+
+
+  *   재해 복구 훈련을 실행 하 여 보호의 유효성을 검사 합니다.
+
+
+  *   Azure virtual machines 장애 조치 (Failover) 및 장애 복구
+
+
+
+  ### <a name="module-6-upgrade-and-migrate-in-windows-server"></a>모듈 6: Windows Server에서 업그레이드 및 마이그레이션
+
+
+  이 모듈에서는 이전 버전의 Windows 서버에서 실행 되는 Windows 서버 작업을 더 최신 버전으로 마이그레이션하는 방법에 대해 설명 합니다. 이 모듈은 도메인 컨트롤러를 Windows Server 2022로 이동 하는 데 필요한 전략을 설명 하 고, Active Directory 마이그레이션 도구가 포리스트 내에서 도메인을 통합 하거나 도메인을 새 AD DS 포리스트로 마이그레이션하는 방법에 대해 설명 합니다. 이 모듈에서는 Storage Migration Service를 사용 하 여 기존 파일 서버에서 Windows Server 2022를 실행 하는 새 서버로 파일 및 파일 공유를 마이그레이션하는 방법에 대해서도 설명 합니다. 마지막으로,이 모듈에서는 Windows Server 마이그레이션 도구 cmdlet을 설치 하 고 사용 하 여 이전 버전의 Windows 서버에서 일반적으로 사용 되는 서버 역할을 마이그레이션하는 방법을 설명 합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   마이그레이션 Active Directory Domain Services
+
+
+  *   Storage Migration Service를 사용 하 여 파일 서버 작업 마이그레이션
+
+
+  *   Windows Server 역할 마이그레이션
+
+
+
+  #### <a name="lab--migrating-windows-server-workloads-to-iaas-vms"></a>랩: Windows 서버 작업을 IaaS vm으로 마이그레이션
+
+
+  ####
+     *   Azure에서 AD DS 도메인 컨트롤러 배포
+     *   Storage Migration Service를 사용 하 여 파일 서버 공유 마이그레이션
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   AD DS 포리스트 업그레이드 및 새 AD DS 포리스트로 마이그레이션을 비교 합니다.
+
+
+  *   Active Directory 마이그레이션 도구 (ADMT)에 대해 설명 합니다.
+
+
+  *   Storage Migration Service 사용에 대 한 요구 사항 및 고려 사항을 확인 합니다.
+
+
+  *   저장소 마이그레이션을 사용 하 여 서버를 마이그레이션하는 방법에 대해 설명 합니다.
+
+
+  *   Windows Server 마이그레이션 도구를 사용 하 여 특정 Windows 서버 역할을 마이그레이션합니다.
+
+
+
+  ### <a name="module-7-implementing-migration-in-hybrid-scenarios"></a>모듈 7: 하이브리드 시나리오에서 마이그레이션 구현
+
+
+  이 모듈에서는 Windows 서버에서 실행 되는 작업을 IaaS (infrastructure as a service) 가상 머신으로 마이그레이션하는 방법에 대해 설명 합니다. 이 모듈에서는 Azure Migrate를 사용 하 여 온-프레미스 Windows 서버 인스턴스를 평가 하 고 Microsoft Azure로 마이그레이션합니다. 또한이 모듈은 Windows 서버에서 실행 되는 워크 로드를 IaaS (infrastructure as a service) VM (가상 머신)으로 마이그레이션하는 방법과 Windows 서버 마이그레이션 도구 또는 Storage 마이그레이션 서비스를 사용 하 여 Windows Server 2022로 마이그레이션하는 방법에 대해 설명 합니다. 마지막으로,이 모듈에서는 Azure Migrate App 컨테이너 화 tool을 사용 하 여 ASP.NET 응용 프로그램을 Azure App Service 하 고 마이그레이션하는 방법에 대해 설명 합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   온-프레미스 Windows Server 인스턴스를 Azure IaaS 가상 머신으로 마이그레이션
+
+
+  *   Windows Server IaaS 가상 머신 업그레이드 및 마이그레이션
+
+
+  *   ASP.NET 애플리케이션을 컨테이너화하여 Azure App Service로 마이그레이션
+
+
+
+  #### <a name="lab--migrating-on-premises-vms-servers-to-iaas-vms"></a>랩: 온-프레미스 Vm 서버를 IaaS Vm으로 마이그레이션
+
+
+  ####
+     *   Azure Migrate를 사용 하 여 Hyper-v Vm의 평가 및 검색 구현
+     *   Azure Migrate를 사용 하 여 Hyper-v 워크 로드 마이그레이션 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   마이그레이션 전략을 계획 하 고 적절 한 마이그레이션 도구를 선택 합니다.
+
+
+  *   Azure Migrate를 사용 하 여 서버 평가 및 검색을 수행 합니다.
+
+
+  *   Azure Migrate를 사용 하 여 Windows 서버 워크 로드를 Azure VM 워크 로드로 마이그레이션합니다.
+
+
+  *   Windows Server 마이그레이션 도구를 사용하여 워크로드를 마이그레이션하는 방법을 설명합니다.
+
+
+  *   Storage Migration Service를 사용하여 파일 서버를 마이그레이션합니다.
+
+
+  *   Windows에서 실행 되는 검색 및 컨테이너 화 ASP.NET applcations
+
+
+  *   컨테이너 화 된 응용 프로그램을 Azure App Service로 마이그레이션합니다.
+
+
+
+  ### <a name="module-8-server-and-performance-monitoring-in-windows-server"></a>모듈 8: Windows server에서 서버 및 성능 모니터링
+
+
+  이 모듈에서는 Windows 서버 컴퓨터에서 운영 체제 및 응용 프로그램을 모니터링 하는 다양 한 도구를 소개 하 고 효율성을 최적화 하 고 문제를 troublshoot 하는 시스템을 구성 하는 방법을 설명 합니다. 이 모듈은 이벤트 뷰어에서 발생 하는 이벤트를 관찰 하는 데 편리 하 고 액세스 가능한 위치를 제공 하는 방법과 이벤트 로그의 데이터를 해석 하는 방법을 설명 합니다. 이 모듈은 규정 준수, 사용자 작업 및 문제 해결을 위해 Windows 서버 환경을 감사 하 고 진단 하는 방법에 대해서도 설명 합니다. 마지막으로 모듈에서는 삭제 된 개체 및 AD DS 데이터베이스의 복구를 비롯 하 여 서비스 오류 또는 성능 저하 AD DS 문제를 해결 하는 방법과 하이브리드 인증 문제를 해결 하는 방법을 설명 합니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Windows Server 성능 모니터링
+
+
+  *   Windows Server 이벤트 로그 관리 및 모니터링
+
+
+  *   Windows Server 감사 및 진단 구현
+
+
+  *   Active Directory 문제 해결
+
+
+
+  #### <a name="lab--monitoring-and-troubleshooting-windows-server"></a>실습: 서버 Windows 모니터링 및 문제 해결
+
+
+  ####
+     *   성능 기준선 설정
+     *   성능 문제 원인 식별
+     *   중앙 집중식 이벤트 로그 보기 및 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   서버 성능 튜닝의 기본 사항을 설명 합니다.
+
+
+  *   Windows server의 기본 제공 도구를 사용 하 여 서버 성능을 모니터링할 수 있습니다.
+
+
+  *   서버 관리자 및 Windows Admin Center를 사용하여 이벤트 로그 검토.
+
+
+  *   사용자 지정 보기 구현.
+
+
+  *   이벤트 구독 구성.
+
+
+  *   Windows Server 이벤트를 감사합니다.
+
+
+  *   진단 정보를 기록하도록 Windows Server를 구성합니다.
+
+
+  *   AD DS에서 AD DS 데이터베이스 및 개체를 복구 합니다.
+
+
+  *   AD DS 복제 문제를 해결 합니다.
+
+
+  *   하이브리드 인증 문제를 해결 합니다.
+
+
+
+  ### <a name="module-9-implementing-operational-monitoring-in-hybrid-scenarios"></a>모듈 9: 하이브리드 시나리오에서 작업 모니터링 구현
+
+
+  이 모듈에서는 모니터링 및 troubleshooing 도구, 프로세스 및 모범 사례를 사용 하 여 Windows Server IaaS vm 및 하이브리드 인스턴스의 앱 성능 및 가용성를 간소화 하는 방법을 설명 합니다. 이 모듈에서는 Azure에서 IaaS Vm에 대 한 Azure Monitor를 구현 하 고, 온-프레미스 환경에서 Azure Monitor를 구현 하 고, 종속성 맵을 사용 하는 방법을 설명 합니다. 그런 다음이 모듈에서는 진단을 사용 하 여 VM에 대 한 데이터를 가져오는 방법, Azure 메트릭 탐색기에서 VM 메트릭을 보는 방법 및 VM 성능을 모니터링 하는 메트릭 경고를 만드는 방법을 설명 합니다. 그런 다음 모듈은 Azure Monitor VM Insights를 사용 하 여 VM 성능을 모니터링 하는 방법을 설명 합니다. 그런 다음이 모듈에서는 DHCP, 이름 확인, IP 구성 및 라우팅과 관련 된 일반적인 문제를 진단 하는 방법을 비롯 하 여 온-프레미스 및 하이브리드 네트워크 연결 문제 해결의 다양 한 측면을 설명 합니다. 마지막으로,이 모듈은 Azure에서 호스트 되는 Windows 서버 vm (가상 머신)에 대 한 연결에 영향을 주는 구성 문제를 해결 하는 방법 뿐만 아니라 vm 시작, 확장, 성능, 저장소 및 암호화 관련 문제를 해결 하는 방법에 대해 알아봅니다.
+
+
+  #### <a name="lessons"></a>단원
+
+
+  *   Windows Server IaaS Virtual Machines 및 하이브리드 인스턴스 모니터링
+
+
+  *   Azure 메트릭 탐색기 및 메트릭 경고를 사용 하 여 Azure virtual machines의 상태 모니터링
+
+
+  *   Azure Monitor VM Insights를 사용하여 가상 머신의 성능 모니터링
+
+
+  *   온-프레미스 및 하이브리드 네트워킹 문제 해결
+
+
+  *   Azure에서 Windows Server 가상 머신 문제 해결
+
+
+
+  #### <a name="lab--monitoring-and-troubleshooting-of-iaas-vms-running-windows-server"></a>랩: Windows Server를 실행 하는 IaaS vm의 모니터링 및 문제 해결
+
+
+  ####
+     *   가상 컴퓨터에 대 한 Azure Monitor 사용
+     *   부팅 진단을 사용 하 여 VM 설정
+     *   Log Analytics 작업 영역 및 Azure Monitor VM 설정 Insights
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
+
+
+  *   Azure 및 온-프레미스 환경에서 IaaS Vm에 대 한 Azure Monitor를 구현 합니다.
+
+
+  *   Azure 및 온-프레미스 환경에서 IaaS Vm에 대 한 Azure Monitor를 구현 합니다.
+
+
+  *   Azure 메트릭 탐색기에서 VM 메트릭을 확인합니다.
+
+
+  *   모니터링 데이터를 사용 하 여 문제를 진단 합니다.
+
+
+  *   Azure Monitor 로그를 평가 하 고 Azure Monitor VM Insights 구성 합니다.
+
+
+  *   Log Analytics 작업 영역 구성
+
+
+  *   온-프레미스 연결 및 하이브리드 네트워크 연결 문제를 해결합니다.
+
+
+  *   AD DS 서비스 오류 또는 성능 저하 문제를 해결 합니다.
+
+
+  *   삭제 된 보안 개체와 AD DS 데이터베이스를 복구 합니다.
+
+
+  *   하이브리드 인증 문제를 해결 합니다.

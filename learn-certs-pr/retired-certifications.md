@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: df515f3561b4b1145bc3549f029fbb07175ee4ce
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.openlocfilehash: b6dd5c2902cc9b622e7d792beadd61a64a0c3380
+ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "132113058"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135801796"
 ---
 # <a name="certification-retirement"></a>인증 만료
 
@@ -51,7 +51,6 @@ ms.locfileid: "132113058"
 | ---------------------------------------------------------------------------------- | ------------------ |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 |
 | [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021년 6월 30일 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020년 12월 31일 |
 
 | Microsoft Certified 솔루션 개발자                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

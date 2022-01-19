@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 92f47075291b2c9f3ce114d2e755272794c06327
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.openlocfilehash: 6f17a599db26cf3f4aa476788bcc7987ad7f9138
+ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "132112842"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135964290"
 ---
 # <a name="exam-retirement"></a>시험 폐지
 
@@ -30,6 +30,7 @@ ms.locfileid: "132112842"
 | --- |
 | [AZ-303](/learn/certifications/exams/az-303): Microsoft Azure Architect Technologies |
 | [AZ-304](/learn/certifications/exams/az-304): Microsoft Azure Architect Design |
+| [DA-100](/learn/certifications/exams/da-100): Microsoft Power BI를 사용 하 여 데이터 분석 |
 
 | 2022년 6월 30일에 폐지 |
 | --- |
@@ -56,8 +57,6 @@ ms.locfileid: "132112842"
 | [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 2021년 6월 30일
 | [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 2021년 8월 31일
 | [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 2021년 8월 31일
-| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020년 12월 31일
-| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020년 12월 31일
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 2021년 6월 30일
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 2021년 6월 30일
 
@@ -129,6 +128,8 @@ ms.locfileid: "132112842"
 | AZ-300 | Microsoft Azure Architect Technologies | 2020년 9월 30일
 | AZ-301 | Microsoft Azure Architect Design | 2020년 9월 30일
 | AZ-302 | Microsoft Azure Solutions Architect 인증 변환 | 2019년 6월 30일
+| MB-200 | Microsoft Power Platform + Dynamics 365 Core | 2020년 12월 31일
+| MB-400 | Microsoft Power Apps + Dynamics 365 Developer | 2020년 12월 31일
 | MB-900 | Microsoft Dynamics 365 Fundamentals | 2019년 12월 31일
 | MS-200 | Planning and Configuring a Messaging Platform | 2020년 8월 31일
 | MS-201 | Implementing a Hybrid and Secure Messaging Platform | 2020년 8월 31일

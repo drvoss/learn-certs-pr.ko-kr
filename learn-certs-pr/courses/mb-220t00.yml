@@ -3,12 +3,12 @@ title: Microsoft Dynamics 365 Marketing
 metadata:
   title: '과정 MB-220T00--A: Microsoft Dynamics 365 Marketing'
   description: '과정 MB-220T00--A: Microsoft Dynamics 365 Marketing'
-  ms.openlocfilehash: 1689609f43eb117ef432b89f5d65d5ad603f1c0b
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: a9e325d410ccc0491ea8ab6c34f1351669b47b7d
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107421"
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573264"
 uid: course.mb-220t00
 courseNumber: MB-220T00
 hoursToComplete: 96
@@ -58,13 +58,15 @@ outlineSection: >-
   *   마케팅 설정 구성
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   마케팅 애플리케이션 설정.
 
 
   *   조직, 비즈니스 관리, 콘텐츠 등 고급 설정 구성.
+
 
 
   ### <a name="module-2-manage-segments-and-lists"></a>모듈 2: 세그먼트 및 목록 관리
@@ -82,13 +84,15 @@ outlineSection: >-
   *   구독 센터 및 리스트 생성 및 관리
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   세그먼트 만들기 및 관리.
 
 
   *   구독 센터 만들기 및 관리.
+
 
 
   ### <a name="module-3-manage-marketing-forms-and-pages"></a>모듈 3: 마케팅 양식 및 페이지 관리
@@ -106,7 +110,8 @@ outlineSection: >-
   *   마케팅 페이지 관리
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   마케팅 양식 만들기 및 마케팅 페이지에 삽입.
@@ -119,6 +124,7 @@ outlineSection: >-
 
 
   *   마케팅 양식 및 페이지 템플릿 만들기.
+
 
 
   ### <a name="module-4-manage-leads-accounts-and-contacts"></a>모듈 4: 잠재 고객, 계정, 연락처 관리
@@ -136,7 +142,8 @@ outlineSection: >-
   *   계정 및 연락처 관리
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   고객을 계정 또는 연락처로 추적.
@@ -148,7 +155,8 @@ outlineSection: >-
   *   잠재 고객 수명 주기를 통해 잠재 고객 관리.
 
 
-  ### <a name="module-5-manage-marketing-emails-and-customer-journeys"></a>모듈 5: 마케팅 메일 및 고객 여정 관리
+
+  ### <a name="module-5-manage-marketing-emails-customer-journeys-and-real-time-marketing"></a>모듈 5: 마케팅 메일, 고객 경험 및 실시간 마케팅 관리
 
 
   이 모듈에서는 Dynamics 365 Marketing에서 메일 메시지와 고객 여정을 만드는 방법에 대해 설명합니다.
@@ -163,7 +171,11 @@ outlineSection: >-
   *   고객 여정 작성
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+  *   실시간 마케팅에서 콘텐츠, 이벤트 트리거 및 경험 관리
+
+
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   메일 메시지 만들기 및 디자인.
@@ -176,6 +188,10 @@ outlineSection: >-
 
 
   *   고객 여정 만들기.
+
+
+  *   고객 경험에서 실시간 마케팅 및 이벤트 트리거를 사용 합니다.
+
 
 
   ### <a name="module-6-manage-events"></a>모듈 6: 이벤트 관리
@@ -196,7 +212,8 @@ outlineSection: >-
   *   이벤트 홍보 및 관리
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   이벤트 만들기.
@@ -212,6 +229,7 @@ outlineSection: >-
 
 
   *   이벤트 설정 구성.
+
 
 
   ### <a name="module-7-create-surveys-with-dynamics-365-customer-voice"></a>모듈 7: Dynamics 365 Customer Voice를 사용하여 설문 조사 만들기
@@ -232,7 +250,8 @@ outlineSection: >-
   *   Dynamics 365 Customer Voice 설문 조사 보내기
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
 
   *   프로젝트를 사용하여 설문 조사 관리.
@@ -247,6 +266,7 @@ outlineSection: >-
   *   설문 조사를 고객에게 배포.
 
 
+
   ### <a name="module-8-analyze-insights-in-dynamics-365-marketing"></a>모듈 8: Dynamics 365 Marketing의 인사이트 분석
 
 
@@ -259,7 +279,8 @@ outlineSection: >-
   *   분석을 사용하여 마케팅 이니셔티브 평가
 
 
-  이 모듈을 완료하면 다음을 수행할 수 있습니다.
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
   *   인사이트를 사용하여 마케팅 정보에 대해 의사 결정.

@@ -3,15 +3,18 @@ title: Microsoft Dynamics 365 Business Central Functional Consultant
 metadata:
   title: '시험 MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
   description: '시험 MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
-  ms.openlocfilehash: 5dc5689c2bf21902c12722480b37b2b39e958406
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: fb148d5997b3cb8a265d48b08c0503a639c9f31b
+  ms.sourcegitcommit: 1f4f8c714b7454e4397a4cfec2f6920ba660ba16
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132112370"
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "136853897"
 uid: exam.mb-800
 displayName: MB-800
 summary: >-
+  <div><strong>중요: 이 시험의 영어 버전은 2022년 2월 14일에 업데이트됩니다. 변경 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.</strong><br/><br/>참고: 합격 기준 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">시험 점수 에 대해 자세히 알아보세요.</a><br/><br/></div>
+
+
   이 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.
 
 
@@ -32,6 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
+- The English language version of this exam will be updated on February 14, 2022. Please download the exam skills outline below to see what’s changing.
 - Set up Business Central (20-25%)
 - Configure financials (25-30%)
 - Configure sales and purchasing (10-15%)

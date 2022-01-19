@@ -3,12 +3,12 @@ title: Administering Windows Server Hybrid Core Infrastructure(베타)
 metadata:
   title: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
   description: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
-  ms.openlocfilehash: da6b4fda5fc7ab8c7f3df8d1ab7d75ff78b88f34
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 7c429b5226bb6ee9ae1165fcad1a8888acbeaa45
+  ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133989053"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "135801785"
 uid: exam.az-800
 displayName: AZ-800
 summary: >-
@@ -57,6 +57,8 @@ products:
 - azure-virtual-machines
 - mdatp
 - windows-server
+courses:
+- uid: course.az-800t00
 paths:
 - uid: learn.wwl.deploy-manage-identity-infrastructure
 - uid: learn.wwl.manage-windows-servers-workloads-hybrid-environment

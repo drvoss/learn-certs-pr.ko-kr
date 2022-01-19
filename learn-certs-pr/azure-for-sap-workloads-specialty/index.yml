@@ -1,35 +1,35 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
-  ms.openlocfilehash: f1c4b30e43a273e208b9c1b23ab0697848425865
-  ms.sourcegitcommit: ed10dec6b04e8c68123f45a761562a79ac8bdded
-  ms.translationtype: HT
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: SAP 워크로드용 Azure 설계자 또는 엔지니어는 클라우드 관리자, 클라우드 데이터베이스 관리자 및 클라이언트와 협력하여 솔루션을 구현합니다.
+  ms.openlocfilehash: 4dd859f639783cb46b9462ccaaa42772d0014082
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/23/2021
-  ms.locfileid: "132942406"
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573179"
 uid: certification.azure-for-sap-workloads-specialty
 certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 22일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/az-120">시험 AZ-120 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  <div><strong>중요: 이 인증의 영어 버전은 2022년 1월 24일에 업데이트됩니다. <a href="/learn/certifications/exams/az-120">AZ-120 시험 페이지에서</a> 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.</strong><br/><br/></div>
 
 
-  이 인증의 응시자는 Microsoft Azure에서 SAP 솔루션의 초기 마이그레이션 또는 통합 및 장기 운영과 관련된 SAP 시스템 환경 및 업계 표준에 대한 광범위한 경험과 지식을 보유한 설계자 또는 엔지니어여야 합니다.
+  이 인증의 후보는 초기 마이그레이션 또는 통합과 Microsoft Azure SAP 솔루션의 장기 운영과 관련한 SAP 시스템 환경 및 산업 표준에 대한 광범위한 경험과 지식을 갖춘 설계자 또는 엔지니어여야 합니다.
 
 
-  Azure for SAP Workloads 설계자 또는 엔지니어는 최적의 복원력, 성능, 스케일링, 프로비저닝, 크기, 모니터링에 적합한 서비스를 추천하고 리소스를 조정하는 업무를 담당합니다.
+  SAP 워크로드에 대한 Azure 설계자 또는 엔지니어의 책임에는 서비스에 대한 권장 사항을 만들고 최적의 복원력, 성능, 크기 조정, 프로비전, 크기 및 모니터링에 맞게 리소스를 조정하는 작업이 포함됩니다.
 
 
-  SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
+  SAP 워크로드용 Azure 설계자 또는 엔지니어는 클라우드 관리자, 클라우드 데이터베이스 관리자 및 클라이언트와 협력하여 솔루션을 구현합니다.
 
 
-  이 인증의 응시자는 SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, SAP 애플리케이션 및 데이터베이스를 위한 OS 서버, Azure Portal, Azure Marketplace, ARM 템플릿(Azure Resource Manager 템플릿), 가상화, 클라우드 인프라, 스토리지 구조, 고가용성 설계, 재해 복구 설계, 데이터 보호 개념, 네트워킹과 같은 SAQ 응용 분야에 대한 광범위한 경험과 지식을 갖추어야 합니다.
+  이 인증 후보에게는 SAP 애플리케이션에 대한 광범위한 경험 및 지식이 있어야 합니다. SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, SAP 애플리케이션 및 데이터베이스용 OS 서버, Azure Portal, Azure Marketplace, ARM 템플릿(Azure Resource Manager 템플릿), 가상화, 클라우드 인프라, 스토리지 구조, 고가용성 디자인, 재해 복구 디자인, 데이터 보호 개념 및 네트워킹.
 
 
-  AZ-120 시험을 위해 SAP 인증 외에도 Azure Administrator Associate 또는 Azure Solutions Architect Expert 인증이 있는 것이 좋습니다.
-subTitle: SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
+  AZ-120 시험의 경우 SAP 인증 외에도 Azure 관리자 연결 또는 Azure 솔루션 아키텍트 Expert 인증이 있는 것이 좋습니다.
+subTitle: SAP 워크로드용 Azure 설계자 또는 엔지니어는 클라우드 관리자, 클라우드 데이터베이스 관리자 및 클라이언트와 협력하여 솔루션을 구현합니다.
 levels:
 - advanced
 skills:
@@ -47,9 +47,14 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn.wwl.sap-certified-offerings-azure
-- uid: learn-pr.wwl.planning-azure-sap-workloads
-- uid: learn.wwl.run-azure-sap-workloads
+- uid: learn.wwl.explore-azure-for-sap-workloads
+- uid: learn.wwl.explore-foundations-of-iaas
+- uid: learn.wwl.explore-foundations-of-identity-governance
+- uid: learn.wwl.deploy-sap-azure
+- uid: learn.wwl.ensure-business-continuity-implement-disaster-recovery
+- uid: learn.wwl.migrate-sap-workloads-to-azure
+- uid: learn.wwl.monitor-troubleshoot-azure-for-sap-workloads
+- uid: learn.wwl.explore-sap-hana-azure-large-instances
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120
@@ -58,7 +63,7 @@ resources:
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 인증으로의 여정
-  description: Azure for SAP Workloads Specialty 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  description: Azure에서 SAP Workloads Specialty에 대한 인증을 받는 단계와 준비하는 데 사용할 수 있는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

@@ -2,18 +2,18 @@
 title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
-  description: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 수명 주기를 완료 하는 리소스를 관리 하는 솔루션을 구현 하는 일을 담당 합니다.
-  ms.openlocfilehash: fd02e24116ae7a904cc9da6d764cbbbf556e0e5e
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  description: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 Field Service 수명 주기를 완료하는 리소스를 관리하는 솔루션 구현을 담당합니다.
+  ms.openlocfilehash: c91f09e9db6add489cffa181a092b7e01710b920
+  ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133078899"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "135801774"
 uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용이 최근에 업데이트 되었습니다. 240 년 11 월 12 2021 일에 <a href="/learn/certifications/exams/mb-240">시험 MB-</a> 이 업데이트 되었습니다. <a href="/learn/certifications/exams/pl-200">200</a> 년 10 월 1 2021 일에 업데이트 된 시험. 관련 된 시험 페이지에서 기술 측정 문서를 다운로드 하 여 변경 된 내용을 확인 하세요.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 인증의 내용은 최근 업데이트되었습니다. <a href="/learn/certifications/exams/mb-240">시험 MB-240</a>은 2021년 11월 12일에 업데이트되었고, <a href="/learn/certifications/exams/pl-200">시험 PL-200</a>은 2021년 10월 1일에 업데이트되었습니다. 변경 사항을 확인하려면 관련 시험 페이지에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
 
 
   고객을 위한 Dynamics 365 솔루션 구성 및 구현을 담당하는 기능 컨설턴트인 경우 이 인증에 적합하며 이를 통해 기술을 조명하고 경력 발전에 도움을 받을 수 있습니다. Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 수명 주기를 완료하는 리소스를 관리하는 솔루션 구현을 담당합니다. 기능 컨설턴트로서 프로젝트 관리자, 개발자, 솔루션 설계자와 협업하는 방법을 알고 있습니다. Dynamics 365를 구현하는 기능 컨설턴트로서 최소 1~3년의 경험이 필요합니다.
@@ -32,7 +32,7 @@ summary: >-
   - 더 많은 실습을 완료합니다.
 
   - 강사 진행 교육 과정에 등록합니다.
-subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 수명 주기를 완료 하는 리소스를 관리 하는 솔루션을 구현 하는 일을 담당 합니다.
+subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 Field Service 수명 주기를 완료하는 리소스를 관리하는 솔루션 구현을 담당합니다.
 levels:
 - intermediate
 skills:
@@ -72,7 +72,9 @@ paths:
 - uid: learn-bizapps.bring-ai
 - uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.implementing-dyn365-field-service
-- uid: learn-bizapps.universal-resource-scheduling
+- uid: learn-dynamics.manage-work-orders
+- uid: learn-bizapps.connected-field-service
+- uid: learn-dynamics.solve-problems-remote-assist
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
 exams:
 - uid: exam.pl-200

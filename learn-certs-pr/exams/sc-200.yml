@@ -1,21 +1,29 @@
 ### YamlMime:Examination
-title: 'Microsoft Security Operations Analyst'
+title: Microsoft 보안 운영 분석가 시험에 맞춰 조정됩니다.
 metadata:
-  title: 'Exam SC-200: Microsoft Security Operations Analyst'
-  description: 'Exam SC-200: Microsoft Security Operations Analyst'
+  title: '시험 SC-200: Microsoft 보안 작업 분석가'
+  description: '시험 SC-200: Microsoft 보안 작업 분석가'
+  ms.openlocfilehash: 15973186d419fbb73e49cdfd2697e30a1db60bf4
+  ms.sourcegitcommit: 741c0f68de10dd00859f4bb679ed11dbb5a15674
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/30/2021
+  ms.locfileid: "135583315"
 uid: exam.sc-200
 displayName: SC-200
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><strong>중요:이 시험의 영어 버전은 2022 년 1 월 28 일에 업데이트 됩니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.</strong><br/><br/></div><div>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></div></div>
 
-  Microsoft 보안 운영 분석가는 조직의 이해관계자와 협력하여 조직을 위한 정보 기술 시스템을 보안합니다. 그들의 목표는 환경에서 활발한 공격을 신속하게 수습하고, 위협 방지 사례에 대한 개선을 조언하고, 조직 정책의 위반을 적절한 이해관계자들에게 언급함으로써 조직의 위험을 줄이는 것입니다.
-  
-  책임에는 환경 전반에 걸쳐 다양한 보안 솔루션을 사용하여 위협 관리, 모니터링 및 대응을 포함합니다. 이 역할은 주로 Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender, 및 타사 보안 제품을 사용하여 위협을 조사, 대응 및 추적합니다. 보안 운영 분석가는 이러한 도구의 운영 결과를 사용하기 때문에, 이러한 기술의 구성 및 배포에 중요한 이해관계자가 됩니다.
-subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: Microsoft 365 Defender을 사용하여 위협 완화 ; Azure Defender을 사용하여 위협 완화; Azure Sentinel을 사용하여 위협 완화.'
+
+  Microsoft 보안 운영 분석가는 조직 관련자와 협업 하 여 조직에 대 한 정보 기술 시스템을 보호 합니다. 목표는 환경에서 활성 공격을 신속하게 해결하고, 위협 방지 사례 개선에 관하여 조언하고, 적절한 관련자에게 조직 정책 위반을 문의하여 조직의 위험을 줄이는 것입니다.
+
+
+  책임에는 환경 전체에서 다양한 보안 솔루션을 사용하는 위협 관리, 모니터링 및 대응이 포함됩니다. 역할은 주로 Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender 및 타사 보안 제품을 사용하여 위협의 조사, 대응 및 헌팅을 수행합니다. 보안 작업 분석가는 이러한 도구의 작업 출력을 소비 하므로 이러한 기술의 구성 및 배포에서 중요 한 관련자 이기도 합니다.
+subTitle: 이 시험은 Microsoft 365 Defender를 사용 하 여 위협을 완화 하 고, azure Defender를 사용 하 여 위협을 완화 하 고, azure 센티널을 사용 하 여 위협을 완화 하는 기능을 제공 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
 practiceTestUrl: https://in.mindhub.com/sc-200-microsoft-security-operations-analyst-microsoft-official-practice-test/p/MU-SC-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
 locales:
 - en
 - ja
@@ -32,10 +40,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- Microsoft 365 Defender을 사용하여 위협 완화 (25-30%)
-- Azure Defender을 사용하여 위협 완화 (25-30%)
-- Azure Sentinel을 사용하여 위협 완화 (40-45%)
+- The English language version of this exam will be updated on January 28, 2022. Please download the exam skills outline below to see what’s changing.
+- Mitigate threats using Microsoft 365 Defender (25-30%)
+- Mitigate threats using Azure Defender (25-30%)
+- Mitigate threats using Azure Sentinel (40-45%)
 roles:
 - security-engineer
 - security-operations-analyst
@@ -64,7 +72,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -73,9 +81,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

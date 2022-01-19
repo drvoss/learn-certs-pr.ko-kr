@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: a50d85cfef812fe210e1073f7455a60ffcd8091f
-ms.sourcegitcommit: 5fc8bfbaea923b52248e8ff09169b491b471e5eb
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132535959"
 ---
 # <a name="course-retirement"></a>과정 만료

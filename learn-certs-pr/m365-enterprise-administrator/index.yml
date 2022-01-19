@@ -2,22 +2,22 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 엔터프라이즈 관리자는 Microsoft 365 서비스의 평가, 계획, 마이그레이션, 배포 및 관리에 참여합니다.
-  ms.openlocfilehash: be1b77f95088e704af018e3de723a199b78e8743
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  description: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는 역할을 수행합니다.
+  ms.openlocfilehash: ce7a06698be6761251685f48e0e14d33a8a6f6d2
+  ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133301650"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "135801565"
 uid: certification.m365-enterprise-administrator
 certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 최근에 업데이트되었습니다. <a href="/learn/certifications/exams/ms-101">MS-101 검사는 2021년 11월</a> 24일에 업데이트되었으며 <a href="/learn/certifications/exams/ms-100">MS-100 검사는 2021년 11월</a> 30일에 업데이트되었습니다. 관련 시험 페이지에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.</strong></font><br/><br/></div>
+  <div><strong>중요:이 인증의 영어 버전은 곧 업데이트 될 예정입니다. <a href="/learn/certifications/exams/ms-101">시험 MS-101</a> 은 2022 2 월 2 일에 업데이트 됩니다. <a href="/learn/certifications/exams/ms-100">시험 MS-100</a> 은 2021 년 11 월 30 일에 업데이트 되었습니다. 관련 된 시험 페이지에서 기술 측정 문서를 다운로드 하 여 최근 및 예정 된 변경 내용을 확인 하세요.</strong><br/><br/></div>
 
 
-  엔터프라이즈 관리자가 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포 및 관리하는 Microsoft 365.
-subTitle: 엔터프라이즈 관리자가 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포 및 관리하는 Microsoft 365.
+  Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
+subTitle: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 levels:
 - advanced
 skills:

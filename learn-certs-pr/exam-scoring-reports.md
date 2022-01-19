@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: a59e4c61631c5973b93d7213b6745cb9640c2d46
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 68a807408c029a5e8feee27239f08612199f8690
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132106544"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638647"
 ---
 # <a name="exam-scoring-and-score-reports"></a>시험 채점 및 점수 보고서
 
@@ -26,14 +26,16 @@ ms.locfileid: "132106544"
 
 ## <a name="how-to-access-your-score-report"></a><a name="how-to-access-your-score-report"></a> 점수 보고서에 액세스하는 방법
 
-PSI를 사용하여 응시한 시험의 경우 점수 보고서가 인증 프로필에 나열된 연락처 메일로 전송되었으며 인증 대시보드를 통해 액세스할 수 없습니다. Pearson VUE로 응시한 시험에 대한 점수 보고서는 온라인으로 제공됩니다. 점수 보고서에 액세스하려면 다음을 수행합니다.
+점수 보고서는 피어슨 VUE 및 Certiport를 사용 하 여 시험에서 온라인으로 사용할 수 있습니다. 
+
+피어슨 VUE 점수 보고서에 액세스 하려면:
 
 1. [인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)로 이동합니다.
 
 2. “시험 공급자” 섹션의 드롭다운에서 “Pearson VUE”를 선택한 다음 “이동”을 선택합니다.
 <br/>
 <br/>
-![드롭다운에서 Pearson VUE를 선택하고 이동을 선택합니다.](images/how-to-access-score-report-step-2.png)
+![드롭다운에서 Pearson VUE를 선택하고 이동을 선택합니다.](images/pearsononly-how-to-access-score-report-step-2.png)
 <br/>
 <br/>
 3. Pearson VUE 대시보드로 리디렉션됩니다. “내 계정” 섹션에서 “점수 보고서 보기”를 선택합니다.
@@ -48,6 +50,7 @@ PSI를 사용하여 응시한 시험의 경우 점수 보고서가 인증 프로
 ![특정 시험의 점수 보고서 보기 단추 선택](images/how-to-access-score-report-step-4.png)
 <br/>
 <br/>
+Certiport 점수 보고서에 액세스 하려면 [Certiport 성적 증명서](https://www.certiport.com/portal/SSL/Login.aspx) 를 방문 하세요. 자세한 내용은 [Certiport faq](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs) 를 참조 하세요.
 
 ## <a name="how-exams-are-scored"></a>시험 채점 방법
 

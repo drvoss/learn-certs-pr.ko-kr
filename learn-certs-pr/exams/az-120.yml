@@ -1,37 +1,37 @@
 ### YamlMime:Examination
 title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
-  title: '시험 AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
-  description: '시험 AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
-  ms.openlocfilehash: 25285324aab6ddeffc1c2c1f19eea564b0d10d14
-  ms.sourcegitcommit: ed10dec6b04e8c68123f45a761562a79ac8bdded
-  ms.translationtype: HT
+  title: '시험 AZ-120: SAP 워크 로드에 대 한 Microsoft Azure 계획 및 관리'
+  description: '시험 AZ-120: SAP 워크 로드에 대 한 Microsoft Azure 계획 및 관리'
+  ms.openlocfilehash: 532a0a64e557618cb0aaf9deca3019d57481af98
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/23/2021
-  ms.locfileid: "132942395"
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573308"
 uid: exam.az-120
 displayName: AZ-120
 summary: >-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 11월 22일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래에서 기술 측정 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대한 자세한 정보를 확인하세요.</font><br/><br/></div></div>
+  <div><div><strong>중요:이 시험의 영어 버전은 2022 년 1 월 24 일에 업데이트 됩니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.</strong><br/><br/></div><div>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></div></div>
 
 
-  이 시험의 응시자는 Microsoft Azure에서 SAP 솔루션의 초기 마이그레이션 또는 통합 및 장기 운영과 관련된 SAP 시스템 환경 및 산업 표준에 대한 광범위한 경험과 지식을 갖춘 설계자 또는 엔지니어여야 합니다.
+  이 시험의 후보는 초기 마이그레이션 또는 통합과 Microsoft Azure에서 SAP 솔루션의 장기 작업과 관련 하 여 SAP 시스템의 가로 및 업계 표준에 대 한 폭넓은 경험과 지식을 갖춘 설계자 또는 엔지니어 여야 합니다.
 
 
-  Azure for SAP Workloads 설계자 또는 엔지니어는 최적의 복원력, 성능, 스케일링, 프로비저닝, 크기, 모니터링에 적합한 서비스를 추천하고 리소스를 조정하는 업무를 담당합니다.
+  SAP 워크 로드의 경우 Azure에 대 한 설계자 또는 엔지니어의 책임은 서비스에 대 한 권장 사항을 만들고 최적의 복원 력, 성능, 확장성, 프로 비전, 크기 및 모니터링에 적합 한 리소스를 조정 하는 것입니다.
 
 
-  SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
+  클라우드 관리자, 클라우드 데이터베이스 관리자 및 클라이언트를 사용 하 여 솔루션을 구현 하는 SAP 워크 로드 파트너인 Azure 용 설계자 또는 엔지니어
 
 
-  이 시험의 응시자는 SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, SAP 애플리케이션 및 데이터베이스를 위한 OS 서버, Azure Portal, Azure Marketplace, ARM 템플릿(Azure Resource Manager 템플릿), 가상화, 클라우드 인프라, 스토리지 구조, 고가용성 설계, 재해 복구 설계, 데이터 보호 개념, 네트워킹에 대한 광범위한 경험과 지식을 갖추어야 합니다.
+  이 시험의 후보에는 SAP 응용 프로그램에 대 한 광범위 한 경험 및 지식 (SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, SAP 응용 프로그램 및 데이터베이스용 OS 서버, Azure Portal, Azure Marketplace, Azure Resource Manager 템플릿 (ARM 템플릿), 가상화, 클라우드 인프라, 저장소 구조, 고가용성 디자인, 재해 복구 디자인, 데이터 보호 개념 및 네트워킹)이 포함 되어 있어야 합니다.
 
 
-  이 시험을 위해 SAP 인증 외에도 Azure Administrator Associate 또는 Azure Solutions Architect Expert 인증이 있는 것이 좋습니다.
-subTitle: 이 시험은 SAP Workloads를 Azure로 마이그레이션, SAP Workloads를 지원하기 위한 인프라 설계 및 구현, 고가용성 및 재해 복구 설계 및 구현, Azure에서의 SAP Workloads 유지 관리와 같은 기술 작업을 수행하는 능력을 측정합니다.
+  이 시험에는 SAP 인증 외에도 Azure 관리자가 또는 Azure 솔루션 설계자 전문가 인증을 연결 하는 것이 좋습니다.
+subTitle: 이 시험은 SAP 워크 로드를 Azure로 마이그레이션하는 다음과 같은 기술 작업을 수행할 수 있는 능력을 측정 합니다. SAP 워크 로드를 지원 하도록 인프라를 디자인 하 고 구현 합니다. 고가용성 및 재해 복구를 설계 하 고 구현 합니다. Azure에서 SAP 워크 로드를 유지 관리 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
 - ja
@@ -48,7 +48,7 @@ locales:
 levels:
 - advanced
 skills:
-- The content of this exam was updated on November 22, 2021. Please download the exam skills outline below to see what changed.
+- The English language version of this exam will be updated on January 24, 2022. Please download the exam skills outline below to see what’s changing.
 - Migrate SAP Workloads to Azure (25–30%)
 - Design and Implement an Infrastructure to Support SAP Workloads (25–30%)
 - Design and Implement High Availability and Disaster Recovery (HA/DR) (20–25%)
@@ -62,15 +62,20 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn.wwl.sap-certified-offerings-azure
-- uid: learn-pr.wwl.planning-azure-sap-workloads
-- uid: learn.wwl.run-azure-sap-workloads
+- uid: learn.wwl.explore-azure-for-sap-workloads
+- uid: learn.wwl.explore-foundations-of-iaas
+- uid: learn.wwl.explore-foundations-of-identity-governance
+- uid: learn.wwl.deploy-sap-azure
+- uid: learn.wwl.ensure-business-continuity-implement-disaster-recovery
+- uid: learn.wwl.migrate-sap-workloads-to-azure
+- uid: learn.wwl.monitor-troubleshoot-azure-for-sap-workloads
+- uid: learn.wwl.explore-sap-hana-azure-large-instances
 relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
 resources:
 - title: 인증으로의 여정
-  description: Azure for SAP Workloads Specialty 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  description: Azure에서 SAP 워크 로드에 대 한 인증을 받고 준비 하는 데 도움이 되는 리소스를 확인 하는 단계를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

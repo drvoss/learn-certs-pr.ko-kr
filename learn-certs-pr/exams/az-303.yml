@@ -3,20 +3,22 @@ title: Microsoft Azure Architect Technologies
 metadata:
   title: '시험 AZ-303: Microsoft Azure Architect Technologies'
   description: '시험 AZ-303: Microsoft Azure Architect Technologies'
-  ms.openlocfilehash: 24674afaaea2155abf40bdc81c52ddb7aaa92321
-  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
-  ms.translationtype: HT
+  ms.openlocfilehash: a9cf9479dccf21d63b12ae91ee9cf97845de70b3
+  ms.sourcegitcommit: 6491474c7565815a27be28fa0c264bf6c093f5b4
+  ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/10/2021
-  ms.locfileid: "134680808"
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "135540213"
 uid: exam.az-303
 displayName: AZ-303
 summary: >-
-  <div><div><strong>중요: </strong>이 시험은 2022년 3월 31일 중부 표준시 기준 오후 11시 59분에 중단됩니다. 새 시험 <a href="/learn/certifications/exams/az-305">시험 AZ-305</a>를 응시할 수 있습니다. <a href="/learn/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a> 인증은 다음 요구 사항을 충족하면 획득할 수 있습니다.<ul>
+  <div><div><strong>중요: </strong> 이 시험의 사용은 2022년 3월 31일에 사용이면 됩니다. 새 시험인 <a href="/learn/certifications/exams/az-305">AZ-305 시험이</a>베타로 제공됩니다. <br/><br/><strong><a href="/learn/certifications/azure-solutions-architect/">Microsoft Certified: Azure 솔루션 아키텍트 Expert</a> 인증을 받으려면 다음 요구 사항을 완료합니다.</strong><ul>
 
-  <li>시험 AZ-303 및 <a href="/learn/certifications/exams/az-305">시험 AZ-305</a> <strong>를 통과하거나</strong></li>
+  <li><a href="/learn/certifications/azure-administrator/">Microsoft Certified: Azure Administrator Associate</a> 인증을 획득하고 <a href="/learn/certifications/exams/az-305">시험 AZ-305</a>를 통과<strong>하거나</strong></li>
 
-  <li>시험 AZ-303 및 <a href="/learn/certifications/exams/az-304">시험 AZ-304</a><em>(2022년 3월 31일에 중단되기 전에)</em>를 통과합니다.</li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 시험 및 <a href="/learn/certifications/exams/az-304">AZ-304 시험</a> <em>통과(2022년 3월 31일에 사용이 사용이 허가되기 전)</em> <strong>또는</strong></li>
+
+  <li><a href="/learn/certifications/exams/az-303">통과 시험 AZ-303(2022년</a> <em>3월 31일에 사용이 사용이 사용되기 전)</em> 및 <a href="/learn/certifications/exams/az-305">AZ-305 시험</a> </li>
 
   </ul>인증 경로에 대한 자세한 내용은 <a href="https://aka.ms/AzureSlnsArchBlog">이 블로그 게시물</a>을 참조하세요.<br/><br/></div>
 
@@ -37,7 +39,7 @@ subTitle: 본 시험은 Azure 인프라 구현 및 모니터링, 관리 및 보�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-303?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
 - ja

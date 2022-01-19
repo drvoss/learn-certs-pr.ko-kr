@@ -2,19 +2,19 @@
 title: 시험 시간 및 문제 유형 | Microsoft Docs
 description: 시험 기간 및 문제 유형
 documentationcenter: NA
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: 30065cf67d0894f219e0806ff5bcf53b91b6705a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: e604380b5a42023b6c5969aad734b53d06a7f75f
+ms.sourcegitcommit: c306f5c1628e566f7cd042f271c0a4b74e72be7e
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132106624"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "135434686"
 ---
 # <a name="exam-duration-and-question-types"></a>시험 기간 및 문제 유형
 
@@ -42,7 +42,15 @@ Microsoft Certification 시험에 익숙해지는 가장 좋은 방법 중 하�
 
 ## <a name="question-types-on-exams"></a>시험 문제 유형
 
-시험 보안 및 인증의 가치를 보호하기 위해 시험 전에 특정 시험 형식이나 문제 유형을 식별하지 않습니다. 다음은 시험에서 볼 수 있는 몇 가지 문제 샘플입니다.
+시험 보안 및 인증의 가치를 보호하기 위해 시험 전에 특정 시험 형식이나 문제 유형을 식별하지 않습니다. 그러나 "시험[샌드박스"를](https://aka.ms/examdemo)방문하여 시험 환경을 시연할 수 있습니다. 시험 응시 전에 시험 경험을 할 수 있는 기회를 제공하기 위해 이 환경을 만들었습니다. 시험 사용자 인터페이스에서 시험 중에 볼 수 있는 다양한 질문 유형과 상호 작용할 수 있습니다. 또한 이 환경은 시험에서 볼 수 있는 동일한 소개 화면, 지침, 도움말 정보 및 NDA를 포함합니다. 따라서 이 샌드박스를 사용하면 시험 환경을 더 잘 준비하고 사용자 인터페이스, 페이지 간 탐색 방법, 각 질문 유형에 답변하기 위해 수행해야 하는 작업, 시험 정보가 있는 위치(남은 시간, 남은 질문 등), 검토를 위해 질문을 표시하는 방법,  및 주석을 남기는 방법.
+
+보조 디바이스를 사용하는 경우 시험 인터페이스에서 보조 디바이스를 사용하는 방법, 키보드를 사용하여 시험 등을 탐색하는 방법을 이해할 수 있습니다. 또한 항목 주석 섹션 중에 보조 디바이스를 사용하여 샌드박스 시험의 접근성 및 유용성에 대한 피드백을 남겨줄 수 있는 기회가 제공됩니다. 이러한 주석은 향후 환경 개선에 대해 모니터링됩니다.
+
+ 보조 디바이스를 사용하는 경우 시험 중에 사용할 수 있도록 지원 디바이스를 요청해야 합니다. 시험을 등록하기 전에 [편의를 요청하는 방법에 대해 자세히 알아보세요.](/learn/certifications/request-accommodations)
+
+이 환경은 시험 환경과 탐색 방법을 숙지하도록 설계되었지만 실제 시험 중에 시작되는 보안 브라우저는 샌드박스에서 사용할 수 없습니다. 시험 중에 사용하도록 설정하면 사전 승인 없이 보조 디바이스를 비롯한 모든 타사 애플리케이션이 차단됩니다. 이 때문에 시험 중에 사용하려는 경우 객실을 요청해야 합니다.
+
+다음은 시험에서 볼 수 있는 몇 가지 문제 샘플입니다.
 
 ### <a name="active-screen-044"></a>활성화 화면(0:44)
 

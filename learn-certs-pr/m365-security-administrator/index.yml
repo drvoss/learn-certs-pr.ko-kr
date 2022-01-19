@@ -2,22 +2,29 @@
 title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Security Administrator Associate'
-  description: 'Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 및 하이브리드 환경을 사전에 보호하고 보안 및 규정 준수 솔루션을 구현 및 관리하며 위협에 대응하고 데이터 거버넌스를 강화합니다.'
+  description: Microsoft 365 보안 관리자는 엔터프라이즈 및 하이브리드 환경 Microsoft 365 사전에 보호 하 고, 보안 및 규정 준수 솔루션을 구현 및 관리 하 고, 위협에 대응 하 고, 데이터 관리를 적용 합니다.
+  ms.openlocfilehash: d88b5999589620ce68e5338e6b0d5590841c28ae
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573221"
 uid: certification.m365-security-administrator
 certificationRenewalUid: renewal.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 <a href="/learn/certifications/exams/ms-500">MS-500 시험 페이지</a>에서 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><strong>중요:이 인증의 영어 버전은 2022 년 1 월 27 일에 업데이트 됩니다. 변경 된 내용을 확인 하려면 <a href="/learn/certifications/exams/ms-500">시험 MS-500 페이지</a> 에서 기술 측정 문서를 다운로드 하세요.</strong><br/><br/></div>
 
-  Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 및 하이브리드 환경을 사전에 보호하고 보안 및 규정 준수 솔루션을 구현 및 관리하며 위협에 대응하고 데이터 거버넌스를 강화합니다.
-subTitle: Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 및 하이브리드 환경을 사전에 보호하고 보안 및 규정 준수 솔루션을 구현 및 관리하며 위협에 대응하고 데이터 거버넌스를 강화합니다.
+
+  Microsoft 365 보안 관리자는 엔터프라이즈 및 하이브리드 환경 Microsoft 365 사전에 보호 하 고, 보안 및 규정 준수 솔루션을 구현 및 관리 하 고, 위협에 대응 하 고, 데이터 관리를 적용 합니다.
+subTitle: Microsoft 365 보안 관리자는 엔터프라이즈 및 하이브리드 환경 Microsoft 365 사전에 보호 하 고, 보안 및 규정 준수 솔루션을 구현 및 관리 하 고, 위협에 대응 하 고, 데이터 관리를 적용 합니다.
 levels:
 - intermediate
 skills:
-- ID 및 액세스 구현 및 관리
-- 위협 보호 구현 및 관리
-- 정보 보호 구현 및 관리
-- Microsoft 365의 거버넌스 및 규정 준수 기능 관리
+- Implement and manage identity and access
+- Implement and manage threat protection
+- Implement and manage information protection
+- Manage governance and compliance features in Microsoft 365
 roles:
 - administrator
 type: role-based
@@ -35,14 +42,14 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Security Administrator Associate'
+  description: Microsoft 인증을 받을 교육 리소스를 검색 합니다. 보안 관리자가 연결 됩니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -50,9 +57,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

@@ -1,24 +1,33 @@
 ### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  title: '시험 AZ-204: Developing Solutions for Microsoft Azure'
+  description: '시험 AZ-204: Developing Solutions for Microsoft Azure'
+  ms.openlocfilehash: 21110d5e90a590e24c86676f04cf67bd5e951819
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694771"
 uid: exam.az-204
 displayName: AZ-204
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 3월 26일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+summary: >-
+  <div><div><strong>이 시험의 내용은 2021년 3월 26일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.</strong><br/><br/></div>
+
   </div>
 
-  본 시험의 응시자는 Microsoft Azure에서 클라우드 애플리케이션 및 서비스를 설계, 구축, 테스트 및 유지관리하는 실무 전문 지식을 갖추고 있어야 합니다.
 
-  이 인증에 대한 응시자는 1-2년의 전문 개발 경험과 Microsoft Azure에 대한 경험이 있어야합니다. 그밖에, 이 역할에 대한 후보자는 Azure에서 지원하는 언어로 프로그래밍 할 수 있어야 하고 Azure SDKs, Azure PowerShell, Azure CLI, 데이터 저장 옵션, 데이터 연결, APIs, 앱 인증 및 권한 부여, 컴퓨팅 및 컨테이너 배포, 디버깅, 성능 튜닝 및 모니터링에 능숙해야합니다. 
+  이 시험의 후보에게는 Microsoft Azure 클라우드 애플리케이션 및 서비스를 설계, 빌드, 테스트 및 유지 관리하는 주제별 전문 지식이 있어야 합니다.
 
-  이 인증 시험을 통과하면 ACE 대학 학점으로 인정 받을 수도 있습니다. 자세한 사항은 [인증 시험에 대한 ACE 대학 학점](/learn/certifications/ace-credit-for-certification-exams)을 참고하세요.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. Azure 플랫폼 컴퓨팅 솔루션 개발, Azure 저장소 개발, Azure 보안 구현, Azure 솔루션 모니터링, 문제 해결 및 최적화, Azure 서비스 및 타사 서비스 연결 및 사용.
-  
-  Pearson VUE를 통해 시험을 보는 수험생은 시험을 시작할 때 문제에 포함된 코드 언어 (C# 또는 Python)를 선택할 수 있습니다. 그러나, 이 옵션은 PSI를 통해 치러지는 시험에는 사용할 수 없습니다. 이러한 질문들에는 C# 코드가 포함될 것입니다.'
+
+  본 인증의 응시자는 Microsoft Azure에서 1-2년간의 전문적인 개발 경험과 경험을 가지고 있어야 합니다. 또한 이 역할의 응시자는 Azure에서 지원하는 언어로 프로그래밍할 수 있는 능력이 있고 Azure SDK, Azure PowerShell, Azure CLI, 데이터 스토리지 옵션, 데이터 연결, API, 앱 인증 및 권한 부여, 컴퓨팅 및 컨테이너 배포, 디버깅, 성능 조정, 모니터링에 능숙해야 합니다.
+
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+subTitle: 이 시험에서는 Azure 컴퓨팅 솔루션 개발과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. Azure Storage용 개발 Azure 보안 구현 Azure 솔루션 모니터링, 문제 해결 및 최적화 Azure 서비스 및 타사 서비스에 연결하고 사용 시험을 시작할 때 질문에 포함된 코드 언어(C# 또는 Python)를 선택할 수 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
+practiceTestUrl: https://www.mindhub.com/az-204-developing-solutions-for-microsoft-azure-microsoft-official-practice-test/p/MU-AZ-204?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
@@ -27,18 +36,24 @@ locales:
 - fr
 - de
 - es
+- pt-br
+- ru
+- zh-tw
+- it
+- id-id
+- ar-sa
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 3월 26일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- Azure 컴퓨팅 솔루션 개발 (25-30%)
-- Azure 저장소 개발 (15-20%)
-- Azure 보안 구현 (20-25%)
-- Azure 솔루션 모니터링, 문제 해결 및 최적화 (15-20%)
-- Azure 서비스 및 타사 서비스에 연결 및 사용 (15-20%)
+- The content of this exam was updated on March 26, 2021. Please download the exam skills outline below to see what changed.
+- Develop Azure compute solutions (25-30%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (20-25%)
+- Monitor, troubleshoot, and optimize Azure solutions (15-20%)
+- Connect to and consume Azure services and third-party services (15-20%)
 roles:
 - developer
 products:
@@ -72,13 +87,18 @@ products:
 courses:
 - uid: course.az-204t00
 paths:
-- uid: learn.create-serverless-applications
-- uid: learn.connect-your-services-together
-- uid: learn.store-data-in-azure
-- uid: learn.deploy-a-website-with-azure-virtual-machines
-- uid: learn.manage-resources-in-azure
-- uid: learn.deploy-a-website-with-azure-app-service
-- uid: learn.secure-your-cloud-data
+- uid: learn.wwl.create-azure-app-service-web-apps
+- uid: learn.wwl.implement-azure-functions
+- uid: learn.wwl.develop-solutions-that-use-blob-storage
+- uid: learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+- uid: learn.wwl.az-204-implement-iaas-solutions
+- uid: learn.wwl.az-204-implement-authentication-authorization
+- uid: learn.wwl.az-204-implement-secure-cloud-solutions
+- uid: learn.wwl.az-204-implement-api-management
+- uid: learn.wwl.az-204-develop-event-based-solutions
+- uid: learn.wwl.az-204-develop-message-based-solutions
+- uid: learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+- uid: learn.wwl.az-204-integrate-caching-content-delivery-within-solutions
 relatedCertifications:
 - related:
     uid: certification.azure-developer
@@ -87,7 +107,7 @@ resources:
   description: Azure Developer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -99,12 +119,11 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

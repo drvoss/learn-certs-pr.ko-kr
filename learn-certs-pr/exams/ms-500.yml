@@ -1,24 +1,33 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: 'Exam MS-500: Microsoft 365 Security Administration'
-  description: 'Exam MS-500: Microsoft 365 Security Administration'
+  title: '시험 MS-500: Microsoft 365 Security Administration'
+  description: '시험 MS-500: Microsoft 365 Security Administration'
+  ms.openlocfilehash: 16b662262950225a2cde33a0893015aa9bc1dfd9
+  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135694649"
 uid: exam.ms-500
 displayName: MS-500
-summary: |-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div><div><font color='red'>참고: 합격 점수: 700. 시험 점수에 대해 더 알아보기 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>.</font><br/><br/></div></div>
-  
-  본 시험의 응시자는 Microsoft 365 및 하이브리드 환경에서 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링합니다. Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 환경을 선제적으로 보호하고 위협에 대응하며 조사를 수행하고 데이터 거버넌스를 적용합니다. Microsoft 365 Security Administrator는 Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인합니다.
+summary: >-
+  <div><div><strong>중요: 이 시험의 영어 버전은 2022년 1월 27일에 업데이트됩니다. 변경 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.</strong><br/><br/></div><div>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></div></div>
+
+
+  이 시험의 후보는 Microsoft 365 및 하이브리드 환경에 대한 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링합니다. Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 환경을 사전에 보호하고, 위협에 대응하고, 조사를 수행하고, 데이터 거버넌스를 적용합니다. Microsoft 365 보안 관리자는 Microsoft 365 엔터프라이즈 관리자, 비즈니스 관련자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획하고 구현하며 솔루션이 조직의 정책 및 규정을 준수하도록 보장합니다.
+
   <br/>
-  
-  본 시험의 응시자는 Microsoft 365 워크로드에 익숙하며 신원 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다.
-subTitle: '이 시험은 ID 및 액세스 구현 및 관리, 위협 보호 구현 및 관리, 정보 보호 구현 및 관리. Microsoft 365의 거버넌스 및 규정 준수 기능 관리와 같은 기술적 과제를 수행하는 능력을 측정합니다.'
+
+
+  이 시험의 후보는 Microsoft 365 워크로드에 익숙하고 ID 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 강력한 기술과 경험을 가지고 있습니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다.
+subTitle: 이 시험에서는 ID 및 액세스 구현 및 관리와 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 위협 방지 구현 및 관리 정보 보호를 구현하고 관리합니다. 및 는 Microsoft 365 거버넌스 및 규정 준수 기능을 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
@@ -35,11 +44,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 9월 24일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- ID 및 액세스 구현 및 관리 (35-40%)
-- 위협 보호 구현 및 관리 (25-30%)
-- 정보 보호 구현 및 관리 (10-15%)
-- Microsoft 365의 거버넌스 및 규정 준수 기능 관리 (20-25%)
+- The English language version of this exam will be updated on January 27, 2022. Please download the exam skills outline below to see what’s changing.
+- Implement and manage identity and access (35-40%)
+- Implement and manage threat protection (25-30%)
+- Implement and manage information protection (10-15%)
+- Manage governance and compliance features in Microsoft 365 (20-25%)
 roles:
 - administrator
 products:
@@ -58,7 +67,7 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: 인증서 학습 경로
-  description: '다음 Microsoft Certified: Security Administrator Associate를 받기 위한 교육 리소스를 확인합니다.'
+  description: 'Microsoft Certified: Security Administrator Associate가 될 학습 리소스를 검색합니다.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -66,7 +75,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -75,10 +84,9 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-
