@@ -19,7 +19,7 @@ summary: >-
 subTitle: 이 시험에서는 데이터 모델 디자인 및 구현과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 데이터 배포 디자인 및 구현 Azure Cosmos DB 솔루션을 통합하고, Azure Cosmos DB 솔루션을 최적화하고, Azure Cosmos DB 솔루션을 유지 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMvIJ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-420&examname=Exam%20DP-420:%20Designing%20and%20Implementing%20Cloud-Native%20Applications%20Using%20Microsoft%20Azure%20Cosmos%20DB&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-420
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=DP-420&examname=Exam%20DP-420:%20Designing%20and%20Implementing%20Cloud-Native%20Applications%20Using%20Microsoft%20Azure%20Cosmos%20DB&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-420
 locales:
 - en
 levels:

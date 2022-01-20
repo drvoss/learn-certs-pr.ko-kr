@@ -22,7 +22,7 @@ summary: >-
 subTitle: 이 시험은 Microsoft Teams 음성 문제, Microsoft Teams 회의 및 라이브 이벤트, 페더레이션 문제, Microsoft Teams에 로그인, 팀 및 채널, 파일과 같은 기술 작업 문제를 해결하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-740&examname=Exam%20MS-740:%20Troubleshooting%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-740
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-740&examname=Exam%20MS-740:%20Troubleshooting%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-740
 locales:
 - en
 levels:
