@@ -1,0 +1,33 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft 인증을 위한 갱신: Azure Stack 허브 운영자 연결'
+metadata:
+  title: 'Microsoft 인증을 위한 갱신: Azure Stack 허브 운영자 연결'
+  description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
+  ms.openlocfilehash: 21060ca8bc96ae7f6050c685384f52f5a6a30ed3
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659434"
+uid: renewal.azure-stack-hub-operator
+certificationUid: certification.azure-stack-hub-operator
+assessmentId: ae66a076-832f-4049-ae9c-b15561c43748
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다. 갱신 평가를 전달 하 여 최신 Azure Stack 허브 업데이트로 최신 상태를 유지 하 고 있음을 보여 줍니다. 학습 모듈의 큐레이팅된 컬렉션을 사용하여 갱신을 준비할 수도 있습니다.
+skills:
+- Manage Azure Stack Hub by using privileged endpoints
+- Update infrastructure for Azure Stack Hub
+- Manage capacity for Azure Stack Hub
+- Manage system health on Azure Stack Hub
+- Manage access for Azure Stack Hub
+- Manage multi-tenancy for Azure Stack Hub
+- Manage infrastructure certificates for Azure Stack Hub
+- Prepare for Azure Stack Hub deployment
+examsPassed:
+- az-600
+studyGuideDescription: '이 학습 모듈 컬렉션을 사용 하 여 Microsoft 인증: Azure Stack 허브 운영자에 게 갱신 평가를 연결 하는 것을 준비할 수 있습니다.'
+resources:
+- title: 인증 갱신 정보
+  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -3,27 +3,20 @@ title: Microsoft 보안 운영 분석가 시험에 맞춰 조정됩니다.
 metadata:
   title: '시험 SC-200: Microsoft 보안 작업 분석가'
   description: '시험 SC-200: Microsoft 보안 작업 분석가'
-  ms.openlocfilehash: 15973186d419fbb73e49cdfd2697e30a1db60bf4
-  ms.sourcegitcommit: 741c0f68de10dd00859f4bb679ed11dbb5a15674
+  ms.openlocfilehash: 09af8c67c254aea6868bcd82190176971dc9ce9d
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/30/2021
-  ms.locfileid: "135583315"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137654839"
 uid: exam.sc-200
 displayName: SC-200
-summary: >-
-  <div><div><strong>중요:이 시험의 영어 버전은 2022 년 1 월 28 일에 업데이트 됩니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.</strong><br/><br/></div><div>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></div></div>
-
-
-  Microsoft 보안 운영 분석가는 조직 관련자와 협업 하 여 조직에 대 한 정보 기술 시스템을 보호 합니다. 목표는 환경에서 활성 공격을 신속하게 해결하고, 위협 방지 사례 개선에 관하여 조언하고, 적절한 관련자에게 조직 정책 위반을 문의하여 조직의 위험을 줄이는 것입니다.
-
-
-  책임에는 환경 전체에서 다양한 보안 솔루션을 사용하는 위협 관리, 모니터링 및 대응이 포함됩니다. 역할은 주로 Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender 및 타사 보안 제품을 사용하여 위협의 조사, 대응 및 헌팅을 수행합니다. 보안 작업 분석가는 이러한 도구의 작업 출력을 소비 하므로 이러한 기술의 구성 및 배포에서 중요 한 관련자 이기도 합니다.
+summary: "> [!IMPORTANT]\n> 이 시험의 영어 버전은 2022 년 1 월 28 일에 업데이트 됩니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\nMicrosoft 보안 운영 분석가는 조직의 관련자와 협업하여 조직의 정보 기술 시스템을 보호합니다. 목표는 환경에서 활성 공격을 신속하게 해결하고, 위협 방지 사례 개선에 관하여 조언하고, 적절한 관련자에게 조직 정책 위반을 문의하여 조직의 위험을 줄이는 것입니다.\n\n책임에는 환경 전체에서 다양한 보안 솔루션을 사용하는 위협 관리, 모니터링 및 대응이 포함됩니다. 역할은 주로 Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender 및 타사 보안 제품을 사용하여 위협의 조사, 대응 및 헌팅을 수행합니다. 보안 운영 분석가는 이러한 도구의 작업 결과를 사용하므로 해당 기술의 구성 및 배포의 중요한 관련자이기도 합니다."
 subTitle: 이 시험은 Microsoft 365 Defender를 사용 하 여 위협을 완화 하 고, azure Defender를 사용 하 여 위협을 완화 하 고, azure 센티널을 사용 하 여 위협을 완화 하는 기능을 제공 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
 practiceTestUrl: https://in.mindhub.com/sc-200-microsoft-security-operations-analyst-microsoft-official-practice-test/p/MU-SC-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
 locales:
 - en
 - ja

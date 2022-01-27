@@ -3,12 +3,12 @@ title: Administering Relational Databases on Microsoft Azure
 metadata:
   title: '과정 DP-300T00-A: Administering Relational Databases on Microsoft Azure'
   description: '과정 DP-300T00-A: Administering Relational Databases on Microsoft Azure'
-  ms.openlocfilehash: a8544ae43886dca1662a5395a78ec5b1b4532429
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: c36bf67c2171be20fcced9d7660bc8e412da62b1
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107485"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136953951"
 uid: course.dp-300t00
 courseNumber: DP-300T00-A
 hoursToComplete: 96
@@ -38,6 +38,29 @@ products:
 - sql-server
 exams:
 - uid: exam.dp-300
+studyGuide:
+- uid: learn.wwl.prepare-to-maintain-sql-databases-azure
+- uid: learn.wwl.deploy-sql-server-virtual-machine
+- uid: learn.wwl.deploy-azure-sql-database
+- uid: learn.wwl.deploy-mariadb-mysql-postgresql-azure
+- uid: learn.wwl.evaluate-strategies-for-migrating-sql-databases-to-azure
+- uid: learn.wwl.configure-database-authentication-authorization
+- uid: learn.wwl.protect-data-transit-at-rest
+- uid: learn.wwl.implement-compliance-controls-for-sensitive-data
+- uid: learn.wwl.describe-performance-monitoring
+- uid: learn.wwl.explore-causes-of-performance-issues
+- uid: learn.wwl.configure-sql-server-resources-for-optimal-performance
+- uid: learn.wwl.configure-databases-for-performance
+- uid: learn.wwl.describe-performance-related-maintenance-tasks-sql-server
+- uid: learn.wwl.describe-sql-server-query-plans
+- uid: learn.wwl.evaluate-performance-improvements
+- uid: learn.wwl.explore-performance-based-design
+- uid: learn.wwl.configure-automatic-deployment-for-azure-sql-database
+- uid: learn.wwl.schedule-tasks-using-sql-server-agent
+- uid: learn.wwl.manage-azure-paas-resources-using-automated-methods
+- uid: learn.wwl.describe-high-availability-disaster-recovery-strategies
+- uid: learn.wwl.explore-iaas-paas-platform-tools-for-ha-dr
+- uid: learn.wwl.backup-restore-databases
 summary: >-
   본 과정에서는 클라우드, 온-프레미스 및 하이브리드 관계형 데이터베이스를 위한 SQL Server Database 인프라를 관리하고 Microsoft PaaS 관계형 데이터베이스 제품을 통해 작업할 수 있는 지식과 기술을 제공합니다. 또한 본 과정은 SQL 기반 관계형 데이터베이스에서 콘텐츠를 제공하는 애플리케이션을 개발하는 개인에게도 유용합니다.
 

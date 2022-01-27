@@ -1,32 +1,47 @@
 ### YamlMime:Certification
-title: 'MCSE: Data Management and Analytics'
+title: 'MCSE: 데이터 관리 및 분석'
 metadata:
-  title: 'MCSE: Data Management and Analytics'
-  description: 'MCSE: Data Management and Analytics'
+  title: 'MCSE: 데이터 관리 및 분석'
+  description: 'MCSE: 데이터 관리 및 분석'
+  ms.openlocfilehash: 7cf5bc66d5b9b8036b7e235a14380871a8fab449
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658370"
 uid: certification.mcse-data-management-analytics
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증은 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하십시오. 종료날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>성적표에 계속 표시됩니다.</strong></font><br/><br/></div> 
+summary: >-
+  > [!IMPORTANT]
 
-  해당 인증은 응시자가 매우 효율적이고 현대적인 데이터 센터, ID 관리, 시스템 관리, 가상화, 스토리지 및 네트워킹을 운영하는 데 필요한 기술을 갖추고 있음을 입증합니다.
+  > 이 인증은 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 해당 만료 날짜 이전에 획득한 모든 인증은 [인증 대시보드의](https://aka.ms/certdashboard) 대본에 계속 표시됩니다.
 
-  MCSE&#58; Data Management & Analytics 인증을 얻으려면, 다음 요구 사항을 충족해야 합니다&#58;
-  - 한 개의 필수 자격증 취득&#58;
-    - 필수 선택사항 1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
-    - 필수 선택사항 2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
-    - 필수 선택사항 3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
-    - 필수 선택사항 4&#58; [MCSA&#58; SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
-    - 필수 선택사항 5&#58; [MCSA&#58; BI Reporting](/learn/certifications/mcsa-bi-reporting)
-  - 선택 시험 중 하나에 합격&#58;
-    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
-    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
-    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
-    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
-    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
-    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
-    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
-    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
-subTitle: 온-프레미스 및 클라우드 환경 모두에서 SQL을 관리하고 엔터프라이즈 규모의 데이터 솔루션을 구축하고 비즈니스 인텔리전스 데이터를 활용할 수 있는 귀하의 폭넓은 기술력과 전문성을 입증하십시오.
+
+  <br/>
+
+
+  이 인증은 매우 효율적이고 최신 데이터 센터, ID 관리, 시스템 관리, 가상화, 스토리지 및 네트워킹을 실행하는 데 필요한 기술이 있음을 확인합니다.
+
+
+  MCSE&#58; 데이터 관리 & Analytics 인증을 받으려면 다음 요구 사항을&#58;
+
+  - 하나의 필수 구성 조건 인증&#58; 획득
+    - 필수 조건 옵션 1&#58; [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - 필수 조건 옵션 2&#58; [MCSA: SQL 2016 데이터베이스 개발](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - 필수 조건 옵션 3&#58; [MCSA: SQL 2016 데이터베이스 관리](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - 필수 조건 옵션 4&#58; [MCSA: SQL 2016 BI 개발](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - 필수 조건 옵션 5&#58; [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)
+  - 선택 시험 중 하나를 통과해야&#58;
+    - [70-464: Microsoft SQL Server 데이터베이스 개발](/learn/certifications/exams/70-464)
+    - [70-465: Microsoft SQL Server 데이터베이스 솔루션 디자인](/learn/certifications/exams/70-465)
+    - [70-466: Microsoft SQL Server 데이터 모델 및 보고서 구현](/learn/certifications/exams/70-466)
+    - [70-467: Microsoft SQL Server 비즈니스 인텔리전스 솔루션 디자인](/learn/certifications/exams/70-467)
+    - [70-762: SQL 데이터베이스 개발](/learn/certifications/exams/70-762)
+    - [70-767: SQL 사용하여 Data Warehouse 구현](/learn/certifications/exams/70-767)
+    - [70-768: SQL 데이터 모델 개발](/learn/certifications/exams/70-768)
+    - [70-777: Microsoft Azure Cosmos DB 솔루션 구현](/learn/certifications/exams/70-777)
+subTitle: 온-프레미스 및 클라우드 환경에서 SQL 관리, 엔터프라이즈 규모 데이터 솔루션 빌드 및 비즈니스 인텔리전스 데이터 활용에서 광범위한 기술 집합을 보여 줍니다.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
@@ -36,15 +51,6 @@ roles:
 type: mcse
 products:
 - sql-server
-courses:
-- uid: course.20464
-- uid: course.20465
-- uid: course.20466
-- uid: course.20467
-- uid: course.20762
-- uid: course.20767
-- uid: course.20768
-- uid: course.20777
 exams:
 - uid: exam.70-464
 - uid: exam.70-465
@@ -62,7 +68,7 @@ prerequisites:
   isOptional: false
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -74,9 +80,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

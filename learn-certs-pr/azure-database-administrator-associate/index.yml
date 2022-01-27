@@ -3,27 +3,28 @@ title: 'Microsoft Certified: Azure Database Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Database Administrator Associate'
   description: Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
-  ms.openlocfilehash: 57a9c1c27a900aac16d61f1f29c75a1fd4927b90
-  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.openlocfilehash: 15f58091858bd308292ecb68ae9120e1527f57eb
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/13/2021
-  ms.locfileid: "134694409"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655290"
 uid: certification.azure-database-administrator-associate
 certificationRenewalUid: renewal.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/dp-300">시험 DP-300 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 내용은 2021년 11월 24일에 업데이트되었습니다. [DP-300 시험 페이지에서](/learn/certifications/exams/dp-300) 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
+
+
+  <br/>
 
   Azure 데이터베이스 관리자는 Microsoft SQL Server 및 Microsoft Azure Data Services를 사용하여 빌드된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현하고 관리합니다. Azure 데이터베이스 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
 
 
-  <div></br>
 
-  이 역할의 응시자는 <a href='/learn/certifications/exams/dp-900'>시험 DP-900: Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.
-
-  </div>
+  이 역할의 응시자는 [시험 DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900)에서 다루는 모든 개념을 이해해야 합니다.
 subTitle: Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
 levels:
 - intermediate

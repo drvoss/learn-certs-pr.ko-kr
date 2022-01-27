@@ -3,25 +3,15 @@ title: Microsoft Dynamics 365 Customization and Configuration
 metadata:
   title: '시험 MB2-716: Microsoft Dynamics 365 Customization and Configuration'
   description: '시험 MB2-716: Microsoft Dynamics 365 Customization and Configuration'
-  ms.openlocfilehash: 17eaec2be4bc1bd530b162fb2bd6b2f9a766daa5
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 48faf1ef9738b06b54fdc03290dc8baa3436e832
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105768"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658799"
 uid: exam.mb2-716
 displayName: MB2-716
-summary: >-
-  <div>
-
-  <div><strong>이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 찾아보기 페이지</a>를 참조하세요.<br/><br/></strong></div>
-
-  <div><strong>이 시험의 내용은 2020년 2월 4일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong></div><br/>
-
-  </div>
-
-
-  본 시험은 Microsoft Dynamics 365 Customization and Configuration에 대한 인증을 획득하려는 사람에게 추천하는 시험입니다. 본 대상 그룹에는 개발자, 구현 컨설턴트, 기술 지원자 및 시스템 관리자 등이 포함됩니다. 이들은 고객의 비즈니스 요구와 설치 사항을 평가하고 애플리케이션을 구성, 배치 및 사용자 지정합니다.
+summary: "> [!IMPORTANT]\n> 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)\n> \n> 이 시험의 내용은 2020년 2월 4일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n\n<br/>\n본 시험은 Microsoft Dynamics 365 Customization and Configuration에 대한 인증을 획득하려는 사람에게 추천하는 시험입니다. 본 대상 그룹에는 개발자, 구현 컨설턴트, 기술 지원자 및 시스템 관리자 등이 포함됩니다. 이들은 고객의 비즈니스 요구와 설치 사항을 평가하고 애플리케이션을 구성, 배치 및 사용자 지정합니다."
 subTitle: 본 시험은 Microsoft Dynamics 365 Customization and Configuration에 대한 인증을 획득하려는 사람에게 추천하는 시험입니다. 본 대상 그룹에는 개발자, 구현 컨설턴트, 기술 지원자 및 시스템 관리자 등이 포함됩니다. 이들은 고객의 비즈니스 요구와 설치 사항을 평가하고 애플리케이션을 구성, 배치 및 사용자 지정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP

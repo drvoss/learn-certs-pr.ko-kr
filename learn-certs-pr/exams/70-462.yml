@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Administering Microsoft SQL Server 2012/2014 Databases
 metadata:
-  title: 'Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases'
-  description: 'Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases'
+  title: '시험 70-462: Microsoft SQL Server 2012/2014 데이터베이스 관리'
+  description: '시험 70-462: Microsoft SQL Server 2012/2014 데이터베이스 관리'
+  ms.openlocfilehash: cf6b1c3ae41f6633ce3fe48bbf9f8122f237679e
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658975"
 uid: exam.70-462
 displayName: 70-462
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  본 시험은 설치, 유지 관리 및 구성 태스크를 수행하는 데이터베이스 전문가를 대상으로 합니다. 그 밖의 다른 직무 영역에는 데이터베이스 시스템 설정, 시스템의 효율적 작동 보장, 정기적인 저장과 백업 및 무단 액세스로부터 데이터 보호 등이 포함됩니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
 
-  <div style='font-weight&#58; bold;'><br/>2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 더 자세한 내용은 이 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcP">문서를 다운로드하여 검토하십시오</a>.</div>
-subTitle: 본 시험은 설치, 유지 관리 및 구성 태스크를 수행하는 데이터베이스 전문가를 대상으로 합니다. 그 밖의 다른 직무 영역에는 데이터베이스 시스템 설정, 시스템의 효율적 작동 보장, 정기적인 저장과 백업 및 무단 액세스로부터 데이터 보호 등이 포함됩니다.
+
+  <br/>
+
+  이 시험은 설치, 유지 관리 및 구성 작업을 수행 하는 데이터베이스 전문가를 대상으로 합니다. 다른 책임에는 데이터베이스 시스템 설정, 이러한 시스템이 효율적으로 작동 하 고, 무단 액세스 로부터 데이터를 정기적으로 저장, 백업 및 보호 하는 작업이 포함 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 2016 년 2 월 18 일부 터이 시험은 SQL Server 2012 및 2014를 모두 다루는 콘텐츠를 포함 합니다. 이 시험은 SQL Server 2012 제품에만 제공 되는 기능에 대 한 질문은 포함 하지 않습니다. 자세한 내용은 [이 문서를 다운로드 하 여 검토](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcP)하세요.
+subTitle: 이 시험은 설치, 유지 관리 및 구성 작업을 수행 하는 데이터베이스 전문가를 대상으로 합니다. 다른 책임에는 데이터베이스 시스템 설정, 이러한 시스템이 효율적으로 작동 하 고, 무단 액세스 로부터 데이터를 정기적으로 저장, 백업 및 보호 하는 작업이 포함 됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
 locales:
@@ -24,33 +38,30 @@ locales:
 levels:
 - advanced
 skills:
-- 설치 및 구성 (20-25%)
-- 인스턴스 및 데이터베이스 유지 관리 (15-20%)
-- 최적화 및 문제 해결 (15-20%)
-- 데이터 관리 (20-25%)
-- 보안 구현 (15-20%)
-- 고가용성 구현(5-10%)
+- Install and configure (20–25%)
+- Maintain instances and databases (15–20%)
+- Optimize and troubleshoot (15–20%)
+- Manage data (20–25%)
+- Implement security (15–20%)
+- Implement high availability (5–10%)
 retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:
 - sql-server
-courses:
-- uid: course.20462
 relatedCertifications:
 - related:
     uid: certification.mcsa-sql-certification
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

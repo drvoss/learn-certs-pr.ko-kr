@@ -3,34 +3,22 @@ title: Microsoft Power BI를 사용하여 데이터 분석
 metadata:
   title: '시험 DA-100: Analyzing Data with Microsoft Power BI'
   description: '시험 DA-100: Analyzing Data with Microsoft Power BI'
-  ms.openlocfilehash: 977382ab751b38f48928591831aed97432afdceb
-  ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
+  ms.openlocfilehash: 04f49f4cfda1173fafa67d374e054798633ec964
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/12/2022
-  ms.locfileid: "135964275"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658821"
 uid: exam.da-100
 displayName: DA-100
-summary: >-
-  <div><strong>중요: 이 시험은 2022년 3월 31일에 사용이 퇴사합니다.</strong> 교체 시험 <a href="/learn/certifications/exams/pl-300">PL-300: Microsoft Power BI 데이터 분석가</a>는 2022년 2월 28일에 제공됩니다. 새 시험 및 만료에 대한 자세한 내용은 <a href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-a-new-name-for-the-data-analyst-associate/ba-p/2388941">이 블로그 게시물을 참조하세요.</a><br/><br/><strong>이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong><br/><br/>참고: 합격 기준 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">시험 점수 에 대해 자세히 알아보세요.</a><br/><br/></div>
-
-
-  데이터 분석가는 기업이 Microsoft Power BI를 사용하여 데이터 자산 가치를 극대화하도록 합니다. 실무 전문가인 데이터 분석가는 확장성 있는 데이터 모델 설계 및 구축, 데이터 정리 및 변환, 이해하기 쉬운 데이터 시각화로 의미 있는 비즈니스 가치를 제공하는 고급 분석 기능의 사용을 담당합니다. 또한 데이터 분석가는 수직 분야의 주요 이해 관계자와 협업하여 식별된 비즈니스 요구 사항에 따라 관련 인사이트를 제공합니다.
-
-  <br/>
-
-
-  데이터 분석가는 온-프레미스와 클라우드 모두에서 데이터 리포지토리 및 데이터 처리에 대한 기본적인 이해가 있어야 합니다.
-
-
-  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+summary: "> [!WARNING]\n> 이 시험의 사용은 2022년 3월 31일에 사용이면 됩니다. 교체 시험 [PL-300: Microsoft Power BI 데이터 분석가](/learn/certifications/exams/pl-300)는 2022년 2월 28일에 제공됩니다. 새 시험 및 중지에 대한 자세한 내용은 [이 블로그 게시물](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-a-new-name-for-the-data-analyst-associate/ba-p/2388941)을 참조하세요.\n> \n> [!IMPORTANT]\n> 이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. [시험 점수 에 대해 자세히 알아보세요.](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)\n\n<br/>\n데이터 분석가는 기업이 Microsoft Power BI를 사용하여 데이터 자산 가치를 극대화하도록 합니다. 실무 전문가인 데이터 분석가는 확장성 있는 데이터 모델 설계 및 구축, 데이터 정리 및 변환, 이해하기 쉬운 데이터 시각화로 의미 있는 비즈니스 가치를 제공하는 고급 분석 기능의 사용을 담당합니다. 또한 데이터 분석가는 수직 분야의 주요 이해 관계자와 협업하여 식별된 비즈니스 요구 사항에 따라 관련 인사이트를 제공합니다.\n<br/>\n\n데이터 분석가는 온-프레미스와 클라우드 모두에서 데이터 리포지토리 및 데이터 처리에 대한 기본적인 이해가 있어야 합니다.\n\n이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요."
 subTitle: 이 시험에서는 다음과 같은 기술 작업을 수행하는 기능을 측정합니다. 데이터 준비; 데이터를 모델링합니다. 데이터를 시각화합니다. 데이터 분석 및 는 배달물을 배포하고 유지 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
 - zh-cn

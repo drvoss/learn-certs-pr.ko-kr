@@ -3,12 +3,12 @@ title: Microsoft 보안 운영 분석가 시험에 맞춰 조정됩니다.
 metadata:
   title: '과정 SC-200T00--A: Microsoft Security Operations Analyst'
   description: '과정 SC-200T00--A: Microsoft Security Operations Analyst'
-  ms.openlocfilehash: 51065a83e803180a1321b02f384024c16609b9b8
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: a2e7c2c9719557632175742e00312690d0da78bf
+  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "134382269"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136970815"
 uid: course.sc-200t00
 courseNumber: SC-200T00
 hoursToComplete: 96
@@ -53,6 +53,54 @@ products:
 - azure
 exams:
 - uid: exam.sc-200
+studyGuide:
+- uid: learn-m365.m365-security-threat-define
+- uid: learn.wwl.mitigate-incidents-microsoft-365-defender
+- uid: learn.protect-identities-with-aad-idp
+- uid: learn-m365.m365-threat-remediate
+- uid: learn-m365.m365-threat-safeguard
+- uid: learn-m365.cloud-app-security
+- uid: learn.wwl.respond-to-data-loss-prevention-alerts-microsoft-365
+- uid: learn-m365.m365-compliance-insider-manage-insider-risk
+- uid: learn-m365.m365-security-threat-protect
+- uid: learn.wwl.deploy-microsoft-defender-for-endpoints-environment
+- uid: learn.wwl.implement-windows-10-security-enhancements-with-microsoft-defender-for-endpoint
+- uid: learn.wwl.manage-alerts-incidents-microsoft-defender-for-endpoints
+- uid: learn.wwl.perform-device-investigations-microsoft-defender-for-endpoints
+- uid: learn.wwl.perform-actions-device-microsoft-defender-for-endpoint
+- uid: learn.wwl.perform-evidence-entities-investigations-microsoft-defender-for-endpoint
+- uid: learn.wwl.configure-manage-automation-microsoft-defender-for-endpoint
+- uid: learn.wwl.configure-settings-for-alerts-detections-microsoft-defender-for-endpoint
+- uid: learn.wwl.use-threat-vulnerability-management-microsoft-defender-for-endpoint
+- uid: learn.wwl.what-is-azure-defender
+- uid: learn.wwl.understand-azure-defender-cloud-workload-protection
+- uid: learn.wwl.connect-non-azure-machines-to-azure-defender
+- uid: learn.wwl.connect-azure-assets-to-azure-defender
+- uid: learn.wwl.remediate-azure-defender-security-alerts
+- uid: learn.wwl.construct-kql-statements
+- uid: learn.wwl.analyze-results-kql
+- uid: learn.wwl.build-multi-table-statements-kql
+- uid: learn.wwl.work-with-data-kql
+- uid: learn.intro-to-azure-sentinel
+- uid: learn.wwl.create-manage-azure-sentinel-workspaces
+- uid: learn.wwl.query-logs-azure-sentinel
+- uid: learn.wwl.use-watchlists-azure-sentinel
+- uid: learn.wwl.utilize-threat-intelligence-azure-sentinel
+- uid: learn.wwl.connect-data-to-azure-sentinel-with-data-connectors
+- uid: learn.wwl.connect-microsoft-services-to-azure-sentinel
+- uid: learn.wwl.connect-microsoft-defender-365-to-azure-sentinel
+- uid: learn.wwl.connect-windows-hosts-to-azure-sentinel
+- uid: learn.wwl.connect-common-event-format-cef-logs-to-azure-sentinel
+- uid: learn.wwl.connect-syslog-data-sources-to-azure-sentinel
+- uid: learn.wwl.connect-threat-indicators-to-azure-sentinel
+- uid: learn.azure.analyze-data-in-sentinel
+- uid: learn.azure.threat-response-sentinel-playbooks
+- uid: learn.azure.incident-management-sentinel
+- uid: learn.wwl.use-entity-behavior-analytics-azure-sentinel
+- uid: azure.query-data-sentinel
+- uid: learn.wwl.what-is-threat-hunting-azure-sentinel
+- uid: learn.azure.hunt-threats-sentinel
+- uid: learn.wwl.perform-threat-hunting-sentinel-with-notebooks
 summary: >-
   Microsoft Sentinel, Microsoft Defender for Cloud 및 Microsoft 365 Defender를 사용하여 위협을 조사, 대응 및 헌팅하는 방법에 대해 알아봅니다. 이 과정에서는 이러한 기술을 사용하여 사이버 위협을 완화하는 방법을 알아봅니다. 특히 Microsoft Sentinel을 구성하고 사용할 뿐 아니라 KQL(Kusto 쿼리 언어)을 활용하여 탐지, 분석, 보고합니다. 이 과정은 보안 운영 직무를 수행하는 사람들을 위해 설계되었으며, 학습자가 SC-200: Microsoft Security Operations Analyst 시험을 준비하는 데 도움이 됩니다.
 

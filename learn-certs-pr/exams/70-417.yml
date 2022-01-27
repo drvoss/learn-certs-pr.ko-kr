@@ -1,38 +1,73 @@
 ### YamlMime:Examination
 title: Upgrading Your Skills to MCSA Windows Server 2012
 metadata:
-  title: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
-  description: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+  title: '시험 70-417: MCSA Windows Server 2012 기술 업그레이드'
+  description: '시험 70-417: MCSA Windows Server 2012 기술 업그레이드'
+  ms.openlocfilehash: 12464afe652d78b9a76c65a3920fa2938533eb8d
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655081"
 uid: exam.70-417
 displayName: 70-417
-summary: |+
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >
+  > [!IMPORTANT]
 
-  본 시험은 Windows Server 2012 핵심 인프라 서비스를 구현하는 데 필요한 기술 및 지식을 입증하려는 IT 전문가를 대상으로 합니다. 응시자는 다음 Windows Server 2008, Windows Server 2003, Windows Server 2000 또는 Windows XP 인증을 획득한 상태여야 합니다&#58;
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
+
+
+
+  이 검사는 Windows Server 2012 핵심 인프라 서비스를 구현하는 데 필요한 기술과 지식의 유효성을 검사하려는 IT 전문가를 대상으로 합니다. 후보는 이미 적격 Windows Server 2008, Windows Server 2003, Windows Server 2000 또는 Windows XP 인증&#58;
+
   - MCSA&#58; Windows Server 2008
-  - MCITP&#58; Server Administrator on Windows Server 2008
-  - MCITP&#58; Enterprise Administrator on Windows Server 2008
-  - MCITP&#58; Virtualization Administrator on Windows Server 2008 R2
-  - MCITP&#58; Enterprise Messaging Administrator 2010
-  - MCITP&#58; Lync Server Administrator 2010
-  - MCITP&#58; SharePoint Administrator 2010
-  - MCITP&#58; Enterprise Desktop Administrator on Windows 7
-  - MCDST&#58; Windows XP
-  - MCSE&#58; Windows 2000
-  - MCSA Windows 2000
-  - MCSA&#58; Security on Windows 2000
-  - MCSA&#58; Security on Windows 2003
-  - MCSA&#58; Windows Server 2003
-  - MCSE&#58; Security on Windows 2000
-  - MCSE&#58; Security on Windows 2003
-  - MCSE&#58; Windows Server 2003
-  - MCSA&#58; Messaging on Windows Server 2000
-  - MCSA&#58; Messaging on Windows Server 2003
-  - MCSE&#58; Messaging on Windows Server 2000
-  - MCSE&#58; Messaging on Windows Server 2003
 
-  <div style='font-weight&#58; bold;'><br/>본 시험은 Windows Server 2012 R2 및 System Center 2012 R2의 최근 기술 업데이트를 반영하도록 업데이트되었습니다. 자세한 내용은, 및 시험 세부 정보 페이지에 있는 문서에서 살펴볼 수 있습니다 <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, and <a href='/learn/certifications/exams/70-412'>70-412</a>.</div>
-subTitle: '본 시험은 Windows Server 2012 핵심 인프라 서비스를 구현하는 데 필요한 기술 및 지식을 입증하려는 IT 전문가를 대상으로 합니다. 응시자는 다음 Windows Server 2008, Windows Server 2003, Windows Server 2000 또는 Windows XP 인증을 획득한 상태여야 합니다'
+  - Windows Server 2008의 MCITP&#58; 서버 관리자
+
+  - Windows Server 2008의 MCITP&#58; Enterprise 관리자
+
+  - Windows Server 2008 R2의 MCITP&#58; 가상화 관리자
+
+  - MCITP&#58; Enterprise 메시징 관리자 2010
+
+  - MCITP&#58; Lync Server Administrator 2010
+
+  - MCITP&#58; SharePoint 관리자 2010
+
+  - Windows 7의 MCITP&#58; Enterprise 데스크톱 관리자
+
+  - MCDST&#58; Windows XP
+
+  - MCSE&#58; Windows 2000
+
+  - MCSA Windows 2000
+
+  - Windows 2000의 MCSA&#58; 보안
+
+  - Windows 2003의 MCSA&#58; 보안
+
+  - MCSA&#58; Windows Server 2003
+
+  - Windows 2000의 MCSE&#58; 보안
+
+  - Windows 2003의 MCSE&#58; 보안
+
+  - MCSE&#58; Windows Server 2003
+
+  - Windows Server 2000의 MCSA&#58; 메시징
+
+  - Windows Server 2003의 MCSA&#58; 메시징
+
+  - Windows Server 2000의 MCSE&#58; 메시징
+
+  - Windows Server 2003의 MCSE&#58; 메시징
+
+
+
+  > [!IMPORTANT]
+
+  > 이 시험에서는 Windows Server 2012 R2 및 System Center 2012 R2의 최신 기술 업데이트를 다루도록 업데이트되었습니다. 자세한 내용은 시험 [70-410, 70-411 및 70-412에](/learn/certifications/exams/70-410)대한 시험 세부 정보 페이지의 문서를 검토할 수 있습니다. [](/learn/certifications/exams/70-411) [](/learn/certifications/exams/70-412)
+subTitle: 이 검사는 Windows Server 2012 핵심 인프라 서비스를 구현하는 데 필요한 기술과 지식의 유효성을 검사하려는 IT 전문가를 대상으로 합니다. 후보는 이미 적격 Windows Server 2008, Windows Server 2003, Windows Server 2000 또는 Windows XP 인증을 획득했습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
 practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -46,41 +81,35 @@ locales:
 levels:
 - intermediate
 skills:
-- 서버 설치 및 구성
-- 서버 역할 및 기능 구성
-- Hyper-V 구성
-- Active Directory 설치 및 관리
-- 서버 배포, 관리 및 유지 관리
-- 네트워크 서비스 및 액세스 구성
-- 네트워크 정책 서버 인프라 구성
-- Active Directory 구성 및 관리
-- 그룹 정책 구성 및 관리
-- 고가용성 구성 및 관리
-- 파일 및 저장소 솔루션 구성
-- 비즈니스 연속성 및 재해 복구 구현
-- 네트워크 서비스 구성
-- 액세스 및 정보 보호 솔루션 구성
+- Install and configure servers
+- Configure server roles and features
+- Configure Hyper-V
+- Install and administer Active Directory
+- Deploy, manage, and maintain servers
+- Configure network services and access
+- Configure a network policy server infrastructure
+- Configure and manage Active Directory
+- Configure and manage Group Policy
+- Configure and manage high availability
+- Configure file and storage solutions
+- Implement business continuity and disaster recovery
+- Configure network services
+- Configure access and information protection solutions
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20417
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

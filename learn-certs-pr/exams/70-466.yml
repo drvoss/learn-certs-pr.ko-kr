@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Implementing Data Models and Reports with Microsoft SQL Server
 metadata:
-  title: 'Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server'
-  description: 'Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server'
+  title: '시험 70-466: Microsoft SQL Server 데이터 모델 및 보고서 구현'
+  description: '시험 70-466: Microsoft SQL Server 데이터 모델 및 보고서 구현'
+  ms.openlocfilehash: 43fa822f77a7540e817b81963638d4fc40d7ce87
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657149"
 uid: exam.70-466
 displayName: 70-466
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  본 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 비즈니스 의사 결정에서 사용되는 정보 표시 만들기를 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(비즈니스 인텔리전스) 개발자를 대상으로 합니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 더 자세한 내용은 이 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU">문서를 다운로드하여 검토하십시오</a>.</div>
-subTitle: 본 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 비즈니스 의사 결정에서 사용되는 정보 표시 만들기를 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(비즈니스 인텔리전스) 개발자를 대상으로 합니다.
+
+  <br/>
+
+  이 시험에서는 다차원 데이터 모델을 구현하고, OLAP 큐브를 구현 및 유지 관리하고, 비즈니스 의사 결정에 사용되는 정보 표시를 만들어야 하는 BI(비즈니스 인텔리전스) 개발자를 대상으로 합니다.
+
+
+  > [!IMPORTANT]
+
+  > 2016년 2월 18일부터 이 시험에서는 SQL Server 2012년 및 2014년도를 모두 다룹니다. 이 시험에서는 SQL Server 2012 제품에만 있는 기능이나 기능에 대한 질문은 포함하지 않습니다. 자세한 내용은 [이 문서를 다운로드하여 검토하세요.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU)
+subTitle: 이 시험에서는 다차원 데이터 모델을 구현하고, OLAP 큐브를 구현 및 유지 관리하고, 비즈니스 의사 결정에 사용되는 정보 표시를 만들어야 하는 BI(비즈니스 인텔리전스) 개발자를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
 locales:
@@ -24,31 +38,28 @@ locales:
 levels:
 - advanced
 skills:
-- 분석 서비스 다차원 데이터베이스 구축 (35-40%)
-- SQL Server Analysis Services (SSAS) 데이터베이스 관리, 유지 보수 및 문제 해결 (15-20%)
-- 테이블 형식 데이터 모델 작성 (15-20%)
-- SQL Server Reporting Services (SSRS)로 보고서 작성 (25-30%)
+- Build an analysis services multidimensional database (35-40%)
+- Manage, maintain, and troubleshoot a SQL Server Analysis Services (SSAS) database (15-20%)
+- Build a tabular data model (15-20%)
+- Build a report with SQL Server Reporting Services (SSRS) (25-30%)
 retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:
 - sql-server
-courses:
-- uid: course.20466
 relatedCertifications:
 - related:
     uid: certification.mcse-data-management-analytics
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

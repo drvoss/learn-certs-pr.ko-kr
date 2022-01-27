@@ -9,16 +9,16 @@ ms.workload: NA
 ms.date: 11/01/2021
 ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: cb0426b4288b7c229c0b7b7e34553c925dea07c1
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.openlocfilehash: 6c6b9ffe8b0e8d7f4373496d52f5deb593660ae0
+ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "133742902"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "137647566"
 ---
 # <a name="microsoft-ignite-cloud-skills-challenge--november-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge – November 2021: 무료 인증 시험
 
-[2021 년 11 월 Microsoft Ignite 클라우드 기술 챌린지](https://aka.ms/ignitecsc)를 완료 해 주셔서 감사 합니다. 하나 이상의 챌린지를 완료한 모든 참가자에게는 [사용 약관](#terms-and-conditions)에 따라 계속해서 기술을 향상시키고 고용주와 동료에게 기술 전문 지식을 입증하는 데 도움이 되는 무료 인증 시험이 제공됩니다.
+[Microsoft Ignite Cloud Skills Challenge - 2021년 11월](https://aka.ms/ignitecsc)을 완료해 주셔서 감사합니다. 하나 이상의 챌린지를 완료한 모든 참가자에게는 [사용 약관](#terms-and-conditions)에 따라 계속해서 기술을 향상시키고 고용주와 동료에게 기술 전문 지식을 입증하는 데 도움이 되는 무료 인증 시험이 제공됩니다.
 
 ## <a name="details"></a>세부 정보
 
@@ -34,7 +34,7 @@ ms.locfileid: "133742902"
 ![Pearson VUE 일정 예약 단추를 클릭하여 온라인 등록 프로세스 시작](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-1.png)
 <br/>
 <br/>
-2. 기존 Microsoft 인증 프로필에 로그인 하거나 Microsoft 계정을 사용 하 여 계정을 만드세요.
+2. 기존 Microsoft 인증 프로필에 로그인하거나 Microsoft 계정을 사용하여 인증 프로필을 만듭니다.
 <br/>
 <br/>
 ![Microsoft 인증 프로필에 로그인](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-2.png)
@@ -87,7 +87,7 @@ ms.locfileid: "133742902"
 
 ## <a name="certification-support"></a>인증 지원
 
-시험을 예약 하는 문제에 대 한 자세한 내용은 [Microsoft 인증 지원](https://aka.ms/CertificationSupport) 을 참조 하세요. 포럼의 조정자는 업무일 하루만에 응답할 것입니다.
+할인을 받고 시험을 예약 하는 문제는를 통해 도움을 받을 수 [cloudskillshelp@microsoft.com](mailto:cloudskillshelp@microsoft.com) 있습니다. 중재자는 영업일 3 일 이내에 응답 합니다.
 
 ## <a name="eligible-exams"></a><a name="eligible-exams"></a> 적격 시험
 
@@ -115,21 +115,21 @@ ms.locfileid: "133742902"
 
 **Q: Microsoft Ignite에 등록했지만 Cloud Skills Challenge에 등록하거나 완료하지 않은 경우에도 이 제안을 계속 청구할 수 있습니까?**
 
-**A:** 아니요,이 제품은 Microsoft Ignite 클라우드 기술 챌린지 – 2021 내에서 문제 중 하나를 완료 한 사용자 에게만 적용 됩니다.
+**A:** 아니요, 이 제안은 Microsoft Ignite Cloud Skills Challenge – 2021년 내의 챌린지 중 하나를 완료한 사람에게만 적용됩니다.
 
 ### <a name="scheduling-your-free-exam"></a>무료 시험 예약
 
-**Q: 2022 년 3 월 15 일 이전에 시험을 수행 해야 하나요?**
+**Q: 2022년 3월 15일 또는 그 이전에 시험에 응시해야 하나요?**
 
-**A:** 예, 2022 년 3 월 15 일 이전에 시험을 수행 해야 합니다.
+**A:** 예, 2022년 3월 15일 또는 그 이전에 시험에 응시해야 합니다.
 
 **Q: 무료 시험을 예약하는 데 문제가 있습니다. 어디에서 지원을 받을 수 있나요?**
 
-**A:** [Microsoft 인증 지원](https://aka.ms/CertificationSupport) 에 문의 하 여 도움을 받을 수 있습니다. 조정자는 업무일 하루만에 응답할 것입니다.
+**A:** [Microsoft 인증 지원](https://aka.ms/CertificationSupport)에 문의하여 도움을 받을 수 있습니다. 조정자는 업무일 하루만에 응답할 것입니다.
 
 **Q: 예약된 시험에 직접 응시하거나 온라인으로 응시할 수 있는 옵션이 있나요?**
 
-**A:** 예, 로컬 테스트 센터 (사용 가능한 경우) 또는 [온라인](/learn/certifications/online-exams)을 통해 사용자에 게 피어슨 vue를 통해 예약 된 시험을 수행할 수 있습니다. COVID-19 제한으로 인해 테스트 센터를 일시적으로 닫을 수 있습니다. [피어슨 Vue의 현재 테스트 가용성 정보](https://home.pearsonvue.com/coronavirus-update) 를 최신 상태로 유지 합니다.
+**A:** 예, 예약된 시험을 현지 테스트 센터(이용 가능한 경우)에서 Pearson Vue를 통해 직접 응시하거나 [온라인](/learn/certifications/online-exams)을 통해 응시할 수 있는 옵션이 있습니다. COVID-19 제한으로 인해 테스트 센터를 일시적으로 닫을 수 있습니다. 현재 [Pearson Vue의 테스트 응시 가능성 정보](https://home.pearsonvue.com/coronavirus-update)에서 최신 정보를 확인하세요.
 
 ### <a name="cancellation-and-reschedule-policy"></a>취소 및 일정 변경 정책
 
@@ -153,7 +153,7 @@ ms.locfileid: "133742902"
 
 ## <a name="terms-and-conditions"></a><a name="terms-and-conditions"></a> 사용 약관
 
-- Microsoft Ignite 클라우드 기술 과제 – 11 월 2 일 오후 2021 2021에 4:00 PM UTC (16:00)에서 년 11 월 30 일에 시작 되 고 2021 년 11 월 30 일 (4:00)에 종료 됩니다.
+- Microsoft Ignite Cloud Skills Challenge – 2021년 11월은 2021년 11월 2일 오후 4:00 UTC(16:00)에 시작하여 2021년 11월 30일 오후 4:00 UTC(16:00)에 종료되었습니다.
 - Microsoft Ignite Cloud Skills Challenge – November 2021에 등록하는 과정에서 메일 주소를 입력해야 합니다. 입력한 메일 주소로 무료 인증 세부 정보를 받게 됩니다.
 - 이 시험 제안은 Microsoft Ignite Cloud Skills Challenge – November 2021에서 하나의 챌린지를 완료한 적격 개인에게 제공됩니다.
 - 완료한 챌린지의 수와 관계없이 사용자당 하나의 제품을 요청할 수 있습니다.

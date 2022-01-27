@@ -3,12 +3,12 @@ title: Microsoft Azure Virtual Desktop 구성 및 운영
 metadata:
   title: '과정 AZ-140T00--A: Configuring and Operating Microsoft Azure Virtual Desktop'
   description: '과정 AZ-140T00--A: Configuring and Operating Microsoft Azure Virtual Desktop'
-  ms.openlocfilehash: 263b551ffc109763f02aae5b5753f199a7cc5ca9
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 79c40c902d726b4a8f9973d5eb0ed19b40e88d8d
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107693"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136954809"
 uid: course.az-140t00
 courseNumber: AZ-140T00
 hoursToComplete: 96
@@ -35,6 +35,22 @@ products:
 - azure
 exams:
 - uid: exam.az-140
+studyGuide:
+- uid: learn.wwl.azure-virtual-desktop-architecture
+- uid: learn.wwl.design-azure-virtual-desktop-architecture
+- uid: learn.wwl.design-for-user-identities-profiles
+- uid: learn.wwl.implement-manage-networking-for-azure-virtual-desktop
+- uid: learn.wwl.implement-manage-storage-for-azure-virtual-desktop
+- uid: learn.wwl.create-configure-host-pools-session-hosts
+- uid: learn.wwl.create-manage-session-host-image
+- uid: learn.wwl.manage-access
+- uid: learn.wwl.manage-security
+- uid: learn.wwl.implement-manage-fslogix
+- uid: learn.wwl.configure-user-experience-settings
+- uid: learn.wwl.install-configure-apps-session-host
+- uid: learn.wwl.plan-implement-business-continuity-disaster-recovery
+- uid: learn.wwl.automate-azure-virtual-desktop-management-tasks
+- uid: learn.wwl.monitor-manage-performance-health
 summary: >-
   이 과정에서는 Azure 관리자에게 Azure에서 모든 디바이스에 대해 가상 데스크톱 환경 및 원격 앱을 계획, 제공, 관리하는 방법에 대해 설명합니다. 학생은 Azure Virtual Desktop에 가상 데스크톱 환경 및 앱을 배포하고 다중 세션 가상 환경에서 실행되도록 최적화하는 데모 및 실습 랩 경험의 혼합을 통해 배웁니다.
 

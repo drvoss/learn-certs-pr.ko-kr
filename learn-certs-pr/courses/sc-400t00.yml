@@ -3,12 +3,12 @@ title: Microsoft Information Protection Administrator
 metadata:
   title: '과정 SC-400T00--A: Microsoft Information Protection Administrator'
   description: '과정 SC-400T00--A: Microsoft Information Protection Administrator'
-  ms.openlocfilehash: 91939ab3055cc52ec639dfd0eeb8dc9a05d53771
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 13114b8444e4dd0d954c43be717d07de89144ff1
+  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132106965"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136970800"
 uid: course.sc-400t00
 courseNumber: SC-400T00
 hoursToComplete: 48
@@ -45,6 +45,21 @@ products:
 - m365
 exams:
 - uid: exam.sc-400
+studyGuide:
+- uid: learn-m365.m365-compliance-information-governance
+- uid: learn-m365.m365-security-data-loss
+- uid: learn-m365.m365-compliance-information-classify-data
+- uid: learn.wwl.create-manage-sensitive-information-types
+- uid: learn-m365.audit-encryption
+- uid: learn.wwl.deploy-message-encryption-microsoft-365
+- uid: learn-m365.m365-compliance-information-protect-information
+- uid: learn.wwl.apply-manage-sensitivity-labels
+- uid: learn-m365.m365-compliance-information-prevent-data-loss
+- uid: learn.wwl.create-configure-data-loss-prevention-policies
+- uid: learn.wwl.manage-data-loss-prevention-polices
+- uid: learn-m365.m365-compliance-information-govern-information
+- uid: learn.wwl.manage-data-retention-microsoft-365
+- uid: learn-m365.m365-compliance-information-manage-records
 summary: >-
   Microsoft 365 배포에서 정보를 보호하는 방법을 알아봅니다. 이 과정은 조직 내에서 데이터 거버넌스 및 정보 보호에 중점을 둔 것입니다. 이 과정에서는 데이터 손실 방지 정책 구현, 중요한 정보 유형, 민감도 레이블, 데이터 보존 정책, Office 365 메시지 암호화 등의 관련 주제를 다룹니다. 이 과정을 통해 학습자는 Microsoft Information Protection Administrator 시험(SC-400)을 준비할 수 있습니다.
 

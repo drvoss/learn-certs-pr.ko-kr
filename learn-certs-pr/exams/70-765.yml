@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Provisioning SQL Databases
 metadata:
-  title: 'Exam 70-765: Provisioning SQL Databases'
-  description: 'Exam 70-765: Provisioning SQL Databases'
+  title: '시험 70-765: SQL 데이터베이스 프로 비전'
+  description: '시험 70-765: SQL 데이터베이스 프로 비전'
+  ms.openlocfilehash: 67b6fc8d11e4f6016fd8ae6c8859eecbf334e45b
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658062"
 uid: exam.70-765
 displayName: 70-765
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  이 시험은 설계자, 선임 개발자, 인프라 전문가, 개발 리더를 대상으로 합니다. 응시자는 다양한 클라우드 서비스 모델과 서비스 모델 아키텍처, 데이터 저장소 옵션 및 데이터 동기화 기술에 대한 실무 지식을 갖추고 있어야 합니다. 또한 배포 모델 분야 및 데이터베이스, 응용 프로그램, 서비스의 업그레이드와 마이그레이션 분야, 그리고 Azure 응용 프로그램을 외부 리소스와 통합하는 분야에 대한 실무적인 지식도 보유하고 있어야 합니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
 
-  <div style='font-weight&#58; bold;'><br/>2017년 3월에 시험이 업데이트되었습니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 exam 70-765 변경 문서를 다운로드하여 검토하십시오.</div>
-subTitle: 이 시험은 설계자, 선임 개발자, 인프라 전문가, 개발 리더를 대상으로 합니다. 응시자는 다양한 클라우드 서비스 모델과 서비스 모델 아키텍처, 데이터 저장소 옵션 및 데이터 동기화 기술에 대한 실무 지식을 갖추고 있어야 합니다. 또한 배포 모델 분야 및 데이터베이스, 응용 프로그램, 서비스의 업그레이드와 마이그레이션 분야, 그리고 Azure 응용 프로그램을 외부 리소스와 통합하는 분야에 대한 실무적인 지식도 보유하고 있어야 합니다.
+
+  <br/>
+
+  이 시험은 설계자, 선임 개발자, 인프라 전문가 및 개발 리드를 위한 것입니다. 후보에는 다양 한 클라우드 서비스 모델 및 서비스 모델 아키텍처, 데이터 저장소 옵션 및 데이터 동기화 기법에 대 한 실무 지식이 있습니다. 또한 Azure 응용 프로그램을 외부 리소스와 통합 하는 것 외에도 배포 모델, 데이터베이스 업그레이드 및 마이그레이션, 응용 프로그램 및 서비스에 대 한 실무 지식이 있습니다.
+
+
+  > [!IMPORTANT]
+
+  > 3 월 2017을 기준으로이 시험이 업데이트 되었습니다. 이러한 변경 내용과 이러한 변경 사항이 측정 된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 70-765 변경 문서를 다운로드 하 여 검토 하세요.
+subTitle: 이 시험은 설계자, 선임 개발자, 인프라 전문가 및 개발 리드를 위한 것입니다. 후보에는 다양 한 클라우드 서비스 모델 및 서비스 모델 아키텍처, 데이터 저장소 옵션 및 데이터 동기화 기법에 대 한 실무 지식이 있습니다. 또한 Azure 응용 프로그램을 외부 리소스와 통합 하는 것 외에도 배포 모델, 데이터베이스 업그레이드 및 마이그레이션, 응용 프로그램 및 서비스에 대 한 실무 지식이 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
 practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -20,16 +34,14 @@ locales:
 levels:
 - intermediate
 skills:
-- Azure에서 SQL 구현 (40-45%)
-- 데이터베이스 및 인스턴스 관리(30-35%)
-- 저장소 관리 (30-35%)
+- Implement SQL in Azure (40-45%)
+- Manage databases and instances (30-35%)
+- Manage Storage (30-35%)
 retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:
 - sql-server
-courses:
-- uid: course.20765
 relatedCertifications:
 - related:
     uid: certification.mcsa-microsoft-dynamics-365-for-operations
@@ -37,15 +49,14 @@ relatedCertifications:
     uid: certification.mcsa-sql2016-database-administration-certification
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

@@ -1,17 +1,29 @@
 ### YamlMime:Examination
 title: Designing and Providing Microsoft Licensing Solutions to Large Organizations
 metadata:
-  title: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
-  description: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+  title: '시험 70-705: 대기업에 Microsoft 라이선스 솔루션 설계 및 제공'
+  description: '시험 70-705: 대기업에 Microsoft 라이선스 솔루션 설계 및 제공'
+  ms.openlocfilehash: f2052f4321f1a418e535a13e6b63b2fa0600982e
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658931"
 uid: exam.70-705
 displayName: 70-705
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  본 시험은 대형 조직에 라이선스 솔루션을 판매하는 세일즈 전문가를 대상으로 합니다. 대형 조직이란 일반적으로 250개의 장치 또는 동수의 사용자를 보유하고 있는 조직을 뜻합니다. 응시자는 EA(기업계약), ESA(기업 구독 계약), CSP (Cloud 솔루션 공급자), MPSA, OEM 및 Open and Open Value를 포함한 모든 Microsoft 기업 라이선스 솔루션에 대한 기본적인 이해와 함께 6개월 이상 Microsoft 라이선스 솔루션을 판매한 경력이 있어야 합니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
 
-  응시자는 운영 체제, 서버 애플리케이션, 데스크톱 애플리케이션 및 온라인 서비스와 같은 Microsoft 제품 유형 및 해당 라이선스 모델에 대한 기본적인 지식도 가지고 있어야 합니다. 응시자는 고객의 필요에 가장 잘 부합하는 솔루션을 제안하는 능력을 검증해야 합니다.
-subTitle: 본 시험은 대형 조직에 라이선스 솔루션을 판매하는 세일즈 전문가를 대상으로 합니다. 대형 조직이란 일반적으로 250개의 장치 또는 동수의 사용자를 보유하고 있는 조직을 뜻합니다. 응시자는 EA(기업계약), ESA(기업 구독 계약), CSP (Cloud 솔루션 공급자), MPSA, OEM 및 Open and Open Value를 포함한 모든 Microsoft 기업 라이선스 솔루션에 대한 기본적인 이해와 함께 6개월 이상 Microsoft 라이선스 솔루션을 판매한 경력이 있어야 합니다.
+
+  <br/>
+
+  이 시험에 대 한 후보는 라이선스 솔루션을 대기업에 판매 하는 판매 전문가입니다. 이 범주의 조직에는 일반적으로 250 이상의 장치 또는 사용자가 있습니다. 후보자는 microsoft 라이선스 솔루션을 판매 하는 6 개월 이상의 환경을 보유 하 고, 기업계약, Enterprise 구독 계약, CSP (클라우드 솔루션 공급자), mpsa, OEM, 오픈 및 오픈 가치를 비롯 한 모든 microsoft 회사 라이선스 솔루션에 대 한 기본적인 이해가 있어야 합니다.
+
+
+  또한 지원자는 운영 체제, 서버 응용 프로그램, 데스크톱 응용 프로그램, 온라인 서비스 및 해당 라이선스 모델과 같은 Microsoft 제품의 유형을 기본적으로 이해 해야 합니다. 후보는 고객의 요구에 가장 적합 한 솔루션을 정의 하는 기능에 대 한 유효성을 검사 해야 합니다.
+subTitle: 이 시험에 대 한 후보는 라이선스 솔루션을 대기업에 판매 하는 판매 전문가입니다. 이 범주의 조직에는 일반적으로 250 이상의 장치 또는 사용자가 있습니다. 후보자는 microsoft 라이선스 솔루션을 판매 하는 6 개월 이상의 환경을 보유 하 고, 기업계약, Enterprise 구독 계약, CSP (클라우드 솔루션 공급자), mpsa, OEM, 오픈 및 오픈 가치를 비롯 한 모든 microsoft 회사 라이선스 솔루션에 대 한 기본적인 이해가 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
 locales:
@@ -27,28 +39,24 @@ locales:
 levels:
 - beginner
 skills:
-- 적절한 기술 솔루션 권고 (60%-65%)
-- 적절한 Software Assurance 혜택 권고 (10%-15%)
-- 라이선스 솔루션 권고 (20%-25%)
+- Recommend the appropriate technology solution (60-65%)
+- Recommend the Appropriate Software Assurance Benefits (10-15%)
+- Recommend a licensing solution (20-25%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - azure
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

@@ -3,31 +3,15 @@ title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
   description: '여러 Office 프로그램에서 Microsoft Office Specialist: Expert 인증을 취득하여 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
-  ms.openlocfilehash: 1e851e2082a0894b42d74815a7c6f1676d380a5c
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 20c4ffa051571b6697c21b6213a21b280f68d5d5
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132111480"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656929"
 uid: certification.microsoft-office-specialist-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
-  Microsoft Office Specialist: Expert 인증을 획득하여 다양한 Office 프로그램에서 Office를 최대한 활용하는데 필요한 고급 기술을 보유하고 있음을 입증하십시오.
-
-
-  Microsoft Office Specialist: Expert 인증을 받으려면 다음 요구 사항을 충족해야 합니다.
-
-
-  - 다음 Associate 시험 중 3가지에 통과하여 Microsoft Office Specialist Associate 인증 취득
-    - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
-    - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
-    - [MO-300&#58; Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
-    - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
-
-  - 다음 3가지 Expert 시험 중 2가지를 통과합니다.
-    - [MO-101&#58; Microsoft Word Expert (Word and Word 2019)](/learn/certifications/exams/mo-101)
-    - [MO-201&#58; Microsoft Excel Expert (Excel and Excel 2019)](/learn/certifications/exams/mo-201)
-    - [MO-500&#58; Microsoft Access Expert (Access and Access 2019)](/learn/certifications/exams/mo-500)
+summary: "Microsoft Office Specialist: Expert 인증을 획득하여 다양한 Office 프로그램에서 Office를 최대한 활용하는데 필요한 고급 기술을 보유하고 있음을 입증하십시오.\n\n> [!IMPORTANT]\n> Microsoft Office Specialist: Expert 인증을 받으려면 다음 요구 사항을 충족해야 합니다.\n> \n> - 다음 Associate 시험 중 3가지에 통과하여 Microsoft Office Specialist Associate 인증 취득\n>   - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)\n>   - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)\n>   - [MO-300&#58; Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)\n>   - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)\n> \n> - 다음 3가지 Expert 시험 중 2가지를 통과합니다.\n>   - [MO-101&#58; Microsoft Word Expert (Word and Word 2019)](/learn/certifications/exams/mo-101)\n>   - [MO-201&#58; Microsoft Excel Expert (Excel and Excel 2019)](/learn/certifications/exams/mo-201)\n>   - [MO-500&#58; Microsoft Access Expert (Access and Access 2019)](/learn/certifications/exams/mo-500)"
 subTitle: '여러 Office 프로그램에서 Microsoft Office Specialist: Expert 인증을 취득하여 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
 levels:
 - advanced

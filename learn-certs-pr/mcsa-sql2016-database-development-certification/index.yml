@@ -1,54 +1,63 @@
 ### YamlMime:Certification
-title: 'MCSA: SQL 2016 Database Development'
+title: 'mcsa: SQL 2016 데이터베이스 개발'
 metadata:
-  title: 'MCSA: SQL 2016 Database Development'
-  description: 'MCSA: SQL 2016 Database Development'
+  title: 'mcsa: SQL 2016 데이터베이스 개발'
+  description: 'mcsa: SQL 2016 데이터베이스 개발'
+  ms.openlocfilehash: 404a8ef75eef94520e2a0d80efd498d1643b3218
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658524"
 uid: certification.mcsa-sql2016-database-development-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증은 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하십시오. 종료날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>성적표에 계속 표시됩니다.</strong></font><br/><br/></div> 
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  인증으로써 온-프레미스 데이터베이스와 클라우드 기반 데이터베이스 두 분야에서 모두 데이터베이스 전문가 수준의 능력을 가지고 있음을 입증하십시오.
-subTitle: 인증으로써 온-프레미스 데이터베이스와 클라우드 기반 데이터베이스 두 분야에서 모두 데이터베이스 전문가 수준의 능력을 가지고 있음을 입증하십시오.
+  > 이 인증은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득 한 모든 [인증은 인증 대시보드의](https://aka.ms/certdashboard) 성적에 계속 표시 됩니다.
+
+
+  <br/>
+
+
+  이 인증은 온-프레미스 및 클라우드 기반 데이터베이스에 대 한 데이터베이스 전문가로 기술을 보여 줍니다.
+subTitle: 이 인증은 온-프레미스 및 클라우드 기반 데이터베이스에 대 한 데이터베이스 전문가로 기술을 보여 줍니다.
+hideFishboneDiagram: true
 levels:
 - advanced
 skills:
-- Transact-SQL로 데이터 관리
-- 고급 Transact-SQL 구성 요소를 사용하여 데이터 쿼리
-- Transact-SQL을 사용하여 데이터베이스 프로그래밍
-- 데이터베이스 개체 설계 및 구현
-- 프로그래밍 개체 구현
-- 데이터베이스 동시성 관리
-- 데이터베이스 개체 및 SQL 인프라 최적화
+- Manage data with Transact-SQL
+- Query data with advanced Transact-SQL components
+- Program databases by using Transact-SQL
+- Design and implement database objects
+- Implement programmability objects
+- Manage database concurrency
+- Optimize database objects and SQL infrastructure
 roles:
 - developer
 type: mcsa
 products:
 - sql-server
-courses:
-- uid: course.20761
-- uid: course.20762
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://aka.ms/traincertposter
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

@@ -3,17 +3,21 @@ title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Financ
 metadata:
   title: '시험 MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
   description: '시험 MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
-  ms.openlocfilehash: db3591629d6dec527cd778cc885e984369f3e41c
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 6e5645e663b995cb8a2481de8b6f4e9d59a70366
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105760"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657754"
 uid: exam.mb6-894
 displayName: MB6-894
 summary: >-
-  <div><strong>이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 찾아보기 페이지</a>를 참조하세요.<br/><br/></strong></div>
+  > [!IMPORTANT]
 
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
+
+
+  <br/>
 
   본 시험의 응시자는 Microsoft Dynamics 365 Finance 및 Microsoft Dynamics 365 Commerce를 사용자 지정하는 데 필요한 기본 기술 및 개발 작업을 구현하는 기술 컨설턴트, 프로그래머 또는 IT 직원입니다.
 
@@ -24,7 +28,9 @@ summary: >-
   본 개발 시험의 응시자는 프로그래밍 개념 및 프로세스에 대한 중급 수준의 이해뿐만 아니라 다양한 비즈니스 프로세스 시나리오에 적용되는 재무 및 상업 수정, 개선 사항 및 새로운 개발 프로젝트에 대한 이해를 갖추어야 합니다.
 
 
-  <div><strong><br/>2020년 2월 4일, 본 시험의 내용이 업데이트되었습니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 MB6-894 변경 문서를 다운로드하고 검토하세요.</strong></div>
+  > [!IMPORTANT]
+
+  > 2020년 2월 4일, 본 시험의 내용이 업데이트되었습니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 MB6-894 변경 문서를 다운로드하고 검토하세요.
 subTitle: 본 시험의 응시자는 Microsoft Dynamics 365 Finance 및 Microsoft Dynamics 365 Commerce를 사용자 지정하는 데 필요한 기본 기술 및 개발 작업을 구현하는 기술 컨설턴트, 프로그래머 또는 IT 직원입니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7

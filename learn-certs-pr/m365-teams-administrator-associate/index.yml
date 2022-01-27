@@ -3,18 +3,22 @@ title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
   description: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관합니다.
-  ms.openlocfilehash: 4e784b20f745eec032e93c61f5795d870a6bdb31
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: b80fde6d983444b1ecc27f256a1c6e79ff86789f
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132112794"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658403"
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 9월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ms-700">시험 MS-700 페이지</a>에서 측정된 기술 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 내용은 2021년 9월 24일에 업데이트되었습니다. [MS-700 시험 페이지에서](/learn/certifications/exams/ms-700) 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
+
+
+  <br/>
 
   이 인증의 응시자는 Microsoft 365 환경에서 효율적이고 효과적인 협업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자입니다.
 

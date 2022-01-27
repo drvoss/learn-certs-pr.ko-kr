@@ -3,16 +3,21 @@ title: 'MCSA: Microsoft Dynamics 365 for Operations'
 metadata:
   title: 'MCSA: Microsoft Dynamics 365 for Operations'
   description: 'MCSA: Microsoft Dynamics 365 for Operations'
-  ms.openlocfilehash: 91465a418e72248a9ef0dd79ae0863205d889884
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 6d8850d5f0777d38a5632dd6ba7f8a65506cf93c
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132113003"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658920"
 uid: certification.mcsa-microsoft-dynamics-365-for-operations
 iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증은 폐지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하세요. 폐지 날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
+
+  > 이 인증은 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 해당 만료 날짜 이전에 획득한 모든 인증은 [인증 대시보드의](https://aka.ms/certdashboard) 대본에 계속 표시됩니다.
+
+
+  <br/>
 
 
   본 인증은 Microsoft Dynamics 365 for Operations를 맞춤화하기 위해 필요한 기초 기술 및 개발 업무를 이행하기 위한 Microsoft Dynamics 365 기술에 있어 귀하의 전문성을 입증합니다. 주요 응시자 그룹에는 기술 컨설턴트, 프로그래머, IT 업계 종사자 등이 포함됩니다.
@@ -36,9 +41,6 @@ roles:
 type: mcsa
 products:
 - dynamics
-courses:
-- uid: course.20764
-- uid: course.20765
 exams:
 - uid: exam.70-764
 - uid: exam.70-765

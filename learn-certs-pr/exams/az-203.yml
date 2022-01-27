@@ -3,20 +3,18 @@ title: Developing Solutions for Microsoft Azure
 metadata:
   title: '시험 AZ-203: Developing Solutions for Microsoft Azure'
   description: '시험 AZ-203: Developing Solutions for Microsoft Azure'
-  ms.openlocfilehash: 3a32816cd268bf12aeb8303e777f0ac588d662be
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 2c2295a83b47a53292e88570193ccabfb8f11fe0
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105904"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658029"
 uid: exam.az-203
 displayName: AZ-203
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 2020년 8월 31일에 폐지되었습니다. 대체 시험인 AZ-204에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/az-204">AZ-204 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
-
-  </div>
+  > 이 시험은 2020년 8월 31일에 사용 중지되었습니다. 교체 시험인 AZ-204를 사용할 수 있습니다. 자세한 내용은 [AZ-204 시험 세부 정보 페이지 를 방문하세요.](/learn/certifications/exams/az-204)
 
 
   이 시험의 응시자는 애플리케이션 및 서비스와 같은 클라우드 솔루션을 설계 및 구축하는 Azure 개발자입니다. 응시자들은 솔루션 디자인에서 개발 및 배포, 테스트 및 유지 관리에 이르는 모든 개발 단계에 참여합니다. 클라우드 솔루션 아키텍트, 클라우드 DBA, 클라우드 관리자 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
@@ -68,9 +66,6 @@ paths:
 - uid: learn.manage-resources-in-azure
 - uid: learn.deploy-a-website-with-azure-app-service
 - uid: learn.secure-your-cloud-data
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

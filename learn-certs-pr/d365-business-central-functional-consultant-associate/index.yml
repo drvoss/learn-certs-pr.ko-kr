@@ -3,18 +3,22 @@ title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
   description: Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
-  ms.openlocfilehash: 14ee510382b9bb8e06aba6960f251ee1c2b9b976
-  ms.sourcegitcommit: 1f4f8c714b7454e4397a4cfec2f6920ba660ba16
+  ms.openlocfilehash: aab2e537bca6832f0045374dd97d325d20290e2d
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/15/2022
-  ms.locfileid: "136853941"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655884"
 uid: certification.d365-business-central-functional-consultant-associate
 certificationRenewalUid: renewal.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><strong>중요: 이 인증의 영어 버전은 2022년 2월 14일에 업데이트됩니다. <a href="/learn/certifications/exams/mb-800">MB-800 시험 페이지에서</a> 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.<br/><br/></strong></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 영어 버전은 2022 년 2 월 14 일에 업데이트 됩니다. 변경 된 내용을 확인 하려면 [시험 MB-800 페이지](/learn/certifications/exams/mb-800) 에서 기술 측정 문서를 다운로드 하세요.
+
+
+  <br/>
 
   이 인증은 중소기업을 위해 핵심 Microsoft Dynamics 365 Business Central 설정 프로세스를 구현하는 기능 컨설턴트에게 적합합니다. 인사이트, 신호, 작업 타일, 보고서, 차트 조정 등 Dynamics 365 Business Central 역할 센터를 구성한 경험이 필요합니다. Microsoft Power Platform 구성 요소를 사용하여 Business Central을 확장할 수 있어야 합니다.
 

@@ -3,33 +3,20 @@ title: Microsoft Power Platform Functional Consultant
 metadata:
   title: '시험 PL-200: Microsoft Power Platform Functional Consultant'
   description: '시험 PL-200: Microsoft Power Platform Functional Consultant'
-  ms.openlocfilehash: 90cb08a23a9847b5f8587c460f344e31a2b045b6
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: d0a84f5697ffcb64de5f8937199c4e1af7dd36b3
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133101979"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655620"
 uid: exam.pl-200
 displayName: PL-200
-summary: >-
-  <div><div><font color="red">제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 절차를 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일부터 시험에 반영됩니다.</font><br/><br/></div><div><font color='red'><strong>이 시험의 내용은 2021년 10월 1일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
-
-
-  본 시험의 응시자는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 Microsoft Power Platform 솔루션과 앱 구성을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 생성합니다.
-
-
-  응시자는 솔루션 아키텍트와 협력하여 제공되는 설계와 사용자 환경 디자이너가 정한 표준, 브랜딩 및 아티팩트를 구현합니다. 응시자는 타사 애플리케이션 및 서비스와 완벽한 통합을 제공하기 위해 통합을 설계합니다.
-
-
-  응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Microsoft Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
-
-
-  Microsoft Power Platform 기능 컨설턴트는 Microsoft Power Platform 구성 요소를 사용하여 Teams, Dynamics 365, Excel, Word 등의 Microsoft 앱과 서비스를 확장하고 사용자 지정하는 방법을 잘 알고 있어야 합니다.
+summary: "> [!NOTE]\n> 제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 다시 브랜딩하기 위한 노력을 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일부터 시험에서 반영됩니다.\n> \n> [!IMPORTANT]\n> 이 시험의 내용은 2021년 10월 1일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n<br/>\n본 시험의 응시자는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 Microsoft Power Platform 솔루션과 앱 구성을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 생성합니다.\n\n응시자는 솔루션 아키텍트와 협력하여 제공되는 설계와 사용자 환경 디자이너가 정한 표준, 브랜딩 및 아티팩트를 구현합니다. 응시자는 타사 애플리케이션 및 서비스와 완벽한 통합을 제공하기 위해 통합을 설계합니다.\n\n응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Microsoft Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.\n\nMicrosoft Power Platform 기능 컨설턴트는 Microsoft Power Platform 구성 요소를 사용하여 Teams, Dynamics 365, Excel, Word 등의 Microsoft 앱과 서비스를 확장하고 사용자 지정하는 방법을 잘 알고 있어야 합니다."
 subTitle: 이 시험에서는 Microsoft Dataverse 구성, Microsoft Power Apps을 사용하여 앱 만들기, Microsoft Power Automate 만들기 및 관리, Microsoft Power Virtual Agents 챗봇 구현, Microsoft Power Apps을 다른 앱 및 서비스와 통합하는 작업을 완료하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 - ja

@@ -1,17 +1,24 @@
 ### YamlMime:Examination
 title: Word 2010
 metadata:
-  title: 'Exam 77-881: Word 2010'
-  description: 'Exam 77-881: Word 2010'
+  title: '시험 77-881: Word 2010'
+  description: '시험 77-881: Word 2010'
+  ms.openlocfilehash: 55fe85e877ea50d9e59fae50d92cd45742ef78f5
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655356"
 uid: exam.77-881
 displayName: 77-881
-summary: |-
-  <div>
-  <div><strong>이 시험은 폐지되었습니다. 현재 가능한 옵션은, <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지를 참고하세요</a>.</strong><br/><br/></div>
-  </div>
-  
-  핵심 수준의 Microsoft Office Word 2010 사용자는 특징 및 기능 수준에서 Microsoft Office Word 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Word 2010의 특징 및 기능 중 최소 80% 사용에 능숙하여야 하며 잘 알고 있어야 합니다. 핵심 사용자는 Microsoft Office Word 2010을 사용하여 다양한 목적과 상황에 맞게 전문적인 모양의 문서를 만들고 편집할 수 있어야 합니다. 사용자의 직업은 전문직, 학생 및 개인 생활의 거의 모든 분야에서 다양한 직무 역할을 가진 사람들을 포함합니다.
-subTitle: 핵심 수준의 Microsoft Office Word 2010 사용자는 특징 및 기능 수준에서 Microsoft Office Word 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Word 2010의 특징 및 기능 중 최소 80% 사용에 능숙하여야 하며 잘 알고 있어야 합니다. 핵심 사용자는 Microsoft Office Word 2010을 사용하여 다양한 목적과 상황에 맞게 전문적인 모양의 문서를 만들고 편집할 수 있어야 합니다. 사용자의 직업은 전문직, 학생 및 개인 생활의 거의 모든 분야에서 다양한 직무 역할을 가진 사람들을 포함합니다.
+summary: >-
+  > [!IMPORTANT]
+
+  > 이 시험은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요.
+
+
+  핵심 수준 Microsoft Office word 2010 사용자는 기능 및 기능 수준에서 Microsoft Office word 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Word 2010의 기능 및 기능 중 80% 이상을 사용 하는 방법을 알고 있어야 합니다. 핵심 수준 사용자는 Microsoft Office Word 2010를 사용 하 여 다양 한 목적 및 상황을 위해 전문적인 문서를 만들고 편집할 수 있어야 합니다. 사용자에 게는 전문, 학생 및 개인 생활의 거의 모든 영역에서 다양 한 작업 역할의 사용자가 포함 됩니다.
+subTitle: 핵심 수준 Microsoft Office word 2010 사용자는 기능 및 기능 수준에서 Microsoft Office word 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Word 2010의 기능 및 기능 중 80% 이상을 사용 하는 방법을 알고 있어야 합니다. 핵심 수준 사용자는 Microsoft Office Word 2010를 사용 하 여 다양 한 목적 및 상황을 위해 전문적인 문서를 만들고 편집할 수 있어야 합니다. 사용자에 게는 전문, 학생 및 개인 생활의 거의 모든 영역에서 다양 한 작업 역할의 사용자가 포함 됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
 locales:
@@ -31,31 +38,27 @@ locales:
 levels:
 - beginner
 skills:
-- 문서 공유 및 유지 관리
-- 내용 서식 지정
-- 페이지 레이아웃 및 재사용 가능한 컨텐츠 적용
-- 문서에 그림 및 그래픽 포함하기
-- 문서 교정
-- 참조 및 하이퍼링크 적용
-- 메일 병합 작업 수행
+- Sharing and maintaining documents
+- Formatting content
+- Applying page layout and reusable content
+- Including illustrations and graphics in a document
+- Proofreading documents
+- Applying references and hyperlinks
+- Performing mail merge operations
 roles:
 - business-user
 products:
 - office-word
-relatedCertifications:
-- related:
-    uid: none
 resources:
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

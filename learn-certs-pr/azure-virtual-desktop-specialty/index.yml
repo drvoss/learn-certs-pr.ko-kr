@@ -3,18 +3,22 @@ title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
 metadata:
   title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
   description: Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다.
-  ms.openlocfilehash: b299828d778c7715a28b6d345aae5ddb4b4fd49d
-  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.openlocfilehash: e4ed5376c667d031242321595003ef9432fbbc0f
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/13/2021
-  ms.locfileid: "134694420"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655455"
 uid: certification.azure-virtual-desktop-specialty
 certificationRenewalUid: renewal.azure-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 22일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/az-140">시험 AZ-140 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 내용은 2021 년 11 월 22 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 AZ-140 페이지](/learn/certifications/exams/az-140) 에서 기술 측정 문서를 다운로드 하세요.
+
+
+  <br/>
 
   Azure Virtual Desktop Specialty 인증의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 Microsoft Azure 관리자들입니다.
 

@@ -2,22 +2,26 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 메시징 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 받는 사람, 규정 준수, 위협 방지 및 메일 흐름을 배포, 구성, 관리, 문제 해결 및 모니터링 합니다.
-  ms.openlocfilehash: 7aa3241deb25988f416350e396e1e19865c428e5
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  description: Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
+  ms.openlocfilehash: 4c7f07bf9a6d15996217693bb1f680b13af6b89b
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133742935"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658876"
 uid: certification.m365-messaging-administrator
 certificationRenewalUid: renewal.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 콘텐츠는 2021 년 11 월 30 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 <a href="/learn/certifications/exams/ms-203">시험 MS-203 페이지</a> 에서 기술 측정 문서를 다운로드 하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
+
+  > 이 인증의 콘텐츠는 2021 년 11 월 30 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 MS-203 페이지](/learn/certifications/exams/ms-203) 에서 기술 측정 문서를 다운로드 하세요.
 
 
-  Microsoft 365 메시징 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 받는 사람, 규정 준수, 위협 방지 및 메일 흐름을 배포, 구성, 관리, 문제 해결 및 모니터링 합니다.
-subTitle: Microsoft 365 메시징 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 받는 사람, 규정 준수, 위협 방지 및 메일 흐름을 배포, 구성, 관리, 문제 해결 및 모니터링 합니다.
+  <br/>
+
+  Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
+subTitle: Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
 levels:
 - intermediate
 skills:

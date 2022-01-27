@@ -1,17 +1,24 @@
 ### YamlMime:Examination
 title: Excel 2010
 metadata:
-  title: 'Exam 77-882: Excel 2010'
-  description: 'Exam 77-882: Excel 2010'
+  title: '시험 77-882: Excel 2010'
+  description: '시험 77-882: Excel 2010'
+  ms.openlocfilehash: ceb53b2783556147aeb1a47af9c64d55b2187da8
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658964"
 uid: exam.77-882
 displayName: 77-882
-summary: |-
-  <div>
-  <div><strong>이 시험은 폐지되었습니다. 현재 가능한 옵션은, <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지를 참고하세요</a>.</strong><br/><br/></div>
-  </div>
+summary: >-
+  > [!IMPORTANT]
 
-  핵심 수준의 Microsoft Office Excel 2010 사용자는 특징 및 기능 수준에서 Microsoft Office Excel 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Excel 2010의 특징 및 기능 중 최소 80% 사용에 능숙하여야 하며 잘 알고 있어야 합니다. 핵심 사용자는 Microsoft Office Excel 2010을 사용하여 다양한 목적과 상황에 맞게 전문적인 모양의 스프레드 시트를 만들고 편집할 수 있어야 합니다. 사용자의 직업은 전문직, 학생 및 개인 생활의 거의 모든 분야에서 다양한 직무 역할을 가진 사람들을 포함합니다.
-subTitle: 핵심 수준의 Microsoft Office Excel 2010 사용자는 특징 및 기능 수준에서 Microsoft Office Excel 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Excel 2010의 특징 및 기능 중 최소 80% 사용에 능숙하여야 하며 잘 알고 있어야 합니다. 핵심 사용자는 Microsoft Office Excel 2010을 사용하여 다양한 목적과 상황에 맞게 전문적인 모양의 스프레드 시트를 만들고 편집할 수 있어야 합니다. 사용자의 직업은 전문직, 학생 및 개인 생활의 거의 모든 분야에서 다양한 직무 역할을 가진 사람들을 포함합니다.
+  > 이 시험이 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요.
+
+
+  코어 수준 Microsoft Office Excel 2010 사용자는 기능 및 기능 수준에서 Microsoft Office Excel 2010 소프트웨어를 탐색할 수 있어야 합니다. 2010년 Microsoft Office Excel 기능의 80% 이상을 사용하는 방법을 잘 알고 있어야 합니다. 핵심 수준 사용자는 Microsoft Office Excel 2010을 사용하여 다양한 목적과 상황에 대한 전문가 수준의 스프레드시트를 만들고 편집할 수 있어야 합니다. 사용자는 거의 모든 전문, 학생 및 개인 업무 영역에서 다양한 직무를 가진 사람을 포함할 수 있습니다.
+subTitle: 코어 수준 Microsoft Office Excel 2010 사용자는 기능 및 기능 수준에서 Microsoft Office Excel 2010 소프트웨어를 탐색할 수 있어야 합니다. 2010년 Microsoft Office Excel 기능의 80% 이상을 사용하는 방법을 잘 알고 있어야 합니다. 핵심 수준 사용자는 Microsoft Office Excel 2010을 사용하여 다양한 목적과 상황에 대한 전문가 수준의 스프레드시트를 만들고 편집할 수 있어야 합니다. 사용자는 거의 모든 전문, 학생 및 개인 업무 영역에서 다양한 직무를 가진 사람을 포함할 수 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
 locales:
@@ -30,32 +37,28 @@ locales:
 levels:
 - beginner
 skills:
-- 워크시트 환경 관리
-- 셀 데이터 만들기
-- 셀 및 워크시트 서식 지정
-- 워크시트 및 워크북 관리
-- 수식 및 함수 적용하기
-- 데이터의 시각적 표시
-- 워크시트 데이터를 다른 사용자와 공유
-- 데이터 분석 및 구성
+- Managing the worksheet environment
+- Creating cell data
+- Formatting cells and worksheets
+- Managing worksheets and workbooks
+- Applying formulas and functions
+- Presenting data visually
+- Sharing worksheet data with other users
+- Analyzing and organizing data
 roles:
 - business-user
 products:
 - office-excel
-relatedCertifications:
-- related:
-    uid: none
 resources:
-- title: 시험 재응시
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

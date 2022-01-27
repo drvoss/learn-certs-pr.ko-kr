@@ -3,17 +3,21 @@ title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
 metadata:
   title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
   description: Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.
-  ms.openlocfilehash: ee3c7541ad355d5987faeb1308967066e1078482
-  ms.sourcegitcommit: 741c0f68de10dd00859f4bb679ed11dbb5a15674
+  ms.openlocfilehash: f349a3e1caeb3ef04209093986deeb518760376f
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/30/2021
-  ms.locfileid: "135583306"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659382"
 uid: certification.security-compliance-and-identity-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: >-
-  <div><strong>중요: 이 인증의 영어 버전은 2022년 1월 28일에 업데이트됩니다. <a href="/learn/certifications/exams/sc-900">SC-900 시험 페이지에서</a> 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.</strong><br/><br/></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 영어 버전은 2022년 1월 28일에 업데이트됩니다. [SC-900 시험 페이지에서](/learn/certifications/exams/sc-900) 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
+
+
+  <br/>
 
   이 인증은 클라우드 기반 및 관련 Microsoft 서비스에서 SCI(보안, 규정 준수, ID) 기본 사항을 숙지하려는 사람을 대상으로 합니다.
 

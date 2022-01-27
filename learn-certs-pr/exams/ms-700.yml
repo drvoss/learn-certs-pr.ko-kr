@@ -3,35 +3,22 @@ title: 교실 및 온라인 교육 찾기
 metadata:
   title: '시험 MS-700: Managing Microsoft Teams'
   description: '시험 MS-700: Managing Microsoft Teams'
-  ms.openlocfilehash: c2e0d8ea65d44fe3484a46d28eb0bcc573b4cc40
-  ms.sourcegitcommit: c38c5b5148c5c491455aab759f2aa35560ac6d7b
+  ms.openlocfilehash: 4e9608ac118327367799e835a0cd428c1beb2c61
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/31/2021
-  ms.locfileid: "135694622"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658172"
 uid: exam.ms-700
 displayName: MS-700
-summary: >-
-  <div><div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일에 업데이트되었습니다. 변경된 내용을 확인하려면 아래 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div></div>
-
-
-  이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.
-
-
-  이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다. 응시자는 Microsoft Teams와 SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform을 포함한 기타 워크로드, 그리고 기타 Microsoft 앱, 타사 앱 및 사용자 지정 앱에 통합한 경험이 있어야 합니다.
-
-
-  또한 Microsoft Teams 관리자는 네트워킹, 전화 통신, 라이선스, 보안, 규정 준수, 사용자 채택, 앱 개발 및 지원과 같은 다른 기능과 협업합니다.
-
-
-  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+summary: "> [!IMPORTANT]\n> 이 시험의 내용은 2021 년 9 월 24 일에 업데이트 되었습니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.\n\n이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다. 응시자는 Microsoft Teams와 SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform을 포함한 기타 워크로드, 그리고 기타 Microsoft 앱, 타사 앱 및 사용자 지정 앱에 통합한 경험이 있어야 합니다.\n\n또한 Microsoft Teams 관리자는 네트워킹, 전화 통신, 라이선스, 보안, 규정 준수, 사용자 채택, 앱 개발 및 지원과 같은 다른 기능과 협업합니다.\n\n이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요."
 subTitle: '이 시험은 다음의 기술 작업을 수행하는 능력은 측정합니다: Microsoft Teams 환경 계획 및 구성; 채팅, 팀, 채널, 및 앱 관리; 통화 및 회의 관리; 및 Microsoft Teams 환경을 모니터링하고 문제를 해결합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
 locales:
 - en
 levels:

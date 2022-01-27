@@ -3,18 +3,22 @@ title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
   description: Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
-  ms.openlocfilehash: c21163e651a6ec4964736526f0292c4d2a5b5c17
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 62b9709a8f406546d1c9d723eb7e2e75d7756b36
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133301694"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656610"
 uid: certification.m365-developer-associate
 certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 29일에 업데이트되었습니다. 변경 사항을 확인하려면 <a href="/learn/certifications/exams/ms-600">시험 MS-600 페이지</a>에서 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 콘텐츠는 2021 년 11 월 29 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 MS-600 페이지](/learn/certifications/exams/ms-600) 에서 기술 측정 문서를 다운로드 하세요.
+
+
+  <br/>
 
   Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
 

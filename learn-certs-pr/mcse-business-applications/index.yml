@@ -3,20 +3,36 @@ title: 'MCSE: Business Applications'
 metadata:
   title: 'MCSE: Business Applications'
   description: 'MCSE: Business Applications'
+  ms.openlocfilehash: 0bd4ff8ea79cde9181445a76afd73f9e838a2f8c
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657710"
 uid: certification.mcse-business-applications
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: |-
-  <div><font color='red'><strong>이 인증은 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하십시오. 종료날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>성적표에 계속 표시됩니다.</strong></font><br/><br/></div> 
+summary: >-
+  > [!IMPORTANT]
 
-  인증은 Microsoft Dynamics 365 기술을 사용하고 관리하는 전문성을 입증합니다. Microsoft Dynamics 365에서 기초를 다지고, 하나 이상의 비즈니스 전문 분야에서 추가적으로 전문성을 입증하게 됩니다.
+  > 이 인증은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득 한 모든 [인증은 인증 대시보드의](https://aka.ms/certdashboard) 성적에 계속 표시 됩니다.
 
-  MCSE&#58; Business Applications 인증을 얻으려면, 다음 요구 사항을 충족해야 합니다&#58;
-  - 한 개의 필수 자격증 취득&#58; [MCSA&#58; Microsoft Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations)
-  - 선택 시험 중 하나에 합격&#58;
-    - [MB2-716&#58; Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
-    - [MB6-897&#58; Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
-    - [MB6-898&#58; Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
-subTitle: 인증은 Microsoft Dynamics 365 기술을 사용하고 관리하는 전문성을 입증합니다. Microsoft Dynamics 365에서 기초를 다지고, 하나 이상의 비즈니스 전문 분야에서 추가적으로 전문성을 입증하게 됩니다.
+
+  <br/>
+
+
+  이 인증은 Microsoft Dynamics 365 기술을 사용 하 고 관리할 수 있는 전문 지식을 보유 하 고 있는지 확인 합니다. Microsoft Dynamics 365의 기반으로 시작 하 고 하나 이상의 비즈니스 관련 영역에 대 한 추가 전문 지식을 보여 드리겠습니다.
+
+
+  MCSE&#58; Business Applications 인증을 획득 하려면 다음 요구 사항을 완료&#58;
+
+  - 필수 구성 요소 인증&#58; [Mcsa: 운영을 위한 Microsoft Dynamics 365](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations)
+
+  - 선택적 시험 중 하나를 전달&#58;
+    - [MB2-716: Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
+    - [MB6-897: Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
+    - [MB6-898: Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
+subTitle: 이 인증은 Microsoft Dynamics 365 기술을 사용 하 고 관리할 수 있는 전문 지식을 보유 하 고 있는지 확인 합니다. Microsoft Dynamics 365의 기반으로 시작 하 고 하나 이상의 비즈니스 관련 영역에 대 한 추가 전문 지식을 보여 드리겠습니다.
+hideFishboneDiagram: true
 levels:
 - beginner
 skills:
@@ -35,7 +51,7 @@ prerequisites:
   isOptional: false
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -47,9 +63,8 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 배지 공유
-  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
   href: ../badges.md
-

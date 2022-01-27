@@ -4,12 +4,12 @@ metadata:
   title: '과정 AZ-900T01-A: Microsoft Azure Fundamentals (1일)'
   description: '과정 AZ-900T01-A: Microsoft Azure Fundamentals (1일)'
   iltScheduling: true
-  ms.openlocfilehash: 514adfbe8bfe5a6cbcc00b895d2cee964746b8ab
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: de40c99112e37c0b385ce8b908044c70eb82bc77
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107560"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136954820"
 uid: course.az-900t01
 courseNumber: AZ-900T01-A
 hoursToComplete: 24
@@ -50,6 +50,13 @@ products:
 - azure
 exams:
 - uid: exam.az-900
+studyGuide:
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
 summary: >-
   이 1일 과정은 Azure 개념, 핵심 Azure 서비스, 핵심 솔루션 및 관리 도구, 일반 보안 및 네트워크 보안, 거버넌스, 개인 정보 보호, 규정 준수 기능, Azure 비용 관리, 서비스 수준 계약에 대한 기본 수준의 지식을 제공합니다.
 

@@ -3,20 +3,18 @@ title: Microsoft Azure Architect Design
 metadata:
   title: '시험 AZ-301: Microsoft Azure Architect Design'
   description: '시험 AZ-301: Microsoft Azure Architect Design'
-  ms.openlocfilehash: 6f981a9ef30219ac86d189b198f56479cdb3513b
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 8afaf42e48824b0c86149ed82207361897da89fd
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105888"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656654"
 uid: exam.az-301
 displayName: AZ-301
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 폐지되었습니다. 대체 시험인 AZ-304에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/az-304">AZ-304 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
-
-  </div>
+  > 이 시험은 사용이 중지 되었습니다. 대체 시험 인 AZ-304를 사용할 수 있습니다. 자세한 내용은 [AZ-304 시험 세부 정보 페이지](/learn/certifications/exams/az-304)를 참조 하세요.
 
 
   본 시험의 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 전문 실무 지식을 갖추고 있어야 합니다.
@@ -83,9 +81,6 @@ paths:
 - uid: learn.architect-modern-apps
 - uid: learn.architect-api-integration
 - uid: learn.architect-migration-bcdr
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

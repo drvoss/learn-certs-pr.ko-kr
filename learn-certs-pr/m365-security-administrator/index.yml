@@ -3,18 +3,22 @@ title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Security Administrator Associate'
   description: Microsoft 365 보안 관리자는 엔터프라이즈 및 하이브리드 환경 Microsoft 365 사전에 보호 하 고, 보안 및 규정 준수 솔루션을 구현 및 관리 하 고, 위협에 대응 하 고, 데이터 관리를 적용 합니다.
-  ms.openlocfilehash: d88b5999589620ce68e5338e6b0d5590841c28ae
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 78dd9f853eb4484c3432d67175ba29a5908dfaf9
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "135573221"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655015"
 uid: certification.m365-security-administrator
 certificationRenewalUid: renewal.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><strong>중요:이 인증의 영어 버전은 2022 년 1 월 27 일에 업데이트 됩니다. 변경 된 내용을 확인 하려면 <a href="/learn/certifications/exams/ms-500">시험 MS-500 페이지</a> 에서 기술 측정 문서를 다운로드 하세요.</strong><br/><br/></div>
+  > [!IMPORTANT]
 
+  > 이 인증의 영어 버전은 2022 년 1 월 27 일에 업데이트 됩니다. 변경 된 내용을 확인 하려면 [시험 MS-500 페이지](/learn/certifications/exams/ms-500) 에서 기술 측정 문서를 다운로드 하세요.
+
+
+  <br/>
 
   Microsoft 365 보안 관리자는 엔터프라이즈 및 하이브리드 환경 Microsoft 365 사전에 보호 하 고, 보안 및 규정 준수 솔루션을 구현 및 관리 하 고, 위협에 대응 하 고, 데이터 관리를 적용 합니다.
 subTitle: Microsoft 365 보안 관리자는 엔터프라이즈 및 하이브리드 환경 Microsoft 365 사전에 보호 하 고, 보안 및 규정 준수 솔루션을 구현 및 관리 하 고, 위협에 대응 하 고, 데이터 관리를 적용 합니다.

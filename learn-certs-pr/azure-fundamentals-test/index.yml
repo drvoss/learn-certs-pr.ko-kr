@@ -1,0 +1,75 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Fundamentals'
+  description: Azure Fundamentals은 클라우드 서비스와 이러한 서비스가 Microsoft Azure와 병행되어 제공되는 방법에 대한 기초 수준의 지식을 검증합니다.
+  ms.openlocfilehash: 43d663ee1be184e483d2e46b36c83130ce101326
+  ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137647591"
+uid: certification.azure-fundamentals-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: >-
+  <div><strong>중요: 이 인증의 영어 버전은 2022년 1월 25일에 업데이트됩니다. <a href="/learn/certifications/exams/az-900">AZ-900 시험 페이지에서</a> 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.</strong><br/><br/></div>
+
+
+  Azure Fundamentals 인증을 위한 응시자는 클라우드 서비스에 대한 기초 지식과 이러한 서비스가 Microsoft Azure에서 제공되는 방법에 대해 알고 있어야 합니다. 이 인증은 클라우드 기반 솔루션 및 서비스에 대한 작업을 막 시작하거나 Azure를 처음 사용하는 응시자를 위한 것입니다.
+
+
+  Azure Fundamentals 인증은 Azure 가격 책정 및 지원뿐만 아니라 클라우드 개념, Azure 서비스, Azure 워크로드, Azure의 보안 및 개인 정보 보호에 대한 지식이 있음을 증명할 수 있는 기회입니다. 응시자는 네트워킹, 스토리지, 컴퓨팅, 애플리케이션 지원 및 애플리케이션 개발을 포함한 일반적인 기술 개념을 숙지해야 합니다.
+
+
+  Azure Fundamentials는 다른 Azure 역할 기반 또는 전문성 인증에 대비하기 위해 사용할 수 있지만, 이러한 인증에 대한 필수 조건은 아닙니다.
+subTitle: Azure Fundamentals은 클라우드 서비스와 이러한 서비스가 Microsoft Azure와 병행되어 제공되는 방법에 대한 기초 수준의 지식을 검증합니다.
+levels:
+- beginner
+hidden: true
+skills:
+- Describe cloud concepts
+- Describe core Azure services
+- Describe core solutions and management tools on Azure
+- Describe general security and network security features
+- Describe identity, governance, privacy, and compliance features
+- Describe Azure cost management and Service Level Agreements
+roles:
+- administrator
+- business-user
+- developer
+- student
+- technology-manager
+type: fundamentals
+products:
+- azure
+courses:
+- uid: course.az-900t01
+- uid: course.az-900t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
+exams:
+- uid: exam.az-900-test
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 인증으로의 여정
+  description: Azure Fundamentals 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+  href: ../badges.md

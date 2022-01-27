@@ -1,19 +1,34 @@
 ### YamlMime:Examination
 title: Networking with Windows Server 2016
 metadata:
-  title: 'Exam 70-741: Networking with Windows Server 2016'
-  description: 'Exam 70-741: Networking with Windows Server 2016'
+  title: '시험 70-741: Windows Server 2016 네트워킹'
+  description: '시험 70-741: Windows Server 2016 네트워킹'
+  ms.openlocfilehash: a87506930bae2ba53d3bc5dec127b18f271718b5
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657721"
 uid: exam.70-741
 displayName: 70-741
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  본 시험은 Windows Server 2016에서 사용할 수 있는 네트워킹 기능 및 네트워크 기능 수행 작업에 대해 중점적으로 다룹니다. 응시자는 DNS, DHCP 및 IPAM 구현 및 관리는 물론 VPN 및 RADIUS와 같은 원격 액세스 솔루션 배포에도 능숙해야 합니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
 
-  또한 응시자에게는 DFS 및 BranchCache 솔루션, 고성능 네트워크 기능, 그리고 HNV(Hyper-V 네트워크 가상화) 및 네트워크 컨트롤러와 같은 SDN(소프트웨어 방식 네트워킹) 솔루션 구현 경험도 요구됩니다.
 
-  <div style='font-weight&#58; bold;'><br/>참고&#58; 2019년 3월 13일 수요일부터 시험 업데이트의 효력이 발생합니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 Exam 741 변경 문서를 다운로드하여 검토하십시오.</div>
-subTitle: 본 시험은 Windows Server 2016에서 사용할 수 있는 네트워킹 기능 및 네트워크 기능 수행 작업에 대해 중점적으로 다룹니다. 응시자는 DNS, DHCP 및 IPAM 구현 및 관리는 물론 VPN 및 RADIUS와 같은 원격 액세스 솔루션 배포에도 능숙해야 합니다.
+  <br/>
+
+  이 시험의 후보는 Windows Server 2016 사용할 수 있는 네트워킹 기능과 관련된 작업을 수행합니다. 후보는 DNS, DHCP 및 IPAM 구현 및 관리하고 VPN 및 RADIUS와 같은 원격 액세스 솔루션을 배포하는 데 익숙해야 합니다.
+
+
+  또한 후보는 DFS 및 분기 캐시 솔루션을 관리하고, 고성능 네트워크 기능 및 기능을 구성하고, Hyper-V HNV(네트워크 가상화) 및 네트워크 컨트롤러와 같은 SDN(소프트웨어 정의 네트워킹) 솔루션을 구현한 경험이 있어야 합니다.
+
+
+  > [!IMPORTANT]
+
+  > 참고&#58; 시험 업데이트는 2019년 3월 13일부터 적용됩니다. 이러한 변경 내용과 이러한 변경 내용이 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 741 변경 문서를 다운로드하여 검토하세요.
+subTitle: 이 시험의 후보는 Windows Server 2016 사용할 수 있는 네트워킹 기능과 관련된 작업을 수행합니다. 후보는 DNS, DHCP 및 IPAM 구현 및 관리하고 VPN 및 RADIUS와 같은 원격 액세스 솔루션을 배포하는 데 익숙해야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
 practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -29,32 +44,29 @@ locales:
 levels:
 - intermediate
 skills:
-- DNS (Domain Name System) 구현(15-20%)
-- DHCP 및 IPAM 구현(25-30%)
-- 네트워크 연결 및 원격 액세스 솔루션 구현(20-25%)
-- 핵심/분산 네트워크 솔루션 구현(15-20%)
-- 고급 네트워크 인프라 구현(15-20%)
+- Implement Domain Name System (DNS) (15-20%)
+- Implement DHCP and IPAM (25-30%)
+- Implement Network Connectivity and Remote Access Solutions (20-25%)
+- Implement Core and Distributed Network Solutions (15-20%)
+- Implement an Advanced Network Infrastructure (15-20%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20741
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-2016-certification
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

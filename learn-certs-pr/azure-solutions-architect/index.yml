@@ -1,42 +1,19 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure 솔루션 아키텍트 Expert'
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Azure 솔루션 아키텍트 Expert'
-  description: Azure 솔루션 설계자는 컴퓨팅, 네트워크, 스토리지, 모니터 및 보안을 포함하여 Microsoft Azure 실행되는 클라우드 및 하이브리드 솔루션을 설계하는 데 실무 전문 지식이 있습니다.
-  ms.openlocfilehash: c85f99d44f62c9eafc292767f7315361b0ba7d22
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: Azure 솔루션 설계자는 컴퓨팅, 네트워크, 스토리지, 모니터 및 보안을 포함하여 Microsoft Azure에서 실행되는 클라우드 및 하이브리드 솔루션 설계에 대한 실무 전문 지식을 보유하고 있습니다.
+  ms.openlocfilehash: 0472a20900b658f0014ff54a9cb9129709f8d0e2
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "134680619"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655510"
 uid: certification.azure-solutions-architect
 certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
-  <div><div><strong>중요: </strong> AZ-303 시험 및 AZ-304 검사는 2022년 3월 31일에 사용이 허가됩니다. 새 시험인 <a href="/learn/certifications/exams/az-305">AZ-305 시험이</a>베타로 제공됩니다.<br/><br/><strong>이 인증을 받으려면 다음 요구 사항을 완료합니다.</strong><ul>
-
-  <li>Microsoft <a href="/learn/certifications/azure-administrator/">Certified: Azure Administrator Associate</a> 인증을 획득하고 <a href="/learn/certifications/exams/az-305">AZ-305 시험을</a> <strong>통과합니다. 또는</strong></li>
-
-  <li><a href="/learn/certifications/exams/az-303">통과 시험 AZ-303</a> 및 <a href="/learn/certifications/exams/az-304">시험 AZ-304(2022년</a> <em>3월 31일에 사용이 사용되기 전)</em> <strong>또는</strong></li>
-
-  <li><a href="/learn/certifications/exams/az-303">시험 AZ-303</a><em>(2022년 3월 31일에 중단되기 전에)</em> 및 <a href="/learn/certifications/exams/az-305">시험 AZ-305</a> 통과합니다.</li>
-
-  </ul>인증 경로에 대한 자세한 내용은 <a href="https://aka.ms/AzureSlnsArchBlog">이 블로그 게시물</a>을 참조하세요.<br/><br/></div>
-
-  <div><strong>이 인증의 내용은 2021년 11월 23일에 업데이트되었습니다. <a href="/learn/certifications/exams/az-303">AZ-303 시험 및 AZ-304</a> <a href="/learn/certifications/exams/az-304">시험</a> 페이지에서 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.</strong><br/><br/></div></div>
-
-
-  Azure 솔루션 아키텍트 Expert 인증 후보에게는 컴퓨팅, 네트워크, 스토리지, 모니터링 및 보안을 포함하여 Microsoft Azure 실행되는 클라우드 및 하이브리드 솔루션 설계에 대한 실무 전문 지식이 있어야 합니다.
-
-
-  이 역할에 대한 책임에는 이해 관계자에게 조언하고 비즈니스 요구 사항을 안전하고 확장 가능하며 신뢰할 수 있는 Azure 솔루션을 위한 디자인으로 변환하는 것이 포함됩니다.
-
-
-  Azure 솔루션 설계자는 개발자, 관리자 및 Azure에서 솔루션 구현을 담당하는 기타 역할과 파트너 관계를 맺습니다.
-
-
-  이 인증 후보에게는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼 및 거버넌스를 비롯한 IT 운영에 대한 고급 환경과 지식이 있어야 합니다. 이 역할을 담당하는 전문가는 각 영역에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 Azure 관리, Azure 개발 및 DevOps 프로세스 관련 경험이 있어야 합니다.
-subTitle: Azure 솔루션 설계자는 컴퓨팅, 네트워크, 스토리지, 모니터 및 보안을 포함하여 Microsoft Azure 실행되는 클라우드 및 하이브리드 솔루션을 설계하는 데 실무 전문 지식이 있습니다.
+summary: "> [!WARNING]\n> 시험 AZ-303 및 시험 AZ-304은 2022 년 3 월 31 일에 사용 중지 됩니다. 새 시험 [시험 AZ-305](/learn/certifications/exams/az-305)(베타)를 응시할 수 있습니다.\n\n> [!IMPORTANT]\n> 이 인증을 취득하려면 다음 요구 사항을 완료하세요.\n> - [Microsoft Certified: Azure Administrator Associate](/learn/certifications/azure-administrator/) 인증을 획득하고 [시험 AZ-305](/learn/certifications/exams/az-305)를 통과 **하거나**\n> - [시험 AZ-303](/learn/certifications/exams/az-303) 및 [시험 AZ-304](/learn/certifications/exams/az-304)*(2022년 3월 31일에 중단되기 전에)를 통과***하거나**\n> - [시험 AZ-303](/learn/certifications/exams/az-303)*(2022년 3월 31일에 중단되기 전에)* 및 [시험 AZ-305](/learn/certifications/exams/az-305) 통과합니다.\n> \n> 인증 경로에 대한 자세한 내용은 [이 블로그 게시물](https://aka.ms/AzureSlnsArchBlog)을 참조하세요.\n> \n> 이 인증의 콘텐츠는 2021 년 11 월 23 일에 업데이트 되었습니다. [시험 az-303](/learn/certifications/exams/az-303) 및 [시험 az-304](/learn/certifications/exams/az-304) 페이지에서 기술 측정 문서를 다운로드 하 여 변경 된 내용을 확인 하세요.\n\n<br/>\nAzure Solutions Architect Expert 인증 시험의 응시자는 컴퓨팅, 네트워크, 스토리지, 모니터링, 보안을 포함해 Microsoft Azure에서 실행되는 클라우드 및 하이브리드 솔루션을 설계한 실무 전문 지식을 갖추고 있어야 합니다.\n\n본 역할은 이해 관계자에게 조언하고 비즈니스 요구 사항을 안전하고 확장 가능하며 신뢰할 수 있는 Azure 솔루션 설계로 변환하는 업무를 담당합니다.\n\nAzure 솔루션 설계자는 개발자, 관리자 및 Azure에서 솔루션을 구현하는 기타 역할과 협력합니다.\n\n이 인증 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼 및 거버넌스 같은 IT 운영에 대한 고급 경험과 지식을 갖추고 있어야 합니다. 이 역할을 담당하는 전문가는 각 영역에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 Azure 관리, Azure 개발 및 DevOps 프로세스 관련 경험이 있어야 합니다."
+subTitle: Azure 솔루션 설계자는 컴퓨팅, 네트워크, 스토리지, 모니터 및 보안을 포함하여 Microsoft Azure에서 실행되는 클라우드 및 하이브리드 솔루션 설계에 대한 실무 전문 지식을 보유하고 있습니다.
 levels:
 - advanced
 skills:

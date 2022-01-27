@@ -2,30 +2,34 @@
 title: 'Microsoft Certified: Azure Network Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Network Engineer Associate'
-  description: 이 인증은 2021년 7월에 제공됩니다. Azure 네트워크 엔지니어 연결 인증 후보에게는 하이브리드 네트워킹, 연결, 라우팅, 보안 및 Azure 서비스에 대한 프라이빗 액세스를 비롯한 Azure 네트워킹 솔루션 계획, 구현 및 유지 관리와 관련된 실무 전문 지식이 있어야 합니다.
-  ms.openlocfilehash: 576c41ec7734312a4b1b7198e7a2fd2d69f939f6
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  description: 이 인증은 2021년 7월에 제공됩니다. Azure Network Engineer Associate 인증의 응시자는 하이브리드 네트워킹, 연결, 라우팅, 보안, Azure 서비스에 대한 프라이빗 액세스를 포함하여 Azure 네트워킹 솔루션의 계획, 구현, 유지 관리에 대한 실무 전문 지식을 갖추고 있어야 합니다.
+  ms.openlocfilehash: e151456e776e553ca19fd3bf51b82921aec002c4
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133028327"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655697"
 uid: certification.azure-network-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 내용은 2021년 11월 23일에 업데이트되었습니다. <a href="/learn/certifications/exams/az-700">AZ-700 시험 페이지에서</a> 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
+
+  > 이 인증의 내용은 2021년 11월 23일에 업데이트되었습니다. [AZ-700 시험 페이지에서](/learn/certifications/exams/az-700) 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
 
 
-  Azure 네트워크 엔지니어 연결 인증 후보에게는 하이브리드 네트워킹, 연결, 라우팅, 보안 및 Azure 서비스에 대한 프라이빗 액세스를 비롯한 Azure 네트워킹 솔루션 계획, 구현 및 유지 관리와 관련된 실무 전문 지식이 있어야 합니다.
+  <br/>
+
+  Azure Network Engineer Associate 인증의 응시자는 하이브리드 네트워킹, 연결, 라우팅, 보안, Azure 서비스에 대한 프라이빗 액세스를 포함하여 Azure 네트워킹 솔루션의 계획, 구현, 유지 관리에 대한 실무 전문 지식을 갖추고 있어야 합니다.
 
 
-  이 역할에 대한 책임에는 Azure 네트워킹 솔루션 권장, 계획 및 구현이 포함됩니다. 이 역할의 전문가는 성능, 복원력, 규모 및 보안을 위한 솔루션을 관리합니다. Azure Portal 및 PowerShell, Azure CLI(Command-Line Interface) 및 ARM 템플릿(Azure Resource Manager 템플릿)을 비롯한 기타 방법을 사용하여 네트워킹 솔루션을 배포합니다.
+  이 역할의 책임에는 Azure 네트워킹 솔루션 추천, 계획, 구현이 포함됩니다. 이 역할의 전문가는 성능, 복원력, 스케일링, 보안을 위한 솔루션을 관리합니다. Azure Portal과 PowerShell, Azure 명령줄 인터페이스(Azure CLI), ARM 템플릿(Azure Resource Manager 템플릿)을 포함한 다른 방법을 사용하여 네트워킹 솔루션을 배포합니다.
 
 
-  Azure 네트워크 엔지니어는 솔루션 설계자, 클라우드 관리자, 보안 엔지니어, 애플리케이션 개발자 및 DevOps 엔지니어와 협력하여 Azure 솔루션을 제공합니다.
+  Azure 네트워크 엔지니어는 솔루션 설계자, 클라우드 관리자, 보안 엔지니어, 애플리케이션 개발자, DevOps 엔지니어와 협업하여 Azure 솔루션을 제공합니다.
 
 
-  이 인증 후보에게는 네트워킹, 하이브리드 연결 및 네트워크 보안에 대한 광범위한 경험 및 지식 외에도 전문 Azure 관리 기술이 있어야 합니다.
-subTitle: Azure 네트워크 엔지니어 연결 인증 후보에게는 하이브리드 네트워킹, 연결, 라우팅, 보안 및 Azure 서비스에 대한 프라이빗 액세스를 비롯한 Azure 네트워킹 솔루션 계획, 구현 및 유지 관리와 관련된 실무 전문 지식이 있어야 합니다.
+  이 인증의 응시자는 네트워킹, 하이브리드 연결, 네트워크 보안에 대한 광범위한 경험 및 지식뿐만 아니라 전문적인 Azure 관리 기술을 보유하고 있어야 합니다.
+subTitle: Azure Network Engineer Associate 인증의 응시자는 하이브리드 네트워킹, 연결, 라우팅, 보안, Azure 서비스에 대한 프라이빗 액세스를 포함하여 Azure 네트워킹 솔루션의 계획, 구현, 유지 관리에 대한 실무 전문 지식을 갖추고 있어야 합니다.
 levels:
 - intermediate
 skills:

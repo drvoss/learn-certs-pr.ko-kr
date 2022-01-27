@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Implementing a Data Warehouse using SQL
 metadata:
-  title: 'Exam 70-767: Implementing a Data Warehouse using SQL'
-  description: 'Exam 70-767: Implementing a Data Warehouse using SQL'
+  title: '시험 70-767: SQL을 사용 하 여 데이터 웨어하우스 구현'
+  description: '시험 70-767: SQL을 사용 하 여 데이터 웨어하우스 구현'
+  ms.openlocfilehash: d5e9abe59f32faf8d0704e1037e305a6e2ac3174
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656687"
 uid: exam.70-767
 displayName: 70-767
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  이 시험은 BI(Business Intelligence) 솔루션을 만드는 ETL(데이터 추출, 변환 및 로드) 및 데이터 웨어하우스 개발자를 대상으로 합니다. 이러한 개발자들의 업무에는 ETL과 데이터 웨어하우스를 구현하는 것 외에 데이터 정리도 포함되어 있습니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
 
-  <div style='font-weight&#58; bold;'><br/>2017년 3월에 시험이 업데이트되었습니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 exam 70-767 변경 문서를 다운로드하여 검토하십시오.</div>
-subTitle: 이 시험은 BI(Business Intelligence) 솔루션을 만드는 ETL(데이터 추출, 변환 및 로드) 및 데이터 웨어하우스 개발자를 대상으로 합니다. 이러한 개발자들의 업무에는 ETL과 데이터 웨어하우스를 구현하는 것 외에 데이터 정리도 포함되어 있습니다.
+
+  <br/>
+
+  이 시험은 BI (비즈니스 인텔리전스) 솔루션을 만드는 ETL (추출, 변환 및 로드) 및 데이터 웨어하우스 개발자를 위한 것입니다. 이러한 업무에는 ETL 및 데이터 웨어하우스 구현 뿐만 아니라 데이터 정리도 포함 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 3 월 2017을 기준으로이 시험이 업데이트 되었습니다. 이러한 변경 내용과 이러한 변경 사항이 측정 된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 70-767 변경 문서를 다운로드 하 여 검토 하세요.
+subTitle: 이 시험은 BI (비즈니스 인텔리전스) 솔루션을 만드는 ETL (추출, 변환 및 로드) 및 데이터 웨어하우스 개발자를 위한 것입니다. 이러한 업무에는 ETL 및 데이터 웨어하우스 구현 뿐만 아니라 데이터 정리도 포함 됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
 practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
@@ -20,16 +34,14 @@ locales:
 levels:
 - advanced
 skills:
-- 데이터 웨어하우스 설계, 구현, 유지(35-40%)
-- 데이터 추출, 변환 및 로드(40-45%)
-- 데이터 품질 솔루션 작성(15-20%)
+- Design, implement, and maintain a data warehouse (35-40%)
+- Extract, transform, and load data (40-45%)
+- Build data quality solutions (15-20%)
 retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:
 - sql-server
-courses:
-- uid: course.20767
 relatedCertifications:
 - related:
     uid: certification.mcsa-sql2016-business-intelligence-certification
@@ -37,15 +49,14 @@ relatedCertifications:
     uid: certification.mcse-data-management-analytics
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

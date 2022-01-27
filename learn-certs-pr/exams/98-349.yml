@@ -1,17 +1,29 @@
 ### YamlMime:Examination
 title: Windows Operating System Fundamentals
 metadata:
-  title: 'Exam 98-349: Windows Operating System Fundamentals'
-  description: 'Exam 98-349: Windows Operating System Fundamentals'
+  title: '시험 98-349: 운영 체제 기본 사항 Windows'
+  description: '시험 98-349: 운영 체제 기본 사항 Windows'
+  ms.openlocfilehash: 6a34e1f0dc159bc1c6aad669dfdbde2051c4e4e5
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656027"
 uid: exam.98-349
 displayName: 98-349
-summary: |-
-  <div><font color='red'><strong>임 MTA 시험은 2022년 6월 30일 중단됩니다. 이 시험의 바우처 판매는 2021년 6월 31일에 종료되었습니다. 아래 “시험 예약” 버튼을 사용하여 구입한 바우처를 확인하고 시험 일정을 잡습니다. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs"> FAQ</a>를 참조하십시오.</strong></font></br></br></div>
-    
-  이 시험의 응시자는 Windows 10 환경에서 실행되는 Windows 운영 체제의 기본 개념에 대한 지식이 있어야 합니다.
+summary: >-
+  > [!WARNING]
 
-  <div style='font-weight&#58; bold;'><br/>2016년 8월 31일부터는 시험 범위에 Windows 10에서 지원되지 않는 도구를 제거한 Windows 10 관련 업데이트가 포함됩니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 exam 98-349 변경 문서를 다운로드하여 검토하십시오.</div>
-subTitle: 이 시험의 응시자는 Windows 10 환경에서 실행되는 Windows 운영 체제의 기본 개념에 대한 지식이 있어야 합니다.
+  > 이 MTA 검사는 2022년 6월 30일에 사용 중지됩니다. 이 시험의 상품권 판매는 2021년 6월 30일에 종료되었습니다. 아래의 "시험 예약" 단추를 사용하여 구매한 상품권을 교환하고 시험을 예약합니다. 자세한 내용은 [FAQ를](/learn/certifications/mta-retirement-faqs) 참조하세요.
+
+
+  <br/>
+
+  이 시험의 후보는 Windows 10 환경의 기본적인 Windows 운영 체제 개념에 대해 알고 있어야 합니다.
+
+
+  **2016년 8월 31일부터 이 시험에서는 Windows 10 지원되지 않는 도구를 제거하는 등 Windows 10 대한 업데이트가 포함되어 있습니다. 이러한 변경 내용과 이러한 변경 내용이 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 98-349 변경 문서를 다운로드하여 검토하세요.**
+subTitle: 이 시험의 후보는 Windows 10 환경의 기본적인 Windows 운영 체제 개념에 대해 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
 providers:
@@ -33,12 +45,12 @@ locales:
 levels:
 - beginner
 skills:
-- 운영 체제 구성 이해(15–20%)
-- 클라이언트 시스템 설치 및 업그레이드(15–20%)
-- 응용 프로그램 관리(15-20%)
-- 파일 및 폴더 관리(15–20%)
-- 장치 관리(15-20%)
-- 운영 체제 유지 관리 이해(15–20%)
+- Understanding operating system configurations (15–20%)
+- Installing and upgrading client systems (15–20%)
+- Managing applications (15–20%)
+- Managing files and folders (15–20%)
+- Managing devices (15–20%)
+- Understanding operating system maintenance (15–20%)
 retirementDate: 06/30/2022
 roles:
 - administrator
@@ -52,12 +64,11 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

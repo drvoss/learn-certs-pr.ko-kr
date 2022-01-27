@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant As
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate 갱신'
   description: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우, 갱신할 수 있습니다.
-  ms.openlocfilehash: 4012ee5ecea1c32fa3010468c4422ccd617f05fb
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 71b557d1a0532179bc99d4432da8a1769f30abbd
+  ms.sourcegitcommit: 0015272030a30c51625eafb4d0183835700c8c82
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132106856"
+  ms.lasthandoff: 01/18/2022
+  ms.locfileid: "136903041"
 uid: renewal.d365-functional-consultant-field-service
 certificationUid: certification.d365-functional-consultant-field-service
 assessmentId: 8ae55969-c279-47f9-83f7-2c75be7c57be
@@ -18,10 +18,14 @@ summary: 이 인증을 보유하고 있고 6개월 이내에 만료되는 경우
 skills:
 - Configure bookable resources in Dynamics 365 Field Service
 - Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service
+- Incident types in Dynamics 365 Field Service
+- Inspections in Dynamics 365 Field Service
 - Customize the schedule board in Dynamics 365 Field Service
-- Deploying Resource Scheduling Optimization
-- Get started with Microsoft Dynamics 365 Field Service Mobile
-- Get started with Connected Field Service for Dynamics 365 and Azure IoT
+- Get started with the Dynamics 365 Field Service Mobile application
+- Customize and configure the Dynamics 365 Field Service Mobile application
+- Examine the inventory management capabilities of Dynamics 365 Field Service
+- Set up Field Service to create work orders from IoT data
+- Customer assets in Dynamics 365 Field Service
 examsPassed:
 - pl-200, mb-240
 studyGuideDescription: '이 학습 모듈 컬렉션을 사용하면 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate 갱신 평가를 준비하는 데 도움이 됩니다.'

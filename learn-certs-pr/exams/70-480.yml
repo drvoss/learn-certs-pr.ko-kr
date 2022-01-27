@@ -1,27 +1,50 @@
 ### YamlMime:Examination
 title: Programming in HTML5 with JavaScript and CSS3
 metadata:
-  title: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
-  description: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+  title: '시험 70-480: JavaScript 및 CSS3를 사용하여 HTML5로 프로그래밍'
+  description: '시험 70-480: JavaScript 및 CSS3를 사용하여 HTML5로 프로그래밍'
+  ms.openlocfilehash: f13a27e45f77cb922dc3d50c4bae25e54cf05268
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656698"
 uid: exam.70-480
 displayName: 70-480
-summary: |+
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >
+  > [!IMPORTANT]
 
-  본 시험은 최소 1년 이상 JavaScript를 사용하여 객체 기반의 이벤트 중심 프로그래밍 모델에서 HTML로 개발한 경험과, 다양한 응용 프로그램 유형, 하드웨어 및 소프트웨어 플랫폼에 필수적인 비즈니스 논리를 프로그래밍한 경험이 있는 개발자를 대상으로 실시됩니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
 
-  응시자는 또한 다음을 잘 이해하고 있어야 합니다&#58;
+
+  <br/>
+
+  이 시험의 후보는 개체 기반 프로그래밍 모델에서 HTML을 사용 하 여 개발 하는 1 년 이상의 경험을 갖춘 개발자 이며 JavaScript를 사용 하 여 다양 한 응용 프로그램 유형, 하드웨어 및 소프트웨어 플랫폼에 대 한 필수 비즈니스 논리를 프로그래밍 합니다.
+
+
+  또한 다음에 대해 자세히 알고 있어야 합니다&#58;
+
   - 프로그램 흐름 및 이벤트 관리
-  - 비동기 프로그래밍
-  - 데이터 유효성 검사 및 JQuery를 포함한 데이터 수집 작업
-  - 오류 및 예외 처리
-  - 배열 및 컬렉션
-  - 변수, 연산자 및 표현식 작업
-  - 프로토타입과 메서드로 작업하기
-  - 결정 및 반복문
 
-  <div style='font-weight&#58; bold;'><br/>참고&#58; 2017년 12월 14일 금요일부터 시험 업데이트의 효력이 발생합니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 Exam 480 변경 문서를 다운로드하여 검토하십시오.</div>
-subTitle: 본 시험은 최소 1년 이상 JavaScript를 사용하여 객체 기반의 이벤트 중심 프로그래밍 모델에서 HTML로 개발한 경험과, 다양한 응용 프로그램 유형, 하드웨어 및 소프트웨어 플랫폼에 필수적인 비즈니스 논리를 프로그래밍한 경험이 있는 개발자를 대상으로 실시됩니다.
+  - 비동기 프로그래밍
+
+  - 데이터 유효성 검사 및 JQuery를 비롯 한 데이터 컬렉션 작업
+
+  - 오류 및 예외 처리
+
+  - 배열 및 컬렉션
+
+  - 변수, 연산자 및 식 작업
+
+  - 프로토타입 및 메서드 사용
+
+  - 의사 결정 및 반복 문
+
+
+  > [!IMPORTANT]
+
+  > 2017 년 12 월 14 일에 적용 되는 시험 업데이트는&#58; 합니다. 이러한 변경 내용과 이러한 변경 사항이 측정 된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 480 변경 문서를 다운로드 하 여 검토 하세요.
+subTitle: 이 시험의 후보는 개체 기반 프로그래밍 모델에서 HTML을 사용 하 여 개발 하는 1 년 이상의 경험을 갖춘 개발자 이며 JavaScript를 사용 하 여 다양 한 응용 프로그램 유형, 하드웨어 및 소프트웨어 플랫폼에 대 한 필수 비즈니스 논리를 프로그래밍 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
 practiceTestUrl: https://www.mindhub.com/Programming-in-HTML5-with-JavaScript-and-CSS3-p/mu-70-480_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -36,31 +59,28 @@ locales:
 levels:
 - intermediate
 skills:
-- 문서 구조와 개체 구현 및 조작 (20-25%)
-- 프로그램 흐름 구현(25-30%)
-- 데이터 액세스 및 보안 (25-30%)
-- 앱에서 CSS3 사용 (25-30%)
+- Implement and Manipulate Document Structures and Objects (20-25%)
+- Implement Program Flow (25-30%)
+- Access and Secure Data (25-30%)
+- Use CSS3 in Applications (25-30%)
 retirementDate: 01/31/2021
 roles:
 - developer
 products:
 - azure
-courses:
-- uid: course.20480
 relatedCertifications:
 - related:
     uid: certification.mcsa-web-applications-certification
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

@@ -3,12 +3,12 @@ title: Microsoft Azure AI Fundamentals
 metadata:
   title: '과정 AI-900T00-A: Microsoft Azure AI Fundamentals'
   description: '과정 AI-900T00-A: Microsoft Azure AI Fundamentals'
-  ms.openlocfilehash: deeaa6fa68f2c568de270888ac8740848d11a56b
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 5ef94915d9061110c3e73bf5b646f680f68643d6
+  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107725"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136970870"
 uid: course.ai-900t00
 courseNumber: AI-900T00-A
 hoursToComplete: 24
@@ -57,6 +57,21 @@ products:
 - azure-translator-text
 exams:
 - uid: exam.ai-900
+studyGuide:
+- uid: learn.wwl.get-started-ai-fundamentals
+- uid: learn.wwl.use-automated-machine-learning
+- uid: learn.wwl.create-regression-model-azure-machine-learning-designer
+- uid: learn.wwl.analyze-images-computer-vision
+- uid: learn.wwl.classify-images-custom-vision
+- uid: learn.wwl.detect-objects-images-custom-vision
+- uid: learn.wwl.detect-analyze-faces
+- uid: learn.wwl.read-text-computer-vision
+- uid: learn.wwl.analyze-receipts-form-recognizer
+- uid: learn.wwl.analyze-text-with-text-analytics-service
+- uid: learn.wwl.recognize-synthesize-speech
+- uid: learn.wwl.translate-text-with-translation-service
+- uid: learn.wwl.create-language-model-with-luis
+- uid: learn.wwl.build-faq-chatbot-qna-maker-azure-bot-service
 summary: >-
   본 과정에서는 인공 지능(AI)과 관련된 기본 개념과 AI 솔루션을 만드는 데 활용할 수 있는 Microsoft Azure의 서비스를 소개합니다. 본 과정은 전문 데이터 과학자나 소프트웨어 개발자가 되려는 학생들을 위한 것이 아니라 일반적인 AI 워크로드에 대한 인식과 이를 지원할 Azure 서비스를 식별할 수 있는 능력을 키우기 위한 것입니다. 이 과정은 강사 진행 교육과 Microsoft Learn 플랫폼(https://azure.com/learn))의 온라인 자료를 결합한 혼합 학습 환경으로 고안되었습니다. 본 과정의 실습 연습은 Learn 모듈을 기반으로 하며, 학습 내용을 참고 자료로 사용하여 수업에서 배운 내용을 보강하고 주제를 보다 심층적으로 탐구할 것을 권장합니다.
 

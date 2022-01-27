@@ -3,31 +3,15 @@ title: Implementing an Azure Data Solution
 metadata:
   title: '시험 DP-200: Implementing an Azure Data Solution'
   description: '시험 DP-200: Implementing an Azure Data Solution'
-  ms.openlocfilehash: b9ad8cacd62dfef84f96484b1fa1c140fbbc7fc9
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: be236988bdfc96af9a18f6a567e1407832a74961
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105864"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657897"
 uid: exam.dp-200
 displayName: DP-200
-summary: >-
-  <div>
-
-  <div><font color='red'><strong>이 시험은 2021년 8월 31일에 폐지되었습니다. 대체 시험인 DP-203에 응시할 수 있습니다. 자세한 내용은 <a href='/learn/certifications/exams/dp-203'>DP-203</a> 시험 세부 정보 페이지를 참조하세요.</strong></font><br/><br/></div>
-
-  <div><strong>이 시험의 내용은 2020년 11월 24일에 업데이트되었습니다. 변경 사항을 확인하려면 아래에서 측정된 기술 문서를 다운로드하세요.</strong><br/><br/></div>
-
-  </div>
-
-
-  본 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 구현하기 위해 필요한 데이터 요구사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
-
-
-  Azure 데이터 엔지니어는 데이터 저장소 서비스 프로비저닝, 스트리밍 및 일괄 작업 데이터 수집, 데이터 변환, 보안 요구 사항 구현, 데이터 보존 정책 구현, 성능 병목 현상 확인, 외부 데이터 소스 액세스 등의 데이터 관련 구현 과제들을 담당합니다.
-
-
-  이 시험의 응시자는 Azure Cosmos DB, Azure Synapse Analytics(이전의 Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks, Azure Blob Storage와 같은 Azure 서비스를 사용하는 데이터 솔루션을 구현할 수 있어야 합니다.
+summary: "> [!IMPORTANT]\n> 이 시험은 2021년 8월 31일에 사용 중지되었습니다. 교체 시험인 DP-203을 사용할 수 있습니다. 자세한 내용은 [DP-203](/learn/certifications/exams/dp-203), 시험 세부 정보 페이지를 방문하세요.\n> \n> 이 시험의 내용은 2020년 11월 24일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n\n본 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 구현하기 위해 필요한 데이터 요구사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.\n\nAzure 데이터 엔지니어는 데이터 저장소 서비스 프로비저닝, 스트리밍 및 일괄 작업 데이터 수집, 데이터 변환, 보안 요구 사항 구현, 데이터 보존 정책 구현, 성능 병목 현상 확인, 외부 데이터 소스 액세스 등의 데이터 관련 구현 과제들을 담당합니다.\n\n이 시험의 응시자는 Azure Cosmos DB, Azure Synapse Analytics(이전의 Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks, Azure Blob Storage와 같은 Azure 서비스를 사용하는 데이터 솔루션을 구현할 수 있어야 합니다."
 subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: 데이터 저장소 솔루션 구현; 데이터 처리 관리 및 개발, 데이터 솔루션 모니터링 및 최적화.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2

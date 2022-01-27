@@ -3,20 +3,18 @@ title: Microsoft Dynamics 365 Fundamentals
 metadata:
   title: '시험 MB-901: Microsoft Dynamics 365 Fundamentals'
   description: '시험 MB-901: Microsoft Dynamics 365 Fundamentals'
-  ms.openlocfilehash: 2f15dd98ac37d11950cf0b9381283ef0edd19e70
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 1d2240ac7443e08be93bcaa7f90f260d56989806
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132112682"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658590"
 uid: exam.mb-901
 displayName: MB-901
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><font color="red"><strong>이 시험은 2021년 6월 30일에 종료됩니다. 2개의 대체 시험인 MB-910 및 MB-920을 이용할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/mb-910">MB-910</a> 및 <a href="/learn/certifications/exams/mb-920">MB-920</a> 시험 세부 정보 페이지를 참조하세요.</strong></font><br/><br/></div>
-
-  </div>
+  > 이 시험은 2021년 6월 30일에 사용 중지되었습니다. MB-910 및 MB-920의 두 가지 교체 시험이 제공됩니다. 자세한 내용은 [MB-910](/learn/certifications/exams/mb-910) 및 [MB-920](/learn/certifications/exams/mb-920) 시험 세부 정보 페이지를 방문하세요.
 
 
   본 시험에서는 Dynamics 365 도입의 포지셔닝 및 이점을 다룹니다.

@@ -3,20 +3,18 @@ title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
   title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
   description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  ms.openlocfilehash: 539fff15371e2249b4969cc9b7ba938a52d6169c
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: d8ce204787977da8ddf7d11b5b7ecd728f1ed0e4
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105848"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657116"
 uid: exam.mb-200
 displayName: MB-200
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 2020년 12월 31일에 폐지되었습니다. 대체 시험인 PL-200에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/pl-200">PL-200 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
-
-  </div>
+  > 이 시험은 2020 년 12 월 31 일에 사용이 중지 되었습니다. PL-200 대체 시험을 사용할 수 있습니다. 자세한 내용은 [PL-200 시험 세부 정보 페이지](/learn/certifications/exams/pl-200)를 참조 하세요.
 
 
   본 시험은 기업용 라이센스 제품의 기능에 액세스할 수 있는 기능 컨설턴트를 대상 응시자로 합니다. 기능 컨설턴트로서, 응시자는 기본 번들 제품에서는 기능하지 않는 번들 버전의 기능을 잘 파악하고 있어야 합니다.

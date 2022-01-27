@@ -1,23 +1,35 @@
 ### YamlMime:Examination
 title: Introduction to Programming Using HTML and CSS
 metadata:
-  title: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
-  description: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+  title: '시험 98-383: HTML 및 CSS를 사용한 프로그래밍 소개'
+  description: '시험 98-383: HTML 및 CSS를 사용한 프로그래밍 소개'
+  ms.openlocfilehash: 2bd0d90fa91dcea588931bd506548c38ee35933d
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658843"
 uid: exam.98-383
 displayName: 98-383
-summary: |-
-  <div><font color='red'><strong>이 MTA 시험은 2022년 6월 30일 중단됩니다. 바우처 판매는 2021년 6월 30일에 종료되었습니다. 아래 "Pearson VUE으로 예약” 또는 “Certiport으로 예약” 버튼을 사용하여 구입한 바우처를 확인하고 시험을 예약합니다. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs"> FAQ</a>를 참조하십시오.</strong></font></br></br></div>
+summary: >-
+  > [!WARNING]
 
-  이 시험의 응시자는 구문론적으로 올바른 HTML 및 CSS를 인식하고 작성하고, HTML 요소를 사용하여 데이터를 구조화하며 CSS를 사용한 스타일을 만들고 적용 할 수 있어야 합니다.
+  > 이 MTA 검사는 2022년 6월 30일에 사용 중지됩니다. 이 시험의 상품권 판매는 2021년 6월 30일에 종료되었습니다. 아래의 "시험 예약" 단추를 사용하여 구매한 상품권을 교환하고 시험을 예약합니다. 자세한 내용은 [FAQ를](/learn/certifications/mta-retirement-faqs) 참조하세요.
 
-  응시자는 HTML 및 CSS에 대한 100시간 이상의 교육이나 실습 경험이 있어야 하고, 해당 기능을 숙지해야하며 올바른 형식의 HTML 및 CSS 코드를 작성, 디버그 및 유지 관리하는 방법을 알아야 합니다.
-subTitle: 이 시험의 응시자는 구문론적으로 올바른 HTML 및 CSS를 인식하고 작성하고, HTML 요소를 사용하여 데이터를 구조화하며 CSS를 사용한 스타일을 만들고 적용 할 수 있어야 합니다.
+
+  <br/>
+
+  이 시험의 후보는 구문상 올바른 HTML 및 CSS를 인식 및 작성하고, HTML 요소를 사용하여 데이터를 구조화하고, CSS를 사용하여 스타일을 만들고 적용할 수 있어야 합니다.
+
+
+  후보는 HTML 및 CSS를 사용하여 100시간 이상의 교육 또는 실습 경험을 갖추어야 하며, 해당 기능과 기능을 잘 알고 있으며, 잘 구성된 HTML 및 CSS 코드를 작성, 디버그 및 유지 관리하는 방법을 이해해야 합니다.
+subTitle: 이 시험의 후보는 구문상 올바른 HTML 및 CSS를 인식 및 작성하고, HTML 요소를 사용하여 데이터를 구조화하고, CSS를 사용하여 스타일을 만들고 적용할 수 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
 practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:
@@ -33,11 +45,11 @@ locales:
 levels:
 - beginner
 skills:
-- HTML 기초 이해 (10–15%)
-- CSS 기초 이해 (15-20%)
-- HTML을 사용하는 문서 구조 작성 (30-35%)
-- HTML을 사용한 멀티미디어 표시 (10-15%)
-- CSS를 사용하는 웹 페이지 스타일링 (20-25%)
+- Understand HTML Fundamentals (10-15%)
+- Understand CSS Fundamentals (15-20%)
+- Structure Documents Using HTML (30-35%)
+- Present Multimedia Using HTML (10-15%)
+- Style Web Pages Using CSS (20-25%)
 retirementDate: 06/30/2022
 roles:
 - developer
@@ -51,12 +63,11 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

@@ -1,15 +1,26 @@
 ### YamlMime:Examination
 title: Developing SQL Data Models
 metadata:
-  title: 'Exam 70-768: Developing SQL Data Models'
-  description: 'Exam 70-768: Developing SQL Data Models'
+  title: '시험 70-768: SQL 데이터 모델 개발'
+  description: '시험 70-768: SQL 데이터 모델 개발'
+  ms.openlocfilehash: 1bf64933dcf9f9358457d266f7d154c926095634
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137654777"
 uid: exam.70-768
 displayName: 70-768
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  이 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 테이블 형식 데이터 모델 구현을 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(Business Intelligence) 개발자를 대상으로 합니다.
-subTitle: 이 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 테이블 형식 데이터 모델 구현을 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(Business Intelligence) 개발자를 대상으로 합니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
+
+
+  <br/>
+
+  이 시험은 다차원 데이터 모델을 구현 하 고, OLAP 큐브를 구현 및 유지 관리 하 고, 테이블 형식 데이터 모델을 구현 해야 하는 BI 솔루션을 만드는 데 중점을 둔 BI (비즈니스 인텔리전스) 개발자를 대상으로 합니다
+subTitle: 이 시험은 다차원 데이터 모델을 구현 하 고, OLAP 큐브를 구현 및 유지 관리 하 고, 테이블 형식 데이터 모델을 구현 해야 하는 BI 솔루션을 만드는 데 중점을 둔 BI (비즈니스 인텔리전스) 개발자를 대상으로 합니다
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
 practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -18,17 +29,15 @@ locales:
 levels:
 - intermediate
 skills:
-- 다차원 BI(Business Intelligence) 의미 체계 모델 설계(25-30%)
-- 테이블 형식 BI 의미 체계 모델 설계(20-25%)
-- MDX(Multidimensional Expressions)와 DAX(데이터 분석 식)를 사용한 쿼리 개발(15-20%)
-- SQL Server Analysis Services(SSAS) 구성 및 유지 관리(30-35%)
+- Design a multidimensional business intelligence (BI) semantic model (25-30%)
+- Design a tabular BI semantic model (20-25%)
+- Develop queries using Multidimensional Expressions (MDX) and Data Analysis Expressions (DAX) (15-20%)
+- Configure and maintain SQL Server Analysis Services (SSAS) (30-35%)
 retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:
 - sql-server
-courses:
-- uid: course.20768
 relatedCertifications:
 - related:
     uid: certification.mcsa-sql2016-business-intelligence-certification
@@ -36,15 +45,14 @@ relatedCertifications:
     uid: certification.mcse-data-management-analytics
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

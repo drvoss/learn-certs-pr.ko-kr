@@ -3,12 +3,12 @@ title: Developing Solutions for Microsoft Azure
 metadata:
   title: '과정 AZ-204T00--A: Developing Solutions for Microsoft Azure'
   description: '과정 AZ-204T00--A: Developing Solutions for Microsoft Azure'
-  ms.openlocfilehash: 85e3bb7e169f20611bd3fbec979b223ff8de9c6a
-  ms.sourcegitcommit: c14c3a1e24239ac3e56e978ed347f6d7d24e48d3
+  ms.openlocfilehash: 4b0ca86bc11137e5d2c3e4ad1ce482448be79c18
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/20/2021
-  ms.locfileid: "135417244"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136954863"
 uid: course.az-204t00
 courseNumber: AZ-204T00
 hoursToComplete: 120
@@ -24,6 +24,19 @@ products:
 - azure
 exams:
 - uid: exam.az-204
+studyGuide:
+- uid: learn.wwl.create-azure-app-service-web-apps
+- uid: learn.wwl.implement-azure-functions
+- uid: learn.wwl.develop-solutions-that-use-blob-storage
+- uid: learn.wwl.az-204-develop-solutions-that-use-azure-cosmos-db
+- uid: learn.wwl.az-204-implement-iaas-solutions
+- uid: learn.wwl.az-204-implement-authentication-authorization
+- uid: learn.wwl.az-204-implement-secure-cloud-solutions
+- uid: learn.wwl.az-204-implement-api-management
+- uid: learn.wwl.az-204-develop-event-based-solutions
+- uid: learn.wwl.az-204-develop-message-based-solutions
+- uid: learn.wwl.az-204-instrument-solutions-to-support-monitoring-logging
+- uid: learn.wwl.az-204-integrate-caching-content-delivery-within-solutions
 summary: >-
   본 과정에서는 개발자에게 Microsoft Azure의 엔드투엔드 솔루션 생성 방법을 알려줍니다. 학생들은 Azure 컴퓨팅 솔루션 구현, Azure Functions 생성, 웹 앱 구현 및 관리, Azure Storage 활용 솔루션 개발, 인증 및 권한 부여 구현, 및 KeyValut 및 관리 ID를 사용한 솔루션 보안 방법을 학습합니다. 학생들은 Azure 서비스 및 타사 서비스에 연결 및 사용, 이벤트와 메시지 기반 모델을 솔루션에 포함시키는 방법도 학습합니다. 본 과정에서는 Azure 솔루션 모니터링, 문제 해결 및 최적화를 다룹니다.
 

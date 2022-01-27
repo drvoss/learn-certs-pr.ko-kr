@@ -1,15 +1,26 @@
 ### YamlMime:Examination
-title: Analyzing and Visualizing Data with Microsoft Power BI
+title: Microsoft Power BI 사용하여 데이터 분석 및 시각화
 metadata:
-  title: 'Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI'
-  description: 'Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI'
+  title: '시험 70-778: Microsoft Power BI 사용하여 데이터 분석 및 시각화'
+  description: '시험 70-778: Microsoft Power BI 사용하여 데이터 분석 및 시각화'
+  ms.openlocfilehash: 893546581ffc1a3a0f7ad6e05bb9d3edcb47a416
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658755"
 uid: exam.70-778
 displayName: 70-778
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  이 시험의 응시자는 Power BI를 사용하여 데이터 분석을 수행하는 방법을 잘 알고 있어야 합니다. 응시자는 데이터 소스에 연결하고 데이터 변환을 수행하고, Microsoft Power BI Desktop을 사용하여 데이터를 모델링하고 시각화하며, Power BI 서비스를 사용하여 대시 보드를 구성하는 데 능숙해야 합니다. 응시자는 Microsoft SQL Azure 및 SQL Server Analysis Services (SSAS)에 직접 연결을 수행하고 Microsoft Excel에서 데이터 분석을 구현하는 데 능숙해야 합니다. 응시자는 BI 전문가, 데이터 분석가 및 Power BI를 사용하여 보고서를 생성할 책임이 있는 기타 담당자들을 포함할 수 있습니다.
-subTitle: 이 시험의 응시자는 Power BI를 사용하여 데이터 분석을 수행하는 방법을 잘 알고 있어야 합니다. 응시자는 데이터 소스에 연결하고 데이터 변환을 수행하고, Microsoft Power BI Desktop을 사용하여 데이터를 모델링하고 시각화하며, Power BI 서비스를 사용하여 대시 보드를 구성하는 데 능숙해야 합니다. 응시자는 Microsoft SQL Azure 및 SQL Server Analysis Services (SSAS)에 직접 연결을 수행하고 Microsoft Excel에서 데이터 분석을 구현하는 데 능숙해야 합니다. 응시자는 BI 전문가, 데이터 분석가 및 Power BI를 사용하여 보고서를 생성할 책임이 있는 기타 담당자들을 포함할 수 있습니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
+
+
+  <br/>
+
+  이 시험의 후보는 Power BI 사용하여 데이터 분석을 수행하는 방법을 잘 이해해야 합니다. 후보는 데이터 원본에 연결하고 데이터 변환을 수행하고, Microsoft Power BI Desktop 사용하여 데이터를 모델링 및 시각화하고, Power BI 서비스를 사용하여 대시보드를 구성하는 데 능숙해야 합니다. 또한 후보는 Microsoft SSAS(SQL Azure 및 SQL Server Analysis Services)에 대한 직접 연결을 구현하고 Microsoft Excel 데이터 분석을 구현하는 데 능숙해야 합니다. 후보는 BI 전문가, 데이터 분석가 및 Power BI 사용하여 보고서를 만드는 기타 역할을 포함할 수 있습니다.
+subTitle: 이 시험의 후보는 Power BI 사용하여 데이터 분석을 수행하는 방법을 잘 이해해야 합니다. 후보는 데이터 원본에 연결하고 데이터 변환을 수행하고, Microsoft Power BI Desktop 사용하여 데이터를 모델링 및 시각화하고, Power BI 서비스를 사용하여 대시보드를 구성하는 데 능숙해야 합니다. 또한 후보는 Microsoft SSAS(SQL Azure 및 SQL Server Analysis Services)에 대한 직접 연결을 구현하고 Microsoft Excel 데이터 분석을 구현하는 데 능숙해야 합니다. 후보는 BI 전문가, 데이터 분석가 및 Power BI 사용하여 보고서를 만드는 기타 역할을 포함할 수 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
 locales:
@@ -17,30 +28,27 @@ locales:
 levels:
 - intermediate
 skills:
-- Power BI Desktop을 사용한 데이터 소비 및 변환 (20-25%)
-- 데이터 모델링 및 시각화 (45-50%)
-- Power BI 서비스에서 대시보드, 보고서 및 앱 구성 (25-35%)
+- Consuming and Transforming Data By Using Power BI Desktop (20-25%)
+- Modeling and Visualizing Data (45-50%)
+- Configure Dashboards, Reports and Apps in the Power BI Service (25-35%)
 retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:
 - sql-server
-courses:
-- uid: course.20778
 relatedCertifications:
 - related:
     uid: certification.mcsa-bi-reporting
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

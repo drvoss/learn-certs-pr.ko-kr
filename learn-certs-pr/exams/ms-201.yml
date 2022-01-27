@@ -3,20 +3,18 @@ title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
   title: '시험 MS-201: Implementing a Hybrid and Secure Messaging Platform'
   description: '시험 MS-201: Implementing a Hybrid and Secure Messaging Platform'
-  ms.openlocfilehash: c35dc11703e683388fa97a57acf5913354fda479
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 0a68a41a528c3819d539399a281f77ee00204f92
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105704"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656357"
 uid: exam.ms-201
 displayName: MS-201
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 2020년 8월 31일에 폐지되었습니다. 대체 시험인 MS-203에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/ms-203">MS-203 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
-
-  </div>
+  > 이 시험은 2020 년 8 월 31 일에 사용이 중지 되었습니다. 대체 시험 인 MS-203를 사용할 수 있습니다. 자세한 내용은 [MS-203 시험 세부 정보 페이지](/learn/certifications/exams/ms-203)를 참조 하세요.
 
 
   본 시험은 온-프레미스 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터하는 메시징 관리자를 대상으로 합니다.
@@ -48,9 +46,6 @@ products:
 - m365
 exams:
 - uid: exam.ms-200
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

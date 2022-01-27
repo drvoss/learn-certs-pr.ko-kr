@@ -1,23 +1,35 @@
 ### YamlMime:Examination
 title: Security Fundamentals
 metadata:
-  title: 'Exam 98-367: Security Fundamentals'
-  description: 'Exam 98-367: Security Fundamentals'
+  title: '시험 98-367: 보안 기본 사항'
+  description: '시험 98-367: 보안 기본 사항'
+  ms.openlocfilehash: 7658f460b1eb4731c6ff9d3c40ddd15a47db68f4
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659360"
 uid: exam.98-367
 displayName: 98-367
-summary: |-
-  <div><font color='red'><strong>이 MTA 시험은 2022년 6월 30일 중단됩니다. 바우처 판매는 2021년 6월 30일에 종료되었습니다. 아래 "Pearson VUE으로 예약” 또는 “Certiport으로 예약” 버튼을 사용하여 구입한 바우처를 확인하고 시험을 예약합니다. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs"> FAQ</a>를 참조하십시오.</strong></font></br></br></div>
+summary: >-
+  > [!WARNING]
 
-  이 시험에서는 응시자가 필수 보안 지식과 기술을 갖추고 있는지 검증합니다. 이 시험은 Microsoft Certified Solutions Associate(MCSA) 시험 준비용으로 활용할 수 있습니다. 응시자는 관련 교육 과정을 수강하여 설명되어 있는 개념과 기술을 숙지할 것을 권장합니다.  응시자는 Windows Server, Windows 기반 네트워킹, 액티브 디렉터리, 맬웨어 방지 제품, 방화벽, 네트워크 토폴로지 및 장치, 네트워크 포트와 관련된 실무 경험이 있다고 간주합니다.
+  > 이 MTA 검사는 2022년 6월 30일에 사용 중지됩니다. 이 시험의 상품권 판매는 2021년 6월 30일에 종료되었습니다. 아래의 "시험 예약" 단추를 사용하여 구매한 상품권을 교환하고 시험을 예약합니다. 자세한 내용은 [FAQ를](/learn/certifications/mta-retirement-faqs) 참조하세요.
 
-  <div><strong><br/>2016년 6월 23일부터 시험 범위에 Windows 10 업데이트 및 보안 및 위협 조건에 대한 업데이트가 포함됩니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 exam 98-367 변경 문서를 다운로드하여 검토하십시오.</strong></div>
-subTitle: 이 시험에서는 응시자가 필수 보안 지식과 기술을 갖추고 있는지 검증합니다. 이 시험은 Microsoft Certified Solutions Associate(MCSA) 시험 준비용으로 활용할 수 있습니다. 응시자는 관련 교육 과정을 수강하여 설명되어 있는 개념과 기술을 숙지할 것을 권장합니다.  응시자는 Windows Server, Windows 기반 네트워킹, 액티브 디렉터리, 맬웨어 방지 제품, 방화벽, 네트워크 토폴로지 및 장치, 네트워크 포트와 관련된 실무 경험이 있다고 간주합니다.
+
+  <br/>
+
+  이 시험에서는 후보에게 기본적인 보안 지식과 기술이 있음을 확인합니다. MCSA(Microsoft Certified Solutions Associate) 시험의 단계적 해결 방법 역할을 할 수 있습니다. 후보는 관련 교육 과정을 진행하여 여기에 설명된 개념 및 기술에 익숙해지는 것이 좋습니다. 후보는 Windows Server, Windows 기반 네트워킹, Active Directory, 맬웨어 방지 제품, 방화벽, 네트워크 토폴로지 및 디바이스 및 네트워크 포트에 대한 실습 경험을 갖추어야 합니다.
+
+
+  **2016년 6월 23일을 기준으로 이 시험에서는 보안 및 위협 조건에 대한 업데이트 외에도 Windows 10 대한 업데이트를 포함합니다. 이러한 변경 내용 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 98-367 변경 문서를 다운로드하여 검토하세요.**
+subTitle: 이 시험에서는 후보에게 기본적인 보안 지식과 기술이 있음을 확인합니다. MCSA(Microsoft Certified Solutions Associate) 시험의 단계적 해결 방법 역할을 할 수 있습니다. 후보는 관련 교육 과정을 진행하여 여기에 설명된 개념 및 기술에 익숙해지는 것이 좋습니다. 후보는 Windows Server, Windows 기반 네트워킹, Active Directory, 맬웨어 방지 제품, 방화벽, 네트워크 토폴로지 및 디바이스 및 네트워크 포트에 대한 실습 경험을 갖추어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
 practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:
@@ -36,10 +48,10 @@ locales:
 levels:
 - beginner
 skills:
-- 보안 계층 이해 (25-30%)
-- 운영 체제 보안 이해(30-35%)
-- 네트워크 보안 이해 (20-25%)
-- 보안 소프트웨어 이해 (15-20%)
+- Understand security layers (25-30%)
+- Understand operating system security (30-35%)
+- Understand network security (20-25%)
+- Understand security software (15-20%)
 retirementDate: 06/30/2022
 roles:
 - administrator
@@ -53,12 +65,11 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

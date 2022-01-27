@@ -3,16 +3,21 @@ title: 'MCSA: SQL Server 2012/2014'
 metadata:
   title: 'MCSA: SQL Server 2012/2014'
   description: 'MCSA: SQL Server 2012/2014'
-  ms.openlocfilehash: 17fc80bd59c64bd43f464b09408bfee369863d8f
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 9628a98909ae466640cb887e0d982505f83dae8c
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132113018"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658909"
 uid: certification.mcsa-sql-certification
 iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증은 폐지되었습니다. 현재 사용 가능한 옵션을 확인하려면 <a href='/learn/certifications/browse/'>인증 및 시험 찾아보기 페이지</a>를 참조하세요. 폐지 날짜 이전에 취득한 모든 인증은 <a href='https://aka.ms/certdashboard'>인증 대시보드</a>의 성적표에 계속 표시됩니다.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
+
+  > 이 인증은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득 한 모든 [인증은 인증 대시보드의](https://aka.ms/certdashboard) 성적에 계속 표시 됩니다.
+
+
+  <br/>
 
 
   이 인증은 미래의 미션 크리티컬 환경을 개발 및 유지 관리할 수 있는 기술과 문제점을 타개할 수 있는 통찰력을 입증합니다.
@@ -41,10 +46,6 @@ roles:
 type: mcsa
 products:
 - sql-server
-courses:
-- uid: course.20461
-- uid: course.20462
-- uid: course.20463
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYU
 exams:
 - uid: exam.70-461

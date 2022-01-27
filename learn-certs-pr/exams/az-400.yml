@@ -1,36 +1,22 @@
 ### YamlMime:Examination
-title: Microsoft DevOps 솔루션 디자인 및 구현
+title: Designing and Implementing Microsoft DevOps Solutions
 metadata:
-  title: '시험 AZ-400: Microsoft DevOps 솔루션 디자인 및 구현'
-  description: '시험 AZ-400: Microsoft DevOps 솔루션 디자인 및 구현'
-  ms.openlocfilehash: 713a879df5b7e9ca56a27326b6c0f195df472a1a
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  title: '시험 AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: '시험 AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  ms.openlocfilehash: 881f3438c5306cc8fa31a558aca9eaa0b04c04a1
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "134680694"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659228"
 uid: exam.az-400
 displayName: AZ-400
-summary: >-
-  <div>
-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경 사항을 확인하려면 아래의 측정 능력 문서를 다운로드하세요.</strong></font><br/><br/></div><div><font color='red'>참고: 통과 점수는 700점입니다. <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>에서 시험 점수에 대해 자세히 알아보세요.</font><br/><br/></div>
-
-  </div>
-
-
-  이 시험의 후보에게는 비즈니스 가치를 지속적으로 제공하기 위해 사람, 프로세스 및 기술과 협력하는 실무 전문 지식이 있어야 합니다.
-
-
-  이 역할에 대한 책임에는 협업, 코드, 인프라, 소스 제어, 보안, 규정 준수, 지속적인 통합, 테스트, 제공, 모니터링 및 피드백에 대한 전략 설계 및 구현이 포함됩니다.
-
-
-  이 시험의 후보는 Azure 관리 및 개발 모두에 익숙해야 하며 이러한 영역 중 하나 이상에 대한 전문가여야 합니다.
-subTitle: 이 시험에서는 계측 전략 개발과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. SRE(사이트 안정성 엔지니어링) 전략 개발 보안 및 규정 준수 계획 개발 소스 제어 관리; 통신 및 협업을 용이하게 하세요. 연속 통합 정의 및 구현 지속적인 업데이트 및 릴리스 관리 전략을 정의하고 구현합니다.
+summary: "> [!IMPORTANT]\n> 이 시험의 내용은 2021년 11월 30일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n이 시험 응시자는 비즈니스 가치를 지속적으로 제공하기 위해 인력, 프로세스 및 기술과 관련된 주제 전문 지식을 갖추어야합니다.\n\n이 역할의 책임에는 협업, 코드, 인프라, 소스 제어, 보안, 컴플라이언스, 지속적인 통합, 테스트, 제공, 모니터링 및 피드백을위한 전략 설계 및 구현이 포함됩니다.\n\n이 시험의 응시자는 Azure 관리 및 개발 모두에 익숙해야하며 이러한 영역 중 하나 이상에서 전문가 여야합니다."
+subTitle: 이 시험은 계측 전략 개발, SRE(사이트 안정성 엔지니어링) 전략 개발, 보안 및 규정 준수 계획 개발, 소스 제어 관리, 의사소통 및 협업 지원, 연속 통합 정의 및 구현, 지속적인 업데이트 정의 및 구현, 릴리스 관리 전략과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -82,7 +68,7 @@ relatedCertifications:
     uid: certification.devops-engineer
 resources:
 - title: 인증으로의 여정
-  description: DevOps 엔지니어로 인증을 받는 단계와 준비하는 데 사용할 수 있는 리소스를 살펴봅니다.
+  description: DevOps Engineer Expert 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

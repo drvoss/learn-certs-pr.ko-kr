@@ -2,21 +2,25 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azure 보안 엔지니어는 종단 간 인프라의 일부로 클라우드 및 하이브리드 환경에서 id, 액세스, 데이터, 응용 프로그램 및 네트워크를 보호 하는 Azure 보안 컨트롤을 구현 합니다.
-  ms.openlocfilehash: 68aae0a994213e05fcafdfccf40f8bdb3c947838
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  description: Azure 보안 엔지니어는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 네트워크를 보호하는 Azure 보안 컨트롤을 구현합니다.
+  ms.openlocfilehash: 16a07bde9f5c9e18fc4e31822336d0cce6e3e63f
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133078460"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655532"
 uid: certification.azure-security-engineer
 certificationRenewalUid: renewal.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  <div><font color='red'><strong>이 인증의 콘텐츠는 2021 년 9 월 29 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 <a href="/learn/certifications/exams/az-500">시험 AZ-500 페이지</a> 에서 기술 측정 문서를 다운로드 하세요.</strong></font><br/><br/></div>
+  > [!IMPORTANT]
+
+  > 이 인증의 콘텐츠는 2021 년 9 월 29 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 AZ-500 페이지](/learn/certifications/exams/az-500) 에서 기술 측정 문서를 다운로드 하세요.
 
 
-  Azure 보안 엔지니어에 게 연결 하는 방법에는 종단 간 인프라의 일부로 클라우드 및 하이브리드 환경에서 id, 액세스, 데이터, 응용 프로그램 및 네트워크를 보호 하는 Azure 보안 컨트롤을 구현 하는 데 있어 중요 한 지식이 있어야 합니다.
+  <br/>
+
+  Azure Security Engineer Associate 인증 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 네트워크를 보호하는 Azure 보안 구현에 관한 실무 전문 지식을 갖추어야 합니다.
 
 
   Azure 보안 엔지니어는 보안 상태를 관리하고, 취약점을 식별 및 해결하며, 위협 모델링을 수행하고, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
@@ -25,8 +29,8 @@ summary: >-
   Azure 보안 엔지니어는 종종 클라우드 기반 관리 및 보안을 계획하고 구현하는 더 큰 팀의 일원입니다.
 
 
-  이 인증에 대 한 후보는 Azure 및 하이브리드 환경을 관리 하는 실용적인 환경을 보유 해야 합니다. 응시자는 코드, 보안 작업 프로세스, 클라우드 기능, Azure 서비스와 같은 인프라를 사용해본 경험이 있어야 합니다.
-subTitle: Azure 보안 엔지니어는 종단 간 인프라의 일부로 클라우드 및 하이브리드 환경에서 id, 액세스, 데이터, 응용 프로그램 및 네트워크를 보호 하는 Azure 보안 컨트롤을 구현 합니다.
+  이 인증의 응시자는 Azure 및 하이브리드 환경 관리에 대한 실무 경험이 있어야 합니다. 응시자는 코드, 보안 작업 프로세스, 클라우드 기능, Azure 서비스와 같은 인프라를 사용해본 경험이 있어야 합니다.
+subTitle: Azure 보안 엔지니어는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 ID, 액세스, 데이터, 애플리케이션, 네트워크를 보호하는 Azure 보안 컨트롤을 구현합니다.
 levels:
 - intermediate
 skills:

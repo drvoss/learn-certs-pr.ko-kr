@@ -3,22 +3,19 @@ title: Microsoft Dynamics 365 Fundamentals
 metadata:
   title: '시험 MB-900: Microsoft Dynamics 365 Fundamentals'
   description: '시험 MB-900: Microsoft Dynamics 365 Fundamentals'
-  ms.openlocfilehash: 41695790e8bc021b68d258c43cd3b2460f8b927d
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 9c18fe94e1b1316f2a7cfab73f05df60f56682a3
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105781"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137655213"
 uid: exam.mb-900
 displayName: MB-900
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 2019년 12월 31일에 폐지되었습니다. 대체 시험인 MB-901에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/mb-901">MB-901 시험 세부 정보 페이지</a>를 참조하세요.</strong></div>
+  > 이 시험은 2019년 12월 31일에 사용 중지되었습니다. 교체 시험인 MB-901을 사용할 수 있습니다. 자세한 내용은 [MB-901 시험 세부 정보 페이지 를 방문하세요.](/learn/certifications/exams/mb-901)
 
-  <br/>
-
-  </div>
 
   본 시험은 Microsoft Dynamics 365, Power Platform 애플리케이션과 클라우드 컴퓨팅 모델에 관한 기초적인 수준의 지식을 입증하고자 하는 응시자를 위해 설계되었습니다. 시험 범위에는 Dynamics 365, Power Platform 및 일반적인 클라우드 서비스를 도입할 때 고려할 사항 및 혜택이 포함됩니다. 이 시험은 Dynamics 365 인증 및 교육의 선행 조건으로 응시할 수 있습니다.
 

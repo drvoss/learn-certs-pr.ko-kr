@@ -3,20 +3,18 @@ title: Microsoft Azure 관리자
 metadata:
   title: '시험 AZ-103: Microsoft Azure Administrator'
   description: '시험 AZ-103: Microsoft Azure Administrator'
-  ms.openlocfilehash: c06b714d61a58e638e47c1afd6dec7d5fd44819a
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: d68cce8754338ba679ddeb927f23b58ba1c94a85
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105936"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657930"
 uid: exam.az-103
 displayName: AZ-103
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 2020년 8월 31일에 폐지되었습니다. 대체 시험인 AZ-104에 응시할 수 있습니다. 자세한 내용은 <a href="/learn/certifications/exams/az-104">AZ-104 시험 세부 정보 페이지</a>를 참조하세요.</strong><br/><br/></div>
-
-  </div>
+  > 이 시험은 2020 년 8 월 31 일에 사용이 중지 되었습니다. 대체 시험 인 AZ-104를 사용할 수 있습니다. 자세한 내용은 [AZ-104 시험 세부 정보 페이지](/learn/certifications/exams/az-104)를 참조 하세요.
 
 
   2019년 5월 1일부터, 해당 인증을 취득하려면 시험 AZ-103에만 합격하면 됩니다. 이 신규 시험은 시험 AZ-100 및 AZ-101(2019년 5월 1일 중단)의 범위에 해당하는 기술을 다루며, 그중 신규 시험 내용의 대부분은 시험 AZ-100을 기반으로 합니다.
@@ -67,9 +65,6 @@ paths:
 - uid: learn.security.manage-security-operations
 - uid: learn.security.implement-resource-mgmt-security
 - uid: learn.administer-containers-in-azure
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.

@@ -3,20 +3,18 @@ title: Microsoft Azure 개발자 인증 전환
 metadata:
   title: '시험 AZ-202: Microsoft Azure Developer Certification Transition'
   description: '시험 AZ-202: Microsoft Azure Developer Certification Transition'
-  ms.openlocfilehash: 501af311729366fd144441e91fc67aed2a4083eb
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: bc480f9d2ebb6ac6b08c9f4486c6dd503cc463ff
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132105909"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658293"
 uid: exam.az-202
 displayName: AZ-202
 summary: >-
-  <div>
+  > [!IMPORTANT]
 
-  <div><strong>이 시험은 2019년 3월 31일에 폐지되었습니다. 참고: 시험은 중부 표준시 기준 오후 11시 59분에 폐지됩니다.</strong><br/><br/></div>
-
-  </div>
+  > 이 시험은 2019년 3월 31일 사용 중지되었습니다. 참고&#58; 시험 사용이 오후 11시 59분 중부 표준시
 
 
   이 시험은 [시험 70-532](https://www.microsoft.com/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions에 응시한 응시자만을 대상으로 합니다. 시험 532에 응시하지 않은 응시자는 이 시험에 응시하더라도 인증을 취득할 수 없습니다.

@@ -1,15 +1,26 @@
 ### YamlMime:Examination
 title: Core Solutions of Microsoft Skype for Business 2015
 metadata:
-  title: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
-  description: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  title: '시험 70-334: Microsoft 비즈니스용 Skype 2015의 핵심 솔루션'
+  description: '시험 70-334: Microsoft 비즈니스용 Skype 2015의 핵심 솔루션'
+  ms.openlocfilehash: 811b880e93c7761acb42856493841e8f0c123c01
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658865"
 uid: exam.70-334
 displayName: 70-334
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div> 
+summary: >-
+  > [!IMPORTANT]
 
-  본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 Skype for Business 기술에 관해 2년 이상의 경력이 있어야 하고, 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위한 Skype for Business 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 Skype for Business를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 Active Directory Domain Services, 데이터 네트워크, 통신 표준 및 Skype for Business의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 Skype for Business를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
-subTitle: 본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 Skype for Business 기술에 관해 2년 이상의 경력이 있어야 하고, 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위한 Skype for Business 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 Skype for Business를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 Active Directory Domain Services, 데이터 네트워크, 통신 표준 및 Skype for Business의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 Skype for Business를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
+
+
+  <br/>
+
+  이 시험의 후보는 UC(통합 통신)를 위한 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트 및 통신 컨설팅 전문가입니다. 후보는 비즈니스 요구 사항을 UC 솔루션에 대한 기술 아키텍처 및 디자인으로 변환할 수 있어야 합니다. 후보는 비즈니스용 Skype 기술을 2년 이상 경험해야 하며 지원되는 마이그레이션 시나리오에 익숙해야 합니다. 후보는 최종 사용자, 엔드포인트 디바이스, 전화 통신, 오디오/비디오 및 웹 회의, 보안 및 고가용성을 위한 비즈니스용 Skype 솔루션을 배포하는 데 능숙해야 합니다. 또한 후보는 Microsoft 도구를 사용하여 비즈니스용 Skype 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 또한 후보는 Active Directory Domain Services, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype 구성을 지원하는 구성 요소에 대해 능숙해야 합니다. 후보는 비즈니스용 Skype Microsoft Exchange Server 및 Office 365 통합하기 위한 요구 사항을 잘 알고 있어야 합니다.
+subTitle: 이 시험의 후보는 UC(통합 통신)를 위한 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트 및 통신 컨설팅 전문가입니다. 후보는 비즈니스 요구 사항을 UC 솔루션에 대한 기술 아키텍처 및 디자인으로 변환할 수 있어야 합니다. 후보는 비즈니스용 Skype 기술을 2년 이상 경험해야 하며 지원되는 마이그레이션 시나리오에 익숙해야 합니다. 후보는 최종 사용자, 엔드포인트 디바이스, 전화 통신, 오디오/비디오 및 웹 회의, 보안 및 고가용성을 위한 비즈니스용 Skype 솔루션을 배포하는 데 능숙해야 합니다. 또한 후보는 Microsoft 도구를 사용하여 비즈니스용 Skype 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 또한 후보는 Active Directory Domain Services, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype 구성을 지원하는 구성 요소에 대해 능숙해야 합니다. 후보는 비즈니스용 Skype Microsoft Exchange Server 및 Office 365 통합하기 위한 요구 사항을 잘 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -19,16 +30,14 @@ locales:
 levels:
 - advanced
 skills:
-- Skype for Business 계획 및 설계 (35-40%)
-- Skype for Business 배포 및 구성(30-35%)
-- Skype for Business 관리 및 문제 해결(30-35%)
+- Plan and design Skype for Business (35–40%)
+- Deploy and configure Skype for Business (30–35%)
+- Manage and troubleshoot Skype for Business (30–35%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - m365
-courses:
-- uid: course.20334
 relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
@@ -40,9 +49,8 @@ resources:
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
+- title: 시험 정책 및 FAQ
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

@@ -3,27 +3,20 @@ title: Microsoft Identity and Access Administrator
 metadata:
   title: '시험 SC-300: Microsoft Identity and Access Administrator'
   description: '시험 SC-300: Microsoft Identity and Access Administrator'
-  ms.openlocfilehash: 93535bcee63bda96571095549575e269ff81693a
-  ms.sourcegitcommit: 741c0f68de10dd00859f4bb679ed11dbb5a15674
+  ms.openlocfilehash: 46da9a1b9799563567c94d1fa4d0def96d0b1a79
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/30/2021
-  ms.locfileid: "135583360"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658689"
 uid: exam.sc-300
 displayName: SC-300
-summary: >-
-  <div><div><strong>중요:이 시험의 영어 버전은 2022 년 1 월 28 일에 업데이트 됩니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.</strong><br/><br/></div><div>참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">여기</a>를 참고하세요.<br/><br/></div></div>
-
-
-  Microsoft ID 및 액세스 관리자는 Azure AD(Azure Active Directory)를 사용하여 조직의 ID 및 액세스 관리 시스템을 설계, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다. 관리자는 모든 사용자에게 원활한 환경 및 셀프 서비스 관리 기능을 제공합니다. 적응형 액세스 및 거버넌스는 이 역할의 핵심 요소입니다. 이 역할은 ID 및 액세스 환경에 대한 문제 해결, 모니터링, 보고도 담당합니다.
-
-
-  ID 및 액세스 관리자는 개인이거나 더 큰 팀의 멤버일 수 있습니다. 이 역할은 조직의 다른 많은 역할과 협업하여 전략적 ID 프로젝트를 진행하여 ID 솔루션을 현대화하고 하이브리드 ID 솔루션과 ID 거버넌스를 구현합니다.
+summary: "> [!IMPORTANT]\n> 이 시험의 영어 버전은 2022년 1월 28일에 업데이트됩니다. 변경 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\nMicrosoft ID 및 액세스 관리자는 Azure AD(Azure Active Directory)를 사용하여 조직의 ID 및 액세스 관리 시스템을 설계, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다. 관리자는 모든 사용자에게 원활한 환경 및 셀프 서비스 관리 기능을 제공합니다. 적응형 액세스 및 거버넌스는 이 역할의 핵심 요소입니다. 이 역할은 ID 및 액세스 환경에 대한 문제 해결, 모니터링, 보고도 담당합니다.\n\nID 및 액세스 관리자는 개인이거나 더 큰 팀의 멤버일 수 있습니다. 이 역할은 조직의 다른 많은 역할과 협업하여 전략적 ID 프로젝트를 진행하여 ID 솔루션을 현대화하고 하이브리드 ID 솔루션과 ID 거버넌스를 구현합니다."
 subTitle: 이 시험은 ID 관리 솔루션 구현, 인증 및 액세스 관리 솔루션 구현, 앱에 대한 액세스 관리 구현, ID 거버넌스 전략 계획 및 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
 practiceTestUrl: https://www.mindhub.com/p/MU-SC-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
 locales:
 - en
 - ja

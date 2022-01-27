@@ -3,27 +3,29 @@ title: 'Microsoft Office Specialist: Associate (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Associate (Office 365 and Office 2019)'
   description: '여러 Office 프로그램에서 Microsoft Office Specialist: Associate 인증을 취득하여 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
-  ms.openlocfilehash: 178afc191093a62a83e65cabbddd561ef8a6aef4
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 3e1ab2a3845859ae452e02139f751b87625bed8e
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132111481"
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656918"
 uid: certification.microsoft-office-specialist-associate-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
   Microsoft Office Specialist: Expert 인증을 획득하여 특정 Office 프로그램에서 Office를 최대한 활용하는데 필요한 기술을 갖추고 있음을 입증하세요.
 
 
-  Microsoft Office Specialist Master 인증을 취득하려면 다음 시험 중 3가지를 통과합니다.
+  > [!IMPORTANT]
 
-  - [MO-100: Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
+  > Microsoft Office Specialist Master 인증을 취득하려면 다음 시험 중 3가지를 통과합니다.
 
-  - [MO-200: Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
+  > - [MO-100: Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
 
-  - [MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
+  > - [MO-200: Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
 
-  - [MO-400: Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
+  > - [MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
+
+  > - [MO-400: Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
 subTitle: '여러 Office 프로그램에서 Microsoft Office Specialist: Associate 인증을 취득하여 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 보여 주세요.'
 levels:
 - intermediate

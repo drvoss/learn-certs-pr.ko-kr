@@ -1,45 +1,51 @@
 ### YamlMime:Examination
-title: 'MOS: Using Microsoft Office Excel 2007'
+title: 'MOS: Microsoft Office Excel 2007 사용'
 metadata:
-  title: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
-  description: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+  title: '시험 77-602: MOS: 2007년 Microsoft Office Excel 사용'
+  description: '시험 77-602: MOS: 2007년 Microsoft Office Excel 사용'
+  ms.openlocfilehash: 4515662264d2f1119e14624e92f7626e1596cd51
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659371"
 uid: exam.77-602
 displayName: 77-602
-summary: |-
-  본 시험의 응시자는 6개월에서 1년 정도 Microsoft Office Excel 2007을 사용하여 비즈니스 결과물을 작성한 실무 경험이 있어야 하며 이전 버전의 Office Excel을 사용해 본 경험이 있어야 합니다. 이런 응시자들은 특히 데이터의 작성 및 조작, 데이터와 콘텐츠 서식 지정, 수식 작성 및 수정, 데이터의 시각적 표시, 데이터에 대한 협업과 보안을 효과적이며 능률적으로 수행합니다.
-subTitle: 본 시험의 응시자는 6개월에서 1년 정도 Microsoft Office Excel 2007을 사용하여 비즈니스 결과물을 작성한 실무 경험이 있어야 하며 이전 버전의 Office Excel을 사용해 본 경험이 있어야 합니다. 이런 응시자들은 특히 데이터의 작성 및 조작, 데이터와 콘텐츠 서식 지정, 수식 작성 및 수정, 데이터의 시각적 표시, 데이터에 대한 협업과 보안을 효과적이며 능률적으로 수행합니다.
+summary: >-
+  > [!IMPORTANT]
+
+  > 이 시험이 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
+
+
+  이 시험의 후보는 2007년 Microsoft Office Excel 비즈니스 결과물을 만드는 6개월~1년의 실습 경험을 갖추어야 하며 이전 버전의 Office Excel 경험했을 수 있습니다. 이러한 후보는 데이터 만들기 및 조작, 데이터 및 콘텐츠 서식 지정, 수식 생성 및 수정, 시각적으로 데이터 제공, 데이터 공동 작업 및 보안에 특히 효과적이고 효율적입니다.
+subTitle: 이 시험의 후보는 2007년 Microsoft Office Excel 비즈니스 결과물을 만드는 6개월~1년의 실습 경험을 갖추어야 하며 이전 버전의 Office Excel 경험했을 수 있습니다. 이러한 후보는 데이터 만들기 및 조작, 데이터 및 콘텐츠 서식 지정, 수식 생성 및 수정, 시각적으로 데이터 제공, 데이터 공동 작업 및 보안에 특히 효과적이고 효율적입니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57x
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - ru
 levels:
 - beginner
 skills:
-- 데이터 작성 및 조작
-- 데이터 및 콘텐츠 서식 지정
-- 수식 작성 및 수정
-- 데이터의 시각적 표시
-- 데이터에 대한 협업과 보안
+- Create and manipulate data
+- Format data and content
+- Create and modify formulas
+- Present data visually
+- Collaborate on and secure data
 roles:
 - business-user
 products:
 - office-excel
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-

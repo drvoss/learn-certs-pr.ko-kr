@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Installing and Configuring Windows Server 2012
 metadata:
-  title: 'Exam 70-410: Installing and Configuring Windows Server 2012'
-  description: 'Exam 70-410: Installing and Configuring Windows Server 2012'
+  title: '시험 70-410: Windows Server 2012 설치 및 구성'
+  description: '시험 70-410: Windows Server 2012 설치 및 구성'
+  ms.openlocfilehash: 470500212472fc5aed6ea430aead87487cd24df9
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657622"
 uid: exam.70-410
 displayName: 70-410
-summary: |-
-  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  본 시험은 기존 엔터프라이즈 환경에서 핵심 Windows Server 2012 인프라를 구현하는 데 필요한 기술 및 지식을 테스트하는 총 3부의 시험 중 1부입니다. 이 시험에 합격하면 응시자가 Active Directory 및 네트워킹 서비스 같은 Windows Server 2012 핵심 서비스를 구현 및 구성할 수 있음을 입증받게 됩니다. 이 시험 외에 다른 두 가지 시험에도 합격하면 응시자가 Windows Server 2012 환경에서 서비스 및 인프라를 구현하고, 관리하고, 유지 관리하며 프로비전하는 데 필요한 기술 및 지식을 보유하고 있음을 확인받게 됩니다.
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>2014년 1월부터 본 시험 범위에 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLTr">Windows Server 2012 R2</a> 관련 내용이 포함됩니다.</div>
-subTitle: 본 시험은 기존 엔터프라이즈 환경에서 핵심 Windows Server 2012 인프라를 구현하는 데 필요한 기술 및 지식을 테스트하는 총 3부의 시험 중 1부입니다. 이 시험에 합격하면 응시자가 Active Directory 및 네트워킹 서비스 같은 Windows Server 2012 핵심 서비스를 구현 및 구성할 수 있음을 입증받게 됩니다. 이 시험 외에 다른 두 가지 시험에도 합격하면 응시자가 Windows Server 2012 환경에서 서비스 및 인프라를 구현하고, 관리하고, 유지 관리하며 프로비전하는 데 필요한 기술 및 지식을 보유하고 있음을 확인받게 됩니다.
+
+  <br/>
+
+  이 시험은 기존 엔터프라이즈 환경에서 핵심 Windows Server 2012 인프라를 구현하는 데 필요한 기술과 지식을 테스트하는 일련의 3개 시험 중 제1부입니다. 이 시험을 통과하면 Active Directory 및 네트워킹 서비스와 같은 Windows Server 2012 핵심 서비스를 구현하고 구성할 수 있는 후보를 검증합니다. 다른 두 시험과 함께 이 시험을 통과하면 Windows Server 2012 환경에서 서비스 및 인프라를 구현, 관리, 유지 관리 및 프로비전하는 데 필요한 기술과 지식이 후보에게 있음을 확인할 수 있습니다.
+
+
+  > [!IMPORTANT]
+
+  > 2014년 1월 현재 이 시험에서는 [Windows Server 2012 R2를](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLTr) 다루는 콘텐츠를 포함합니다.
+subTitle: 이 시험은 기존 엔터프라이즈 환경에서 핵심 Windows Server 2012 인프라를 구현하는 데 필요한 기술과 지식을 테스트하는 일련의 3개 시험 중 제1부입니다. 이 시험을 통과하면 Active Directory 및 네트워킹 서비스와 같은 Windows Server 2012 핵심 서비스를 구현하고 구성할 수 있는 후보를 검증합니다. 다른 두 시험과 함께 이 시험을 통과하면 Windows Server 2012 환경에서 서비스 및 인프라를 구현, 관리, 유지 관리 및 프로비전하는 데 필요한 기술과 지식이 후보에게 있음을 확인할 수 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
 practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -25,33 +39,30 @@ locales:
 levels:
 - intermediate
 skills:
-- 서버 설치 및 구성 (15-20%)
-- 서버 역할 및 기능 구성 (15-20%)
-- Hyper-V 구성 (15-20%)
-- 핵심 네트워크 서비스 배포 및 구성(15-20%)
-- Active Directory 설치 및 관리 (15-20%)
-- 그룹 정책 만들기 및 관리(15-20%)
+- Install and configure servers (15–20%)
+- Configure server roles and features (15–20%)
+- Configure Hyper-V (15–20%)
+- Deploy and configure core network services (15–20%)
+- Install and administer Active Directory (15–20%)
+- Create and manage Group Policy (15–20%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20410
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-certification
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+- title: 시험 정책 및 FAQ
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
-
