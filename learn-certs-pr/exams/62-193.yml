@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:
