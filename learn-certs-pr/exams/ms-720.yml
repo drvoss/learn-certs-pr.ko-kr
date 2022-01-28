@@ -31,7 +31,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFS2
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-720&examname=Exam%20MS-720:%20Microsoft%20Teams%20Voice%20Engineer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-720
+  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-720&examname=Exam%20MS-720:%20Microsoft%20Teams%20Voice%20Engineer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-720
 locales:
 - en
 levels:

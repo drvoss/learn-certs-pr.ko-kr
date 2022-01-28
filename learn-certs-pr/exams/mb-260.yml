@@ -27,7 +27,7 @@ summary: >-
 subTitle: 이 시험은 Customer Insights 솔루션 설계, 데이터를 Customer Insights로 수집, 데이터를 통합하여 고객 프로필 만들기, Customer Insights에서 인공 지능 예측 구현, 측정값 및 세그먼트 구성, 타사 연결 구성, Customer Insights 관리와 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMD8f
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-260&examname=Exam%20MB-260:%20Microsoft%20Customer%20Data%20Platform%20Specialist&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-260
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-260&examname=Exam%20MB-260:%20Microsoft%20Customer%20Data%20Platform%20Specialist&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-260
 locales:
 - en
 levels:

@@ -29,7 +29,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJ
 practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:

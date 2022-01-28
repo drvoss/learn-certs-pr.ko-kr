@@ -25,7 +25,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:

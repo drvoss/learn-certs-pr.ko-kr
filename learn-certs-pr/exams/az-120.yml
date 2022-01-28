@@ -15,7 +15,7 @@ summary: "> [!IMPORTANT]\n> 이 시험의 영어 버전은 2022 년 1 월 24 일
 subTitle: 이 시험은 SAP Workloads를 Azure로 마이그레이션, SAP Workloads를 지원하기 위한 인프라 설계 및 구현, 고가용성 및 재해 복구 설계 및 구현, Azure에서의 SAP Workloads 유지 관리와 같은 기술 작업을 수행하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
 - ja

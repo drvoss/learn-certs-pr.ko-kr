@@ -29,7 +29,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy
 practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 locales:

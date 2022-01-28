@@ -18,7 +18,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZ
 practiceTestUrl: https://www.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
 levels:

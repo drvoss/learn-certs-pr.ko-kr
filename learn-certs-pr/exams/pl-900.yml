@@ -31,7 +31,7 @@ locales:
 - it
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 levels:
