@@ -71,28 +71,28 @@ summary: >-
 
   본 과정은 Azure 관리자를 대상으로 합니다. Azure Administrator는 클라우드 환경에서 ID, 거버넌스, 스토리지, 컴퓨팅 및 가상 네트워크를 구현, 관리 및 모니터링합니다. Azure Administrator는 리소스를 프로비저닝, 크기 조정, 모니터링하여 적절히 조정합니다.
 prerequisitesSection: >-
-  성공적인 Azure 관리자는 가상화, 네트워킹, id 및 저장소 환경에서이 역할을 시작 합니다.
+  성공적인 Azure Administrator는 가상화, 네트워킹, ID 및 스토리지에 대한 경험으로 해당 역할을 시작합니다.
 
 
-  *   &nbsp;Vm, 가상 네트워킹,를 비롯 한 온-프레미스 가상화 기술 이해
-
-
-
-  및 가상 하드 디스크.
-
-
-  *   &nbsp;Tcp/ip, DNS (Domain Name System)를 포함 한 네트워크 구성 이해
+  *   VM 및 가상 네트워킹, 가상 하드 디스크를 포함한&nbsp;
 
 
 
-  Vpn (가상 사설망), 방화벽 및 암호화 기술입니다.
+  온-프레미스 가상화 기술 이해.
 
 
-  *   &nbsp;사용자, 그룹 및 역할 기반 액세스를 비롯 한 Active Directory 개념 이해
+  *   TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽 및 암호화 기술을 포함한&nbsp;
 
 
 
-  조절.
+  네트워크 구성 이해.
+
+
+  *   사용자, 그룹 및 역할 기반 액세스 제어를 포함한 &nbsp;Active Directory 개념
+
+
+
+  이해.
 
 
   *   백업 및 복원 작업을 포함한 회복력 및 재해 복구에 대한 이해.
@@ -123,9 +123,9 @@ prerequisitesSection: >-
   *   [Azure 기본 사항 파트 6: Azure 비용 관리 및 서비스 수준 계약에 관해 설명하기](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
 
-  *   [AZ-104: Azure 관리자를 위한 필수 구성 요소-배우기 | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+  *   [AZ-104: Azure 관리자의 필수 조건 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: >-
-  ### <a name="module-1-identity"></a>모듈 1: Id
+  ### <a name="module-1-identity"></a>모듈 1: ID
 
 
   본 모듈에서는 Azure Active Directory를 사용하여 ID를 보호하고 사용자와 그룹을 구현하는 방법을 학습합니다.
@@ -141,7 +141,7 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--manage-azure-active-directory-identities"></a>랩: Azure Active Directory id 관리
+  #### <a name="lab--manage-azure-active-directory-identities"></a>랩: Azure Active Directory ID 관리
 
 
   ####
@@ -150,14 +150,14 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Azure Active Directory를 사용 하 여 id를 보호 하 고 관리 합니다.
+  *   Azure Active Directory를 사용하여 ID 보호 및 관리.
 
 
-  *   사용자 및 그룹을 구현 하 고 관리 합니다.
+  *   사용자 및 그룹 구현 및 관리.
 
 
 
-  ### <a name="module-2-governance-and-compliance"></a>모듈 2: 거 버 넌 스 및 규정 준수
+  ### <a name="module-2-governance-and-compliance"></a>모듈 2: 거버넌스 및 규정 준수
 
 
   본 모듈에서는 구독 및 계정 관리, Azure 정책 구현 및 역할 기반 액세스 제어 사용 방법을 학습합니다.
@@ -182,7 +182,7 @@ outlineSection: >-
   ####
 
 
-  #### <a name="lab--manage-governance-via-azure-policy"></a>랩: Azure Policy을 통해 거 버 넌 스 관리
+  #### <a name="lab--manage-governance-via-azure-policy"></a>랩: Azure Policy를 통한 거버넌스 관리
 
 
   ####
@@ -191,20 +191,20 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Azure 구독 및 계정을 구현 하 고 관리 합니다.
+  *   Azure 구독 및 계정 구현 및 관리.
 
 
-  *   사용자 지정 정책을 포함 하 여 Azure Policy을 구현 합니다.
+  *   사용자 지정 정책을 포함한 Azure Policy 구현.
 
 
-  *   RBAC를 사용 하 여 사용 권한을 할당 합니다.
+  *   RBAC를 사용한 사용 권한 할당.
 
 
 
   ### <a name="module-3-azure-administration"></a>모듈 3: Azure 관리
 
 
-  본 모듈에서는 Azure Administration이 인프라를 관리하는 데 사용하는 도구를 학습합니다. 여기에는 Azure Portal, Cloud Shell, Azure PowerShell, CLI, 및 Resource Manager 템플릿이 포함됩니다. 이 모듈에는 다음이 포함 됩니다.
+  본 모듈에서는 Azure Administration이 인프라를 관리하는 데 사용하는 도구를 학습합니다. 여기에는 Azure Portal, Cloud Shell, Azure PowerShell, CLI, 및 Resource Manager 템플릿이 포함됩니다. 이 모듈에는 다음이 포함됩니다.
 
 
   #### <a name="lessons"></a>단원
@@ -220,25 +220,25 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--manage-azure-resources-by-using-arm-templates"></a>랩: ARM 템플릿을 사용 하 여 Azure 리소스 관리
+  #### <a name="lab--manage-azure-resources-by-using-arm-templates"></a>랩: ARM 템플릿을 사용하여 Azure 리소스 관리
 
 
   ####
 
 
-  #### <a name="lab--manage-azure-resources-by-using-azure-powershell-optional"></a>랩: Azure PowerShell을 사용 하 여 Azure 리소스 관리 (선택 사항)
+  #### <a name="lab--manage-azure-resources-by-using-azure-powershell-optional"></a>랩: Azure PowerShell을 사용하여 Azure 리소스 관리(선택 사항)
 
 
   ####
 
 
-  #### <a name="lab--manage-azure-resources-by-using-azure-cli-optional"></a>랩: Azure CLI을 사용 하 여 Azure 리소스 관리 (선택 사항)
+  #### <a name="lab--manage-azure-resources-by-using-azure-cli-optional"></a>랩: Azure CLI를 사용하여 Azure 리소스 관리(선택 사항)
 
 
   ####
 
 
-  #### <a name="lab--manage-azure-resources-by-using-the-azure-portal"></a>랩: Azure Portal을 사용 하 여 Azure 리소스 관리
+  #### <a name="lab--manage-azure-resources-by-using-the-azure-portal"></a>랩: Azure Portal을 사용하여 Azure 리소스 관리
 
 
   ####
@@ -247,16 +247,16 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Azure Resource Manager 활용 하 여 리소스를 구성 합니다.
+  *   Azure Resource Manager를 활용하여 리소스 구성.
 
 
-  *   Azure Portal을 사용 하 여 Cloud Shell 합니다.
+  *   Azure Portal 및 Cloud Shell 사용.
 
 
-  *   Azure PowerShell 및 CLI를 사용 합니다.
+  *   Azure PowerShell 및 CLI 사용.
 
 
-  *   ARM 템플릿을 사용 하 여 리소스를 배포 합니다.
+  *   ARM 템플릿을 사용하여 리소스 배포.
 
 
 
@@ -291,23 +291,23 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   가상 네트워크 및 서브넷을 구현 합니다.
+  *   가상 네트워크 및 서브넷 구현.
 
 
-  *   네트워크 보안 그룹을 구성 합니다.
+  *   네트워크 보안 그룹 구성.
 
 
-  *   Azure 방화벽을 구성 합니다.
+  *   Azure Firewall 구성.
 
 
-  *   개인 및 공용 DNS 영역을 구성 합니다.
+  *   프라이빗 및 퍼블릭 DNS 영역 구성.
 
 
 
   ### <a name="module-5-intersite-connectivity"></a>모듈 5: 사이트 간 연결
 
 
-  이 모듈에서는 VNet 피어 링, Virtual Network 게이트웨이 및 사이트 간 연결을 포함 하는 사이트 간 연결 기능에 대해 알아봅니다.
+  본 모듈에서는 VNet 피어링, Virtual Network Gateway 및 Site-to-Site Connections를 비롯한 사이트 간 연결 기능을 학습합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -316,10 +316,10 @@ outlineSection: >-
   *   VNet 피어링
 
 
-  *   연결 VPN Gateway
+  *   VPN Gateway 연결
 
 
-  *   Express 경로 및 가상 WAN
+  *   ExpressRoute 및 Virtual WAN
 
 
 
@@ -332,26 +332,26 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   VNet 피어 링을 구성 합니다.
+  *   VNet 피어링 구성.
 
 
-  *   VPN 게이트웨이를 구성 합니다.
+  *   VPN Gateway 구성.
 
 
-  *   적절 한 사이트 간 연결 솔루션을 선택 합니다.
+  *   적절한 사이트 간 연결 솔루션 선택.
 
 
 
   ### <a name="module-6-network-traffic-management"></a>모듈 6: 네트워크 트래픽 관리
 
 
-  이 모듈에서는 네트워크 라우팅 및 서비스 끝점, Azure Load Balancer 및 Azure 애플리케이션 게이트웨이를 비롯 한 네트워크 트래픽 전략에 대해 알아봅니다.
+  본 모듈에서는 네트워크 라우팅 및 서비스 엔드포인트, Azure Load Balancer 및 Azure Application Gateway를 포함하는 네트워크 트래픽 전략을 학습합니다.
 
 
   #### <a name="lessons"></a>단원
 
 
-  *   네트워크 라우팅 및 끝점
+  *   네트워크 라우팅 및 엔드포인트
 
 
   *   Azure Load Balancer
@@ -361,7 +361,7 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--implement-traffic-management"></a>랩: Traffic Management 구현
+  #### <a name="lab--implement-traffic-management"></a>랩: 트래픽 관리 구현
 
 
   ####
@@ -370,13 +370,13 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   사용자 지정 경로 및 서비스 끝점을 포함 하는 네트워크 라우팅을 구성 합니다.
+  *   사용자 지정 경로 및 서비스 엔드포인트를 포함한 네트워크 라우팅 구성.
 
 
-  *   Azure Load Balancer를 구성 합니다.
+  *   Azure Load Balancer 구성.
 
 
-  *   게이트웨이를 구성 하 고 Azure 애플리케이션 합니다.
+  *   Azure Application Gateway 구성.
 
 
 
@@ -405,7 +405,7 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--manage-azure-storage"></a>랩: Azure storage 관리
+  #### <a name="lab--manage-azure-storage"></a>랩: Azure 스토리지 관리
 
 
   ####
@@ -414,19 +414,19 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Azure storage 계정을 만듭니다.
+  *   Azure 스토리지 계정 만들기.
 
 
-  *   Blob 컨테이너를 구성 합니다.
+  *   BLOB 컨테이너 구성.
 
 
-  *   Azure storage를 보호 합니다.
+  *   Azure 스토리지 보호.
 
 
-  *   Azure 파일 공유 및 파일 동기화를 구성 합니다.
+  *   Azure 파일 공유 및 파일 동기화 구성.
 
 
-  *   Storage Explorer와 같은 도구를 사용 하 여 저장소를 관리 합니다.
+  *   Storage Explorer와 같은 도구를 사용하여 스토리지 관리.
 
 
 
@@ -439,20 +439,20 @@ outlineSection: >-
   #### <a name="lessons"></a>단원
 
 
-  *   가상 컴퓨터 계획
+  *   가상 머신 계획
 
 
   *   Virtual Machines 만들기
 
 
-  *   가상 컴퓨터 가용성
+  *   가상 머신 사용 가능성
 
 
   *   가상 머신 확장
 
 
 
-  #### <a name="lab--manage-virtual-machines"></a>랩: 가상 컴퓨터 관리
+  #### <a name="lab--manage-virtual-machines"></a>랩: 가상 머신 관리
 
 
   ####
@@ -461,23 +461,23 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   가상 컴퓨터 구현을 계획 합니다.
+  *   가상 머신 구현 계획.
 
 
-  *   가상 컴퓨터를 만듭니다.
+  *   가상 머신 만들기.
 
 
-  *   확장 집합을 포함 하 여 가상 컴퓨터 가용성을 구성 합니다.
+  *   스케일링 세트를 포함한 가상 머신 사용 가능성 구성.
 
 
-  *   가상 컴퓨터 확장을 사용 합니다.
+  *   가상 머신 확장 사용.
 
 
 
-  ### <a name="module-9-paas-compute-options"></a>모듈 9: PaaS 계산 옵션
+  ### <a name="module-9-paas-compute-options"></a>모듈 9: PaaS 컴퓨팅 옵션
 
 
-  이 모듈에서는 Azure App Service, Azure Container Instances 및 Kubernetes와 같은 서버를 사용 하지 않는 컴퓨팅 기능을 관리 하는 방법을 알아봅니다.
+  본 모듈에서는 Azure App Service, Azure Container Instances 및 Kubernetes와 같은 서버리스 컴퓨팅 기능을 관리하는 방법을 학습합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -496,19 +496,19 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--implement-web-apps"></a>랩: 구현 Web Apps
+  #### <a name="lab--implement-web-apps"></a>랩: 웹앱 구현
 
 
   ####
 
 
-  #### <a name="lab--implement-azure-kubernetes-service"></a>랩: Azure Kubernetes 서비스 구현
+  #### <a name="lab--implement-azure-kubernetes-service"></a>랩: Azure Kubernetes Service 구현
 
 
   ####
 
 
-  #### <a name="lab--implement-azure-container-instances"></a>랩: 구현 Azure Container Instances
+  #### <a name="lab--implement-azure-container-instances"></a>랩: Azure Container Instances 구현
 
 
   ####
@@ -517,23 +517,23 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   App service 계획을 만듭니다.
+  *   App Service 요금제 만들기.
 
 
   *   웹앱 만들기
 
 
-  *   Azure Container Instances를 구현 합니다.
+  *   Azure Container Instances 구현.
 
 
-  *   Azure Kubernetes 서비스를 구현 합니다.
+  *   Azure Kubernetes Service 구현.
 
 
 
   ### <a name="module-10-data-protection"></a>모듈 10: 데이터 보호
 
 
-  이 모듈에서는 파일과 폴더를 백업 하 고 가상 컴퓨터를 백업 하는 방법에 대해 알아봅니다.
+  본 모듈에서는 파일 및 폴더 백업과 가상 머신 백업을 학습합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -542,7 +542,7 @@ outlineSection: >-
   *   파일 및 폴더 백업
 
 
-  *   가상 컴퓨터 백업
+  *   가상 머신 백업
 
 
 
@@ -555,17 +555,17 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   파일 및 폴더를 백업 하 고 복원 합니다.
+  *   파일 및 폴더의 백업 및 복원.
 
 
-  *   가상 컴퓨터를 백업 하 고 복원 합니다.
+  *   가상 머신 백업 및 복원.
 
 
 
   ### <a name="module-11-monitoring"></a>모듈 11: 모니터링
 
 
-  이 모듈에서는 Azure Monitor, 경고 및 log analytics를 포함 하 여 Azure 인프라를 모니터링 하는 방법을 알아봅니다.
+  본 모듈에서는 Azure Monitor, 경고, 로그 분석을 포함한 Azure 인프라 모니터링을 학습합니다.
 
 
   #### <a name="lessons"></a>단원
@@ -593,13 +593,13 @@ outlineSection: >-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
 
-  *   Azure Monitor를 사용 합니다.
+  *   Azure Monitor 사용.
 
 
-  *   Azure 경고를 만듭니다.
+  *   Azure 경고 만들기.
 
 
-  *   Log Analytics를 사용 하 여 쿼리 합니다.
+  *   로그 분석을 사용하여 쿼리.
 
 
-  *   Network Watcher를 사용 합니다.
+  *   Network Watcher 사용.
