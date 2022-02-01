@@ -3,12 +3,12 @@ title: Microsoft 보안 운영 분석가 시험에 맞춰 조정됩니다.
 metadata:
   title: '과정 SC-200T00--A: Microsoft Security Operations Analyst'
   description: '과정 SC-200T00--A: Microsoft Security Operations Analyst'
-  ms.openlocfilehash: a2e7c2c9719557632175742e00312690d0da78bf
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
+  ms.openlocfilehash: 6b2a4143e7360599484f1dd6dbb8adfc41aba089
+  ms.sourcegitcommit: 4e7b3b6a21aeb60353d966b21e98cffa92a846c2
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970815"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "137892380"
 uid: course.sc-200t00
 courseNumber: SC-200T00
 hoursToComplete: 96
@@ -74,8 +74,8 @@ studyGuide:
 - uid: learn.wwl.use-threat-vulnerability-management-microsoft-defender-for-endpoint
 - uid: learn.wwl.what-is-azure-defender
 - uid: learn.wwl.understand-azure-defender-cloud-workload-protection
-- uid: learn.wwl.connect-non-azure-machines-to-azure-defender
 - uid: learn.wwl.connect-azure-assets-to-azure-defender
+- uid: learn.wwl.connect-non-azure-machines-to-azure-defender
 - uid: learn.wwl.remediate-azure-defender-security-alerts
 - uid: learn.wwl.construct-kql-statements
 - uid: learn.wwl.analyze-results-kql

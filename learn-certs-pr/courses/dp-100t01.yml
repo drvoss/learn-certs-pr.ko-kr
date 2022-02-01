@@ -3,13 +3,12 @@ title: Azure에서 데이터 과학 솔루션 디자인 및 구현
 metadata:
   title: '과정 DP-100T01--A: Designing and Implementing a Data Science Solution on Azure'
   description: '과정 DP-100T01--A: Designing and Implementing a Data Science Solution on Azure'
-  iltScheduling: true
-  ms.openlocfilehash: 97b5ac4d01745afa203dbba9de2105c75c81c018
-  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
-  ms.translationtype: MT
+  ms.openlocfilehash: ef9f1c215eb53785200e0c6aae336e7b3178bb2c
+  ms.sourcegitcommit: 7f4eed93623014c8773df17f68152c44d1e02806
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136955304"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "137860763"
 uid: course.dp-100t01
 courseNumber: DP-100T01
 hoursToComplete: 72
@@ -17,20 +16,23 @@ iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
 - zh-cn
+- de
+- it
+- ja
 - ko
+- es
 levels:
 - intermediate
 roles:
 - data-scientist
 products:
 - azure
-exams:
-- uid: exam.dp-100
 studyGuide:
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+exams:
+- uid: exam.dp-100
 summary: >-
   Azure Machine Learning을 사용하여 클라우드 범위에서 기계 학습 솔루션 운용 방법을 학습하십시오. 이 과정에서는 Python 및 기계 학습에 대한 기존 지식을 활용하여 Microsoft Azure의 데이터 수집 및 준비, 모델 학습 및 배포 및 기계 학습 솔루션 모니터링 관리 방법을 알려줍니다.
 
