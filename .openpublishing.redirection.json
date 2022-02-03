@@ -241,6 +241,11 @@
             "redirect_document_id": false
 		},
 		{
+            "source_path": "learn-certs-pr/courses/ms-040T00.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
             "source_path": "learn-certs-pr/courses/ms-050T00.yml",
             "redirect_url": "/learn/certifications/courses/browse/",
             "redirect_document_id": false
@@ -484,7 +489,11 @@
             "redirect_url": "/zh-cn/learn/certifications/courses/dp-201t01",
             "redirect_document_id": false
 		},
-                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/WS-050T00.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},                                                                                                                       
 		{
             "source_path": "learn-certs-pr/courses/ws-050t00ja.yml",
             "redirect_url": "/ja-jp/learn/certifications/courses/ws-050t00",
