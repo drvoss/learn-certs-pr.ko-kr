@@ -2,88 +2,77 @@
 title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
 metadata:
   title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
-  description: Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.
-  ms.openlocfilehash: f349a3e1caeb3ef04209093986deeb518760376f
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659382"
+  description: 'Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.'
 uid: certification.security-compliance-and-identity-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 영어 버전은 2022년 1월 28일에 업데이트됩니다. [SC-900 시험 페이지에서](/learn/certifications/exams/sc-900) 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
-
+  > 이 인증의 영어 버전은 2022년 1월 28일에 업데이트됩니다. [SC-900 시험 페이지](/learn/certifications/exams/sc-900)에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
 
   <br/>
-
   이 인증은 클라우드 기반 및 관련 Microsoft 서비스에서 SCI(보안, 규정 준수, ID) 기본 사항을 숙지하려는 사람을 대상으로 합니다.
-
 
   대상이 광범위하며 비즈니스 관련자, 신입 또는 기존 IT 전문가 또는 Microsoft 보안, 규정 준수, ID 솔루션에 관심이 있는 학생을 포함할 수 있습니다.
 
-
   응시자는 Microsoft Azure 및 Microsoft 365에 대해 잘 알고 있어야 하며 Microsoft 보안, 규정 준수, ID 솔루션이 해당 솔루션 영역 전반에 걸쳐 어떻게 전체적인 엔드투엔드 솔루션을 제공할 수 있는지 이해하고자 합니다.
-subTitle: Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.
+subTitle: 'Microsoft Azure 및 Microsoft 365를 잘 알고 있고 Microsoft 보안, 규정 준수 및 식별 솔루션이 전체적이고 종단 간 솔루션을 제공하기 위해 어떻게 이러한 솔루션 영역 전반에 걸쳐질 수 있는지 이해하는 것을 입증하십시오.'
 levels:
-- beginner
+  - beginner
 skills:
-- Describe the concepts of security, compliance, and identity
-- Describe the capabilities of Microsoft identity and access management solutions
-- Describe the capabilities of Microsoft security solutions
-- Describe the capabilities of Microsoft compliance solutions
+  - 'Describe the concepts of security, compliance, and identity'
+  - Describe the capabilities of Microsoft identity and access management solutions
+  - Describe the capabilities of Microsoft security solutions
+  - Describe the capabilities of Microsoft compliance solutions
 roles:
-- business-user
-- student
+  - business-user
+  - student
 type: fundamentals
 products:
-- azure
-- azure-active-directory
-- azure-bastion
-- azure-blueprints
-- azure-ddos-protection
-- azure-firewall
-- azure-policy
-- azure-security-center
-- azure-sentinel
-- azure-web-application-firewall
-- m365
-- mem-intune
-- m365-ems-cloud-app-security
-- m365-threat-protection
-- m365-security-score
-- m365-security-center
-- mdatp
-- mem
-- office-365-atp
+  - azure
+  - azure-active-directory
+  - azure-bastion
+  - azure-blueprints
+  - azure-ddos-protection
+  - azure-firewall
+  - azure-policy
+  - azure-security-center
+  - azure-sentinel
+  - azure-web-application-firewall
+  - m365
+  - mem-intune
+  - m365-ems-cloud-app-security
+  - m365-threat-protection
+  - m365-security-score
+  - m365-security-center
+  - mdatp
+  - mem
+  - office-365-atp
 paths:
-- uid: learn.wwl.describe-concepts-of-security-compliance-identity
-- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
-- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
-- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+  - uid: learn.wwl.describe-concepts-of-security-compliance-identity
+  - uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+  - uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+  - uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
 courses:
-- uid: course.sc-900t00
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
+  - uid: course.sc-900t00
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7'
 exams:
-- uid: exam.sc-900
+  - uid: exam.sc-900
 resources:
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://aka.ms/traincertposter'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

@@ -25,8 +25,8 @@ Microsoft는 지속적으로 업계 동향을 모니터링하여 기술적 변�
     | 과정 번호 | 버전 | 제목 | 언어 | 사용 중지 날짜 |
     | --- | --- | --- | --- | --- |
     | AZ-303T00 | A | Microsoft Azure Architect Technologies | 영어 | 2022/03/31 |
-    | AZ-304T00 | A`| Microsoft Azure Architect Design | 영어 | 2022/03/31 |
-    | DA-100T00 | A`| Microsoft Power BI를 사용하여 데이터 분석 | 영어 | 2022/03/31 |
+    | AZ-304T00 | A | Microsoft Azure Architect Design | 영어 | 2022/03/31 |
+    | DA-100T00 | A | Microsoft Power BI를 사용하여 데이터 분석 | 영어 | 2022/03/31 |
     
 * 2022년 1월 31일 중단된 코스웨어
 

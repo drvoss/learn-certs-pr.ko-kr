@@ -2,71 +2,61 @@
 title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
-  description: Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
-  ms.openlocfilehash: 62b9709a8f406546d1c9d723eb7e2e75d7756b36
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656610"
+  description: 'Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.'
 uid: certification.m365-developer-associate
 certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 콘텐츠는 2021 년 11 월 29 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 MS-600 페이지](/learn/certifications/exams/ms-600) 에서 기술 측정 문서를 다운로드 하세요.
-
+  > 이 인증의 내용은 2021년 11월 29일에 업데이트되었습니다. [시험 MS-600 페이지](/learn/certifications/exams/ms-600)에서 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
 
   <br/>
-
   Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
 
-
   Microsoft 365 개발자는 Microsoft ID, Microsoft Graph, 그리고 Microsoft Teams용 앱 빌드에 능숙합니다. 이들은 UI 요소(Fluent UI(Office UI Fabric) 포함), 통합 지점(Office Add-ins, SharePoint Framework, Actionable Messages 포함) 및 워크로드 플랫폼 목표 결정에 대한 일반적인 지식이 있습니다.
-subTitle: Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.
+subTitle: 'Microsoft 365 개발자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리합니다.'
 levels:
-- intermediate
+  - intermediate
 skills:
-- Implement Microsoft identity
-- Build apps with Microsoft Graph
-- Extend and customize SharePoint
-- Extend Microsoft Teams
-- Extend Office
+  - Implement Microsoft identity
+  - Build apps with Microsoft Graph
+  - Extend and customize SharePoint
+  - Extend Microsoft Teams
+  - Extend Office
 roles:
-- developer
+  - developer
 type: role-based
 products:
-- m365
+  - m365
 courses:
-- uid: course.ms-600t00
+  - uid: course.ms-600t00
 paths:
-- uid: learn-m365.m365-extend-fundamental
-- uid: learn-m365.msgraph-associate
-- uid: learn-m365.identity-associate
-- uid: learn-m365.msteams-associate
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
+  - uid: learn-m365.m365-extend-fundamental
+  - uid: learn-m365.msgraph-associate
+  - uid: learn-m365.identity-associate
+  - uid: learn-m365.msteams-associate
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG'
 exams:
-- uid: exam.ms-600
+  - uid: exam.ms-600
 resources:
-- title: 인증서 학습 경로
-  description: 'Microsoft Certified: Developer Associate가 되는 데 필요한 훈련 리소스를 확인하세요.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증서 학습 경로
+    description: 'Microsoft Certified: Developer Associate가 되는 데 필요한 훈련 리소스를 확인하세요.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

@@ -3,69 +3,73 @@ title: Designing an Azure Data Solution
 metadata:
   title: '시험 DP-201: Designing an Azure Data Solution'
   description: '시험 DP-201: Designing an Azure Data Solution'
-  ms.openlocfilehash: 509a1c45b342926846df5999865085dd2c7d92bc
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659305"
 uid: exam.dp-201
 displayName: DP-201
-summary: "> [!IMPORTANT]\n> 이 시험은 2021 년 8 월 31 일에 사용이 중지 되었습니다. 대체 시험 인 DP-203를 사용할 수 있습니다. 자세한 내용은 [DP-203](/learn/certifications/exams/dp-203), 시험 세부 정보 페이지를 참조 하세요.\n> \n> 이 시험의 내용은 2020 년 7 월 31 일에 업데이트 되었습니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.\n\n본 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 설계하기 위한 데이터 요구 사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.\n\nAzure 데이터 엔지니어는 관계형 및 비관계형 데이터 저장소를 사용하는 Azure 데이터 저장소 솔루션 설계, 일괄 작업 및 실시간 데이터 처리 솔루션, 데이터 보안 및 컴플라이언스 솔루션을 포함하는 데이터 관련 과제를 담당합니다.\n\n본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 디자인해야 합니다: Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소."
+summary: |-
+  > [!IMPORTANT]
+  > 이 시험은 2021년 8월 31일에 사용 중지되었습니다. 교체 시험인 DP-203을 사용할 수 있습니다. 자세한 내용은 [DP-203](/learn/certifications/exams/dp-203) 시험 세부 정보 페이지를 참조하세요.
+  > 
+  > 이 시험의 내용은 2020년 7월 31일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
+
+  본 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 설계하기 위한 데이터 요구 사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
+
+  Azure 데이터 엔지니어는 관계형 및 비관계형 데이터 저장소를 사용하는 Azure 데이터 저장소 솔루션 설계, 일괄 작업 및 실시간 데이터 처리 솔루션, 데이터 보안 및 컴플라이언스 솔루션을 포함하는 데이터 관련 과제를 담당합니다.
+
+  본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 디자인해야 합니다: Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소.
 subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: Azure 데이터 저장소 솔루션 설계; 데이터 처리 솔루션 설계; 데이터 보안 및 규정 준수를 위한 설계.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
-practiceTestUrl: https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb'
+practiceTestUrl: 'https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
+  - ja
+  - zh-cn
+  - ko
 levels:
-- intermediate
+  - intermediate
 skills:
-- The content of this exam was updated on July 31, 2020. Please download the exam skills outline below to see what changed.
-- Design Azure data storage solutions (40-45%)
-- Design data processing solutions (25-30%)
-- Design for data security and compliance (25-30%)
+  - 'The content of this exam was updated on July 31, 2020. Please download the exam skills outline below to see what changed.'
+  - Design Azure data storage solutions (40-45%)
+  - Design data processing solutions (25-30%)
+  - Design for data security and compliance (25-30%)
 retirementDate: 08/31/2021
 roles:
-- data-engineer
+  - data-engineer
 products:
-- azure
-- azure-cosmos-db
-- azure-data-lake
-- azure-databricks
-- azure-notebooks
-- azure-stream-analytics
-- azure-sql-database
-- azure-storage
-- azure-monitor
-- azure-hdinsight
+  - azure
+  - azure-cosmos-db
+  - azure-data-lake
+  - azure-databricks
+  - azure-notebooks
+  - azure-stream-analytics
+  - azure-sql-database
+  - azure-storage
+  - azure-monitor
+  - azure-hdinsight
 exams:
-- uid: exam.dp-200
+  - uid: exam.dp-200
 resources:
-- title: 인증으로의 여정
-  description: 인증 과정
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증으로의 여정
+    description: 인증 과정
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

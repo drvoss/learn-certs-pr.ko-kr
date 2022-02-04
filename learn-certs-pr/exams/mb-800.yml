@@ -3,75 +3,81 @@ title: Microsoft Dynamics 365 Business Central Functional Consultant
 metadata:
   title: '시험 MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
   description: '시험 MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
-  ms.openlocfilehash: 71feda2aa85ce6a4fc05d4f57da91fd5b54294d2
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659030"
 uid: exam.mb-800
 displayName: MB-800
-summary: "> [!IMPORTANT]\n> 이 시험의 영어 버전은 2022년 2월 14일에 업데이트됩니다. 변경 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n이 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.\n\n응시자는 구현 팀과 협업하여 사용자 인터페이스를 운영함으로써 관리 및 탐색 용이성을 기업에게 제공합니다. 기능 컨설턴트는 Power Platform 구성 요소를 사용하여 통찰력, 단서, 작업 타일, 보고서, 차트 조정 및 Business Central 확장을 포함하여 역할 센터를 구성합니다.\n\n응시자는 재무 관리, 영업, 구매 및 재고의 기본적인 이해를 포함하여 Business Central 앱을 통해 사용자 요구를 충족시키는 지식 응용력이 있어야 합니다.\n\n본 시험의 응시자는 일반적으로 하나 이상의 Business Central 기능을 전문적으로 다룹니다. 응시자는 Dynamics 365 애플리케이션 제품군과 관련지어 Business Central의 역할을 이해합니다"
-subTitle: 이 시험은 Business Central 설정, 재무 구성, 판매 및 구매 구성, Business Central 작업 수행과 같은 기술 작업을 수행하는 능력을 측정합니다.
+summary: |-
+  > [!IMPORTANT]
+  > 이 시험의 영어 버전은 2022년 2월 14일에 업데이트됩니다. 변경 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.
+  > 
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.
+
+  이 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.
+
+  응시자는 구현 팀과 협업하여 사용자 인터페이스를 운영함으로써 관리 및 탐색 용이성을 기업에게 제공합니다. 기능 컨설턴트는 Power Platform 구성 요소를 사용하여 통찰력, 단서, 작업 타일, 보고서, 차트 조정 및 Business Central 확장을 포함하여 역할 센터를 구성합니다.
+
+  응시자는 재무 관리, 영업, 구매 및 재고의 기본적인 이해를 포함하여 Business Central 앱을 통해 사용자 요구를 충족시키는 지식 응용력이 있어야 합니다.
+
+  본 시험의 응시자는 일반적으로 하나 이상의 Business Central 기능을 전문적으로 다룹니다. 응시자는 Dynamics 365 애플리케이션 제품군과 관련지어 Business Central의 역할을 이해합니다
+subTitle: '이 시험은 Business Central 설정, 재무 구성, 판매 및 구매 구성, Business Central 작업 수행과 같은 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
-practiceTestUrl: https://in.mindhub.com/mb-800-microsoft-dynamics-365-business-central-functional-consultant-microsoft-official-practice-test/p/MU-MB-800?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE'
+practiceTestUrl: 'https://in.mindhub.com/mb-800-microsoft-dynamics-365-business-central-functional-consultant-microsoft-official-practice-test/p/MU-MB-800?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800'
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 skills:
-- The English language version of this exam will be updated on February 14, 2022. Please download the exam skills outline below to see what’s changing.
-- Set up Business Central (20-25%)
-- Configure financials (25-30%)
-- Configure sales and purchasing (10-15%)
-- Perform Business Central operations (30-35%)
+  - 'The English language version of this exam will be updated on February 14, 2022. Please download the exam skills outline below to see what’s changing.'
+  - Set up Business Central (20-25%)
+  - Configure financials (25-30%)
+  - Configure sales and purchasing (10-15%)
+  - Perform Business Central operations (30-35%)
 roles:
-- functional-consultant
+  - functional-consultant
 products:
-- dynamics-business-central
-- power-platform
+  - dynamics-business-central
+  - power-platform
 courses:
-- uid: course.mb-800t00
+  - uid: course.mb-800t00
 paths:
-- uid: learn-dynamics.get-started-dynamics-365-business-central
-- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
-- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
-- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
-- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
-- uid: learn-dynamics.use-journals-dynamics-365-business-central
-- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
-- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
-- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
-- uid: learn-dynamics.return-items-dynamics-365-business-central
-- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
-- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
+  - uid: learn-dynamics.get-started-dynamics-365-business-central
+  - uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+  - uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+  - uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+  - uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+  - uid: learn-dynamics.use-journals-dynamics-365-business-central
+  - uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+  - uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+  - uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+  - uid: learn-dynamics.return-items-dynamics-365-business-central
+  - uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+  - uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
-- related:
-    uid: certification.d365-business-central-functional-consultant-associate
+  - related:
+      uid: certification.d365-business-central-functional-consultant-associate
 resources:
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

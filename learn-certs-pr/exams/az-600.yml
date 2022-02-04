@@ -54,6 +54,12 @@ products:
   - azure-active-directory
 courses:
   - uid: course.az-600t00
+paths:
+  - uid: learn.wwl.overview-of-azure-stack-hub
+  - uid: learn.wwl.provide-services-for-azure-stack-hub
+  - uid: learn.wwl.implement-data-center-integration-for-azure-stack-hub
+  - uid: learn.wwl.manage-identity-access-for-azure-stack-hub
+  - uid: learn.wwl.manage-infrastructure-for-azure-stack-hub
 relatedCertifications:
   - related:
       uid: certification.azure-stack-hub-operator

@@ -3,68 +3,59 @@ title: Microsoft Dynamics 365 Fundamentals
 metadata:
   title: '시험 MB-900: Microsoft Dynamics 365 Fundamentals'
   description: '시험 MB-900: Microsoft Dynamics 365 Fundamentals'
-  ms.openlocfilehash: 9c18fe94e1b1316f2a7cfab73f05df60f56682a3
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137655213"
 uid: exam.mb-900
 displayName: MB-900
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2019년 12월 31일에 사용 중지되었습니다. 교체 시험인 MB-901을 사용할 수 있습니다. 자세한 내용은 [MB-901 시험 세부 정보 페이지 를 방문하세요.](/learn/certifications/exams/mb-901)
-
+  > 이 시험은 2019년 12월 31일에 사용 중지되었습니다. 대체 시험 MB-901을 사용할 수도 있습니다. 자세한 내용은 [MB-901 시험 세부 정보 페이지](/learn/certifications/exams/mb-901)를 참조하세요.
 
   본 시험은 Microsoft Dynamics 365, Power Platform 애플리케이션과 클라우드 컴퓨팅 모델에 관한 기초적인 수준의 지식을 입증하고자 하는 응시자를 위해 설계되었습니다. 시험 범위에는 Dynamics 365, Power Platform 및 일반적인 클라우드 서비스를 도입할 때 고려할 사항 및 혜택이 포함됩니다. 이 시험은 Dynamics 365 인증 및 교육의 선행 조건으로 응시할 수 있습니다.
-
 
   이 시험의 응시자는 IT(정보 기술) 환경에서 일반적인 지식 또는 관련 실무 경험을 갖추고 있어야 합니다. 응시자는 또한 기본적인 수준의 비즈니스 시나리오 및 비즈니스, 법률, IT 프로젝트에 필요한 보안 요구사항을 처리한 경험을 갖추고 있어야 합니다.
 subTitle: 이 시험은 Microsoft Dynamics 365; Power Platform; 클라우드 개념; 라이센싱 옵션; 배포 및 릴리스 옵션을 이해하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
-scheduleExamUrl: https://examregistration.microsoft.com/
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu'
+scheduleExamUrl: 'https://examregistration.microsoft.com/'
 locales:
-- en
-- ja
+  - en
+  - ja
 levels:
-- beginner
+  - beginner
 skills:
-- Understand Dynamics 365 (40-45%)
-- Understand cloud concepts (25-30%)
-- Understand deployments and releases (20-25%)
+  - Understand Dynamics 365 (40-45%)
+  - Understand cloud concepts (25-30%)
+  - Understand deployments and releases (20-25%)
 retirementDate: 12/31/2019
 roles:
-- developer
+  - developer
 products:
-- dynamics-365
+  - dynamics-365
 courses:
-- uid: course.mb-900t01
+  - uid: course.mb-900t01
 paths:
-- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+  - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 relatedCertifications:
-- related:
-    uid: certification.d365-fundamentals
+  - related:
+      uid: certification.d365-fundamentals
 resources:
-- title: 인증서 학습 경로
-  description: 'Microsoft Certified: Dynamics 365 Fundamentals가 되기 위한 교육 리소스를 살펴보세요.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 'Microsoft Certified: Dynamics 365 Fundamentals가 되기 위한 교육 리소스를 살펴보세요.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

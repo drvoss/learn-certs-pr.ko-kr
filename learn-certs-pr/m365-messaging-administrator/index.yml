@@ -2,63 +2,54 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
-  ms.openlocfilehash: 4c7f07bf9a6d15996217693bb1f680b13af6b89b
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658876"
+  description: 'Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.'
 uid: certification.m365-messaging-administrator
 certificationRenewalUid: renewal.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 콘텐츠는 2021 년 11 월 30 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 MS-203 페이지](/learn/certifications/exams/ms-203) 에서 기술 측정 문서를 다운로드 하세요.
-
+  > 이 인증의 내용은 2021년 11월 30일에 업데이트되었습니다. 시험 [MS-203 페이지](/learn/certifications/exams/ms-203)에서 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
 
   <br/>
-
   Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
-subTitle: Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.
+subTitle: 'Microsoft 365 메시지 관리자는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 규정 준수, 위협 방지, 메일 흐름을 배포, 구성, 관리, 문제 해결, 모니터링합니다.'
 levels:
-- intermediate
+  - intermediate
 skills:
-- Manage organizational settings and resources
-- Plan and manage the mail transport architecture
-- Plan and implement a hybrid configuration and migration
-- Secure the messaging environment
+  - Manage organizational settings and resources
+  - Plan and manage the mail transport architecture
+  - Plan and implement a hybrid configuration and migration
+  - Secure the messaging environment
 roles:
-- administrator
+  - administrator
 type: role-based
 products:
-- m365
+  - m365
 paths:
-- uid: learn-m365.m365-messaging-hybrid-migration
-- uid: learn-m365.m365-messaging-architecture
-- uid: learn-m365.m365-messaging-secure-environment
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
+  - uid: learn-m365.m365-messaging-hybrid-migration
+  - uid: learn-m365.m365-messaging-architecture
+  - uid: learn-m365.m365-messaging-secure-environment
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd'
 courses:
-- uid: course.ms-203t00
+  - uid: course.ms-203t00
 exams:
-- uid: exam.ms-203
+  - uid: exam.ms-203
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

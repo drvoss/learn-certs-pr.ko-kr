@@ -3,81 +3,68 @@ title: Microsoft Azure Solutions Architect 인증 변환
 metadata:
   title: '시험 AZ-302: Microsoft Azure Solutions Architect Certification Transition'
   description: '시험 AZ-302: Microsoft Azure Solutions Architect Certification Transition'
-  ms.openlocfilehash: 86d6157657e90bbdc737ec58e6018224db1808c0
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658425"
 uid: exam.az-302
 displayName: AZ-302
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2019년 6월 30일 사용 중지되었습니다. 참고&#58; 시험 사용이 오후 11시 59분 중부 표준시
-
+  > 이 시험은 2019년 6월 30일에 사용 중지되었습니다. 참고: 시험은 중앙 표준시 오후 11시 59분에 사용 중지됩니다.
 
   이 시험은 [시험 70-535](https://www.microsoft.com/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions에 응시한 응시자만을 대상으로 합니다. 시험 535에 응시하지 않은 응시자는 이 시험에 응시하더라도 인증을 취득할 수 없습니다.
 
-
   전환 시험은 새로운 역할 기반 인증 시험으로 대체될 기존 시험을 통과하여 해당 분야에서 기술을 이미 입증한 사람들을 대상으로 합니다. 여기에는 현재 인증과 새 인증을 취득한 사람이 할 수 있으리라 예상되는 사항 간 차이점이 해당됩니다. 기존 시험을 통과하여 이미 능력을 입증한 사람을 동일한 내용으로 다시 테스트하는 것을 원하지 않습니다.
-
 
   전환 시험의 범위에는 완전히 새로운 내용이나, 충분히 깊이 있게 다루어지지 않은 내용 및 기존 시험을 치른 이후 변경되었을만한 기술적 내용 포함됩니다. 결과적으로 전환 시험은 일반 시험보다 짧지는 않지만 기존 시험이나 인증에서 평가되지 않았거나 변경된 핵심 과제 및 기술에 더 중점을 둡니다.
 
-
   이 시험의 응시자는 이해 관계자에게 조언하고 비즈니스 요구 사항을 안전하고 확장 가능하며 신뢰할 수 있는 솔루션으로 변환하는 Azure 솔루션 아키텍처입니다.
 
-
   응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 관리, 예산 및 거버넌스와 같은 IT 운영의 다양한 측면에 대한 고급 경험과 지식을 갖추고 있어야 합니다. 이 역할은 각 영역의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다.
-
 
   응시자는 Azure 관리, Azure 개발 및 DevOps에 능숙해야 하며 해당 도메인 중 하나 이상에서 전문가 수준의 기술을 보유하고 있어야 합니다.
 subTitle: '이 시험은 시험 70-535: Architecting Microsoft Azure Solutions에 응시한 응시자만을 대상으로 합니다. 시험 535에 응시하지 않은 응시자는 이 시험에 응시하더라도 인증을 취득할 수 없습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwC
-scheduleExamUrl: https://examregistration.microsoft.com/
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwC'
+scheduleExamUrl: 'https://examregistration.microsoft.com/'
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 skills:
-- Determine workload requirements (15-20%)
-- Design for identity and security (5-10%)
-- Design a business continuity strategy (15-20%)
-- Implement workloads and security (5-10%)
-- Develop for the cloud (45-50%)
-- Implement authentication and secure data (5-10%)
+  - Determine workload requirements (15-20%)
+  - Design for identity and security (5-10%)
+  - Design a business continuity strategy (15-20%)
+  - Implement workloads and security (5-10%)
+  - Develop for the cloud (45-50%)
+  - Implement authentication and secure data (5-10%)
 retirementDate: 06/30/2019
 roles:
-- solution-architect
+  - solution-architect
 products:
-- azure
+  - azure
 exams:
-- uid: exam.az-300
-- uid: exam.az-301
+  - uid: exam.az-300
+  - uid: exam.az-301
 relatedCertifications:
-- related:
-    uid: certification.azure-solutions-architect
+  - related:
+      uid: certification.azure-solutions-architect
 resources:
-- title: 인증서 학습 경로
-  description: 'Microsoft Certified: Azure Solutions Architect Expert가 되기 위한 교육 리소스를 살펴보세요.'
-  href: https://aka.ms/AzureArchitectInfographic
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 'Microsoft Certified: Azure Solutions Architect Expert가 되기 위한 교육 리소스를 살펴보세요.'
+    href: 'https://aka.ms/AzureArchitectInfographic'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

@@ -2,110 +2,95 @@
 title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
-  description: Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니채널 메시징을 표준화하며 마케팅 인사이트를 제공하는 솔루션을 구현합니다.
-  ms.openlocfilehash: b7670f0b3a3fb9d4396b78c2097158fadc47c983
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658733"
+  description: 'Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니채널 메시징을 표준화하며 마케팅 인사이트를 제공하는 솔루션을 구현합니다.'
 uid: certification.d365-functional-consultant-marketing
 certificationRenewalUid: renewal.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 내용은 최근에 업데이트되었습니다. [시험 MB-220은 2021년](/learn/certifications/exams/mb-220) 7월 9일에 업데이트되었으며 [PL-200 검사는 2021년](/learn/certifications/exams/pl-200) 10월 1일에 업데이트되었습니다. 관련 시험 페이지에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
-
+  > 이 인증의 콘텐츠가 최근에 업데이트되었습니다. [시험 MB-220](/learn/certifications/exams/mb-220)은 2021년 7월 9일에 업데이트되었으며, 시험 [PL-200](/learn/certifications/exams/pl-200)은 2021년 10월 1일에 업데이트되었습니다. 관련 시험 페이지에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
 
   <br/>
-
   기능 컨설턴트, 조직의 일상적인 비즈니스 운영에서 Microsoft Dynamics 365 Marketing을 사용하는 전문가 또는 컨설팅 기술을 향상하려는 개발자인 경우 이 인증을 통해 경력을 향상하고 프로젝트 및 승진에 더 효과적인 위치를 차지할 수 있습니다.
-
 
   이 인증의 응시자는 Dynamics 365 모델 기반 애플리케이션 및 데이터 모델링 원칙을 알고 있으며 Microsoft Power Platform을 구성할 수 있습니다. 캠페인, 메일, 고객 여정과 같은 마케팅 이니셔티브를 구현합니다. 조직의 관련자와 협업하여 요구 사항을 수집하고 Dynamics 365 Marketing 솔루션을 구현한 경험이 있습니다. 또한 Dynamics 365 Marketing을 구성하고 Dynamics 365 조직 보안을 설정합니다. Power Automate 및 Power Apps와 같은 Power Platform 구성 요소를 사용하여 Dynamics 365 솔루션을 확장할 수도 있습니다.
 
-
   이 인증을 취득하기 위해 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이 있습니다.
-
   - Dynamics 365 모델 기반 앱 구현 프로젝트에서 작업합니다.
-
   - Dynamics 365 Marketing을 사용하는 기능 컨설턴트 또는 솔루션 설계자에게서 배웁니다.
-
   - Microsoft Learn에서 제공하는 학습 경로를 활용합니다.
-
   - 강사 진행 교육 과정에 등록합니다.
-subTitle: Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니채널 메시징을 표준화하며 마케팅 인사이트를 제공하는 솔루션을 구현합니다.
+subTitle: 'Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니채널 메시징을 표준화하며 마케팅 인사이트를 제공하는 솔루션을 구현합니다.'
 levels:
-- intermediate
+  - intermediate
 skills:
-- Configure marketing applications
-- Manage segments and lists
-- Create and manage marketing forms and pages
-- Manage leads, contacts, and accounts
-- Create and manage marketing emails
-- Manage customer journeys
-- Manage events and webinars
-- Configure Dynamics 365 Customer Voice
-- Configure Microsoft Dataverse
-- Create apps by using Microsoft Power Apps
-- Create and manage Microsoft Power Automate
-- Implement Microsoft Power Virtual Agents chatbots
-- Integrate Microsoft Power Apps with other apps and services
-- Manage solutions
+  - Configure marketing applications
+  - Manage segments and lists
+  - Create and manage marketing forms and pages
+  - 'Manage leads, contacts, and accounts'
+  - Create and manage marketing emails
+  - Manage customer journeys
+  - Manage events and webinars
+  - Configure Dynamics 365 Customer Voice
+  - Configure Microsoft Dataverse
+  - Create apps by using Microsoft Power Apps
+  - Create and manage Microsoft Power Automate
+  - Implement Microsoft Power Virtual Agents chatbots
+  - Integrate Microsoft Power Apps with other apps and services
+  - Manage solutions
 roles:
-- functional-consultant
+  - functional-consultant
 type: role-based
 products:
-- dynamics-365
-- dynamics-marketing
+  - dynamics-365
+  - dynamics-marketing
 courses:
-- uid: course.pl-200t00
-- uid: course.mb-220t00
+  - uid: course.pl-200t00
+  - uid: course.mb-220t00
 paths:
-- uid: learn-dynamics.get-started-using-common-data-service
-- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
-- uid: learn-bizapps.create-powerapps
-- uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-bizapps.create-business-process-flow
-- uid: learn-bizapps.automate-process-using-flow
-- uid: learn-bizapps.get-started-power-automate-buttons
-- uid: learn-bizapps.best-practices-environments
-- uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
-- uid: learn-bizapps.work-power-virtual-agents
-- uid: learn-bizapps.bring-ai
-- uid: learn-bizapps.improve-business-performance-ai-builder
-- uid: learn-dynamics.set-up-dynamics-365-marketing
-- uid: learn-dynamics.work-core-features-marketing
-- uid: learn-dynamics.manage-events-dynamics-marketing
-- uid: learn-dynamics.analyze-marketing-insights
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
+  - uid: learn-dynamics.get-started-using-common-data-service
+  - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+  - uid: learn-bizapps.create-powerapps
+  - uid: learn-bizapps.create-app-models-business-processes
+  - uid: learn-bizapps.create-business-process-flow
+  - uid: learn-bizapps.automate-process-using-flow
+  - uid: learn-bizapps.get-started-power-automate-buttons
+  - uid: learn-bizapps.best-practices-environments
+  - uid: learn-bizapps.create-use-analytics-reports-power-bi
+  - uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+  - uid: learn-bizapps.work-power-virtual-agents
+  - uid: learn-bizapps.bring-ai
+  - uid: learn-bizapps.improve-business-performance-ai-builder
+  - uid: learn-dynamics.set-up-dynamics-365-marketing
+  - uid: learn-dynamics.work-core-features-marketing
+  - uid: learn-dynamics.manage-events-dynamics-marketing
+  - uid: learn-dynamics.analyze-marketing-insights
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1'
 exams:
-- uid: exam.pl-200
-- uid: exam.mb-220
+  - uid: exam.pl-200
+  - uid: exam.mb-220
 resources:
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 인증으로의 여정
-  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: 인증으로의 여정
+    description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증서 학습 경로
+    description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

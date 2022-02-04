@@ -3,111 +3,118 @@ title: Microsoft Power Platform App Maker
 metadata:
   title: '시험 PL-100: Microsoft Power Platform App Maker'
   description: '시험 PL-100: Microsoft Power Platform App Maker'
-  ms.openlocfilehash: f11a35e1a8fdefa049556e9643af3cd34931a7d0
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658601"
 uid: exam.pl-100
 displayName: PL-100
-summary: "> [!NOTE]\n> 제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 다시 브랜딩하기 위한 노력을 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일부터 시험에서 반영됩니다.\n> \n> [!IMPORTANT]\n> 이 시험의 내용은 2021년 7월 23일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n\n<br/>  \n응시자는 자신과 팀을 위해 작업과 프로세스를 단순화하고 자동화하는 솔루션을 구상하고 만듭니다. 응시자는 사용하는 데이터, 해결해야 하는 문제, 필요한 프로세스, 앱 환경을 이해합니다. 응시자는 정식 IT 교육을 받지 않았지만 기술을 사용하여 비즈니스 문제를 해결하는 데 익숙할 수 있습니다.\n\n응시자는 자기 주도적이고 솔루션에 집중합니다. Microsoft Teams, Microsoft 365 앱 및 서비스, 타사 솔루션을 포함한 앱의 기능에 연결하고 사용할 수 있습니다. 응시자는 사용 가능한 도구의 기능 및 제한 사항과 이를 적용하는 방법을 이해하려고 합니다. 응시자는 Power Platform 솔루션의 옹호자입니다.\n\n이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요."
+summary: |-
+  > [!NOTE]
+  > 제품 팀은 최근 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 노력을 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다. 이 변경 내용은 2021년 11월 24일 시험에 반영됩니다.
+  > 
+  > [!IMPORTANT]
+  > 이 시험의 내용은 2021년 7월 23일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
+
+  <br/>  
+  응시자는 자신과 팀을 위해 작업과 프로세스를 단순화하고 자동화하는 솔루션을 구상하고 만듭니다. 응시자는 사용하는 데이터, 해결해야 하는 문제, 필요한 프로세스, 앱 환경을 이해합니다. 응시자는 정식 IT 교육을 받지 않았지만 기술을 사용하여 비즈니스 문제를 해결하는 데 익숙할 수 있습니다.
+
+  <br/>
+  응시자는 자기 주도적이고 솔루션에 집중합니다. Microsoft Teams, Microsoft 365 앱 및 서비스, 타사 솔루션을 포함한 앱의 기능에 연결하고 사용할 수 있습니다. 응시자는 사용 가능한 도구의 기능 및 제한 사항과 이를 적용하는 방법을 이해하려고 합니다. 응시자는 Power Platform 솔루션의 옹호자입니다.
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 비즈니스 솔루션 디자인; 솔루션 만들기; 및 데이터를 분석하고 시각화합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
-practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07'
+practiceTestUrl: 'https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-100&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=PL-100&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100'
 locales:
-- en
-- ja
+  - en
+  - ja
 levels:
-- intermediate
+  - intermediate
 skills:
-- The content of this exam was updated on July 23, 2021. Please download the exam skills outline below to see what changed.
-- Design business solutions (35-40%)
-- Create solutions (45-50%)
-- Analyze and visualize data (15-20%)
+  - 'The content of this exam was updated on July 23, 2021. Please download the exam skills outline below to see what changed.'
+  - Design business solutions (35-40%)
+  - Create solutions (45-50%)
+  - Analyze and visualize data (15-20%)
 roles:
-- business-analyst
-- business-owner
-- business-user
-- data-analyst
-- developer
-- devops-engineer
-- functional-consultant
-- maker
-- technology-manager
+  - business-analyst
+  - business-owner
+  - business-user
+  - data-analyst
+  - developer
+  - devops-engineer
+  - functional-consultant
+  - maker
+  - technology-manager
 products:
-- dynamics-365
-- office
-- office-access
-- office-excel
-- office-exchange-server
-- office-365
-- office-365-atp
-- office-add-ins
-- office-onedrive
-- office-onenote
-- office-outlook
-- office-planner
-- office-powerpoint
-- office-project
-- office-project-server
-- office-publisher
-- office-sp
-- office-sp-designer
-- office-teams
-- office-visio
-- office-word
-- power-platform
-- ai-builder
-- common-data-service
-- power-automate
-- power-bi
-- power-apps
-- power-virtual-agents
+  - dynamics-365
+  - office
+  - office-access
+  - office-excel
+  - office-exchange-server
+  - office-365
+  - office-365-atp
+  - office-add-ins
+  - office-onedrive
+  - office-onenote
+  - office-outlook
+  - office-planner
+  - office-powerpoint
+  - office-project
+  - office-project-server
+  - office-publisher
+  - office-sp
+  - office-sp-designer
+  - office-teams
+  - office-visio
+  - office-word
+  - power-platform
+  - ai-builder
+  - common-data-service
+  - power-automate
+  - power-bi
+  - power-apps
+  - power-virtual-agents
 courses:
-- uid: course.pl-100t00
+  - uid: course.pl-100t00
 paths:
-- uid: learn-bizapps.create-powerapps
-- uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-bizapps.automate-process-using-flow
-- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
-- uid: learn-dynamics.get-started-using-common-data-service
-- uid: learn-bizapps.understand-advanced-topics
-- uid: learn-bizapps.best-practices-environments
-- uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.bring-ai
-- uid: learn-bizapps.ui-controls-canvas-app-powerapps
-- uid: learn-bizapps.create-business-process-flow
-- uid: learn-bizapps.work-power-platform-teams
+  - uid: learn-bizapps.create-powerapps
+  - uid: learn-bizapps.create-app-models-business-processes
+  - uid: learn-bizapps.automate-process-using-flow
+  - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+  - uid: learn-dynamics.get-started-using-common-data-service
+  - uid: learn-bizapps.understand-advanced-topics
+  - uid: learn-bizapps.best-practices-environments
+  - uid: learn-bizapps.create-use-analytics-reports-power-bi
+  - uid: learn-bizapps.bring-ai
+  - uid: learn-bizapps.ui-controls-canvas-app-powerapps
+  - uid: learn-bizapps.create-business-process-flow
+  - uid: learn-bizapps.work-power-platform-teams
 relatedCertifications:
-- related:
-    uid: certification.power-platform-app-maker
+  - related:
+      uid: certification.power-platform-app-maker
 resources:
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

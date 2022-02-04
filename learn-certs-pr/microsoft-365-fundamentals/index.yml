@@ -3,68 +3,59 @@ title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
   title: 'Microsoft 365 Certified: Fundamentals'
   description: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
-  ms.openlocfilehash: 4a9e0e5e6cc339d824f1b30414a61a493bb0a0b0
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659195"
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: >-
-  > [!NOTE]
-
-  > 이 인증의 콘텐츠는 2021 년 10 월 25 일에 업데이트 되었습니다. 변경 된 내용을 확인 하려면 [시험 MS-900](/learn/certifications/exams/ms-900) 페이지에서 기술 측정 문서를 다운로드 하세요.
-
+summary: |-
+  > [!IMPORTANT]
+  > 이 인증의 내용은 2021년 10월 25일에 업데이트되었습니다. [시험 MS-900](/learn/certifications/exams/ms-900) 페이지에서 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
 
   <br/>
-
   Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 subTitle: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 levels:
-- beginner
+  - beginner
 skills:
-- Describe cloud concepts
-- Describe core Microsoft 365 services and concepts
-- Explain security, compliance, privacy, and trust in Microsoft 365
-- Describe Microsoft 365 pricing and support
+  - Describe cloud concepts
+  - Describe core Microsoft 365 services and concepts
+  - 'Explain security, compliance, privacy, and trust in Microsoft 365'
+  - Describe Microsoft 365 pricing and support
 roles:
-- business-user
-- administrator
+  - business-user
+  - administrator
 type: fundamentals
 products:
-- m365
-- windows
-- office-365
+  - m365
+  - windows
+  - office-365
 courses:
-- uid: course.ms-900t01
+  - uid: course.ms-900t01
 paths:
-- uid: learn.wwl.m365-productivity-teamwork-solutions
-- uid: learn.wwl.m365-business-management-solutions
-- uid: learn.wwl.m365-security-compliance-capabilities
-- uid: learn.wwl.m365-licensing-service-support
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
+  - uid: learn.wwl.m365-productivity-teamwork-solutions
+  - uid: learn.wwl.m365-business-management-solutions
+  - uid: learn.wwl.m365-security-compliance-capabilities
+  - uid: learn.wwl.m365-licensing-service-support
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj'
 exams:
-- uid: exam.ms-900
+  - uid: exam.ms-900
 resources:
-- title: 인증서 학습 경로
-  description: 'Microsoft Certified: Fundamentals가 되기 위한 교육 리소스를 찾아보세요.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증서 학습 경로
+    description: 'Microsoft Certified: Fundamentals가 되기 위한 교육 리소스를 찾아보세요.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md
