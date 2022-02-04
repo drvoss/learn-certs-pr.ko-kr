@@ -3,69 +3,75 @@ title: 교실 및 온라인 교육 찾기
 metadata:
   title: '시험 MS-700: Managing Microsoft Teams'
   description: '시험 MS-700: Managing Microsoft Teams'
-  ms.openlocfilehash: 4e9608ac118327367799e835a0cd428c1beb2c61
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658172"
 uid: exam.ms-700
 displayName: MS-700
-summary: "> [!IMPORTANT]\n> 이 시험의 내용은 2021 년 9 월 24 일에 업데이트 되었습니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.\n\n이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다. 응시자는 Microsoft Teams와 SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform을 포함한 기타 워크로드, 그리고 기타 Microsoft 앱, 타사 앱 및 사용자 지정 앱에 통합한 경험이 있어야 합니다.\n\n또한 Microsoft Teams 관리자는 네트워킹, 전화 통신, 라이선스, 보안, 규정 준수, 사용자 채택, 앱 개발 및 지원과 같은 다른 기능과 협업합니다.\n\n이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요."
+summary: |-
+  > [!IMPORTANT]
+  > 이 시험의 내용은 2021년 9월 24일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
+  > 
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.
+
+  이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.
+
+  이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다. 응시자는 Microsoft Teams와 SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform을 포함한 기타 워크로드, 그리고 기타 Microsoft 앱, 타사 앱 및 사용자 지정 앱에 통합한 경험이 있어야 합니다.
+
+  또한 Microsoft Teams 관리자는 네트워킹, 전화 통신, 라이선스, 보안, 규정 준수, 사용자 채택, 앱 개발 및 지원과 같은 다른 기능과 협업합니다.
+
+  이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
 subTitle: '이 시험은 다음의 기술 작업을 수행하는 능력은 측정합니다: Microsoft Teams 환경 계획 및 구성; 채팅, 팀, 채널, 및 앱 관리; 통화 및 회의 관리; 및 Microsoft Teams 환경을 모니터링하고 문제를 해결합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
-practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF'
+practiceTestUrl: 'https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700'
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 skills:
-- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
-- Plan and configure a Microsoft Teams environment (35-40%)
-- Manage chat, teams, channels, and apps (25-30%)
-- Manage calling and meetings (15-20%)
-- Monitor and troubleshoot a Microsoft Teams environment (10-15%)
+  - 'The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.'
+  - Plan and configure a Microsoft Teams environment (35-40%)
+  - 'Manage chat, teams, channels, and apps (25-30%)'
+  - Manage calling and meetings (15-20%)
+  - Monitor and troubleshoot a Microsoft Teams environment (10-15%)
 roles:
-- administrator
+  - administrator
 products:
-- m365
-- office-teams
+  - m365
+  - office-teams
 courses:
-- uid: course.ms-700t00
+  - uid: course.ms-700t00
 paths:
-- uid: learn.wwl.get-started-managing-microsoft-teams
-- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
-- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
-- uid: learn.wwl.manage-meetings-calling-microsoft-teams
+  - uid: learn.wwl.get-started-managing-microsoft-teams
+  - uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+  - uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+  - uid: learn.wwl.manage-meetings-calling-microsoft-teams
 relatedCertifications:
-- related:
-    uid: certification.m365-teams-administrator-associate
+  - related:
+      uid: certification.m365-teams-administrator-associate
 resources:
-- title: 인증서 학습 경로
-  description: 'Microsoft Certified: Teams Administrator Associate가 되는 데 필요한 학습 자료를 찾아 보세요.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 'Microsoft Certified: Teams Administrator Associate가 되는 데 필요한 학습 자료를 찾아 보세요.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

@@ -3,72 +3,76 @@ title: Microsoft Dynamics 365 Field Service Functional Consultant
 metadata:
   title: '시험 MB-240: Microsoft Dynamics 365 Field Service Functional Consultant'
   description: '시험 MB-240: Microsoft Dynamics 365 Field Service Functional Consultant'
-  ms.openlocfilehash: 4bd8472449f97f5aabd514718a59a447069a9489
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658392"
 uid: exam.mb-240
 displayName: MB-240
-summary: "> [!IMPORTANT]\n> 이 시험의 내용은 2021년 11월 12일에 업데이트되었습니다. 변경된 내용을 보려면 아래의 기술 측정 문서를 다운로드하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n이 시험의 응시자는 Microsoft Dynamics 365 Field Service 기능 컨설턴트입니다. 응시자는 현장 서비스 수명 주기를 완료하는 리소스 관리 솔루션 구현을 담당합니다.\n\n이러한 전문가는 내부 및 외부 팀과 협력하여 설계된 현장 서비스 프로세스를 구현합니다. 이 협업에는 Field Service 애플리케이션의 기본 관리 영역 구성, Connected Field Service(IoT) 솔루션 및 모바일 앱 배포, 필요한 추가 사용자 지정 구현이 포함됩니다. 응시자는 핵심 고객 서비스 애플리케이션과 결합하여 Field Service 앱의 구성 및 배포를 담당하는 업무를 담당합니다.\n\n응시자는 리소스, 특성, 인시던트 유형, 인벤토리 통합, 서비스 계약, 리소스 예약, 작업 주문, 검사, 서비스 작업, 현장 서비스 사용자 역할, 현장 서비스 설정, Connected Field Service(IoT) 솔루션 및 Field Service(Dynamics 365) 모바일 앱을 구성하는 방법을 알고 있어야 합니다. 또한 Field Service 앱의 구성 요소를 사용자 지정하는 방법도 알고 있어야 합니다."
-subTitle: 이 시험은 현장 서비스 애플리케이션 구성, 작업 주문 관리, 작업 주문 예약 및 발송, Field Service(Dynamics 365) 모바일 앱 관리, 재고 및 구매 관리, 자산 및 연결된 디바이스 구현과 같은 기술적 과제를 수행하는 능력을 측정합니다.
+summary: |-
+  > [!IMPORTANT]
+  > 이 시험의 내용은 2021년 11월 12일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
+  > 
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.
+
+  이 시험의 응시자는 Microsoft Dynamics 365 Field Service 기능 컨설턴트입니다. 응시자는 현장 서비스 수명 주기를 완료하는 리소스 관리 솔루션 구현을 담당합니다.
+
+  이러한 전문가는 내부 및 외부 팀과 협력하여 설계된 현장 서비스 프로세스를 구현합니다. 이 협업에는 Field Service 애플리케이션의 기본 관리 영역 구성, Connected Field Service(IoT) 솔루션 및 모바일 앱 배포, 필요한 추가 사용자 지정 구현이 포함됩니다. 응시자는 핵심 고객 서비스 애플리케이션과 결합하여 Field Service 앱의 구성 및 배포를 담당하는 업무를 담당합니다.
+
+  응시자는 리소스, 특성, 인시던트 유형, 인벤토리 통합, 서비스 계약, 리소스 예약, 작업 주문, 검사, 서비스 작업, 현장 서비스 사용자 역할, 현장 서비스 설정, Connected Field Service(IoT) 솔루션 및 Field Service(Dynamics 365) 모바일 앱을 구성하는 방법을 알고 있어야 합니다. 또한 Field Service 앱의 구성 요소를 사용자 지정하는 방법도 알고 있어야 합니다.
+subTitle: '이 시험은 현장 서비스 애플리케이션 구성, 작업 주문 관리, 작업 주문 예약 및 발송, Field Service(Dynamics 365) 모바일 앱 관리, 재고 및 구매 관리, 자산 및 연결된 디바이스 구현과 같은 기술적 과제를 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-practiceTestUrl: https://www.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi'
+practiceTestUrl: 'https://www.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240'
 locales:
-- en
-- ja
+  - en
+  - ja
 levels:
-- intermediate
+  - intermediate
 skills:
-- The content of this exam was updated on November 12, 2021. Please download the exam skills outline below to see what changed.
-- Configure field service applications (20-25%)
-- Manage work orders (25-30%)
-- Schedule and dispatch work orders (20-25%)
-- Manage the Field Service (Dynamics 365) mobile app (10-15%)
-- Manage inventory and purchasing (5-10%)
-- Implement assets and connected devices (10-15%)
+  - 'The content of this exam was updated on November 12, 2021. Please download the exam skills outline below to see what changed.'
+  - Configure field service applications (20-25%)
+  - Manage work orders (25-30%)
+  - Schedule and dispatch work orders (20-25%)
+  - Manage the Field Service (Dynamics 365) mobile app (10-15%)
+  - Manage inventory and purchasing (5-10%)
+  - Implement assets and connected devices (10-15%)
 roles:
-- functional-consultant
+  - functional-consultant
 products:
-- dynamics-365
-- dynamics-field-service
+  - dynamics-365
+  - dynamics-field-service
 exams:
-- uid: exam.pl-200
+  - uid: exam.pl-200
 courses:
-- uid: course.mb-240t00
+  - uid: course.mb-240t00
 paths:
-- uid: learn-bizapps.implementing-dyn365-field-service
-- uid: learn-dynamics.manage-work-orders
-- uid: learn-bizapps.connected-field-service
-- uid: learn-dynamics.solve-problems-remote-assist
+  - uid: learn-bizapps.implementing-dyn365-field-service
+  - uid: learn-dynamics.manage-work-orders
+  - uid: learn-bizapps.connected-field-service
+  - uid: learn-dynamics.solve-problems-remote-assist
 relatedCertifications:
-- related:
-    uid: certification.d365-functional-consultant-field-service
+  - related:
+      uid: certification.d365-functional-consultant-field-service
 resources:
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

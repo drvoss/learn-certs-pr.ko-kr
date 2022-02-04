@@ -3,96 +3,102 @@ title: Configuring and Operating Microsoft Azure Virtual Desktop
 metadata:
   title: '시험 AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
   description: '시험 AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
-  ms.openlocfilehash: c842d4ad839ad5a02846448c643c261a3050f78f
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137657457"
 uid: exam.az-140
 displayName: AZ-140
-summary: "> [!IMPORTANT]\n> 이 시험의 내용은 2021 년 11 월 22 일에 업데이트 되었습니다. 아래의 기술 자료 문서를 다운로드 하 여 변경 내용을 확인 하세요.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.\n\n이 시험의 대상자는 Azure의 디바이스를 위해 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 전문 기술이 있는 관리자입니다.\n\n이 역할의 대표적인 책임은 가상 데스크톱 환경 및 앱을 Azure에 배포하는 것입니다. 이 역할을 수행하는 전문가는 Azure Virtual Desktop에 애플리케이션을 제공하고 다중 세션 가상 환경에서 실행되도록 최적화합니다. 이러한 환경을 제공하기 위해 Azure 관리자와 아키텍트 및 Microsoft 365 관리자와 긴밀하게 협력합니다.\n\n시험 응시자는 가상화, 네트워킹, ID, 스토리지, 백업, 복원력, 재해 복구 등을 포함한 Azure 기술에 대한 경험이 있어야 합니다. Azure Virtual Desktop으로의 마이그레이션과 관련된 온-프레미스 가상 데스크톱 인프라 기술을 이해해야 합니다. 이 전문가 집단은 Azure Portal 및 Azure Resource Manager 템플릿을 사용하여 많은 작업을 수행합니다. 이 역할은 보다 효율적인 자동화를 위해 PowerShell 및 CLI(Azure 명령줄 인터페이스)를 사용하기도 합니다.\n\n이 시험의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 관리자들입니다."
-subTitle: 이 시험은 Azure Virtual Desktop Architecture 계획, Azure Virtual Desktop Infrastructure 구현, 액세스 및 보안 관리, 사용자 환경 및 앱 관리, Azure Virtual Desktop infrastructure 모니터링 및 유지 관리라는 기술 작업을 수행하는 능력을 측정합니다.
+summary: |-
+  > [!IMPORTANT]
+  > 이 시험의 내용은 2021년 11월 22일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
+  > 
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요.
+
+  이 시험의 대상자는 Azure의 디바이스를 위해 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 전문 기술이 있는 관리자입니다.
+
+  이 역할의 대표적인 책임은 가상 데스크톱 환경 및 앱을 Azure에 배포하는 것입니다. 이 역할을 수행하는 전문가는 Azure Virtual Desktop에 애플리케이션을 제공하고 다중 세션 가상 환경에서 실행되도록 최적화합니다. 이러한 환경을 제공하기 위해 Azure 관리자와 아키텍트 및 Microsoft 365 관리자와 긴밀하게 협력합니다.
+
+  시험 응시자는 가상화, 네트워킹, ID, 스토리지, 백업, 복원력, 재해 복구 등을 포함한 Azure 기술에 대한 경험이 있어야 합니다. Azure Virtual Desktop으로의 마이그레이션과 관련된 온-프레미스 가상 데스크톱 인프라 기술을 이해해야 합니다. 이 전문가 집단은 Azure Portal 및 Azure Resource Manager 템플릿을 사용하여 많은 작업을 수행합니다. 이 역할은 보다 효율적인 자동화를 위해 PowerShell 및 CLI(Azure 명령줄 인터페이스)를 사용하기도 합니다.
+
+  이 시험의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 관리자들입니다.
+subTitle: '이 시험은 Azure Virtual Desktop Architecture 계획, Azure Virtual Desktop Infrastructure 구현, 액세스 및 보안 관리, 사용자 환경 및 앱 관리, Azure Virtual Desktop infrastructure 모니터링 및 유지 관리라는 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
-practiceTestUrl: https://in.mindhub.com/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-microsoft-official-practice-test/p/MU-AZ-140?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST'
+practiceTestUrl: 'https://in.mindhub.com/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-microsoft-official-practice-test/p/MU-AZ-140?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140'
 locales:
-- en
-- ja
-- zh-cn
-- ko
-- fr
-- de
-- es
-- pt-br
-- ru
-- ar-sa
-- zh-tw
-- it
+  - en
+  - ja
+  - zh-cn
+  - ko
+  - fr
+  - de
+  - es
+  - pt-br
+  - ru
+  - ar-sa
+  - zh-tw
+  - it
 levels:
-- intermediate
+  - intermediate
 skills:
-- The content of this exam was updated on November 22, 2021. Please download the exam skills outline below to see what changed.
-- Plan an Azure Virtual Desktop architecture (10-15%)
-- Implement an Azure Virtual Desktop infrastructure (25-30%)
-- Manage access and security (10-15%)
-- Manage user environments and apps (20-25%)
-- Monitor and maintain an Azure Virtual Desktop infrastructure (20-25%)
+  - 'The content of this exam was updated on November 22, 2021. Please download the exam skills outline below to see what changed.'
+  - Plan an Azure Virtual Desktop architecture (10-15%)
+  - Implement an Azure Virtual Desktop infrastructure (25-30%)
+  - Manage access and security (10-15%)
+  - Manage user environments and apps (20-25%)
+  - Monitor and maintain an Azure Virtual Desktop infrastructure (20-25%)
 roles:
-- administrator
+  - administrator
 products:
-- azure
-- azure-active-directory
-- azure-active-directory-domain
-- azure-virtual-machines
-- azure-virtual-machines-windows
-- azure-netapp-files
-- azure-files
-- azure-bastion
-- azure-portal
-- windows-server
-- azure-clis
-- azure-resource-manager
-- azure-rbac
-- azure-policy
-- azure-security-center
-- m365-security-center
-- mem
-- office-onedrive
-- office-teams
-- azure-monitor
-- azure-advisor
-- azure-virtual-desktop
+  - azure
+  - azure-active-directory
+  - azure-active-directory-domain
+  - azure-virtual-machines
+  - azure-virtual-machines-windows
+  - azure-netapp-files
+  - azure-files
+  - azure-bastion
+  - azure-portal
+  - windows-server
+  - azure-clis
+  - azure-resource-manager
+  - azure-rbac
+  - azure-policy
+  - azure-security-center
+  - m365-security-center
+  - mem
+  - office-onedrive
+  - office-teams
+  - azure-monitor
+  - azure-advisor
+  - azure-virtual-desktop
 paths:
-- uid: learn-m365.windows-virtual-desktop
+  - uid: learn-m365.windows-virtual-desktop
 courses:
-- uid: course.az-140t00
+  - uid: course.az-140t00
 relatedCertifications:
-- related:
-    uid: certification.azure-virtual-desktop-specialty
+  - related:
+      uid: certification.azure-virtual-desktop-specialty
 resources:
-- title: 인증으로의 여정
-  description: Azure에서 Virtual Desktop Specialty 인증을 받기 위한 단계와 준비에 도움이 되는 리소스를 살펴보세요.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증으로의 여정
+    description: Azure에서 Virtual Desktop Specialty 인증을 받기 위한 단계와 준비에 도움이 되는 리소스를 살펴보세요.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

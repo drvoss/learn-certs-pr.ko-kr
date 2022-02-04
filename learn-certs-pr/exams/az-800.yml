@@ -3,94 +3,85 @@ title: Administering Windows Server Hybrid Core Infrastructure(베타)
 metadata:
   title: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
   description: '시험 AZ-800: Administering Windows Server Hybrid Core Infrastructure(베타)'
-  ms.openlocfilehash: 04cbfaea2cf52e4e13262becdc56963d6f2868ab
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659349"
 uid: exam.az-800
 displayName: AZ-800
-summary: >-
+summary: |-
   이 시험의 응시자는 온-프레미스, 하이브리드, 클라우드 기술을 사용하여 핵심 Windows Server 워크로드를 관리합니다. 이러한 전문가는 ID, 관리, 컴퓨팅, 네트워킹, 스토리지와 같은 온-프레미스 및 하이브리드 솔루션 구현과 관리에 대한 전문 지식이 있어야 합니다. Windows Admin Center, PowerShell, Azure Arc 및 IaaS 가상 머신 관리와 같은 관리 도구와 기술을 사용합니다.
-
 
   이 시험의 응시자는 Windows Server 운영 체제를 사용한 경험이 풍부해야 합니다.
 
-
   > [!IMPORTANT]
-
-  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/beta-exams)를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. [베타 시험의 가치 및 중요도에](/learn/certifications/beta-exams)대해 자세히 알아보세요.
-subTitle: 이 시험에서는 온-프레미스 및 클라우드 환경에서 Active Directory Domain Services(AD DS) 배포 및 관리 기술 작업을 수행하는 능력, 하이브리드 환경에서 Windows Server 및 워크로드를 관리하는 능력, 가상 머신 및 컨테이너를 관리하는 능력, 온-프레미스 및 하이브리드 네트워킹 인프라를 구현하는 능력, 스토리지 및 파일 서비스를 관리하는 능력을 측정합니다.
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. [베타 시험의 가치와 중요성에 대해](/learn/certifications/beta-exams) 자세히 알아보세요.
+subTitle: '이 시험에서는 온-프레미스 및 클라우드 환경에서 Active Directory Domain Services(AD DS) 배포 및 관리 기술 작업을 수행하는 능력, 하이브리드 환경에서 Windows Server 및 워크로드를 관리하는 능력, 가상 머신 및 컨테이너를 관리하는 능력, 온-프레미스 및 하이브리드 네트워킹 인프라를 구현하는 능력, 스토리지 및 파일 서비스를 관리하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-800&examname=Exam%20AZ-800:%20Administering%20Windows%20Server%20Hybrid%20Core%20Infrastructure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-800
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-800&examname=Exam%20AZ-800:%20Administering%20Windows%20Server%20Hybrid%20Core%20Infrastructure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-800'
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 skills:
-- Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments (30-35%)
-- Manage Windows Servers and workloads in a hybrid environment (10-15%)
-- Manage virtual machines and containers (15-20%)
-- Implement and manage an on-premises and hybrid networking infrastructure (15-20%)
-- Manage storage and file services (15-20%)
+  - Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments (30-35%)
+  - Manage Windows Servers and workloads in a hybrid environment (10-15%)
+  - Manage virtual machines and containers (15-20%)
+  - Implement and manage an on-premises and hybrid networking infrastructure (15-20%)
+  - Manage storage and file services (15-20%)
 roles:
-- administrator
-- identity-access-admin
-- ip-admin
-- network-engineer
-- security-engineer
-- support-engineer
-- technology-manager
+  - administrator
+  - identity-access-admin
+  - ip-admin
+  - network-engineer
+  - security-engineer
+  - support-engineer
+  - technology-manager
 products:
-- azure-active-directory
-- azure-active-directory-domain
-- azure-arc
-- azure-automation
-- azure-defender
-- azure-disk-encryption
-- azure-files
-- azure-monitor
-- azure-policy
-- azure-powershell
-- azure-security-center
-- azure-sentinel
-- azure-virtual-machines
-- mdatp
-- windows-server
+  - azure-active-directory
+  - azure-active-directory-domain
+  - azure-arc
+  - azure-automation
+  - azure-defender
+  - azure-disk-encryption
+  - azure-files
+  - azure-monitor
+  - azure-policy
+  - azure-powershell
+  - azure-security-center
+  - azure-sentinel
+  - azure-virtual-machines
+  - mdatp
+  - windows-server
 courses:
-- uid: course.az-800t00
+  - uid: course.az-800t00
 paths:
-- uid: learn.wwl.deploy-manage-identity-infrastructure
-- uid: learn.wwl.manage-windows-servers-workloads-hybrid-environment
-- uid: learn.wwl.manage-virtualization-containers-hybrid-environment
-- uid: learn.wwl.implement-operate-premises-hybrid
-- uid: learn.wwl.configure-storage-file-services
+  - uid: learn.wwl.deploy-manage-identity-infrastructure
+  - uid: learn.wwl.manage-windows-servers-workloads-hybrid-environment
+  - uid: learn.wwl.manage-virtualization-containers-hybrid-environment
+  - uid: learn.wwl.implement-operate-premises-hybrid
+  - uid: learn.wwl.configure-storage-file-services
 exams:
-- uid: exam.az-801
+  - uid: exam.az-801
 relatedCertifications:
-- related:
-    uid: certification.windows-server-hybrid-administrator
+  - related:
+      uid: certification.windows-server-hybrid-administrator
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

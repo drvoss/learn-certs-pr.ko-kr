@@ -3,103 +3,92 @@ title: Microsoft Azure Architect Design
 metadata:
   title: '시험 AZ-301: Microsoft Azure Architect Design'
   description: '시험 AZ-301: Microsoft Azure Architect Design'
-  ms.openlocfilehash: 8afaf42e48824b0c86149ed82207361897da89fd
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656654"
 uid: exam.az-301
 displayName: AZ-301
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 사용이 중지 되었습니다. 대체 시험 인 AZ-304를 사용할 수 있습니다. 자세한 내용은 [AZ-304 시험 세부 정보 페이지](/learn/certifications/exams/az-304)를 참조 하세요.
-
+  > 이 시험은 사용 중지되었습니다. 교체 시험인 AZ-304를 사용할 수 있습니다. 자세한 내용은 [AZ-304 시험 세부 정보 페이지](/learn/certifications/exams/az-304)를 참조하세요.
 
   본 시험의 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 전문 실무 지식을 갖추고 있어야 합니다.
 
-
   Azure Solution 설계자는 이해 관계자에게 조언하고 비즈니스 요구사항을 안전하고 확장 가능하며 신뢰할 수 있는 클라우드 솔루션으로 변환하는 업무를 담당합니다.
-
 
   Azure Solution 설계자는 클라우드 관리자, 클라우드 DBA 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
 
-
   본 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 관리, 예산 책정 및 거버넌스 등 IT 운영의 다양한 측면에 대한 고급 경험과 지식을 갖추어야 하며 각 분야에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 해당 역할은 관리, 개발 또는 DevOps를 포함하는 Azure 지식 영역 중 하나 이상에 능숙해야 합니다.
-subTitle: 이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 워크로드 요구 사항 결정, ID 및 보안 설계, 데이터 플랫폼 솔루션 설계, 비즈니스 연속성 전략 수립, 배포, 마이그레이션 및 통합을 위한 설계, 인프라 전략 설계.
+subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 워크로드 요구 사항 결정, ID 및 보안 설계, 데이터 플랫폼 솔루션 설계, 비즈니스 연속성 전략 수립, 배포, 마이그레이션 및 통합을 위한 설계, 인프라 전략 설계.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD'
+practiceTestUrl: 'https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
 locales:
-- ja
-- zh-cn
-- ko
+  - ja
+  - zh-cn
+  - ko
 levels:
-- advanced
+  - advanced
 skills:
-- Determine workload requirements (10-15%)
-- Design for identity and security (20-25%)
-- Design a data platform solution (15-20%)
-- Design a business continuity strategy (15-20%)
-- Design for deployment, migration, and integration (10-15%)
-- Design an infrastructure strategy (15-20%)
+  - Determine workload requirements (10-15%)
+  - Design for identity and security (20-25%)
+  - Design a data platform solution (15-20%)
+  - Design a business continuity strategy (15-20%)
+  - 'Design for deployment, migration, and integration (10-15%)'
+  - Design an infrastructure strategy (15-20%)
 retirementDate: 09/30/2020
 roles:
-- solution-architect
+  - solution-architect
 products:
-- azure
-- azure-active-directory
-- azure-application-gateway
-- azure-virtual-machines
-- azure-virtual-network
-- azure-storage
-- azure-resource-manager
-- azure-site-recovery
-- azure-policy
-- azure-logic-apps
-- azure-functions
-- azure-event-grid
-- azure-service-bus
-- azure-app-service
-- azure-expressroute
-- azure-vpn-gateway
-- azure-kubernetes-service
-- azure-container-instances
-- azure-cosmos-db
-- azure-sql-database
-- azure-event-hubs
+  - azure
+  - azure-active-directory
+  - azure-application-gateway
+  - azure-virtual-machines
+  - azure-virtual-network
+  - azure-storage
+  - azure-resource-manager
+  - azure-site-recovery
+  - azure-policy
+  - azure-logic-apps
+  - azure-functions
+  - azure-event-grid
+  - azure-service-bus
+  - azure-app-service
+  - azure-expressroute
+  - azure-vpn-gateway
+  - azure-kubernetes-service
+  - azure-container-instances
+  - azure-cosmos-db
+  - azure-sql-database
+  - azure-event-hubs
 exams:
-- uid: exam.az-300
+  - uid: exam.az-300
 paths:
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-data-platform
-- uid: learn.architect-messaging-serverless
-- uid: learn.architect-modern-apps
-- uid: learn.architect-api-integration
-- uid: learn.architect-migration-bcdr
+  - uid: learn.architect-network-infrastructure
+  - uid: learn.architect-storage-infrastructure
+  - uid: learn.architect-compute-infrastructure
+  - uid: learn.architect-infrastructure-operations
+  - uid: learn.architect-data-platform
+  - uid: learn.architect-messaging-serverless
+  - uid: learn.architect-modern-apps
+  - uid: learn.architect-api-integration
+  - uid: learn.architect-migration-bcdr
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

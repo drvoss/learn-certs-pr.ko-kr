@@ -3,94 +3,85 @@ title: Configuring Windows Server Hybrid Advanced Services(베타)
 metadata:
   title: '시험 AZ-801: Configuring Windows Server Hybrid Advanced Services(베타)'
   description: '시험 AZ-801: Configuring Windows Server Hybrid Advanced Services(베타)'
-  ms.openlocfilehash: f3a8fcfa896731690bd040d1dc102b6248b672e2
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137655873"
 uid: exam.az-801
 displayName: AZ-801
-summary: >-
+summary: |-
   이 시험의 응시자는 온-프레미스, 하이브리드, 클라우드 기술을 사용하여 고급 Windows Server 서비스를 구성합니다. 이러한 전문가는 보안, 마이그레이션, 모니터링, 고가용성, 문제 해결, 재해 복구와 관련된 작업 수행을 포함하여 온-프레미스 및 하이브리드 솔루션 구현 및 관리에 대한 전문 지식이 있어야 합니다. 응시자는 Windows Admin Center, PowerShell, Azure Arc, Azure Automation Update Management, Microsoft Defender for Identity, Azure Security Center, Azure Migrate, Azure Monitor와 같은 관리 도구 및 기술을 사용합니다.
-
 
   이 시험의 응시자는 Windows Server 운영 체제를 사용한 경험이 풍부해야 합니다.
 
-
   > [!IMPORTANT]
-
-  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/beta-exams)를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. 베타 [시험의 가치와 중요성에 대해](/learn/certifications/beta-exams)자세히 알아보세요.
-subTitle: 이 시험은 Windows Server 온-프레미스 및 하이브리드 인프라 보호, Windows Server 고가용성 구현 및 관리, 재해 복구 구현, 서버 및 워크로드 마이그레이션, Windows Server 환경 모니터링 및 문제 해결과 같은 기술 작업을 수행하는 능력을 측정합니다.
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. [베타 시험의 가치와 중요성에 대해](/learn/certifications/beta-exams) 자세히 알아보세요.
+subTitle: '이 시험은 Windows Server 온-프레미스 및 하이브리드 인프라 보호, Windows Server 고가용성 구현 및 관리, 재해 복구 구현, 서버 및 워크로드 마이그레이션, Windows Server 환경 모니터링 및 문제 해결과 같은 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKPgH
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-801&examname=Exam%20AZ-801:%20Configuring%20Windows%20Server%20Hybrid%20Advanced%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-801
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKPgH'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-801&examname=Exam%20AZ-801:%20Configuring%20Windows%20Server%20Hybrid%20Advanced%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-801'
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 skills:
-- Secure Windows Server on-premises and hybrid infrastructures (25-30%)
-- Implement and manage Windows Server high availability (10-15%)
-- Implement disaster recovery (10-15%)
-- Migrate servers and workloads (20-25%)
-- Monitor and troubleshoot Windows Server environments (20-25%)
+  - Secure Windows Server on-premises and hybrid infrastructures (25-30%)
+  - Implement and manage Windows Server high availability (10-15%)
+  - Implement disaster recovery (10-15%)
+  - Migrate servers and workloads (20-25%)
+  - Monitor and troubleshoot Windows Server environments (20-25%)
 roles:
-- administrator
-- identity-access-admin
-- ip-admin
-- network-engineer
-- security-engineer
-- support-engineer
-- technology-manager
+  - administrator
+  - identity-access-admin
+  - ip-admin
+  - network-engineer
+  - security-engineer
+  - support-engineer
+  - technology-manager
 products:
-- azure-active-directory
-- azure-active-directory-domain
-- azure-arc
-- azure-automation
-- azure-defender
-- azure-disk-encryption
-- azure-files
-- azure-monitor
-- azure-policy
-- azure-powershell
-- azure-security-center
-- azure-sentinel
-- azure-virtual-machines
-- mdatp
-- windows-server
+  - azure-active-directory
+  - azure-active-directory-domain
+  - azure-arc
+  - azure-automation
+  - azure-defender
+  - azure-disk-encryption
+  - azure-files
+  - azure-monitor
+  - azure-policy
+  - azure-powershell
+  - azure-security-center
+  - azure-sentinel
+  - azure-virtual-machines
+  - mdatp
+  - windows-server
 courses:
-- uid: course.az-801t00
+  - uid: course.az-801t00
 paths:
-- uid: learn.wwl.secure-windows-server-premises-hybrid-infrastructures
-- uid: learn.wwl.implement-windows-server-high-availability
-- uid: learn.wwl.implement-disaster-recovery-windows-server-premises
-- uid: learn.wwl.migrate-servers-workloads-premises-hybrid-environments
-- uid: learn.wwl.monitor-troubleshoot-windows-server-environments
+  - uid: learn.wwl.secure-windows-server-premises-hybrid-infrastructures
+  - uid: learn.wwl.implement-windows-server-high-availability
+  - uid: learn.wwl.implement-disaster-recovery-windows-server-premises
+  - uid: learn.wwl.migrate-servers-workloads-premises-hybrid-environments
+  - uid: learn.wwl.monitor-troubleshoot-windows-server-environments
 exams:
-- uid: exam.az-800
+  - uid: exam.az-800
 relatedCertifications:
-- related:
-    uid: certification.windows-server-hybrid-administrator
+  - related:
+      uid: certification.windows-server-hybrid-administrator
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

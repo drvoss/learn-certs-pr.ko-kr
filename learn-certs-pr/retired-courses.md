@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: a50d85cfef812fe210e1073f7455a60ffcd8091f
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "132535959"
 ---
 # <a name="course-retirement"></a>과정 만료
 
@@ -32,6 +26,7 @@ Microsoft는 지속적으로 업계 동향을 모니터링하여 기술적 변�
     | --- | --- | --- | --- | --- |
     | AZ-303T00 | A | Microsoft Azure Architect Technologies | 영어 | 2022/03/31 |
     | AZ-304T00 | A`| Microsoft Azure Architect Design | 영어 | 2022/03/31 |
+    | DA-100T00 | A`| Microsoft Power BI를 사용하여 데이터 분석 | 영어 | 2022/03/31 |
     
 * 2022년 1월 31일 중단된 코스웨어
 

@@ -3,66 +3,69 @@ title: Designing Microsoft Azure Infrastructure Solutions(베타)
 metadata:
   title: '시험 AZ-305: Designing Microsoft Azure Infrastructure Solutions(베타)'
   description: '시험 AZ-305: Designing Microsoft Azure Infrastructure Solutions(베타)'
-  ms.openlocfilehash: c0be37d8ff4839092b0e2fede805f757dca6dd34
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137657355"
 uid: exam.az-305
 displayName: AZ-305
-summary: "이 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼 및 거버넌스 같은 IT 운영에 대한 고급 경험과 지식을 갖추고 있어야 합니다. 이 역할을 담당하는 전문가는 각 영역에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 Azure 관리, Azure 개발 및 DevOps 프로세스 관련 경험이 있어야 합니다.\n\n> [!IMPORTANT]\n> [Microsoft Certified: Azure Solutions Architect Expert](/learn/certifications/azure-solutions-architect/) 인증을 획득하려면 다음 요구 사항을 충족해야 합니다.\n> - [Microsoft Certified: Azure Administrator Associate](/learn/certifications/azure-administrator/) 인증을 획득하고 [시험 AZ-305](/learn/certifications/exams/az-305)를 통과 **하거나**\n> - [시험 AZ-303](/learn/certifications/exams/az-303) 및 [시험 AZ-304](/learn/certifications/exams/az-304)**를 통과하거나(2022년 3월 31일에 사용 중지되기 전에)**\n> - [시험 AZ-303](/learn/certifications/exams/az-303)*(2022년 3월 31일에 중단되기 전에)* 및 [시험 AZ-305](/learn/certifications/exams/az-305) 통과합니다.\n> \n> 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/beta-exams)를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. 베타 [시험의 가치와 중요성에 대해](/learn/certifications/beta-exams)자세히 알아보세요."
-subTitle: 이 시험은 ID, 거버넌스 및 모니터링 솔루션 설계, 데이터 스토리지 솔루션 설계, 비즈니스 연속성 솔루션 설계와 인프라 솔루션 설계 같은 기술 작업을 수행하는 능력을 측정합니다.
+summary: |-
+  이 시험의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼 및 거버넌스 같은 IT 운영에 대한 고급 경험과 지식을 갖추고 있어야 합니다. 이 역할을 담당하는 전문가는 각 영역에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 Azure 관리, Azure 개발 및 DevOps 프로세스 관련 경험이 있어야 합니다.
+
+  > [!IMPORTANT]
+  > [Microsoft Certified: Azure Solutions Architect Expert](/learn/certifications/azure-solutions-architect/) 인증을 획득하려면 다음 요구 사항을 충족해야 합니다.
+  > - [Microsoft Certified: Azure Administrator Associate](/learn/certifications/azure-administrator/) 인증을 획득하고 [시험 AZ-305](/learn/certifications/exams/az-305)를 통과 **하거나**
+  > - [시험 AZ-303](/learn/certifications/exams/az-303) 및 [시험 AZ-304](/learn/certifications/exams/az-304)**를 통과하거나(2022년 3월 31일에 사용 중지되기 전에)**
+  > - [시험 AZ-303](/learn/certifications/exams/az-303)*(2022년 3월 31일에 중단되기 전에)* 및 [시험 AZ-305](/learn/certifications/exams/az-305) 통과합니다.
+  > 
+  > 참고: 합격 기준 점수는 700점입니다. 시험 점수에 관한 자세한 내용은 [여기](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)를 참고하세요. 베타 시험은 문제의 질과 시험에 대한 데이터를 수집하므로 바로 채점되지 않습니다. [베타 시험의 가치와 중요성에 대해](/learn/certifications/beta-exams) 자세히 알아보세요.
+subTitle: '이 시험은 ID, 거버넌스 및 모니터링 솔루션 설계, 데이터 스토리지 솔루션 설계, 비즈니스 연속성 솔루션 설계와 인프라 솔루션 설계 같은 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-305&examname=Exam%20AZ-305:%20Designing%20Microsoft%20Azure%20Infrastructure%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-305
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-305&examname=Exam%20AZ-305:%20Designing%20Microsoft%20Azure%20Infrastructure%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-305'
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 skills:
-- Design identity, governance, and monitoring solutions (25-30%)
-- Design data storage solutions (25-30%)
-- Design business continuity solutions (10-15%)
-- Design infrastructure solutions (25-30%)
+  - 'Design identity, governance, and monitoring solutions (25-30%)'
+  - Design data storage solutions (25-30%)
+  - Design business continuity solutions (10-15%)
+  - Design infrastructure solutions (25-30%)
 roles:
-- solution-architect
+  - solution-architect
 products:
-- azure
+  - azure
 paths:
-- uid: learn.wwl.design-identity-governance-monitor-solutions
-- uid: learn.wwl.design-business-continuity-solutions
-- uid: learn.wwl.design-data-storage-solutions
-- uid: learn.wwl.design-infranstructure-solutions
-- uid: learn.azure-well-architected-framework
-- uid: learn.accelerate-cloud-adoption
+  - uid: learn.wwl.design-identity-governance-monitor-solutions
+  - uid: learn.wwl.design-business-continuity-solutions
+  - uid: learn.wwl.design-data-storage-solutions
+  - uid: learn.wwl.design-infranstructure-solutions
+  - uid: learn.azure-well-architected-framework
+  - uid: learn.accelerate-cloud-adoption
 courses:
-- uid: course.az-305t00
+  - uid: course.az-305t00
 relatedCertifications:
-- related:
-    uid: certification.azure-solutions-architect
+  - related:
+      uid: certification.azure-solutions-architect
 resources:
-- title: 인증으로의 여정
-  description: Azure Solutions Architect Expert 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증으로의 여정
+    description: Azure Solutions Architect Expert 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

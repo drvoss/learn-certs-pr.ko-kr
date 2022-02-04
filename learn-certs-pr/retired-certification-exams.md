@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 6f17a599db26cf3f4aa476788bcc7987ad7f9138
-ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "135964290"
 ---
 # <a name="exam-retirement"></a>시험 폐지
 
@@ -30,7 +24,7 @@ ms.locfileid: "135964290"
 | --- |
 | [AZ-303](/learn/certifications/exams/az-303): Microsoft Azure Architect Technologies |
 | [AZ-304](/learn/certifications/exams/az-304): Microsoft Azure Architect Design |
-| [DA-100](/learn/certifications/exams/da-100): Microsoft Power BI를 사용 하 여 데이터 분석 |
+| [DA-100](/learn/certifications/exams/da-100): Microsoft Power BI를 사용하여 데이터 분석 |
 
 | 2022년 6월 30일에 폐지 |
 | --- |

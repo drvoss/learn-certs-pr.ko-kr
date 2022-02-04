@@ -3,70 +3,61 @@ title: 'MCSA: SQL Server 2012/2014'
 metadata:
   title: 'MCSA: SQL Server 2012/2014'
   description: 'MCSA: SQL Server 2012/2014'
-  ms.openlocfilehash: 9628a98909ae466640cb887e0d982505f83dae8c
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658909"
 uid: certification.mcsa-sql-certification
 iconUrl: /media/learn/certification/badges/mcsa-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득 한 모든 [인증은 인증 대시보드의](https://aka.ms/certdashboard) 성적에 계속 표시 됩니다.
-
+  > 이 인증은 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득한 모든 인증은 [인증 대시보드](https://aka.ms/certdashboard)의 성적표에 계속 표시됩니다.
 
   <br/>
-
 
   이 인증은 미래의 미션 크리티컬 환경을 개발 및 유지 관리할 수 있는 기술과 문제점을 타개할 수 있는 통찰력을 입증합니다.
 subTitle: 이 인증은 미래의 미션 크리티컬 환경을 개발 및 유지 관리할 수 있는 기술과 문제점을 타개할 수 있는 통찰력을 입증합니다.
 hideFishboneDiagram: true
 levels:
-- advanced
+  - advanced
 skills:
-- Create database objects
-- Work with data
-- Modify data
-- Troubleshoot and optimize
-- Install and configure
-- Maintain instances and databases
-- Optimize and troubleshoot
-- Manage data
-- Implement security
-- Implement high availability
-- Design and implement a data warehouse
-- Extract and transform data
-- Load data
-- Configure and deploy SSIS solutions
-- Build data quality solutions
+  - Create database objects
+  - Work with data
+  - Modify data
+  - Troubleshoot and optimize
+  - Install and configure
+  - Maintain instances and databases
+  - Optimize and troubleshoot
+  - Manage data
+  - Implement security
+  - Implement high availability
+  - Design and implement a data warehouse
+  - Extract and transform data
+  - Load data
+  - Configure and deploy SSIS solutions
+  - Build data quality solutions
 roles:
-- database-administrator
+  - database-administrator
 type: mcsa
 products:
-- sql-server
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYU
+  - sql-server
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYU'
 exams:
-- uid: exam.70-461
-- uid: exam.70-462
-- uid: exam.70-463
+  - uid: exam.70-461
+  - uid: exam.70-462
+  - uid: exam.70-463
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

@@ -3,92 +3,82 @@ title: Microsoft Power Platform Solution Architect
 metadata:
   title: '시험 PL-600: Microsoft Power Platform Solution Architect'
   description: '시험 PL-600: Microsoft Power Platform Solution Architect'
-  ms.openlocfilehash: 38e24c0c242ecef1c2079a367f1c6c67ba2740c3
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659096"
 uid: exam.pl-600
 displayName: PL-600
-summary: >-
+summary: |-
   > [!NOTE]
-
-  > 제품 팀은 최근에 Common Data Service를 Microsoft Dataverse로 다시 브랜딩하기 위한 노력을 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다.
-
+  > 제품 팀은 최근 Common Data Service를 Microsoft Dataverse로 리브랜딩하기 위한 노력을 완료했습니다. Common Data Service 사용자 보안 역할은 이제 기본 사용자입니다. Common Data Service 커넥터는 이제 Microsoft Dataverse 커넥터입니다.
 
   <br/>
-
   Microsoft Power Platform 솔루션 설계자는 성공적인 구현을 이끌고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구 사항을 해결하는 방법에 집중합니다.
 
-
+  <br/>
   솔루션 설계자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft 클라우드 솔루션, 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 설계자는 고객의 투자 가치를 높이고 조직 상태의 수준을 올리기 위해 사전 예방적 작업을 수행합니다. 본 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
 
-
   솔루션 설계자는 Power Platform의 기능 및 기술 분야에 대한 경험이 있습니다. 솔루션 설계자는 개발, 구성, 통합, 인프라, 보안, 사용 가능성, 스토리지, 변경 관리 전반에 걸쳐 디자인 결정을 지원할 수 있어야 합니다. 본 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
-subTitle: 이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.
+subTitle: '이 시험은 솔루션 구상 및 요구 사항 분석 수행, 솔루션 설계, 솔루션 구현과 같은 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
-practiceTestUrl: https://www.mindhub.com/p/MU-PL-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-KR&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D'
+practiceTestUrl: 'https://www.mindhub.com/p/MU-PL-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600'
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 skills:
-- Perform solution envisioning and requirement analyses (35-40%)
-- Architect a solution (40-45%)
-- Implement the solution (15-20%)
+  - Perform solution envisioning and requirement analyses (35-40%)
+  - Architect a solution (40-45%)
+  - Implement the solution (15-20%)
 roles:
-- developer
-- functional-consultant
-- solution-architect
+  - developer
+  - functional-consultant
+  - solution-architect
 products:
-- dynamics-365
-- power-platform
-- ai-builder
-- power-automate
-- power-bi
-- power-apps
-- power-virtual-agents
-- azure
-- azure-active-directory
-- azure-active-directory-domain
-- dynamics-customer-engagement
-- common-data-service
-- azure-api-apps
-- azure-app-configuration
-- azure-app-service
+  - dynamics-365
+  - power-platform
+  - ai-builder
+  - power-automate
+  - power-bi
+  - power-apps
+  - power-virtual-agents
+  - azure
+  - azure-active-directory
+  - azure-active-directory-domain
+  - dynamics-customer-engagement
+  - common-data-service
+  - azure-api-apps
+  - azure-app-configuration
+  - azure-app-service
 paths:
-- uid: learn-dynamics.become-solution-architect
-- uid: learn-bizapps.solution-architect-design
+  - uid: learn-dynamics.become-solution-architect
+  - uid: learn-bizapps.solution-architect-design
 courses:
-- uid: course.pl-600t00
+  - uid: course.pl-600t00
 relatedCertifications:
-- related:
-    uid: certification.power-platform-solution-architect-expert
+  - related:
+      uid: certification.power-platform-solution-architect-expert
 resources:
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증서 학습 경로
+    description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

@@ -3,54 +3,44 @@ title: Microsoft Dynamics 365 for Retail
 metadata:
   title: '시험 MB6-897: Microsoft Dynamics 365 for Retail'
   description: '시험 MB6-897: Microsoft Dynamics 365 for Retail'
-  ms.openlocfilehash: b02fc2dc2678423caacbf86e20a8829372c0b382
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137655653"
 uid: exam.mb6-897
 displayName: MB6-897
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
-
   이 시험은 Microsoft Dynamics 365 for Retail에서 응용 프로그램 기능을 설정 및 사용하고 해당 응용 프로그램에 대한 지원을 제공하는 Microsoft Dynamics 365 파트너를 대상으로 실시됩니다.
-
 
   이 시험의 응시자는 일반적으로 소매점 운영 및 POS에 대해 잘 알고 있으며 Microsoft Dynamics 365 for Retail의 배포, 유지 관리 및 사용에 능숙하여야 합니다.
 subTitle: 이 시험은 Microsoft Dynamics 365 for Retail에서 응용 프로그램 기능을 설정 및 사용하고 해당 응용 프로그램에 대한 지원을 제공하는 Microsoft Dynamics 365 파트너를 대상으로 실시됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc'
 locales:
-- en
+  - en
 levels:
-- beginner
+  - beginner
 skills:
-- Set up and configure organizational parameters (20-25%)
-- Set up and Configure Point of Sale (10-15%)
-- Set up and Configure Products (15-20%)
-- Manage Retail Operations (15-20%)
-- Conduct Retail Activities (25-30%)
+  - Set up and configure organizational parameters (20-25%)
+  - Set up and Configure Point of Sale (10-15%)
+  - Set up and Configure Products (15-20%)
+  - Manage Retail Operations (15-20%)
+  - Conduct Retail Activities (25-30%)
 retirementDate: 01/31/2021
 roles:
-- business-analyst
+  - business-analyst
 products:
-- dynamics-365
+  - dynamics-365
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md
