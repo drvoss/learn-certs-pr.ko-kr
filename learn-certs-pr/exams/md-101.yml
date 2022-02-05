@@ -22,7 +22,7 @@ subTitle: '이 시험은 운영 체제 배포 및 업그레이드, 정책 및 �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD'
 practiceTestUrl: 'https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
-scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=ko-KR&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101'
 locales:
   - en
 levels:

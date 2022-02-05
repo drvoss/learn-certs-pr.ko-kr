@@ -15,7 +15,7 @@ summary: |-
 subTitle: '이 시험은 Windows Server 온-프레미스 및 하이브리드 인프라 보호, Windows Server 고가용성 구현 및 관리, 재해 복구 구현, 서버 및 워크로드 마이그레이션, Windows Server 환경 모니터링 및 문제 해결과 같은 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKPgH'
-scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-801&examname=Exam%20AZ-801:%20Configuring%20Windows%20Server%20Hybrid%20Advanced%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-801'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-801&examname=Exam%20AZ-801:%20Configuring%20Windows%20Server%20Hybrid%20Advanced%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-801'
 locales:
   - en
 levels:

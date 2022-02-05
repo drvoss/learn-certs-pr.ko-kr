@@ -18,7 +18,7 @@ subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3'
 practiceTestUrl: 'https://in.mindhub.com/sc-200-microsoft-security-operations-analyst-microsoft-official-practice-test/p/MU-SC-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
-scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=ko-KR&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200'
 locales:
   - en
   - ja

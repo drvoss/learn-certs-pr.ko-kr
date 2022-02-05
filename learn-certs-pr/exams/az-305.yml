@@ -18,7 +18,7 @@ summary: |-
 subTitle: '이 시험은 ID, 거버넌스 및 모니터링 솔루션 설계, 데이터 스토리지 솔루션 설계, 비즈니스 연속성 솔루션 설계와 인프라 솔루션 설계 같은 기술 작업을 수행하는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU'
-scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-305&examname=Exam%20AZ-305:%20Designing%20Microsoft%20Azure%20Infrastructure%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-305'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=ko-KR&examcode=AZ-305&examname=Exam%20AZ-305:%20Designing%20Microsoft%20Azure%20Infrastructure%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-305'
 locales:
   - en
 levels:

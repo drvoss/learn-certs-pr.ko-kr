@@ -20,7 +20,7 @@ subTitle: '이 시험은 아키텍처 및 솔루션 디자인 계획, 개발자 
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB'
 practiceTestUrl: 'https://in.mindhub.com/mb-500-microsoft-dynamics-365-finance-and-operations-apps-developer-microsoft-official-practice-test/p/MU-MB-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
-scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500'
+scheduleExamUrl: 'https://examregistration.microsoft.com/?locale=ko-KR&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500'
 locales:
   - en
   - ja
