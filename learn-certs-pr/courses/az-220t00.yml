@@ -3,660 +3,480 @@ title: Microsoft Azure IoT Developer
 metadata:
   title: '과정 AZ-220T00--A: Microsoft Azure IoT Developer'
   description: '과정 AZ-220T00--A: Microsoft Azure IoT Developer'
-  ms.openlocfilehash: 39e43222d0009261879ebb2571818599d97d4f35
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970859"
 uid: course.az-220t00
 courseNumber: AZ-220T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure IoT Hub 생성, 구성 및 관리.
-- skill: 규모에 맞는 프로비저닝 등 IoT 허브 및 DPS를 사용한 장치 프로비저닝.
-- skill: 장치와 IoT 허브 간 안전한 양방향 통신 설정.
-- skill: IoT 허브 및 Azure Stream Analytics를 사용한 메시지 처리 구현.
-- skill: Time Series Insights로의 연결 구성 및 비즈니스 통합 요구 사항 지원.
-- skill: 마켓플레이스 모듈 및 다양한 Edge 게이트웨이 패턴을 사용한 IoT Edge 시나리오 구현.
-- skill: 사용자 지정 모듈 및 컨테이너 개발 및 배포가 필요한 IoT Edge 시나리오 구현.
-- skill: 디바이스 쌍 및 직접 메서드를 사용한 장치 관리 구현.
-- skill: 솔루션 모니터링, 로깅 및 진단 테스트 구현.
-- skill: 보안 문제 인식 및 해결과 IoT용 Azure Security Center 구현.
-- skill: 업스트림 서비스와 다운스트림 서비스를 통합하는 Azure Digital Twins 솔루션 빌드.
-- skill: Azure IoT Central을 사용한 IoT 솔루션 구축 및 IoT용 SaaS 기회 인식.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+  - skill: 'Azure IoT Hub 생성, 구성 및 관리.'
+  - skill: 규모에 맞는 프로비저닝 등 IoT 허브 및 DPS를 사용한 장치 프로비저닝.
+  - skill: 장치와 IoT 허브 간 안전한 양방향 통신 설정.
+  - skill: IoT 허브 및 Azure Stream Analytics를 사용한 메시지 처리 구현.
+  - skill: Time Series Insights로의 연결 구성 및 비즈니스 통합 요구 사항 지원.
+  - skill: 마켓플레이스 모듈 및 다양한 Edge 게이트웨이 패턴을 사용한 IoT Edge 시나리오 구현.
+  - skill: 사용자 지정 모듈 및 컨테이너 개발 및 배포가 필요한 IoT Edge 시나리오 구현.
+  - skill: 디바이스 쌍 및 직접 메서드를 사용한 장치 관리 구현.
+  - skill: '솔루션 모니터링, 로깅 및 진단 테스트 구현.'
+  - skill: 보안 문제 인식 및 해결과 IoT용 Azure Security Center 구현.
+  - skill: 업스트림 서비스와 다운스트림 서비스를 통합하는 Azure Digital Twins 솔루션 빌드.
+  - skill: Azure IoT Central을 사용한 IoT 솔루션 구축 및 IoT용 SaaS 기회 인식.
+learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
 levels:
-- intermediate
+  - intermediate
 roles:
-- developer
-exams:
-- uid: exam.az-220
+  - developer
 products:
-- azure
+  - azure
 studyGuide:
-- uid: learn.wwl.introduction-iot-solution-architecture
-- uid: learn.wwl.examine-components-iot-solution
-- uid: learn.wwl.explore-azure-portal
-- uid: learn.wwl.explore-azure-iot-services
-- uid: learn.wwl.examine-iot-hub-properties
-- uid: learn.wwl.examine-iot-device-lifecycle-concepts
-- uid: learn.wwl.examine-iot-developer-tools
-- uid: learn.wwl.explore-device-configuration-communication
-- uid: learn.wwl.examine-device-provisioning-service-terms-concepts
-- uid: learn.wwl.examine-device-provisioning-service-coding-tools-access
-- uid: learn.wwl.examine-device-provisioning-lifecycle-tasks
-- uid: learn.wwl.explore-individual-enrollment-tasks
-- uid: learn.wwl.explore-group-enrollment-tasks
-- uid: learn.wwl.examine-iot-hub-message-routing
-- uid: learn.wwl.consider-message-processing-options-constraints
-- uid: learn.wwl.get-started-cloud-storage-for-iot
-- uid: learn.wwl.examine-azure-stream-analytics-azure-functions
-- uid: learn.wwl.explore-message-processing-tasks
-- uid: learn.wwl.examine-business-integration-for-iot-solutions
-- uid: learn.wwl.examine-azure-time-series-insights
-- uid: learn.wwl.examine-data-visualizations-power-bi
-- uid: learn.wwl.explore-event-grid-integration
-- uid: learn.wwl.explore-time-series-insights-integration
-- uid: learn.wwl.examine-azure-iot-edge-environment
-- uid: learn.wwl.explore-iot-edge-gateway-configuration
-- uid: learn.wwl.examine-iot-edge-gateway-device-configuration
-- uid: learn.wwl.explore-iot-edge-module-deployment
-- uid: learn.wwl.configure-business-integration
-- uid: learn.wwl.manage-devices-azure-iot-central
-- uid: learn.wwl.create-manage-device-templates
-- uid: learn.wwl.intro-to-iot-central
-- uid: learn.wwl.explore-azure-digital-twins-implementation
-- uid: learn.wwl.monitor-troubleshoot-adt
-- uid: learn.wwl.examine-azure-digital-twins-solution-development-tools-processes
-- uid: learn.wwl.examine-components-of-azure-digital-twins-solution
-- uid: learn.wwl.explore-azure-defender-for-iot-implementation
-- uid: learn.wwl.examine-azure-defender-for-iot-security-agents
-- uid: learn.wwl.examine-azure-security-center-azure-defender-for-iot
-- uid: learn.wwl.examine-security-fundamentals-for-iot
-- uid: learn.wwl.explore-iot-hub-monitoring
-- uid: learn.wwl.troubleshoot-device-connections-communication
-- uid: learn.wwl.examine-azure-iot-solution-monitoring-logging
-- uid: learn.wwl.explore-iot-hub-automatic-device-management
-- uid: learn.wwl.explore-device-management-device-twins-direct-methods
-- uid: learn.wwl.examine-approaches-to-device-management-at-scale
-- uid: learn.wwl.examine-device-management-tools
-- uid: learn.wwl.explore-iot-edge-offline-support
-- uid: learn.wwl.explore-custom-module-development-for-iot-edge
-- uid: learn.wwl.examine-offline-local-storage-capabilities
-- uid: learn.wwl.examine-iot-edge-module-development
-- uid: learn.wwl.examine-iot-edge-device-deployment
-- uid: learn.wwl.examine-device-management-concepts-methods
-summary: >-
+  - uid: learn.wwl.introduction-iot-solution-architecture
+  - uid: learn.wwl.examine-components-iot-solution
+  - uid: learn.wwl.explore-azure-portal
+  - uid: learn.wwl.explore-azure-iot-services
+  - uid: learn.wwl.examine-iot-hub-properties
+  - uid: learn.wwl.examine-iot-device-lifecycle-concepts
+  - uid: learn.wwl.examine-iot-developer-tools
+  - uid: learn.wwl.explore-device-configuration-communication
+  - uid: learn.wwl.examine-device-provisioning-service-terms-concepts
+  - uid: learn.wwl.examine-device-provisioning-service-coding-tools-access
+  - uid: learn.wwl.examine-device-provisioning-lifecycle-tasks
+  - uid: learn.wwl.explore-individual-enrollment-tasks
+  - uid: learn.wwl.explore-group-enrollment-tasks
+  - uid: learn.wwl.examine-iot-hub-message-routing
+  - uid: learn.wwl.consider-message-processing-options-constraints
+  - uid: learn.wwl.get-started-cloud-storage-for-iot
+  - uid: learn.wwl.examine-azure-stream-analytics-azure-functions
+  - uid: learn.wwl.explore-message-processing-tasks
+  - uid: learn.wwl.examine-business-integration-for-iot-solutions
+  - uid: learn.wwl.examine-azure-time-series-insights
+  - uid: learn.wwl.examine-data-visualizations-power-bi
+  - uid: learn.wwl.explore-event-grid-integration
+  - uid: learn.wwl.explore-time-series-insights-integration
+  - uid: learn.wwl.examine-azure-iot-edge-environment
+  - uid: learn.wwl.examine-iot-edge-device-deployment
+  - uid: learn.wwl.examine-iot-edge-gateway-device-configuration
+  - uid: learn.wwl.explore-iot-edge-module-deployment
+  - uid: learn.wwl.explore-iot-edge-gateway-configuration
+  - uid: learn.wwl.examine-iot-edge-module-development
+  - uid: learn.wwl.examine-offline-local-storage-capabilities
+  - uid: learn.wwl.explore-custom-module-development-for-iot-edge
+  - uid: learn.wwl.explore-iot-edge-offline-support
+  - uid: learn.wwl.examine-device-management-concepts-methods
+  - uid: learn.wwl.examine-device-management-tools
+  - uid: learn.wwl.examine-approaches-to-device-management-at-scale
+  - uid: learn.wwl.explore-device-management-device-twins-direct-methods
+  - uid: learn.wwl.explore-iot-hub-automatic-device-management
+  - uid: learn.wwl.examine-azure-iot-solution-monitoring-logging
+  - uid: learn.wwl.troubleshoot-device-connections-communication
+  - uid: learn.wwl.explore-iot-hub-monitoring
+  - uid: learn.wwl.examine-security-fundamentals-for-iot
+  - uid: learn.wwl.examine-azure-security-center-azure-defender-for-iot
+  - uid: learn.wwl.examine-azure-defender-for-iot-security-agents
+  - uid: learn.wwl.explore-azure-defender-for-iot-implementation
+  - uid: learn.wwl.examine-components-of-azure-digital-twins-solution
+  - uid: learn.wwl.examine-azure-digital-twins-solution-development-tools-processes
+  - uid: learn.wwl.monitor-troubleshoot-adt
+  - uid: learn.wwl.explore-azure-digital-twins-implementation
+  - uid: learn.wwl.intro-to-iot-central
+  - uid: learn.wwl.create-manage-device-templates
+  - uid: learn.wwl.manage-devices-azure-iot-central
+  - uid: learn.wwl.configure-business-integration
+exams:
+  - uid: exam.az-220
+summary: |-
   본 과정을 통해 학생들은 IoT 솔루션의 클라우드 및 Edge 부분을 성공적으로 생성 및 유지 관리하는 데 필요한 기술 및 지식을 갖춥니다. 본 과정은 IoT 허브, 디바이스 프로비저닝 서비스, Azure Stream Analytics, Time Series Insights 등 핵심 Azure IoT 서비스 전체를 포함합니다. Azure PaaS 서비스에 중점을 두는 것 외에도 이 과정은 IoT Edge, 장치 관리, 모니터링 및 문제 해결, 보안 문제, Azure Digital Twins 및 Azure IoT Central에 대한 섹션을 포함합니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   Azure PaaS 서비스에 대한 중점 외에도, 이 과정은 IoT Edge, 장치 관리, 모니터링 및 문제 해결, 보안 문제, Azure Digital Twins, 및 Azure IoT Central의 섹션이 포함됩니다. Azure IoT 서비스 및 다른 Microsoft 도구를 사용한 장치 구성 및 유지 관리뿐만 아니라 IoT 개발자는 물리적 디바이스 설정과 수명 주기 동안 장치 유지 관리를 담당합니다. IoT 개발자는 장치 토폴로지, 연결, 디버깅 및 보안 등 IoT 솔루션을 설계 및 구현합니다. Edge 장치 시나리오의 경우 IoT 개발자는 컴퓨팅/컨테이터를 배포하고 다양한 Edge 게이트웨이 구현을 포함한 장치 네트워킹을 구성합니다. IoT 개발자는 IoT와 관련된 모니터링 및 데이터 변환 등 데이터 Pipelines 관리를 위한 솔루션을 설계 및 구현합니다. IoT 개발자는 데이터 엔지니어 및 다른 이해 관계자와 협업하여 성공적인 비즈니스 통합을 보장합니다. IoT 개발자는 데이터 저장소 옵션, 데이터 분석, 데이터 처리 및 Azure IoT PaaS 대 SaaS 옵션 등 Azure 서비스를 잘 알고 있어야 합니다. IoT 개발자는 C#, Node.js, C, Python 또는 Java 등 최소한 하나의 Azure 지원 언어로 기초적인 프로그래밍 기술을 갖추어야 합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   이 과정에서 성공하려면, 학습자들은 다음을 갖추어야합니다:
-
 
   *   클라우드 솔루션 인식: 수강생은 Azure Portal을 사용한 경험과 PaaS, SaaS, IaaS 구현에 대한 기본적인 이해가 있어야 합니다.
 
-
   *   소프트웨어 개발 경험: 소프트웨어 개발 경험은 본 과정의 전제 조건이지만 특정 소프트웨어 언어가 필요하지 않으며 경험이 전문가 수준일 필요는 없습니다.
-
 
   *   데이터 처리 경험: 데이터 저장 및 데이터 처리에 대한 일반적인 이해가 권장되지만 필수는 아닙니다.&nbsp;
 
 
-  *   무료 온라인: Azure Fundamentals(https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-
-
-  *   강사 진행 과정: AZ-900: Azure Fundamentals(https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
-outlineSection: >-
+  Azure 및 클라우드 컴퓨팅을 처음 사용하는 경우 다음 리소스 중 하나를 고려하세요.
+   * 무료 온라인: Azure Fundamentals([https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+   * 강사 진행 과정: AZ-900: Azure Fundamentals([https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01](https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01))
+outlineSection: |-
   ### <a name="module-1-introduction-to-iot-and-azure-iot-services"></a>모듈 1: IoT 및 Azure IoT 서비스 소개
-
 
   본 모듈에서 학생들은 다양한 IoT 구현 시 비즈니스 고려 사항을 살펴보고 Azure IoT 참조 아키텍처의 IoT 솔루션 지원 방법 검토를 시작합니다. 본 모듈은 학생들에게 IoT 솔루션에 흔히 사용되는 Azure 서비스 개요와 Azure Portal 소개를 제공합니다.
 
-
   #### <a name="lessons"></a>단원
-
-
-  *   IoT 비즈니스 기회
-
 
   *   IoT 솔루션 아키텍처 소개
 
-
   *   IoT 하드웨어 및 클라우드 서비스
-
 
   *   이 과정을 위한 랩 시나리오
 
 
   #### <a name="lab--getting-started-with-azure"></a>랩: Azure 시작하기
 
-
   ####
-
 
   #### <a name="lab--setting-started-with-azure-iot-services"></a>랩: Azure IoT 서비스 시작하기
 
-
   ####
-
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   IoT 및 Azure IoT를 비즈니스에 적용할 수 있는 방법 설명
-
 
   *   Azure IoT 솔루션 아키텍처 핵심 구성 요소 설명
 
-
   *   Azure IoT 서비스 및 IoT 솔루션과의 관계 설명
-
 
   *   Azure 계정 만들기 및 Azure Portal을 사용하여 IoT Hub 및 DPS 서비스 만들기
 
 
   ### <a name="module-2-devices-and-device-communication"></a>모듈 2: 디바이스 및 디바이스 통신
 
-
   본 모듈에서 학생들은 Azure IoT Hub 서비스를 자세히 살펴보고 IoT 허브 및 장치 간 양방향 통신을 구성하는 방법을 학습합니다. 과정이 진행됨에 따라 더 심층적으로 살펴볼 디바이스 쌍 및 IoT 허브 엔드포인트 등 IoT 허브 기능을 학생들에게 소개합니다.
-
 
   #### <a name="lessons"></a>단원
 
+  *   IoT Hub 개념
 
-  *   IoT Hub 및 디바이스
-
+  *   IoT 디바이스 수명 주기 개념
 
   *   IoT 개발자 도구
-
 
   *   디바이스 구성 및 통신
 
 
   #### <a name="lab--connect-iot-device-to-azure"></a>랩: IoT 디바이스를 Azure에 연결
 
-
   ####
-
 
   #### <a name="lab--setup-the-development-environment"></a>랩: 개발 환경 설정
 
-
   ####
-
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   IoT Hub 서비스 핵심 기능 설명
-
 
   *   Azure IoT 디바이스 수명 주기 설명
 
-
   *   IoT Hub로 디바이스 ID를 관리하고 기타 보안 기능을 구현하는 방법 설명
 
-
   *   Azure Portal, Azure CLI 및 Visual Studio Code를 사용하여 IoT Hub에 디바이스 등록
-
 
   *   IoT Hub 디바이스 및 서비스 SDK 구현
 
 
   ### <a name="module-3-device-provisioning-at-scale"></a>모듈 3: 대규모 디바이스 프로비저닝
 
-
   본 모듈에서 학생들은 디바이스 프로비저닝과 Azure 디바이스 프로비저닝 서비스 구성 및 관리 방법에 중점을 두고 배웁니다. 학생들은 등록 프로세스, 자동 프로비저닝, 재프로비저닝, 등록 해제 및 다양한 증명 메커니즘 구현 방법을 학습합니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   디바이스 프로비저닝 서비스 용어 및 개념
 
-
   *   디바이스 프로비저닝 서비스 구성 및 관리
-
 
   *   디바이스 프로비저닝 작업
 
 
   #### <a name="lab--individual-enrollment-of-devices-in-dps"></a>랩: DPS에 디바이스 개별 등록
 
-
   ####
-
 
   #### <a name="lab--automatic-enrollment-of-devices-in-dps"></a>랩: DPS에 디바이스 자동 등록
 
-
   ####
-
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   디바이스 프로비저닝 프로세스 및 디바이스 프로비저닝 서비스 기능 설명
-
 
   *   디바이스 프로비저닝 관련 보안 고려 사항 및 관리 방법 설명
 
-
   *   디바이스 프로비저닝 서비스 SDK 구현
-
 
   *   프로비전 해제 및 등록 해제 등 디바이스 등록 프로세스 관리
 
 
   ### <a name="module-4-message-processing-and-analytics"></a>모듈 4: 메시지 처리 및 분석
 
-
   본 모듈에서 학생들은 IoT Hub 및 다른 Azure 서비스를 사용한 메시지 처리 방법을 살펴 봅니다. 학생들은 메시지 및 이벤트 라우팅 구성과 기본 제공 및 사용자 지정 엔드포인트로 라우팅을 구성하는 방법을 먼저 살펴 봅니다. 학생들은 IoT 솔루션에 흔히 사용되는 Azure 저장소 옵션 몇 가지를 학습합니다. 모듈 완료 단계에서 학생들은 Azure Stream Analytics와 몇 가지 ASA 패턴용 쿼리를 구현합니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   메시지 및 메시지 처리
 
+  *   IoT Hub 메시징의 추가 고려 사항
 
-  *   데이터 스토리지 옵션
+  *   데이터 스토리지 및 람다 아키텍처
 
-
-  *   Azure Stream Analytics
-
-
-  #### <a name="lab--filtering-and-aggregating-message-data"></a>랩: 메시지 데이터 필터링 및 집계
-
-
-  ####
+  *   Azure Functions 및 Stream Analytics
 
 
   #### <a name="lab--device-message-routing"></a>랩: 디바이스 메시지 라우팅
 
-
   ####
-
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   메시지 및 이벤트 라우팅 구성
-
 
   *   기본 제공 및 사용자 지정 엔드포인트로 데이터 라우팅
 
-
   *   메시지 보강 구현
-
 
   *   Azure Stream Analytics 입력, 쿼리 및 출력 구현
 
-
   *   기록과 추가 분석을 위해 웜 스토리지에 메시지 데이터 저장
-
 
   *   메시지 처리 및 분석 솔루션에서 Azure 함수 사용
 
 
   ### <a name="module-5-insights-and-business-integration"></a>모듈 5: 인사이트 및 비즈니스 통합
 
-
   본 모듈에서 학생들은 비즈니스 인사이트 생성 및 비즈니스 통합 활성화에 사용되는 Azure 서비스 및 다른 Microsoft 도구를 학습합니다. 학생들은 Azure Logic Apps 및 Event Grid를 구현하고 Time Series Insights 및 Power BI 등 데이터 시각화 도구용 연결 및 데이터 변환을 구성합니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   IoT 솔루션을 위한 비즈니스 통합
 
-
   *   시계열 통계를 통한 데이터 시각화
-
 
   *   Power BI를 사용한 데이터 시각화
 
 
   #### <a name="lab--integrate-iot-hub-with-event-grid"></a>랩: Event Grid와 IoT Hub 통합
 
-
   ####
-
 
   #### <a name="lab--explore-and-analyze-time-stamped-data-with-time-series-insights"></a>Time Series Insights를 사용하여 타임스탬프 데이터 탐색 및 분석
 
-
   ####
-
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   IoT 솔루션에서 비즈니스 통합을 위한 옵션 및 달성 방법 설명
-
 
   *   Logic Apps 및 Event Grid를 사용한 비즈니스 통합 지원 개발
 
-
   *   Time Series Insights에 시각화용 IoT 데이터 구성
 
-
-  *   Power BI에 시각화용 IoT 데이터 구성
+  *   Power BI를 사용한 데이터 시각화 설명
 
 
   ### <a name="module-6-azure-iot-edge-deployment-process"></a>모듈 6: Azure IoT Edge 배포 프로세스
 
-
   본 모듈에서 학생들은 Azure IoT Edge 장치에 모듈을 배포하는 방법을 학습합니다. 학생들은 IoT Edge 장치를 게이트웨이 장치로 구성하고 사용하는 방법도 배웁니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   Azure IoT Edge 소개
 
-
   *   Edge 배포 프로세스
-
 
   *   Edge 게이트웨이 디바이스
 
 
-  #### <a name="lab--set-up-an-iot-edge-gateway"></a>랩: IoT Edge 게이트웨이 설정
-
-
-  ####
-
-
-  #### <a name="lab--introduction-to-iot-edge"></a>랩: IoT Edge 소개
-
+  #### <a name="lab--implement-an-iot-edge-gateway"></a>랩: IoT Edge 게이트웨이 구현
 
   ####
 
+  #### <a name="lab--introduction-to-iot-edge-deployments"></a>랩: IoT Edge 배포 소개
+
+  ####
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   IoT 디바이스와 IoT Edge 디바이스의 차이점 설명
-
 
   *   IoT Edge 디바이스 구성
 
-
   *   배포 매니페스트를 사용한 IoT Edge 배포 구현
-
 
   *   IoT Edge 디바이스를 게이트웨이 디바이스로 구성
 
 
   ### <a name="module-7-azure-iot-edge-modules-and-containers"></a>모듈 7: Azure IoT Edge 모듈 및 컨테이너
 
-
   본 모듈에서 학생들은 사용자 지정 Edge 모듈 개발 및 배포와 로컬 저장소에 의존하는 오프라인 시나리오를 위한 지원을 구현합니다. 학생들은 Visual Studio Code와 지원되는 컨테이너 엔진을 사용하여 사용자 지정 모듈을 컨테이너로 빌드합니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   사용자 지정 Edge 모듈 개발
-
 
   *   오프라인 및 로컬 저장소
 
 
-  #### <a name="lab--develop-deploy-and-debug-a-custom-module-on-azure-iot-edge"></a>랩: Azure IoT Edge에서 사용자 지정 모듈 개발, 배포 및 디버그
-
-
-  ####
-
-
-  #### <a name="lab--run-an-iot-edge-device-in-restricted-network-and-offline"></a>랩: 제한된 네트워크 및 오프라인에서 IoT Edge 디바이스 실행
-
+  #### <a name="lab--create-and-deploy-a-custom-edge-module"></a>랩: 사용자 지정 Edge 모듈 생성 및 배포
 
   ####
 
+  #### <a name="lab--implement-restricted-network-and-offline-scenarios-for-iot-edge"></a>랩: IoT Edge에 제한된 네트워크 및 오프라인 시나리오 구현
+
+  ####
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   사용자 지정 Edge 모듈 빌드 요구 사항 설명
-
 
   *   컨테이너화된 모듈 개발을 위한 Visual Studio Code 구성
 
-
   *   IoT Edge 디바이스에 사용자 지정 모듈 배포
-
 
   *   오프라인 시나리오 지원을 위해 IoT Edge 디바이스에서 로컬 저장소 구현
 
 
   ### <a name="module-8-device-management"></a>모듈 8: 장치 관리
 
-
   본 모듈에서 학생들은 IoT 솔루션의 장치 관리 구현 방법을 학습합니다. 학생들은 디바이스 쌍을 사용하는 장치 관리 솔루션과 직접 메서드를 사용하는 솔루션을 개발합니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   IoT 장치 관리 소개
 
-
   *   IoT 및 IoT Edge 장치 관리
-
 
   *   대규모 장치 관리
 
 
-  #### <a name="lab--automatic-device-management"></a>랩: 자동 장치 관리
-
-
-  ####
-
-
-  #### <a name="lab--remotely-monitor-and-control-devices-with-azure-iot-hub"></a>랩: Azure IoT Hub를 사용하여 원격으로 디바이스 모니터링 및 제어
-
+  #### <a name="lab--implement-automatic-device-management"></a>랩: 자동 디바이스 관리 구현
 
   ####
 
+  #### <a name="lab--manage-devices-using-device-twins-and-direct-methods"></a>랩: 디바이스 쌍 및 직접 메서드를 사용하여 디바이스 관리
+
+  ####
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   가장 일반적인 장치 관리 패턴 및 구성 모범 사례 설명
-
 
   *   장치 관리 구현을 위한 디바이스 쌍 및 직접 메서드 사용 시기 및 방법 설명
 
-
   *   디바이스 쌍 및 직접 메서드를 사용한 다양한 패턴의 장치 관리 구현
-
 
   *   자동 장치 관리 및 작업을 사용하여 대규모 장치 관리 구현
 
 
   ### <a name="module-9-solution-testing-diagnostics-and-logging"></a>모듈 9; 솔루션 테스트, 진단 및 로깅
 
-
   본 모듈에서 학생들은 개발자가 IoT 솔루션을 테스트할 수 있는 로깅 및 진단 도구를 구성합니다. 학생들은 IoT 허브 및 Azure Monitor를 사용하여 경고를 구성하고 문제 해결에 사용되는 장치 연결 상태 등 조건을 추적합니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   모니터링 및 로깅
-
 
   *   문제 해결
 
 
-  #### <a name="lab--configure-metrics-and-logs-in-azure-iot-hub"></a>랩: Azure IoT Hub에서 메트릭 및 로그 구성
-
-
-  ####
-
-
-  #### <a name="lab--monitor-and-debug-connection-failures"></a>랩: 연결 실패 모니터링 및 디버그
-
+  #### <a name="lab--configure-iot-hub-monitoring"></a>랩: IoT Hub 모니터링 구성
 
   ####
-
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   Azure IoT 솔루션 모니터링 및 로깅 옵션 설명
-
 
   *   IoT 솔루션을 지원하도록 Azure Monitor 구성
 
-
   *   IoT 솔루션을 지원하도록 IoT Hub 메트릭 구성
 
-
   *   진단 로깅 구현
-
 
   *   IoT 디바이스 연결 및 통신 문제 해결
 
 
   ### <a name="module-10-azure-security-center-and-iot-security-considerations"></a>모듈 10: Azure Security Center 및 IoT 보안 고려 사항
 
-
   본 모듈에서는 IoT 솔루션에 적용할 보안 고려 사항을 살펴 봅니다. 학생들은 솔루션 아키텍처 및 모범 사례에 적용할 보안을 먼저 조사하고, IoT용 Azure Security Center가 장치 배포 및 IoT Hub 통합을 지원하는 방법을 살펴 봅니다. 그런 다음 학생들은 IoT 에이전트용 Azure Security Center를 사용하여 솔루션의 보안을 강화합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   IoT 솔루션의 보안 기본 사항
 
+  *   Azure Defender for IoT 소개
 
-  *   IoT용 Azure Security Center 소개
-
-
-  *   IoT 에이전트용 Azure Security Center로 보안 강화
+  *   Azure Defender for IoT 에이전트를 사용하여 보호 기능 강화
 
 
-  #### <a name="lab--implementing-azure-security-center-for-iot"></a>랩: IoT용 Azure Security Center 구현
-
+  #### <a name="lab--implementing-azure-defender-for-iot"></a>랩: Azure Defender for IoT 구현
 
   ####
 
-
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
-
 
   *   IoT 솔루션의 보안 문제 및 모범 사례 설명
 
-
   *   Azure IoT 보안 아키텍처 및 위협 모델링 설명
 
-
-  *   IoT용 Azure Security Center에서 제공하는 기능 및 지원 설명
-
+  *   Azure Defender for IoT에서 제공하는 기능 및 지원 설명
 
   *   보안 에이전트 및 보안 모듈 쌍 구성
 
+  *   Azure Defender for IoT 이벤트 집계
 
-  *   IoT용 Azure Security Center 이벤트 집계
 
-
-  ### <a name="module-11-adt"></a>모듈 11: ADT
-
+  ### <a name="module-11-develop-with-azure-digital-twins"></a>모듈 11: Azure Digital Twins를 사용하여 개발
 
   이 모듈에서 수강생은 Azure Digital Twins 솔루션의 개념을 검토하고 ADT 구현을 위한 첫 번째 단계를 수행합니다. 수강생은 먼저 Azure Digital Twins 서비스와 ADT 솔루션의 개념을 조사하고, 그 다음에는 ADT 솔루션을 구축하고 모니터링하는 데 사용할 수 있는 개발 도구가 소개됩니다. 그런 다음 수강생은 개발 도구를 사용하여 사용자 지정 모델을 만들고, ADT 환경 그래프를 빌드 및 쿼리하고, IoT 디바이스 원격 분석을 수집하고, 비즈니스 논리와 데이터 처리를 구현합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure Digital Twins 소개
 
-
   *   ADT 솔루션 개발 소개
-
 
   *   ADT 모니터링 및 문제 해결
 
 
-  #### <a name="lab--develop-azure-digital-twins-adt-solutions"></a>랩: Azure Digital Twins(ADT) 솔루션 개발
-
+  #### <a name="lab--develop-azure-digital-twins-solutions"></a>랩: Azure Digital Twins 솔루션 개발
 
   ####
 
-
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
-
 
   *   Azure Digital Twins(ADT) 솔루션의 구성 요소 설명
 
-
   *   ADT 인스턴스를 만들고 구성하는 방법 설명
-
 
   *   ADT 그래프를 만들고 쿼리하고 관리하는 방법 설명
 
-
   *   IoT Hub에서 ADT 데이터를 수집하고 다운스트림 서비스에 대한 지원을 구현하는 방법 설명
-
 
   *   ADT 모니터링 및 문제 해결 방법
 
 
   ### <a name="module-12-build-an-iot-solution-with-iot-central"></a>모듈 11: IoT Central으로 IoT 솔루션 구축
 
-
   본 모듈에서는 IoT을 위해 SaaS 솔루션 형태의 Azure IoT Central 구성 및 구현 방법을 학습합니다. 학생들은 IoT Central 및 작동 방식을 높은 수준으로 먼저 살펴 봅니다. 학생들은 기본적으로IoT Central 설정을 이해하고 있으며 장치 템플릿 생성 및 관리에서 IoT Central 애플리케이션에서 장치 관리로 넘어갑니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   IoT Central 소개
-
 
   *   디바이스 템플릿 생성 및 관리
 
-
   *   Azure IoT Central에서 디바이스 관리
 
-
-  #### <a name="lab--build-an-iot-solution-with-iot-central"></a>랩: IoT Central으로 IoT 솔루션 빌드
-
-
-  ####
+  *   비즈니스 통합 및 데이터 분석
 
 
   본 모듈을 완료한 수강생은 다음을 수행할 수 있습니다.
 
-
   *   Azure IoT Central과 Azure IoT PaaS 서비스의 차이점 설명
-
 
   *   Azure IoT Central에서 제공하는 기능 설명
 
-
   *   디바이스 템플릿의 용도와 구성 요소 설명
-
 
   *   디바이스 템플릿 생성 및 게시
 
-
   *   규칙 및 알림을 사용한 디바이스 관리
-
 
   *   작업을 사용하여 대규모 디바이스 관리
