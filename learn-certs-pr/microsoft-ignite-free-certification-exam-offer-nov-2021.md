@@ -117,10 +117,6 @@ ms.prod: non-product-specific
 
 **A:** 예, 2022년 3월 15일 또는 그 이전에 시험에 응시해야 합니다.
 
-**Q: 무료 시험을 예약하는 데 문제가 있습니다. 어디에서 지원을 받을 수 있나요?**
-
-**A:** [Microsoft 인증 지원](https://aka.ms/CertificationSupport)에 문의하여 도움을 받을 수 있습니다. 조정자는 업무일 하루만에 응답할 것입니다.
-
 **Q: 예약된 시험에 직접 응시하거나 온라인으로 응시할 수 있는 옵션이 있나요?**
 
 **A:** 예, 예약된 시험을 현지 테스트 센터(이용 가능한 경우)에서 Pearson Vue를 통해 직접 응시하거나 [온라인](/learn/certifications/online-exams)을 통해 응시할 수 있는 옵션이 있습니다. COVID-19 제한으로 인해 테스트 센터를 일시적으로 닫을 수 있습니다. 현재 [Pearson Vue의 테스트 응시 가능성 정보](https://home.pearsonvue.com/coronavirus-update)에서 최신 정보를 확인하세요.

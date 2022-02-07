@@ -29,6 +29,20 @@ products:
   - azure
 exams:
   - uid: exam.az-305
+studyGuide:
+  - uid: learn.wwl.design-governance
+  - uid: learn.wwl.design-compute-solution
+  - uid: learn.wwl.design-data-storage-solution-for-non-relational-data
+  - uid: learn.wwl.design-data-storage-solution-for-relational-data
+  - uid: learn.wwl.design-data-integration
+  - uid: learn.wwl.design-application-architecture
+  - uid: learn.wwl.design-authentication-authorization-solutions
+  - uid: learn.wwl.design-solution-to-log-monitor-azure-resources
+  - uid: learn.wwl.design-network-solutions
+  - uid: learn.wwl.design-solution-for-backup-disaster-recovery
+  - uid: learn.wwl.design-migrations
+  - uid: learn.azure-well-architected-framework
+  - uid: learn.accelerate-cloud-adoption
 summary: |-
   이 과정은 Azure 솔루션 설계자에게 인프라 솔루션을 설계하는 방법을 설명합니다. 과정에서 다루는 토픽에는 거버넌스, 컴퓨팅, 애플리케이션 아키텍처, 스토리지, 데이터 통합, 인증, 네트워크, 비즈니스 연속성, 마이그레이션이 있습니다. 이 과정에서는 강의를 사례 연구와 결합하여 기본적인 설계자 설계 원칙을 설명합니다.
 
