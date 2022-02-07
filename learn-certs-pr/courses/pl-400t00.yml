@@ -3,215 +3,176 @@ title: Microsoft Power Platform Developer
 metadata:
   title: '과정 PL-400T00-A: Microsoft Power Platform Developer'
   description: '과정 PL-400T00-A: Microsoft Power Platform Developer'
-  ms.openlocfilehash: b211e12fc2568619c1ba51d8a294dff9bcaa06aa
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107008"
 uid: course.pl-400t00
 courseNumber: PL-400T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 기술 디자인 만들기
-- skill: Common Data Service 구성
-- skill: Power Apps 만들기 및 구성
-- skill: 비즈니스 프로세스 자동화 구성
-- skill: 사용자 경험 확장
-- skill: 플랫폼 확장
-- skill: 통합 개발
+  - skill: 기술 디자인 만들기
+  - skill: Common Data Service 구성
+  - skill: Power Apps 만들기 및 구성
+  - skill: 비즈니스 프로세스 자동화 구성
+  - skill: 사용자 경험 확장
+  - skill: 플랫폼 확장
+  - skill: 통합 개발
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 roles:
-- developer
+  - developer
 products:
-- power-platform
+  - power-platform
 exams:
-- uid: exam.pl-400
-summary: >-
+  - uid: exam.pl-400
+studyGuide:
+  - uid: learn-bizapps.intro-model-driven-apps-common-data-service
+  - uid: learn-bizapps.powerapps-design-model-driven-apps
+  - uid: learn-dynamics.create-manage-entities
+  - uid: learn-dynamics.create-manage-fields-within-entity
+  - uid: learn-dynamics.working-with-option-sets
+  - uid: learn-dynamics.create-relationship-between-cds-entities
+  - uid: learn-dynamics.define-create-business-rules
+  - uid: learn-dynamics.create-define-calculation-rollup-fields
+  - uid: learn-dynamics.get-started-security-roles
+  - uid: learn-bizapps.powerapps-get-started
+  - uid: learn-bizapps.powerapps-customize
+  - uid: learn-bizapps.powerapps-manage
+  - uid: learn-bizapps.navigation-canvas-app
+  - uid: learn-bizapps.how-to-build-ui-canvas-app
+  - uid: learn-bizapps.controls-canvas-apps
+  - uid: learn-bizapps.use-documentation
+  - uid: learn-bizapps.use-imperative-dev-techniques
+  - uid: learn-bizapps.author-advanced-formulas
+  - uid: learn-bizapps.perform-custom-updates
+  - uid: learn-bizapps.testing-performance-checks
+  - uid: learn-bizapps.work-with-relational-data
+  - uid: learn-bizapps.data-source-limits
+  - uid: learn-bizapps.connect-other-data
+  - uid: learn-bizapps.custom-connectors
+  - uid: learn-bizapps.flow-get-started
+  - uid: learn-bizapps.build-approval-flows
+  - uid: learn-bizapps.intro-business-process-flows
+  - uid: learn-bizapps.create-immersive-flow
+  - uid: learn-bizapps.advanced-business-process-flows
+  - uid: learn-bizapps.introduction-expressions
+  - uid: learn-dynamics.introduction-developing-power-platform
+  - uid: learn-dynamics.use-developer-tools-extend
+  - uid: learn-dynamics.introduction-power-platform-extensibility-model
+  - uid: learn-dynamics.intro-cds-developers-power-platform
+  - uid: learn-dynamics.plug-ins-extend-power-platform
+  - uid: learn-dynamics.common-actions-client-script-power-platform
+  - uid: learn-dynamics.automate-business-process-flow-client-script-power-platform
+  - uid: learn-dynamics.get-started-component-framework
+  - uid: learn-dynamics.build-power-app-component
+  - uid: learn-dynamics.component-framework-advanced-topics
+  - uid: learn-bizapps.portals-access-common-data-service
+  - uid: learn-bizapps.extend-power-app-portals
+  - uid: learn-bizapps.portal-custom-web
+  - uid: learn-dynamics.common-data-service-web-api
+  - uid: learn-dynamics.integrate-common-data-service-azure-solutions
+summary: |-
   조직은 Microsoft Power Platform을 사용하여 비즈니스 작업 및 프로세스를 간소화, 자동화, 변환하여 운영을 최적화할 수 있습니다. 이 과정에서 학생은 Power Apps를 빌드하고 흐름을 자동화하고 플랫폼을 확장하여 비즈니스 요구 사항을 완료하고 복잡한 비즈니스 문제를 해결하는 방법에 대해 알아봅니다.
 
-
   #### <a name="audience-profile"></a>잠재 고객 프로파일
-
   이 과정의 대상자는 Power Platform 솔루션의 디자인, 개발, 보안, 문제 해결을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현해야 합니다. 대상자는 기능, 경계, 제약 조건에 대한 심층적인 이해를 포함하여 Power Platform 서비스에 대한 응용 지식을 얻게 됩니다. 대상자는 JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful 웹 서비스, ASP.NET, Power BI를 포함하는 개발 경험이 있어야 합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   - Power Platfom에 대한 기본 지식이 있어야 합니다.
-
   - 대상자는 JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful 웹 서비스, ASP.NET, Power BI를 포함하는 개발 경험이 있어야 합니다.
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-158-create-a-model-driven-application-in-power-apps"></a>모듈 1: Power Apps에서 모델 기반 애플리케이션 만들기
-
   본 모듈에서는 Power Apps에서 CDS(Common Data Service)를 사용하는 모델 기반 앱 생성 방법을 소개합니다.
-
   #### <a name="lessons"></a>단원
-
   - 모델 기반 앱 및 Common Data Service 소개
-
   - Power Apps에서 모델 기반 앱 시작
-
   - Common Data Service에서 엔터티 만들기 및 관리
-
   - Common Data Service의 엔터티 내에서 필드 만들기 및 관리
-
   - Common Data Service에서 옵션 세트 사용
-
   - Common Data Service에서 엔터티 간 관계 만들기
-
   - Common Data Service에서 비즈니스 규칙 정의 및 만들기
-
   - Common Data Service에서 계산 또는 롤업 필드 만들기 및 정의
-
   - Common Data Service에서 보안 역할 시작
 
 
-
   ### <a name="module-258-create-a-canvas-app-in-power-apps"></a>모듈 2: Power Apps에서 캔버스 앱 만들기
-
   본 모듈에서는 Power Apps를 소개하고, 앱 생성과 사용자 지정 및 관리와 배포하는 방법을 소개합니다. 또한 최고의 앱 탐색을 제공하고 테마, 아이콘, 이미지, 개인 설정, 다양한 폼 팩터, 컨트롤을 사용하여 최고의 UI를 빌드하는 방법을 보여 줍니다.
-
   #### <a name="lessons"></a>단원
-
   - Power Apps 시작
-
   - Power Apps에서 캔버스 앱 사용자 지정
-
   - Power Apps에서 앱 관리
-
   - Power Apps의 캔버스 앱에서 탐색
-
   - Power Apps의 캔버스 앱에서 UI를 빌드하는 방법
-
   - Power Apps의 캔버스 앱에서 컨트롤 사용 및 이해
-
   - Power Apps 애플리케이션 문서화 및 테스트
 
 
-
   ### <a name="module-358-master-advance-techniques-and-data-options-in-canvas-apps"></a>모듈 3: 캔버스 앱의 마스터 고급 기술 및 데이터 옵션
-
   이 모듈은 고급 수식을 사용하고 사용자 지정 업데이트, 성능 검사, 테스트를 수행하는 데 도움이 됩니다. 또한 사용자 환경을 개선하고, 사용자 지정 커넥터를 사용하고, 데이터 원본 제한 사용에 집중하는 데 도움이 됩니다.
-
   #### <a name="lessons"></a>단원
-
   - Power Apps에서 캔버스 앱에 명령적 개발 기술 사용
-
   - Power Apps 캔버스 앱에서 테이블, 레코드 및 컬렉션을 사용하는 고급 수식 작성
-
   - Power Apps 캔버스 앱에서 사용자 지정 업데이트 수행
-
   - Power Apps 캔버스 앱에서 테스트 및 성능 검사 수행
-
   - Power Apps 캔버스 앱에서 관계형 데이터 작업
-
   - Power Apps 캔버스 앱에서 데이터 원본 제한(위임 제한) 사용
-
   - Power Apps 캔버스 앱에서 다른 데이터에 연결
-
   - Power Apps 캔버스 앱에서 사용자 지정 커넥터 사용
 
 
-
   ### <a name="module-458-automate-a-business-process-using-power-automate"></a>모듈 4: Power Automate를 사용하여 비즈니스 프로세스 자동화
-
   본 모듈에서는 Power Automate를 소개하고 워크플로 구축과 흐름을 관리하는 방법을 알려줍니다.
-
   #### <a name="lessons"></a>단원
-
   - Power Automate 시작
-
   - Power Automate를 사용하여 더 복잡한 흐름을 빌드
-
   - Power Automate의 비즈니스 프로세스 흐름 소개
-
   - Power Automate에서 몰입형 비즈니스 프로세스 흐름 만들기
-
   - Power Automate의 고급 비즈니스 프로세스 흐름 개념 이해
-
   - Power Automate의 식 소개
 
 
-
   ### <a name="module-558-introduction-to-developing-with-power-platform"></a>모듈 5: Power Platform을 사용한 개발 소개
-
   이 모듈은 Power Platform의 플랫폼, 도구, 에코시스템에 대해 알아보는 첫 번째 단계입니다.
-
   #### <a name="lessons"></a>단원
-
   - Power Platform 개발자 리소스 소개
-
   - 개발자 도구를 사용하여 Power Platform 확장
-
   - Microsoft Power Platform 확장 소개
 
 
-
   ### <a name="module-658-extending-the-power-platform-common-data-service"></a>모듈 6: Power Platform Common Data Service 확장
-
   이 모듈에서는 Power Platform을 확장하는 데 필요한 도구와 리소스를 살펴봅니다. SDK, 확장성 모델, 이벤트 프레임워크를 살펴보는 것으로 시작합니다. 이 학습 경로는 언제 플러그 인을 사용하는지와 플러그 인의 구성, 플러그 인의 등록 및 배포에 대해서도 설명합니다.
-
   #### <a name="lessons"></a>단원
-
   - 개발자를 위한 Common Data Service 소개
-
   - 플러그 인 확장
 
 
-
   ### <a name="module-758-extending-the-power-platform-user-experience-model-driven-apps"></a>모듈 7: Power Platform 사용자 환경 모델 기반 앱 확장
-
   이 모듈에서는 클라이언트 스크립팅을 만들고 클라이언트 스크립트를 사용하여 일반적인 작업을 수행하고 비즈니스 프로세스 흐름을 자동화하는 방법에 대해 설명합니다. 클라이언트 스크립트에서 수행할 수 있는 작업, 규칙, 스크립트 유지 관리에 대해 알아봅니다. 클라이언트 스크립트를 언제 사용하고 언제 사용하지 않을지에 대해 알아보세요.
-
   #### <a name="lessons"></a>단원
-
   - 웹 리소스 소개
-
   - 클라이언트 스크립트를 사용하여 일반적인 작업 수행
-
   - 클라이언트 스크립트를 사용하여 비즈니스 프로세스 흐름 자동화
 
 
-
   ### <a name="module-858-create-components-with-power-apps-component-framework"></a>모듈 8: Power Apps 구성 요소 프레임워크를 사용하여 구성 요소 만들기
-
   이 모듈에서는 핵심 개념 및 구성 요소에 대한 소개 모듈을 사용하여 Power Apps 구성 요소 프레임워크 시작 방법에 대해 설명합니다. 그런 다음 구성 요소를 빌드하고 고급 Power Apps 구성 요소 프레임워크 기능을 사용하는 방법을 보여 줍니다.
-
   #### <a name="lessons"></a>단원
-
   - Power Apps 구성 요소 프레임워크 시작
-
   - Power Apps 구성 요소 빌드
-
   - Power Apps 구성 요소 프레임워크를 통해 고급 기능 사용
 
 
-
   ### <a name="module-958-extend-power-apps-portals"></a>모듈 9: Power Apps 포털 확장
-
   이 모듈에서는 콘텐츠 포털을 Common Data Service와 상호 작용하는 전체 웹앱으로 변환하는 방법에 대해 설명합니다. 포털 기능을 확장하고 Office 365, Power Platform, Azure 구성 요소와 통합하기 위한 사용자 지정자 및 개발자가 사용할 수 있는 옵션에 대해서도 설명합니다.
-
   #### <a name="lessons"></a>단원
-
   - Power Apps 포털 소개
-
   - Power Apps 포털의 Common Data Service에 액세스
-
   - Power Apps 포털 확장
-
   - 사용자 지정 Power Apps 포털 웹 템플릿 빌드
 
 
-
   ### <a name="module-1058-integrate-with-power-platform-and-common-data-service"></a>모듈 10: Power Platform 및 Common Data Service 통합
-
   이 모듈에서는 Common Data Service API에 대해 알아보고 코드를 사용하여 Common Data Service와 통합하는 방법에 대해 설명합니다. Common Data Service에서 데이터 및 이벤트를 Azure로 통합하는 데 사용할 수 있는 옵션에 대한 자세한 개요를 참조하세요.
-
   #### <a name="lessons"></a>단원
-
   - Common Data Service Web API 사용
-
   - Common Data Service Azure 솔루션 통합

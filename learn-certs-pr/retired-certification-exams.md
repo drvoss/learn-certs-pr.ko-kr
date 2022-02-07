@@ -54,58 +54,6 @@ ms.prod: non-product-specific
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 2021년 6월 30일
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 2021년 6월 30일
 
-<br/>
-
-| ITPro/개발자| | |
-| --- | --- | --- |
-| [70-333](/learn/certifications/exams/70-333) | Deploying Enterprise Voice with Skype for Business 2015 | 2021년 1월 31일
-| [70-334](/learn/certifications/exams/70-334) | Core Solutions of Microsoft Skype for Business 2015 | 2021년 1월 31일
-| [70-339](/learn/certifications/exams/70-339) | Managing Microsoft SharePoint Server 2016 | 2021년 1월 31일
-| [70-345](/learn/certifications/exams/70-345) | Designing and Deploying Microsoft Exchange Server 2016 | 2021년 1월 31일
-| [70-357](/learn/certifications/exams/70-357) | Developing Mobile Apps | 2021년 1월 31일
-| [70-410](/learn/certifications/exams/70-410) | Installing and Configuring Windows Server 2012 | 2021년 1월 31일
-| [70-411](/learn/certifications/exams/70-411) | Administering Windows Server 2012 | 2021년 1월 31일
-| [70-412](/learn/certifications/exams/70-412) | Configuring Advanced Windows Server 2012 Services  | 2021년 1월 31일
-| [70-413](/learn/certifications/exams/70-413) | Designing and Implementing a Server Infrastructure | 2021년 1월 31일
-| [70-414](/learn/certifications/exams/70-414) | Implementing an Advanced Server Infrastructure | 2021년 1월 31일
-| [70-417](/learn/certifications/exams/70-417) | Upgrading Your Skills to MCSA Windows Server 2012 | 2021년 1월 31일
-| [70-461](/learn/certifications/exams/70-461) | Querying Microsoft SQL Server 2012/2014 | 2021년 1월 31일
-| [70-462](/learn/certifications/exams/70-462) | Administering Microsoft SQL Server 2012/2014 Databases | 2021년 1월 31일
-| [70-463](/learn/certifications/exams/70-463) | Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | 2021년 1월 31일
-| [70-464](/learn/certifications/exams/70-464) | Developing Microsoft SQL Server Databases | 2021년 1월 31일
-| [70-465](/learn/certifications/exams/70-465) | Designing Database Solutions for Microsoft SQL Server | 2021년 1월 31일
-| [70-466](/learn/certifications/exams/70-466) | Implementing Data Models and Reports with Microsoft SQL Server | 2021년 1월 31일
-| [70-467](/learn/certifications/exams/70-467) | Designing Business Intelligence Solutions with Microsoft SQL Server | 2021년 1월 31일
-| [70-480](/learn/certifications/exams/70-480) | Programming in HTML5 with JavaScript and CSS3 | 2021년 1월 31일
-| [70-483](/learn/certifications/exams/70-483) | Programming in C# | 2021년 1월 31일
-| [70-486](/learn/certifications/exams/70-486) | Developing ASP.NET MVC Web Applications | 2021년 1월 31일
-| [70-487](/learn/certifications/exams/70-487) | Developing Microsoft Azure and Web Services | 2021년 1월 31일
-| [70-537](/learn/certifications/exams/70-537) | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub | 2021년 1월 31일
-| [70-705](/learn/certifications/exams/70-705) | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 2021년 1월 31일
-| [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 2021년 1월 31일
-| [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 2021년 1월 31일
-| [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 2021년 1월 31일
-| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 2021년 1월 31일
-| [70-744](/learn/certifications/exams/70-744) | Securing Windows Server 2016 | 2021년 1월 31일
-| [70-745](/learn/certifications/exams/70-745) | Implementing a Software-Defined Datacenter | 2021년 1월 31일
-| [70-761](/learn/certifications/exams/70-761) | Querying Data with Transact-SQL | 2021년 1월 31일
-| [70-762](/learn/certifications/exams/70-762) | Developing SQL Databases | 2021년 1월 31일
-| [70-764](/learn/certifications/exams/70-764) | Administering a SQL Database Infrastructure | 2021년 1월 31일
-| [70-765](/learn/certifications/exams/70-765) | Provisioning SQL Databases | 2021년 1월 31일
-| [70-767](/learn/certifications/exams/70-767) | Implementing a Data Warehouse using SQL | 2021년 1월 31일
-| [70-768](/learn/certifications/exams/70-768) | Developing SQL Data Models | 2021년 1월 31일
-| [70-777](/learn/certifications/exams/70-777) | Implementing Microsoft Azure Cosmos DB Solutions | 2021년 1월 31일
-| [70-778](/learn/certifications/exams/70-778) | Power BI를 통한 데이터 분석 및 시각화 | 2021년 1월 31일
-| [70-779](/learn/certifications/exams/70-779) | Analyzing and Visualizing Data with Microsoft Excel | 2021년 1월 31일
-
-<br/>
-
-| Microsoft Dynamics | | |
-| --- | --- | --- |
-| [MB2-716](/learn/certifications/exams/mb2-716) | Microsoft Dynamics 365 Customization and Configuration | 2021년 1월 31일
-| [MB6-894](/learn/certifications/exams/mb6-894) | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 2021년 1월 31일
-| [MB6-897](/learn/certifications/exams/mb6-897) | Microsoft Dynamics 365 for Retail | 2021년 1월 31일
-| [MB6-898](/learn/certifications/exams/mb6-898) | Microsoft Dynamics 365 for Talent | 2021년 1월 31일
 
 ## <a name="exams-retired-more-than-12-months-ago"></a>12개월보다 더 전에 폐지된 시험
 
@@ -201,11 +149,15 @@ ms.prod: non-product-specific
 | 70-330 | Microsoft Visual Basic .NET을 사용한 애플리케이션 보안 구현 | 2009년 3월 31일
 | 70-331 | Microsoft SharePoint Server 2013의 핵심 솔루션 | 2019년 3월 31일
 | 70-332 | Microsoft SharePoint Server 2013의 고급 솔루션 | 2019년 3월 31일
+| 70-333 | Deploying Enterprise Voice with Skype for Business 2015 | 2021년 1월 31일
+| 70-334 | Core Solutions of Microsoft Skype for Business 2015 | 2021년 1월 31일
 | 70-336 | Microsoft Lync Server 2013의 핵심 솔루션 | 2016년 3월 30일
 | 70-337 | Microsoft Lync Server 2013을 통한 엔터프라이즈 음성 및 온라인 서비스 | 2016년 3월 30일
+| 70-339 | Managing Microsoft SharePoint Server 2016 | 2021년 1월 31일
 | 70-340 | Microsoft Visual C# .NET을 사용한 애플리케이션 보안 구현 | 2009년 3월 31일
 | 70-341 | Microsoft Exchange Server 2013의 핵심 솔루션 | 2019년 3월 31일
 | 70-342 | Microsoft Exchange Server 2013의 고급 솔루션 | 2019년 3월 31일
+| 70-345 | Designing and Deploying Microsoft Exchange Server 2016 | 2021년 1월 31일
 | 70-346 | Managing Office 365 Identities and Requirements | 2019년 4월 30일
 | 70-347 | Office 365 서비스 사용 | 2019년 4월 30일
 | 70-348 | Managing Projects and Portfolios with Microsoft PPM | 2019년 12월 31일
@@ -213,6 +165,7 @@ ms.prod: non-product-specific
 | 70-351 | TS: Microsoft Internet Security and Acceleration Server 2006, Configuring | 2011년 3월 31일
 | 70-354 | Universal Windows Platform – 앱 아키텍쳐와 UX/UI | 2017년 9월 30일
 | 70-355 | Universal Windows Platform – 앱 데이터, 서비스, 코딩 패턴 | 2017년 9월 30일
+| 70-357 | Developing Mobile Apps | 2021년 1월 31일
 | 70-383 | Recertification for MCSE: SharePoint | 2017년 3월 31일
 | 70-384 | Recertification for MCSE: Communication | 2017년 3월 31일
 | 70-385 | Recertification for MCSE: Messaging | 2017년 3월 31일
@@ -220,8 +173,14 @@ ms.prod: non-product-specific
 | 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013년 7월 31일
 | 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 2013년 7월 31일
 | 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 2011년 9월 30일
+| 70-410 | Installing and Configuring Windows Server 2012 | 2021년 1월 31일
+| 70-411 | Administering Windows Server 2012 | 2021년 1월 31일
+| 70-412 | Configuring Advanced Windows Server 2012 Services  | 2021년 1월 31일
+| 70-413 | Designing and Implementing a Server Infrastructure | 2021년 1월 31일
+| 70-414 | Implementing an Advanced Server Infrastructure | 2021년 1월 31일
 | 70-415 | Desktop Infrastructure 구현 | 2016년 1월 31일
 | 70-416 | Desktop Application Environments 구현 | 2016년 1월 31일
+| 70-417 | Upgrading Your Skills to MCSA Windows Server 2012 | 2021년 1월 31일
 | 70-431 | TS: Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 2011년 6월 30일
 | 70-432 | Microsoft SQL 서버 2008, 구현 및 유지 관리 | 2016년 7월 31일
 | 70-433 | TS: Microsoft SQL Server 2008, Database Development | 2015년 7월 31일
@@ -244,14 +203,25 @@ ms.prod: non-product-specific
 | 70-458 | SQL Server 2008에서 MCTS를 MCSA로 전환: SQL Server 2012, 2부 | 2016년 7월 31일
 | 70-459 | MCITP 전환: 데이터베이스 관리자 2008 또는 MCITP: 데이터베이스 개발자 2008 - MCSE: 데이터 플랫폼 | 2016년 1월 31일
 | 70-460 | MCITP 전환: 비즈니스 인텔리전스 개발자 2008 - MCSE: 비즈니스 인텔리전스 | 2016년 1월 31일
+| 70-461 | Querying Microsoft SQL Server 2012/2014 | 2021년 1월 31일
+| 70-462 | Administering Microsoft SQL Server 2012/2014 Databases | 2021년 1월 31일
+| 70-463 | Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | 2021년 1월 31일
+| 70-464 | Developing Microsoft SQL Server Databases | 2021년 1월 31일
+| 70-465 | Designing Database Solutions for Microsoft SQL Server | 2021년 1월 31일
+| 70-466 | Implementing Data Models and Reports with Microsoft SQL Server | 2021년 1월 31일
+| 70-467 | Designing Business Intelligence Solutions with Microsoft SQL Server | 2021년 1월 31일
 | 70-469 | MCSE: Data Platform의 재인증 | 2017년 3월 31일
 | 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일
 | 70-473 | Cloud 데이터 플랫폼 솔루션 설계 및 구현 | 2019년 6월 30일
 | 70-475 | 빅 데이터 분석 솔루션 설계 및 구현 | 2019년 6월 30일
+| 70-480 | Programming in HTML5 with JavaScript and CSS3 | 2021년 1월 31일
 | 70-481 | HTML5 및 JavaScript를 사용한 Windows Store 앱 개발 기초 | 2016년 9월 30일
 | 70-482 | HTML5와 JavaScript를 사용한 고급 Windows 스토어 응용 프로그램 개발 | 2016년 9월 30일
+| 70-483 | Programming in C# | 2021년 1월 31일
 | 70-484 | C#를 사용한 Windows Store Apps 개발의 기초 | 2016년 9월 30일
 | 70-485 | C#를 사용한 고급 Windows Store Apps 개발 | 2016년 9월 30일
+| 70-486 | Developing ASP.NET MVC Web Applications | 2021년 1월 31일
+| 70-487 | Developing Microsoft Azure and Web Services | 2021년 1월 31일
 | 70-488 | SharePoint Server 2013 핵심 솔루션 개발 | 2018년 7월 31일
 | 70-489 | SharePoint Server 2013 고급 솔루션 개발 | 2018년 7월 31일
 | 70-490 | MCSD 재인증: Windows Store Apps Using HTML5 | 2017년 3월 31일
@@ -286,6 +256,7 @@ ms.prod: non-product-specific
 | 70-534 | Microsoft Azure Solutions 설계하기 | 2017년 12월 31일
 | 70-535 | Microsoft Azure Solutions 설계하기 | 2018년 12월 31일
 | 70-536 | TS: Microsoft .NET Framework – Application Development Foundation | 2013년 7월 31일
+| 70-537 | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub | 2021년 1월 31일
 | 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development | 2011년 3월 31일
 | 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development | 2011년 6월 30일
 | 70-542 | TS: Microsoft Office SharePoint Server 2007 - Application Development | 2013년 1월 31일
@@ -382,13 +353,29 @@ ms.prod: non-product-specific
 | 70-698 | Windows 10 설치 및 구성 | 2019년 3월 31일
 | 70-699 | Windows Server 2003, MCSA 보안 전문화 기술 업데이트 인증 | 2013년 7월 31일
 | 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 2019년 12월 31일
+| 70-705 | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 2021년 1월 31일
 | 70-713 | Software Asset Management (SAM) - Core | 2019년 12월 31일
 | 70-734 | OEM Preinstallation for Windows 10 | 2017년 8월 31일
 | 70-735 | OEM Manufacturing and Deployment for Windows 10 | 2019년 12월 31일
+| 70-740 | Installation, Storage, and Compute with Windows Server 2016 | 2021년 1월 31일
+| 70-741 | Networking with Windows Server 2016 | 2021년 1월 31일
+| 70-742 | Identity with Windows Server 2016 | 2021년 1월 31일
+| 70-743 | Upgrading Your Skills to MCSA: Windows Server 2016 | 2021년 1월 31일
+| 70-744 | Securing Windows Server 2016 | 2021년 1월 31일
+| 70-745 | Implementing a Software-Defined Datacenter | 2021년 1월 31일
+| 70-761 | Querying Data with Transact-SQL | 2021년 1월 31일
+| 70-762 | Developing SQL Databases | 2021년 1월 31일
+| 70-764 | Administering a SQL Database Infrastructure | 2021년 1월 31일
+| 70-765 | Provisioning SQL Databases | 2021년 1월 31일
+| 70-767 | Implementing a Data Warehouse using SQL | 2021년 1월 31일
+| 70-768 | Developing SQL Data Models | 2021년 1월 31일
 | 70-773 | Microsoft R로 빅데이터 분석 | 2019년 6월 30일
 | 70-774 | Azure Machine Learning을 사용한 Cloud Data Science 실행 | 2019년 6월 30일
 | 70-775 | Microsoft Azure HDInsight에서 데이터 엔지니어링을 실행하십시오. | 2019년 6월 30일
 | 70-776 | Microsoft Cloud Services에서 빅데이터 엔지니어링 수행 | 2019년 6월 30일
+| 70-777 | Implementing Microsoft Azure Cosmos DB Solutions | 2021년 1월 31일
+| 70-778 | Power BI를 통한 데이터 분석 및 시각화 | 2021년 1월 31일
+| 70-779 | Analyzing and Visualizing Data with Microsoft Excel | 2021년 1월 31일
 | 70-980 | Recertification for MCSE: Server Infrastructure | 2017년 3월 31일
 | 70-981 | Recertification for MCSE: Private Cloud | 2017년 3월 31일
 | 70-982 | Recertification for MCSE: Desktop Infrastructure | 2015년 10월 5일
@@ -468,6 +455,7 @@ ms.prod: non-product-specific
 | MB2-713 | Microsoft Dynamics CRM 2016 Sales | 2019년 12월 31일
 | MB2-714 | Microsoft Dynamics CRM 2016 Customer Service | 2019년 12월 31일
 | MB2-715 | Microsoft Dynamics 365 고객 관련 온라인 효율화 | 2019년 6월 30일
+| MB2-716 | Microsoft Dynamics 365 Customization and Configuration | 2021년 1월 31일
 | MB2-717 | 영업용 Microsoft Dynamics 365 | 2019년 6월 30일
 | MB2-718 | Microsoft Dynamics 365 for Customer Service | 2019년 8월 31일
 | MB2-719 | Microsoft Dynamics 365 for Marketing | 2019년 8월 31일
@@ -572,8 +560,11 @@ ms.prod: non-product-specific
 | MB6-890 | Microsoft Dynamics AX 개발 입문 | 2017년 12월 31일
 | MB6-892 | Microsoft Dynamics AX 배포 및 거래 | 2017년 12월 31일
 | MB6-893 | Microsoft Dynamics AX Financials | 2017년 12월 31일
+| MB6-894 | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 2021년 1월 31일
 | MB6-895 | 재무 및 운영을 위한 Microsoft Dynamics 365에서 재무 관리 분야 | 2019년 8월 31일
 | MB6-896 | Microsoft Dynamics 365 for Finance and Operations 배포 및 거래 | 2019년 8월 31일
+| MB6-897 | Microsoft Dynamics 365 for Retail | 2021년 1월 31일
+| MB6-898 | Microsoft Dynamics 365 for Talent | 2021년 1월 31일
 | MB7-221 | Navision 4.0 C/SIDE Introduction | 2010년 1월 12일
 | MB7-222 | NAV 4.0 C/SIDE 솔루션 개발 | 2010년 1월 12일
 | MB7-223 | Navision 4.0 Warehouse Management | 2010년 1월 12일

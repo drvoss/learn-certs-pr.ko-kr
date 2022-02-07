@@ -3,325 +3,235 @@ title: Microsoft Azure Virtual Desktop 구성 및 운영
 metadata:
   title: '과정 AZ-140T00--A: Configuring and Operating Microsoft Azure Virtual Desktop'
   description: '과정 AZ-140T00--A: Configuring and Operating Microsoft Azure Virtual Desktop'
-  ms.openlocfilehash: 79c40c902d726b4a8f9973d5eb0ed19b40e88d8d
-  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136954809"
 uid: course.az-140t00
 courseNumber: AZ-140T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure Virtual Desktop에 대한 적절한 라이선스 모델 선택
-- skill: Azure Virtual Desktop에 대한 네트워킹 구현
-- skill: Azure Bastion을 사용하여 Azure Virtual Desktop 세션 호스트 관리
-- skill: FSLogix 구성 요소에 대한 스토리지 구성
-- skill: 세션 호스트 이미지 만들기 및 관리
-- skill: Azure Virtual Desktop에 대한 Azure 역할 및 RBAC(역할 기반 액세스 제어) 구현
-- skill: 사용자 Azure Virtual Desktop 환경 설정 구성
-- skill: 세션 호스트에 앱 설치 및 구성
-- skill: 비즈니스 연속성 및 재해 복구 구현
-- skill: Azure Virtual Desktop 성능 모니터링 및 관리
+  - skill: Azure Virtual Desktop에 대한 적절한 라이선스 모델 선택
+  - skill: Azure Virtual Desktop에 대한 네트워킹 구현
+  - skill: Azure Bastion을 사용하여 Azure Virtual Desktop 세션 호스트 관리
+  - skill: FSLogix 구성 요소에 대한 스토리지 구성
+  - skill: 세션 호스트 이미지 만들기 및 관리
+  - skill: Azure Virtual Desktop에 대한 Azure 역할 및 RBAC(역할 기반 액세스 제어) 구현
+  - skill: 사용자 Azure Virtual Desktop 환경 설정 구성
+  - skill: 세션 호스트에 앱 설치 및 구성
+  - skill: 비즈니스 연속성 및 재해 복구 구현
+  - skill: Azure Virtual Desktop 성능 모니터링 및 관리
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
+  - zh-cn
+  - ja
+  - ko
 levels:
-- intermediate
+  - intermediate
 roles:
-- administrator
+  - administrator
 products:
-- azure
+  - azure
 exams:
-- uid: exam.az-140
+  - uid: exam.az-140
 studyGuide:
-- uid: learn.wwl.azure-virtual-desktop-architecture
-- uid: learn.wwl.design-azure-virtual-desktop-architecture
-- uid: learn.wwl.design-for-user-identities-profiles
-- uid: learn.wwl.implement-manage-networking-for-azure-virtual-desktop
-- uid: learn.wwl.implement-manage-storage-for-azure-virtual-desktop
-- uid: learn.wwl.create-configure-host-pools-session-hosts
-- uid: learn.wwl.create-manage-session-host-image
-- uid: learn.wwl.manage-access
-- uid: learn.wwl.manage-security
-- uid: learn.wwl.implement-manage-fslogix
-- uid: learn.wwl.configure-user-experience-settings
-- uid: learn.wwl.install-configure-apps-session-host
-- uid: learn.wwl.plan-implement-business-continuity-disaster-recovery
-- uid: learn.wwl.automate-azure-virtual-desktop-management-tasks
-- uid: learn.wwl.monitor-manage-performance-health
-summary: >-
+  - uid: learn.wwl.azure-virtual-desktop-architecture
+  - uid: learn.wwl.design-azure-virtual-desktop-architecture
+  - uid: learn.wwl.design-for-user-identities-profiles
+  - uid: learn.wwl.implement-manage-networking-for-azure-virtual-desktop
+  - uid: learn.wwl.implement-manage-storage-for-azure-virtual-desktop
+  - uid: learn.wwl.create-configure-host-pools-session-hosts
+  - uid: learn.wwl.create-manage-session-host-image
+  - uid: learn.wwl.manage-access
+  - uid: learn.wwl.manage-security
+  - uid: learn.wwl.implement-manage-fslogix
+  - uid: learn.wwl.configure-user-experience-settings
+  - uid: learn.wwl.install-configure-apps-session-host
+  - uid: learn.wwl.plan-implement-business-continuity-disaster-recovery
+  - uid: learn.wwl.automate-azure-virtual-desktop-management-tasks
+  - uid: learn.wwl.monitor-manage-performance-health
+summary: |-
   이 과정에서는 Azure 관리자에게 Azure에서 모든 디바이스에 대해 가상 데스크톱 환경 및 원격 앱을 계획, 제공, 관리하는 방법에 대해 설명합니다. 학생은 Azure Virtual Desktop에 가상 데스크톱 환경 및 앱을 배포하고 다중 세션 가상 환경에서 실행되도록 최적화하는 데모 및 실습 랩 경험의 혼합을 통해 배웁니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop 학생은 Azure Virtual Desktop에 애플리케이션을 제공하고 다중 세션 가상 환경에서 실행되도록 최적화하는 데 관심이 있습니다. Azure Virtual Desktop 관리자는 Azure 관리자 및 설계자, Microsoft 365 관리자와 긴밀하게 협업합니다. Azure Virtual Desktop 관리자의 책임에는 Azure Virtual Desktop 인프라의 계획, 배포, 패키징, 업데이트, 유지 관리가 포함됩니다. 또한 세션 호스트 이미지를 만들고, FSLogix를 구현 및 관리하고, Azure Virtual Desktop 성능을 모니터링하고, Azure Virtual Desktop 관리 작업을 자동화합니다.
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-plan-an-azure-virtual-desktop-implementation"></a>모듈 1: Azure Virtual Desktop 구현 계획
-
 
   이 모듈에서는 기존 물리적 및 가상 데스크톱 환경을 평가하고, AD(Active Directory) 및 Azure AD DS(Azure Active Directory Domain Services)에 대한 이름 확인을 계획하고 구성하고, Azure Virtual Desktop 클라이언트 배포를 계획하는 방법에 대해 알아봅니다. 형식만. 글머리 기호나 목록이 없습니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure Virtual Desktop 아키텍처
 
-
   *   Azure Virtual Desktop 아키텍처 디자인
-
 
   *   사용자 ID 및 프로필을 위한 디자인
 
 
-
   #### <a name="lab--prepare-for-deployment-of-azure-virtual-desktop-azure-ad-ds"></a>랩: Azure Virtual Desktop 배포 준비(Azure AD DS)
 
-
   ####
-
 
   #### <a name="lab--prepare-for-deployment-of-azure-virtual-desktop-ad-ds"></a>랩: Azure Virtual Desktop 배포 준비(AD DS)
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Azure Virtual Desktop 구성 요소 이해
-
 
   *   개인 데스크톱 및 풀링된 데스크톱 이해
 
-
   *   Azure Virtual Desktop 구현을 위한 운영 체제 추천
-
 
   *   호스트 풀 아키텍처 계획
 
 
-
   ### <a name="module-2-implement-an-azure-virtual-desktop-infrastructure"></a>모듈 2: Azure Virtual Desktop 인프라 구현
-
 
   이 모듈에서는 인터넷 및 온-프레미스 네트워크에 대한 연결을 관리하고, Azure Portal을 사용하여 호스트 풀을 만들고, Azure Resource Manager 템플릿을 사용하여 호스트 풀을 배포하고, 실행 중인 Azure Virtual Desktop 호스트에 OS 및 애플리케이션 업데이트를 적용하고, 마스터 이미지를 만드는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure Virtual Desktop에 대한 네트워킹 구현 및 관리
 
-
   *   Azure Virtual Desktop에 대한 스토리지 구현 및 관리
 
-
   *   호스트 풀 및 세션 호스트 만들기 및 구성
-
 
   *   세션 호스트 이미지 만들기 및 관리
 
 
-
   #### <a name="lab--deploy-host-pools-and-session-hosts-by-using-the-azure-portal-ad-ds"></a>랩: Azure Portal을 사용하여 호스트 풀 및 세션 호스트 배포(AD DS)
 
-
   ####
-
 
   #### <a name="lab--implement-and-manage-storage-for-azure-virtual-desktop-azure-ad-ds"></a>랩: Azure Virtual Desktop에 대한 스토리지 구현 및 관리(Azure AD DS)
 
-
   ####
-
 
   #### <a name="lab--deploy-host-pools-and-hosts-by-using-azure-resource-manager-templates"></a>랩: Azure Resource Manager 템플릿을 사용하여 호스트 풀 및 호스트 배포
 
-
   ####
-
 
   #### <a name="lab--deploy-and-manage-host-pools-and-hosts-by-using-powershell"></a>랩: PowerShell을 사용하여 호스트 풀 및 호스트 배포 및 관리
 
-
   ####
-
 
   #### <a name="lab--create-and-configure-host-pools-and-session-hosts-azure-ad-ds"></a>랩: 호스트 풀 및 세션 호스트 만들기 및 구성(Azure AD DS)
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Azure 가상 네트워크 연결 구현
-
 
   *   인터넷 및 온-프레미스 네트워크에 대한 연결 관리
 
-
   *   Azure Virtual Desktop 네트워크 연결 이해
-
 
   *   Azure Bastion을 사용하여 Azure Virtual Desktop 세션 호스트 구성
 
-
   *   FSLogix 구성 요소에 대한 스토리지 구성
-
 
   *   디스크 및 파일 공유 구성
 
-
   *   세션 호스트 이미지 수정
-
 
   *   SIG(Shared Image Gallery) 만들기 및 사용
 
 
-
   ### <a name="module-3-manage-access-and-security"></a>모듈 3: 액세스 및 보안 관리
-
 
   이 모듈에서는 Azure Virtual Desktop에 대한 Azure 역할 및 RBAC를 계획 및 구현하고, 연결에 대한 조건부 액세스 정책을 구현하고, MFA를 계획 및 구현하고, Azure Security Center를 사용하여 보안을 관리하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
 
-
   *   액세스 관리
-
 
   *   보안 관리
 
 
-
   #### <a name="lab--configure-conditional-access-policies-for-connections-to-azure-virtual-desktop-ad-ds"></a>랩: Azure Virtual Desktop 연결에 대한 조건부 액세스 정책 구성(AD DS)
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   Azure Virtual Desktop 세션 호스트에서 로컬 역할, 그룹, 권한 할당 관리
 
-
   *   AD 그룹 정책 및 Azure AD 정책을 사용하여 사용자 제한 구성
-
 
   *   조건부 액세스 정책 구성 요소 이해
 
-
   *   Azure Virtual Desktop에 대한 Azure AD(Azure Active Directory) 기반 조건부 액세스 준비
-
 
   *   Azure Virtual Desktop에 대한 Azure AD 기반 조건부 액세스 구현
 
 
-
   ### <a name="module-4-manage-user-environments-and-apps"></a>모듈 4: 사용자 환경 및 앱 관리
-
 
   이 모듈에서는 FSLogix를 계획하고, FSLogix를 설치하고, 클라우드 캐시를 구성하고, 애플리케이션을 RemoteApp으로 배포하고, 다중 세션 환경에 대한 비즈니스용 OneDrive를 구현 및 관리하는 방법에 대해 설명합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   FSLogix 구현 및 관리
 
-
   *   사용자 환경 설정 구성
-
 
   *   세션 호스트에 앱 설치 및 구성
 
 
-
   #### <a name="lab--implement-and-manage-azure-virtual-desktop-profiles-azure-ad-ds"></a>랩: Azure Virtual Desktop 프로필 구현 및 관리(Azure AD DS)
 
-
   ####
-
 
   #### <a name="lab--package-windows-azure-desktop-applications-ad-ds"></a>랩: Windows Azure Desktop 애플리케이션 패키지(AD DS)
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   프로필 컨테이너 구성
-
 
   *   AAD DS 환경에서 Azure Virtual Desktop에 대한 프로필 컨테이너를 저장하도록 Azure Files 구성
 
-
   *   Azure AD DS 환경에서 Azure Virtual Desktop에 대한 FSLogix 기반 프로필 구현
-
 
   *   Azure Virtual Desktop에 대한 FSLogix 기반 프로필 구현
 
-
   *   MSIX 앱 패키지 준비 및 만들기
-
 
   *   AD DS 환경에서 Azure Virtual Desktop에 대한 MSIX 앱 연결 컨테이너 구현
 
 
-
   ### <a name="module-5-monitor-and-maintain-an-azure-virtual-desktop-infrastructure"></a>모듈 5: Azure Virtual Desktop 인프라 모니터링 및 유지 관리
-
 
   이 모듈에서는 Azure Virtual Desktop에 대한 재해 복구 계획을 계획하고 구현하고, Azure Virtual Desktop에 대한 자동화를 구성하고, 호스트 풀에서 자동 스케일링을 구현하고, 세션 호스트 용량 및 성능을 최적화하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   비즈니스 연속성 및 재해 복구 계획 및 구현
 
-
   *   Azure Virtual Desktop 관리 작업 자동화
-
 
   *   성능 및 상태 모니터링 및 관리
 
 
-
   #### <a name="lab--implement-autoscaling-in-host-pools-ad-ds"></a>랩: 호스트 풀에서 자동 스케일링 구현(AD DS)
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   Azure Virtual Desktop에 대한 재해 복구 계획 및 구현
 
-
   *   Azure Virtual Desktop에 대한 자동화 구성
-
 
   *   Azure Monitor를 사용하여 Azure Virtual Desktop 모니터링
 
-
   *   Azure Virtual Desktop 모니터링을 위해 Azure Workbooks 사용자 지정
 
-
   *   Azure Virtual Desktop 세션 호스트의 자동 스케일링 구성
-
 
   *   Azure Virtual Desktop 세션 호스트의 자동 스케일링 확인

@@ -3,87 +3,76 @@ title: 'Microsoft Certified: Customer Data Platform Specialty'
 metadata:
   title: 'Microsoft Certified: Customer Data Platform Specialty'
   description: Microsoft 고객 데이터 플랫폼 전문가는 고객 프로필에 대한 인사이트를 제공하고 고객 환경을 개선하고 고객 재방문을 늘리는 데 도움이 되는 참여 활동을 추적하는 솔루션을 구현합니다.
-  ms.openlocfilehash: f25eab470ab80ab0feedfffe5b571c640196343f
-  ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137647539"
 uid: certification.customer-data-platform-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: >-
+summary: |-
   전문 분야가 고객 프로필에 대한 인사이트를 제공하고 고객 환경을 개선하고 고객 재방문을 늘리는 데 도움이 되는 참여 활동을 추적하는 솔루션을 구현하는 것이라면 이 인증은 귀하의 기술을 검증하고 직업적 기회를 얻는 데 도움이 될 수 있습니다.
-
 
   이 인증의 응시자는 Dynamics 365 Customer Insights, 파워 쿼리, Microsoft Dataverse, Common Data Model, Microsoft Power Platform과 하나 이상의 추가 Dynamics 365 앱에 대한 직접적인 경험이 있어야 합니다. 또한 개인 정보 보호, 규정 준수, 동의, 보안, 책임 있는 AI, 데이터 보존 정책과 관련된 사례에 대한 직접적인 경험이 있어야 합니다.
 
-
   KPI, 데이터 보존, 유효성 검사, 시각화, 준비, 일치, 조각화, 구분, 향상된 기능과 관련된 프로세스에 대한 경험도 필요합니다. Azure Machine Learning, Azure Synapse Analytics, Azure Data Factory를 일반적으로 이해하고 있어야 합니다.
 
-
-  이 인증을 취득하기 위해 더 많은 경험이 필요한 경우 다음과 같은 몇 가지 제안이 있습니다.
-
+  이 인증을 얻기 전에 더 많은 경험이 필요하다면 다음 제한을 고려해 보세요.
   - Customer Insights 프로젝트에서 Microsoft Dynamics 365 컨설턴트로 작업합니다.
-
   - [Dynamics 365 커뮤니티](https://community.dynamics.com/)에 참가합니다. 인증서 소유자가 아니어도 괜찮습니다.
-
   - Microsoft Learn에서 사용 가능한 학습 경로를 밟고, 더 많은 실습을 완료합니다.
-
   - 강사 진행 교육 과정에 등록합니다.
 subTitle: Microsoft 고객 데이터 플랫폼 전문가는 고객 프로필에 대한 인사이트를 제공하고 고객 환경을 개선하고 고객 재방문을 늘리는 데 도움이 되는 참여 활동을 추적하는 솔루션을 구현합니다.
 levels:
-- intermediate
+  - intermediate
 skills:
-- Design Customer Insights solutions
-- Ingest data into Customer Insights
-- Create customer profiles by unifying data
-- Implement AI predictions in Customer Insights
-- Configure measures and segments
-- Configure third-party connections
-- Administer Customer Insights
+  - Design Customer Insights solutions
+  - Ingest data into Customer Insights
+  - Create customer profiles by unifying data
+  - Implement AI predictions in Customer Insights
+  - Configure measures and segments
+  - Configure third-party connections
+  - Administer Customer Insights
 paths:
-- uid: learn-dynamics.get-started-customer-data-platform
-- uid: learn-dynamics.ingest-data-customer-insights
-- uid: learn-bizapps.unified-customer-profile
-- uid: learn-dynamics.working-with-customer-insights
-- uid: learn-dynamics.enrich-data
-- uid: learn-dynamics.configure-third-party-connections
-- uid: learn-dynamics.administer-customer-data-platform
+  - uid: learn-dynamics.get-started-customer-data-platform
+  - uid: learn-dynamics.ingest-data-customer-insights
+  - uid: learn-dynamics.unified-customer-profile
+  - uid: learn-dynamics.working-with-customer-insights
+  - uid: learn-dynamics.enrich-data
+  - uid: learn-dynamics.configure-third-party-connections
+  - uid: learn-dynamics.administer-customer-data-platform
 roles:
-- data-engineer
-- data-analyst
-- data-scientist
-- functional-consultant
+  - data-engineer
+  - data-analyst
+  - data-scientist
+  - functional-consultant
 type: specialty
 products:
-- azure-data-factory
-- azure-data-lake
-- azure-synapse-analytics
-- dynamics-365
-- dynamics-cust-insights
-- dynamics-customer-engagement
-- power-platform
-- power-query
-- common-data-service
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWO6YH
+  - azure-data-factory
+  - azure-data-lake
+  - azure-synapse-analytics
+  - dynamics-365
+  - dynamics-cust-insights
+  - dynamics-customer-engagement
+  - power-platform
+  - power-query
+  - common-data-service
+courses:
+  - uid: course.mb-260t00
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWO6YH'
 exams:
-- uid: exam.mb-260
+  - uid: exam.mb-260
 resources:
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

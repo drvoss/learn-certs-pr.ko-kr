@@ -3,89 +3,77 @@ title: Microsoft Teams Voice Engineer
 metadata:
   title: '과정 MS-720T00--A: Microsoft Teams Voice Engineer'
   description: '과정 MS-720T00--A: Microsoft Teams Voice Engineer'
-  ms.openlocfilehash: 8154ba7d639f71c9221c754d90a7baf87f256c27
-  ms.sourcegitcommit: c14c3a1e24239ac3e56e978ed347f6d7d24e48d3
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/20/2021
-  ms.locfileid: "135417185"
 uid: course.ms-720t00
 courseNumber: MS-720T00
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Microsoft Teams 전화 계획 및 구성
-- skill: Teams 전화 네트워크 성능 계획 및 최적화
-- skill: 직접 라우팅 구성 및 배포
-- skill: Teams 디바이스 구성, 배포, 관리
-- skill: Teams 전화 모니터링 및 문제 해결
+  - skill: Microsoft Teams 전화 계획 및 구성
+  - skill: Teams 전화 네트워크 성능 계획 및 최적화
+  - skill: 직접 라우팅 구성 및 배포
+  - skill: 'Teams 디바이스 구성, 배포, 관리'
+  - skill: Teams 전화 모니터링 및 문제 해결
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 roles:
-- administrator
+  - administrator
 products:
-- m365
+  - m365
 exams:
-- uid: exam.ms-720
-summary: >-
+  - uid: exam.ms-720
+studyGuide:
+  - uid: learn.wwl.plan-teams-phone-system
+  - uid: learn.wwl.plan-optimize-network-performance-for-teams-phone-system
+  - uid: learn.wwl.migrate-voice-services-from-skype-for-business-server-to-teams
+  - uid: learn.wwl.configure-teams-phone-system
+  - uid: learn.wwl.configure-auto-attendants-call-queues
+  - uid: learn.wwl.configure-deploy-direct-routing
+  - uid: learn.wwl.extend-teams-phone-system-additional-services
+  - uid: learn.wwl.configure-manage-voice-users
+  - uid: learn.wwl.configure-deploy-manage-teams-devices
+  - uid: learn.wwl.monitor-troubleshoot-teams-phone-system
+summary: |-
   이 과정에서는 Microsoft Teams를 사용하여 조직에서 통합 통신 솔루션을 계획, 디자인, 구성, 유지 관리하고 문제를 해결하는 방법에 대해 알아봅니다. 이 과정에서는 Teams 디바이스, 음성/화상 회의, 음성 마이그레이션과 통화 플랜, 직접 라우팅, 운영자 연결을 포함하여 Teams 전화에 대해 설명합니다. 학생은 문제 해결 방법론과 일반적인 전화 통신 및 음성 문제 해결 방법에 대해 알아봅니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   Microsoft Teams 음성 엔지니어는 조직의 통합 통신 솔루션을 계획, 디자인, 구성, 유지 관리하고 문제를 해결합니다. Microsoft Teams 음성 엔지니어는 비즈니스 요구 사항을 기술 아키텍처와 통신 솔루션을 위한 디자인으로 변환할 수 있어야 합니다. Microsoft Teams 음성 엔지니어는 통신 기술에 익숙하고 Microsoft Teams, Microsoft 365, PowerShell에 대한 경험이 있습니다. 직접 라우팅, 운영자 연결, Teams 통화 플랜을 통해 PSTN 연결을 사용하여 Microsoft Teams 전화를 배포하고 구성할 수 있어야 합니다. Microsoft Teams 음성 엔지니어는 Teams 인증 디바이스, 음성/화상 회의, 음성 마이그레이션을 관리합니다. Microsoft Teams 음성 엔지니어는 전화 통신 공급자 및 타사 공급업체와 협업하여 Microsoft Teams 고급 음성 기능을 지원합니다. Microsoft Teams 음성 엔지니어는 또한 네트워킹, ID, 라이선스, 보안, 규정 준수를 포함하여 다른 워크로드 관리자와 협업합니다. Microsoft Teams Voice Engineer 인증을 취득하려면 응시자는 MS-720 시험과 시험 MS-700: Managing Microsoft Teams를 통과해야 합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   이 과정에 참여하기 전에 학생은 MS-700: Managing Microsoft Teams의 다음 항목에 대한 중급 지식이 있어야 합니다.
-
 
   *   Microsoft Teams 환경 계획 및 구성
 
-
   *   채팅, 팀, 채널, 관리
-
 
   *   통화 및 모임 관리
 
-
   *   Microsoft Teams 환경 모니터링 및 문제 해결
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-plan-and-configure-teams-phone"></a>모듈 1: Teams 전화 계획 및 구성
-
 
   이 모듈을 완료하면 학생은 통화 플랜, 직접 라우팅, 자동 전화 교환, 통화 큐, 운영자 연결을 포함하여 Teams 전화를 계획하고 구성하는 방법과 추가 서비스를 사용하여 Teams 전화를 확장하는 방법을 알 수 있습니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Teams 전화 계획
 
-
   *   Teams 전화 네트워크 성능 계획 및 최적화
-
 
   *   비즈니스용 Skype 서버에서 Teams로 음성 서비스 마이그레이션
 
-
   *   Teams 전화 구성
-
 
   *   자동 전화 교환 및 통화 큐 구성
 
-
   *   직접 라우팅 구성 및 배포
-
 
   *   추가 서비스를 사용하여 Teams 전화 확장
 
 
-
   #### <a name="lab--prepare-the-lab-environment"></a>랩: 랩 환경 준비
-
 
   ####
      *   랩 환경 구성
@@ -94,7 +82,6 @@ outlineSection: >-
      *   Microsoft Teams 관리를 위한 PowerShell 설정
 
   #### <a name="lab--configure-your-environment-for-teams-phone"></a>랩: Teams 전화를 위한 환경 구성
-
 
   ####
      *   네트워크 플래너를 사용하여 네트워크 요구 사항 평가
@@ -107,45 +94,33 @@ outlineSection: >-
 
   #### <a name="lab--expand-your-teams-voice-environment-to-use-direct-routing"></a>랩: 직접 라우팅을 사용하도록 Teams 음성 환경 확장
 
-
   ####
      *   SBC(Session Border Controller) 구성
      *   직접 라우팅 설정 구성
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Microsoft Teams 전화 계획 및 구성
 
-
   *   Teams 전화 네트워크 성능 계획 및 최적화
-
 
   *   직접 라우팅 구성 및 배포
 
 
-
   ### <a name="module-2-manage-teams-phone"></a>모듈 2: Teams 전화 관리
-
 
   이 모듈에서 학생은 Teams 전화 사용자와 디바이스를 구성하고 Teams 전화 음성 문제를 해결하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   음성 사용자 구성 및 관리
 
-
   *   Teams 디바이스 구성, 배포, 관리
-
 
   *   Teams 전화 모니터링 및 문제 해결
 
 
-
   #### <a name="lab--manage-your-teams-phone-environment"></a>랩: Teams 전화 환경 관리
-
 
   ####
      *   음성 사용자 관리
@@ -154,11 +129,8 @@ outlineSection: >-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   음성 사용자 관리
 
-
   *   Teams 디바이스 구성, 배포, 관리
-
 
   *   Teams 전화 모니터링 및 문제 해결

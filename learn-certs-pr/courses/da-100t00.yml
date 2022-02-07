@@ -3,485 +3,300 @@ title: Analyzing Data with Power BI
 metadata:
   title: '과정 DA-100T00-A: Analyzing Data with Power BI'
   description: '과정 DA-100T00-A: Analyzing Data with Power BI'
-  ms.openlocfilehash: 1918006ab43b2ad132f3792355ad1f136e0d52e1
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970749"
+  iltScheduling: true
 uid: course.da-100t00
 courseNumber: DA-100T00-A
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 데이터 수집, 정리 및 변환
-- skill: 성능 및 확장성을 위한 데이터 모델링
-- skill: 데이터 분석 보고서 설계 및 생성
-- skill: 고급 보고서 분석의 적용 및 수행
-- skill: 보고서 자산 관리 및 공유
-- skill: Power BI에서 페이지가 매겨진 보고서 작성
+  - skill: '데이터 수집, 정리 및 변환'
+  - skill: 성능 및 확장성을 위한 데이터 모델링
+  - skill: 데이터 분석 보고서 설계 및 생성
+  - skill: 고급 보고서 분석의 적용 및 수행
+  - skill: 보고서 자산 관리 및 공유
+  - skill: Power BI에서 페이지가 매겨진 보고서 작성
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
+  - ja
+  - zh-cn
+  - ko
 levels:
-- intermediate
+  - intermediate
 roles:
-- data-analyst
+  - data-analyst
 products:
-- sql-server
+  - sql-server
 exams:
-- uid: exam.da-100
+  - uid: exam.da-100
 studyGuide:
-- uid: learn-bizapps.data-analytics-microsoft
-- uid: learn-bizapps.get-started-with-power-bi
-- uid: learn-bizapps.get-data
-- uid: learn-bizapps.clean-data-power-bi
-- uid: learn-bizapps.design-model-power-bi
-- uid: learn-bizapps.create-measures-dax-power-bi
-- uid: learn-bizapps.optimize-model-power-bi
-- uid: learn-bizapps.visuals-power-bi
-- uid: learn-bizapps.data-driven-story-power-bi
-- uid: learn-bizapps.create-dashboards-power-bi
-- uid: learn-bizapps.create-paginated-reports-power-bi
-- uid: learn-bizapps.perform-analytics-power-bi
-- uid: learn-bizapps.ai-visuals-power-bi
-- uid: learn-bizapps.create-manage-workspaces-power-bi
-- uid: learn-bizapps.manage-datasets-power-bi
-- uid: learn-bizapps.row-level-security-power-bi
-summary: >-
+  - uid: learn-bizapps.data-analytics-microsoft
+  - uid: learn-bizapps.get-started-with-power-bi
+  - uid: learn-bizapps.get-data
+  - uid: learn-bizapps.clean-data-power-bi
+  - uid: learn-bizapps.design-model-power-bi
+  - uid: learn-bizapps.create-measures-dax-power-bi
+  - uid: learn-bizapps.optimize-model-power-bi
+  - uid: learn-bizapps.visuals-power-bi
+  - uid: learn-bizapps.data-driven-story-power-bi
+  - uid: learn-bizapps.create-dashboards-power-bi
+  - uid: learn-bizapps.create-paginated-reports-power-bi
+  - uid: learn-bizapps.perform-analytics-power-bi
+  - uid: learn-bizapps.ai-visuals-power-bi
+  - uid: learn-bizapps.create-manage-workspaces-power-bi
+  - uid: learn-bizapps.manage-datasets-power-bi
+  - uid: learn-bizapps.row-level-security-power-bi
+summary: |-
   본 과정에서는 Power BI을 사용하여 데이터를 모델링, 시각화 및 분석하기 위한 비즈니스 및 기술 요구 사항에 부합하는 다양한 방법과 모범 사례를 설명합니다. 또한 관계형 데이터와 비관계형 데이터를 모두 포함한 다양한 데이터 소스의 데이터에 액세스하고 처리하는 방법도 설명합니다. 본 과정에서는 또한 데이터 집합 및 그룹을 포함한 Power BI 스펙트럼 전반에서 적절한 보안 표준 및 정책을 구현하는 방법을 살펴봅니다. 본 과정에서는 공유 및 컨텐츠 배포를 위한 보고서 및 대시보드를 관리하고 배포하는 방법에 대해서도 설명합니다. 마지막으로, 본 과정에서는 Power BI 서비스 내에서 페이지가 매겨진 보고서를 작성하고 이 보고서를 Power BI에 포함시키기 위해 작업 영역에 게시하는 방법에 대해 설명합니다.
 
-
   #### <a name="audience-profile"></a>잠재 고객 프로파일
-
   본 과정의 대상 그룹은 Power BI를 사용하여 데이터 분석을 정확하게 수행하는 방법을 배우고자 하는 데이터 전문가와 비즈니스 인텔리전스 전문가입니다. 본 과정은 또한 데이터 플랫폼 기술을 통해 클라우드와 온-프레미스에 존재하는 데이터를 시각화하는 보고서를 작성하는 사용자를 대상으로 합니다.
-prerequisitesSection: "성공적인 데이터 분석가는 클라우드에서 데이터를 작업한 경험을 바탕으로 이 역할을 시작합니다.\n\n구체적으로 \n- 핵심 데이터 개념 이해\n- 클라우드에서 관계형 데이터 작업에 대한 지식\n- 클라우드에서 비관계형 데이터 작업에 대한 지식\n- 데이터 분석 및 시각화 개념에 대한 지식 \n\n이 과정을 수강하기 전에 [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)를 이수하면 사전 요구 사항을 충족하고 Azure에서의 데이터 작업을 더 잘 이해할 수 있습니다."
-outlineSection: >-
+prerequisitesSection: |-
+  성공적인 데이터 분석가는 클라우드에서 데이터를 작업한 경험을 바탕으로 이 역할을 시작합니다.
+
+  구체적으로 
+  - 핵심 데이터 개념 이해
+  - 클라우드에서 관계형 데이터 작업에 대한 지식
+  - 클라우드에서 비관계형 데이터 작업에 대한 지식
+  - 데이터 분석 및 시각화 개념에 대한 지식 
+
+  이 과정을 수강하기 전에 [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)를 이수하면 사전 요구 사항을 충족하고 Azure에서의 데이터 작업을 더 잘 이해할 수 있습니다.
+outlineSection: |-
   ### <a name="module-158-get-started-with-microsoft-data-analytics"></a>모듈 1: Microsoft 데이터 분석 시작하기
-
   본 모듈에서는 데이터 공간의 다양한 역할을 살펴보고 데이터 분석가의 역할과 책임을 간략히 설명한 후 Power BI 포트폴리오의 환경을 살펴봅니다.
-
   #### <a name="lessons"></a>단원
-
   - 데이터 분석 및 Microsoft
-
   - Power BI 시작하기
 
-
   #### <a name="lab-58-getting-started"></a>랩: 시작하기
-
   - 시작하기
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 데이터의 다양한 역할 살펴보기
-
   - 데이터 분석가가 수행하는 작업을 식별
-
   - 제품 및 서비스의 Power BI 환경을 설명
-
   - Power BI 서비스를 사용
 
 
-
   ### <a name="module-258-prepare-data-in-power-bi"></a>모듈 2: Power BI에서 데이터 준비
-
   본 모듈에서는 다양한 데이터 원본의 데이터를 식별하고 검색하는 방법을 살펴봅니다. 연결과 데이터 저장소를 위한 옵션을 학습하고 데이터에 직접 연결하는 것과 데이터를 가져오는 것의 차이점과 성능 영향을 이해합니다.
-
   #### <a name="lessons"></a>단원
-
   - 여러 데이터 원본에서 데이터 얻기
-
   - 성능 최적화
-
   - 데이터 오류 해결
 
-
   #### <a name="lab-58-preparing-data-in-power-bi-desktop"></a>랩: Power BI Desktop에서 데이터 준비
-
   - 데이터 준비
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 다양한 데이터 원본에서 데이터를 식별 및 검색
-
   - 연결 방법 및 해당 성능 영향을 이해
-
   - 쿼리 성능 최적화
-
   - 데이터 가져오기 오류 해결
 
 
-
   ### <a name="module-358-clean-transform-and-load-data-in-power-bi"></a>모듈 3: Power BI에서 데이터 정리, 변환 및 로드
-
   본 모듈에서는 데이터의 상태를 프로파일링하고 이해하는 과정을 설명합니다. 비정상 식별, 데이터의 크기 및 형태 검토 및 모델에 로드할 데이터 준비를 위한 적절한 데이터 정리 및 변환 단계 수행 방법을 학습합니다.
-
   #### <a name="lessons"></a>단원
-
   - 데이터 셰이핑
-
   - 데이터 구조 개선
-
   - 데이터 프로파일링
 
-
   #### <a name="lab-58-transforming-and-loading-data"></a>랩: 데이터 변환 및 로드
-
   - 데이터 로드
 
-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
-
   - 데이터 셰이프 변환을 적용
-
   - 데이터의 구조를 개선
-
   - 데이터 프로파일링 및 검토
 
 
-
   ### <a name="module-458-design-a-data-model-in-power-bi"></a>모듈 4: Power BI에서 데이터 모델 설계
-
   본 모듈에서는 적절한 성능과 확장성을 제공하기 위한 데이터 모델 설계 및 개발의 기본 개념을 설명합니다. 본 모듈은 또한 관계, 보안 및 성능 등 일반적인 데이터 모델링 문제를 이해하고 해결하는 데 도움이 됩니다.
-
   #### <a name="lessons"></a>단원
-
   - 데이터 모델링 소개
-
   - 테이블 작업
-
   - 차원 및 계층 구조
 
-
   #### <a name="lab-58-data-modeling-in-power-bi-desktop"></a>랩: Power BI Desktop에서 데이터 모델링
-
   - 모델 관계 만들기
-
   - 테이블 구성
-
   - 모델 인터페이스 검토
-
   - 빠른 측정값 만들기
 
-
   #### <a name="lab-58-advanced-data-modeling-in-power-bi-desktop"></a>랩: Power BI Desktop의 고급 데이터 모델링
-
   - 다대다 관계 구성
-
   - 행 수준 보안 적용
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 데이터 모델링의 기본 사항을 이해
-
   - 관계 및 그 카디널리티를 정의
-
   - 차원 및 계층 구조를 구현
-
   - 히스토그램 및 순위 지정 만들기
 
 
-
   ### <a name="module-558-create-model-calculations-using-dax-in-power-bi"></a>모듈 5: Power BI에서 DAX를 사용하여 모델 계산 만들기
-
   본 모듈에서는 DAX의 세계와 모델 개선을 위한 DAX의 진정한 능력을 소개합니다. 계산 및 데이터 분석 문제 해결을 위해 집계 및 측정값, 계산된 열 및 테이블과 시간 인텔리전스 함수의 개념을 학습합니다.
-
   #### <a name="lessons"></a>단원
-
   - DAX 소개
-
   - DAX 컨텍스트
-
   - 고급 DAX
 
-
   #### <a name="lab-58-introduction-to-dax-in-power-bi-desktop"></a>랩: Power BI Desktop의 DAX 소개
-
   - 계산된 테이블 만들기
-
   - 계산 열 만들기
-
   - 측정값 만들기
 
-
   #### <a name="lab-58-advanced-dax-in-power-bi-desktop"></a>랩: Power BI Desktop의 고급 DAX
-
   - CALCULATE() 함수를 사용하여 필터 컨텍스트를 조작
-
   - 시간 인텔리전스 함수 사용
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - DAX를 이해
-
   - 간단한 공식과 식에 DAX를 사용
-
   - 계산된 테이블 및 측정값 만들기
-
   - 간단한 측정 구성
-
   - 시간 인텔리전스 및 핵심 성과 지표로 작업
 
 
-
   ### <a name="module-658-optimize-model-performance"></a>모듈 6: 모델 성능 최적화
-
   본 모듈에서는 엔터프라이즈 수준 성능을 위해 데이터 모델을 최적화하는 데 필요한 단계, 프로세스, 개념 및 데이터 모델링 모범 사례를 소개합니다.
-
   #### <a name="lessons"></a>단원
-
   - 성능을 위한 모델 최적화
-
   - DirectQuery 모델 최적화
-
   - 집계 만들기 및 관리
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 변수의 중요성을 이해
-
   - 데이터 모델 개선
-
   - 스토리지 모델 최적화
-
   - 집계 구현
 
 
-
   ### <a name="module-758-create-reports"></a>모듈 7: 보고서 작성
-
   본 모듈에서는 올바른 시각적 개체 선택, 페이지 레이아웃 설계, 기본적이면서도 중요한 기능 적용 등 보고서 설계 및 구축의 기본 개념과 원리를 소개합니다. 접근성을 위해 중요한 설계 주제도 다룹니다.
-
   #### <a name="lessons"></a>단원
-
   - 보고서 디자인
-
   - 보고서 개선
 
-
   #### <a name="lab-58-designing-a-report-in-power-bi"></a>랩: Power BI에서 보고서 설계
-
   - Power BI Desktop에서 라이브 연결 만들기
-
   - 보고서 디자인
-
   - 시각적 필드 및 형식 속성 구성
 
-
   #### <a name="lab-58-enhancing-power-bi-reports-with-interaction-and-formatting"></a>랩: 상호 작용과 서식 지정으로 Power BI 보고서 개선
-
   - 동기 슬라이서 만들기 및 구성
-
   - 드릴스루 페이지 만들기
-
   - 조건부 서식 적용
-
   - 책갈피 만들기 및 사용
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 보고서 페이지 레이아웃을 설계
-
   - 효과적인 시각화를 선택 및 추가
-
   - 기본 보고서 기능을 추가
-
   - 보고서 탐색 및 상호 작용 추가
-
   - 보고서 성능을 향상
-
   - 접근성 설계
 
 
-
   ### <a name="module-858-create-dashboards"></a>모듈 8: 대시보드 만들기
-
   본 모듈에서는 탐색에 사용 가능한 대시보드와 다양한 탐색 도구 사용을 통해 설득력 있는 내용을 전달하는 방법을 학습합니다. 특징 및 기능은 물론 유용성 및 통찰력을 위한 대시보드 개선 방법도 소개합니다.
-
   #### <a name="lessons"></a>단원
-
   - 대시보드 만들기
-
   - 실시간 대시보드
-
   - 대시보드 개선
 
-
   #### <a name="lab-58-designing-a-report-in-power-bi-desktop---part-1"></a>랩: Power BI Desktop에서 보고서 설계 - 1부
-
   - 대시보드 만들기
-
   - 대시보드에 시각적 개체 고정
-
   - 대시보드 타일 경고 구성
-
   - Q&A 사용으로 대시보드 타일 생성
 
-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다:
-
   - 대시보드 만들기
-
   - 실시간 대시보드를 이해
-
   - 대시보드 유용성을 향상
 
 
-
   ### <a name="module-958-create-paginated-reports-in-power-bi"></a>모듈 9: Power BI에서 페이지가 매겨진 보고서 작성
-
   본 모듈에서는 페이지가 매겨진 보고서 개념 및 Power BI에 결합하는 방법을 포함하여 페이지가 매겨진 보고서에 대해 설명합니다. 그런 다음 보고서를 작성하고 게시하는 방법을 학습합니다.
-
   #### <a name="lessons"></a>단원
-
   - 페이지가 매겨진 보고서 개요
-
   - 페이지가 매겨진 보고서 만들기
 
-
   #### <a name="lab-58-creating-a-paginated-report"></a>랩: 페이지가 매겨진 보고서 작성
-
   - Power BI Report Builder 사용
-
   - 다중 페이지 보고서 레이아웃 디자인
-
   - 데이터 원본 정의
-
   - 데이터 세트 정의
-
   - 보고서 매개 변수 만들기
-
   - 보고서를 PDF로 내보내기
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 페이지가 매겨진 보고서를 설명
-
   - 페이지를 매긴 보고서 만들기
-
   - 데이터 원본 및 데이터 세트를 만들고 구성
-
   - 차트 및 테이블로 작업
-
   - 보고서 게시
 
 
-
   ### <a name="module-1058-perform-advanced-analytics"></a>모듈 10: 고급 분석 수행
-
   본 모듈은 수강생이 데이터의 분석 통찰력을 제공하도록 보고서를 개선하기 위해 추가 기능을 적용하도록 지원하며, 실제 데이터 분석에 보고서를 사용하는 단계를 설명합니다. 또한 더욱 심층적이고 의미 있는 데이터 통찰력을 위해 보고서에 AI 시각적 개체를 사용한 고급 분석을 수행합니다.
-
   #### <a name="lessons"></a>단원
-
   - 고급 분석
-
   - AI 시각적 개체를 통한 데이터 인사이트
 
-
   #### <a name="lab-58-data-analysis-in-power-bi-desktop"></a>랩: Power BI Desktop에서 데이터 분석
-
   - 애니메이션 분산형 차트 만들기
-
   - 시각적 개체를 사용하여 값 예측
-
   - 분해 트리 시각적 개체로 작업
-
   - 주요 영향 요인 시각적 개체로 작업
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 통계 요약 살펴보기
-
   - 분석 기능 사용
-
   - 데이터에서 이상값을 식별
-
   - 시계열 분석을 수행
-
   - AI 시각적 개체를 사용
-
   - 고급 분석 사용자 지정 시각적 객체를 사용
 
 
-
   ### <a name="module-1158-create-and-manage-workspaces"></a>모듈 11: 작업 영역 만들기 및 관리
-
   본 모듈에서는 작업 영역 생성 및 관리 방법을 포함한 작업 영역을 소개합니다. 보고서 및 대시보드를 포함한 콘텐츠 공유 방법과 함께 앱 배포 방법도 설명합니다.
-
   #### <a name="lessons"></a>단원
-
   - 작업 영역 만들기
-
   - 자산 공유 및 관리
 
-
   #### <a name="lab-58-publishing-and-sharing-power-bi-content"></a>랩: Power BI 콘텐츠 게시 및 공유
-
   - 보안 주체를 데이터 세트 역할에 매핑
-
   - 대시보드 공유
-
   - 앱 게시
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 작업 영역 만들기 및 관리
-
   - 작업 영역 협업을 이해
-
   - 작업 영역 사용 및 성능을 모니터링
-
   - 앱 배포
 
 
-
   ### <a name="module-1258-manage-datasets-in-power-bi"></a>모듈 12: Power BI에서 데이터 세트 관리
-
   본 모듈에서는 데이터 집합 및 작업 영역을 포함한 Power BI 자산 관리 개념을 학습합니다. 데이터 집합을 Power BI 서비스에 게시한 후 데이터 집합을 새로 고침하고 보호합니다.
-
   #### <a name="lessons"></a>단원
-
   - 매개 변수
-
   - 데이터 세트
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - 매개 변수를 만들고 사용
-
   - 데이터 세트 관리
-
   - 데이터 세트 새로 고침을 구성
-
   - 게이트웨이 연결 문제를 해결
 
 
-
   ### <a name="module-1358-row-level-security"></a>모듈 13: 행 수준 보안
-
   본 모듈에서는 Power BI 자산 보호를 위해 Power BI의 보안을 구현하고 구성하는 단계를 설명합니다.
-
   #### <a name="lessons"></a>단원
-
   - Power BI의 보안
 
-
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다:
-
   - Power BI 보안의 여러 측면을 이해
-
   - 행 수준 보안 역할 및 그룹 멤버 자격을 구성

@@ -3,237 +3,164 @@ title: Querying Data with Microsoft Transact-SQL
 metadata:
   title: '과정 DP-080T00--A: Querying Data with Microsoft Transact-SQL'
   description: '과정 DP-080T00--A: Querying Data with Microsoft Transact-SQL'
-  ms.openlocfilehash: 5e23b603c925f78dbbcc38a63f60cd996bdd6d0e
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107512"
+  iltScheduling: true
 uid: course.dp-080T00
 courseNumber: DP-080T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: SQL Server 쿼리 도구 사용
-- skill: SELECT 문을 작성하여 하나 이상의 테이블에서 열 검색
-- skill: 선택한 데이터 정렬 및 필터링
-- skill: 반환된 데이터 값에 기본 제공 함수 사용
-- skill: 데이터 그룹 만들기 및 결과 집계
-- skill: INSERT, UPDATE, DELETE, MERGE를 사용하여 Transact-SQL을 통해 데이터 수정
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+  - skill: SQL Server 쿼리 도구 사용
+  - skill: SELECT 문을 작성하여 하나 이상의 테이블에서 열 검색
+  - skill: 선택한 데이터 정렬 및 필터링
+  - skill: 반환된 데이터 값에 기본 제공 함수 사용
+  - skill: 데이터 그룹 만들기 및 결과 집계
+  - skill: 'INSERT, UPDATE, DELETE, MERGE를 사용하여 Transact-SQL을 통해 데이터 수정'
+learningPartnersLink: 'https://www.microsoft.com/learning/partners.aspx'
 locales:
-- en
+  - en
 levels:
-- beginner
+  - beginner
 roles:
-- database-administrator
+  - database-administrator
 products:
-- azure
-summary: >-
+  - azure
+summary: |-
   이 과정에서는 Microsoft의 표준 SQL 언어인 Transact-SQL의 기본 사항에 대해 설명합니다. 항목에는 Microsoft SQL Server, Azure SQL Database, Azure Synapse Analytics를 포함하여 Microsoft SQL Server 기반 데이터베이스 시스템에서 호스트되는 관계형 데이터베이스의 데이터 쿼리 및 수정이 모두 포함됩니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   이 과정은 기본적인 SQL 또는 Transact-SQL 쿼리를 작성해야 하는 모든 사람에게 유용할 수 있습니다. 여기에는 데이터 분석가, 데이터 엔지니어, 데이터 과학자, 데이터베이스 관리자 또는 데이터베이스 개발자와 같이 데이터로 작업하는 모든 사람이 포함됩니다. 데이터와 간접적으로 관련이 있거나 솔루션 설계자, 학생, 기술 관리자와 같이 데이터 사용에 대해 자세히 알아보려는 사람에게도 유용할 수 있습니다.
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-getting-started-with-transact-sql"></a>모듈 1: Transact-SQL 시작
-
 
   이 모듈에서는 T-SQL(Transact-SQL) 언어의 기본 사항과 관계형 데이터베이스의 일반적인 속성 및 용어에 대해 알아봅니다. 테이블에서 데이터를 검색하기 위한 기본 SELECT 문도 소개합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Transact-SQL 소개
 
-
   *   SELECT 문 사용
-
 
   #### <a name="lab--get-started-with-sql-server-query-tools-and-writing-queries-in-t-sql"></a>랩: SQL Server 쿼리 도구 시작 및 T-SQL로 쿼리 작성
 
-
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   쿼리 도구를 사용하여 Transact-SQL로 쿼리 작성 및 실행
 
-
   *   관계형 데이터베이스 및 T-SQL 언어의 기본 개념 이해
-
 
   *   관계형 데이터베이스 테이블에서 데이터를 검색하기 위한 SELECT 문 작성
 
-
   *   기본 데이터 형식 및 사용 방법 이해
-
 
   *   NULL 값의 기본 사항 이해
 
-
   ### <a name="module-2-sorting-and-filtering-query-results"></a>모듈 2: 쿼리 결과 정렬 및 필터링
-
 
   이 모듈에서는 반환되는 데이터와 반환되는 순서를 제어하는 방법에 대해 알아봅니다. 페이징을 사용하거나 사용하지 않고 ORDER BY 절을 사용합니다. WHERE 절에서 반환되는 데이터 행을 제어하는 데 사용할 수 있는 다양한 종류의 필터에 대해 알아봅니다. DISTINCT를 사용하여 중복 항목을 제거하여 결과를 관리하는 방법도 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   쿼리 결과 정렬
 
-
   *   데이터 필터링
-
 
   #### <a name="lab--sort-and-filter-data-returned-by-select-queries"></a>랩: SELECT 쿼리에 의해 반환된 데이터 정렬 및 필터링
 
-
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   ORDER BY를 사용하여 T-SQL SELECT 문의 결과 정렬
 
-
   *   TOP 절을 추가하여 반환되는 순서가 지정된 행 제한
-
 
   *   OFFSET-FET을 사용하여 정렬된 데이터 페이징
 
-
   *   WHERE 절을 작성하여 반환된 행 필터링
-
 
   *   DISTINCT를 사용하여 결과에서 중복 행 제거
 
-
   ### <a name="module-3-using-joins-and-subqueries"></a>모듈 3: 조인 및 하위 쿼리 사용
-
 
   이 모듈에서는 다양한 종류의 JOIN 작업과 간단한 하위 쿼리를 통해 여러 테이블의 데이터에 액세스하는 T-SQL 쿼리를 살펴봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   JOIN 작업 사용
 
-
   *   하위 쿼리 사용
-
 
   #### <a name="lab--write-queries-with-join-operations"></a>랩: JOIN 작업을 사용하여 쿼리 작성
 
-
   ####
-
 
   #### <a name="lab--write-select-statements-using-subqueries"></a>랩: 하위 쿼리를 사용하여 SELECT 문 작성
 
-
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   JOIN 작업을 사용하여 여러 테이블의 데이터에 액세스하는 쿼리 작성
 
-
   *   JOIN 작업 유형(INNER JOIN, OUTER JOIN, CROSS JOIN) 간 차이점 이해
-
 
   *   셀프 조인을 사용하여 테이블을 자체 조인하는 방법 이해
 
-
   *   SELECT 문 내에서 하위 쿼리 작성
-
 
   *   스칼라 및 다중값 하위 쿼리 간 차이점 이해
 
-
   *   상관 관계가 있는 하위 쿼리 및 자체 포함 하위 쿼리의 차이점 이해
-
 
   ### <a name="module-4-using-built-in-functions"></a>모듈 4: 기본 제공 함수 사용
 
-
   이 모듈에서는 SELECT 목록 또는 WHERE 절에서 계산된 값이나 특수 값을 반환하기 위한 기본 제공 함수의 사용을 살펴봅니다. 함수에는 수학 함수, 문자열 함수, 시스템 함수가 포함됩니다. 다른 형식의 함수도 언급하지만 자세히 설명하지는 않습니다. 또한 SUM, MIN 또는 MAX와 같은 그룹에 대한 요약 정보를 제공하여 데이터 행을 단일 그룹으로 결합하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   스칼라 함수 시작
 
-
   *   집계 결과 그룹화
-
 
   #### <a name="lab--built-in-functions"></a>랩: 기본 제공 함수
 
-
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   스칼라 함수를 사용하여 쿼리 작성
 
-
   *   집계 함수를 사용하여 쿼리 작성
-
 
   *   GROUP BY를 사용하여 공통 열 값에 따라 데이터를 그룹으로 결합
 
-
   *   HAVING을 사용하여 행 그룹을 필터링하는 방법 이해
-
 
   ### <a name="module-5-modifying-data"></a>모듈 5: 데이터 수정
 
-
   이 모듈에서는 UPDATE, DELETE, MERGE를 포함한 테이블 데이터를 수정하기 위한 T-SQL 문과 기존 테이블의 데이터를 사용한 새 테이블 만들기를 포함하는 INSERT에 대한 다양한 옵션에 대해 알아봅니다. 또한 데이터가 삽입될 때 시스템에서 열에 대한 값을 자동으로 제공하도록 하는 방법도 살펴봅니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   테이블에 데이터 삽입
-
 
   *   데이터 수정 및 삭제
 
-
   #### <a name="lab--modify-data"></a>랩: 데이터 수정
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   기존 테이블에 데이터 삽입
 
-
   *   열이 자동으로 IDENTITY 또는 SEQUENCE 값으로 채워지도록 지정
-
 
   *   UPDATE 문을 사용하여 데이터 수정
 
-
   *   DELETE 문을 사용하여 데이터 삭제
-
 
   *   두 테이블을 동기화하기 위해 MERGE를 사용하여 데이터 수정

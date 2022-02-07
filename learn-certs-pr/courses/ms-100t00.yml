@@ -3,167 +3,122 @@ title: Microsoft 365 Identity and Services
 metadata:
   title: '과정 MS-100T00--A: Microsoft 365 Identity and Services'
   description: '과정 MS-100T00--A: Microsoft 365 Identity and Services'
-  ms.openlocfilehash: 5dcc4bd5f2bee387c951cfa200255fd2df96a322
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107117"
+  iltScheduling: true
 uid: course.ms-100t00
 courseNumber: MS-100T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Microsoft 365 테넌트 설계, 구성 및 관리
-- skill: Microsoft 365 제품 기능
-- skill: Microsoft 365 구성
-- skill: 엔터프라이즈용 Microsoft 365 앱 배포 관리
-- skill: ID 동기화 계획 및 구현
-- skill: 애플리케이션 및 외부 액세스 구현
+  - skill: 'Microsoft 365 테넌트 설계, 구성 및 관리'
+  - skill: Microsoft 365 제품 기능
+  - skill: Microsoft 365 구성
+  - skill: 엔터프라이즈용 Microsoft 365 앱 배포 관리
+  - skill: ID 동기화 계획 및 구현
+  - skill: 애플리케이션 및 외부 액세스 구현
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 roles:
-- administrator
+  - administrator
 products:
-- m365
+  - m365
 exams:
-- uid: exam.ms-100
-summary: >-
+  - uid: exam.ms-100
+summary: |-
   이 과정에서는 Microsoft 365 엔터프라이즈 관리의 세 가지 핵심 요소인 Microsoft 365 테넌트 및 서비스 관리, Microsoft 365 관리 및 Microsoft 365 ID 관리를 다룹니다. Microsoft 365 테넌트 및 서비스 관리에서 Microsoft 365 테넌트를 설계할 때 계획해야 하는 모든 주요 구성 요소를 살펴볼 수 있습니다. 해당 계획 단계가 완료되면 조직 프로필, 테넌트 구독 옵션, 구성 요소 서비스, 사용자 계정 및 라이선스, 보안 그룹을 포함하여 Microsoft 365 테넌트를 구성하는 방법에 대해 배울 수 있습니다. 마지막으로 테넌트 역할 구성, 테넌트 상태 및 서비스 관리 등 테넌트를 관리하는 방법에 대해 배웁니다. 이제 Microsoft 365 테넌트를 확실하게 사용할 준비가 되었으면 Microsoft 365 관리의 주요 구성 요소를 살펴볼 수 있습니다. 먼저 Exchange Online, SharePoint Online, Microsoft Teams, Microsoft Power Platform, 디바이스 관리를 비롯한 Microsoft 365 제품 기능에 대한 개요를 살펴봅니다. 그런 다음 주로 Office 클라이언트 연결 구성에 중점을 두며 Microsoft 365 구성으로 넘어갑니다. 마지막으로 엔터프라이즈용 Microsoft 365 앱(이전의 Office 365 ProPlus) 배포의 사용자 기반 클라이언트 설치를 관리하는 방법을 살펴봅니다. 그런 다음 Office 원격 분석 및 Workplace Analytics를 구성하는 방법을 배우는 것으로 이 섹션을 마무리합니다. 본 과정에서는 Azure Active Directory Connect에 중점을 둔 Microsoft 365 ID 동기화에 대해 심층적으로 살펴보는 것으로 마무리합니다. Azure AD Connect를 계획 및 구현하는 방법, 동기화된 ID 관리 방법, 다단계 인증 및 셀프 서비스 암호 관리를 사용하여 Microsoft 365에서 암호 관리를 구현하는 방법에 대해 설명합니다. 본 섹션에서는 애플리케이션 및 외부 액세스 구현에 대한 포괄적인 내용을 다룹니다. 다중 테넌트 애플리케이션을 구성하는 방법을 포함하여 Azure Active Directory에서 애플리케이션을 추가하고 관리하는 방법을 설명합니다. 커넥터 설치 및 등록과 원격 액세스를 위한 온-프레미스 앱을 게시하는 방법을 포함하여 Azure AD 애플리케이션 프록시를 구성하는 방법을 살펴봅니다. 마지막으로 외부 액세스를 위한 솔루션 설계 및 관리 방법을 설명합니다. 여기에는 Azure AD B2B 공동 작업에 대한 라이선스 지침, 협업 사용자 생성, B2B 공동 작업 문제 해결 등이 포함됩니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   이 과정에 참여하기 전, 학생들은 반드시 다음을 갖추어야 합니다:
    * 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 같은 역할 기반 관리자 과정을 이수.
    * DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험
    * 일반적인 IT 관행에 대한 능숙한 이해
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-design-your-microsoft-365-tenant"></a>모듈 1: Microsoft 365 테넌트 설계
-
 
   이 학습 경로에서는 Microsoft 365 환경 계획에 중점을 둡니다. 여기에는 적절한 Microsoft 365 구독 계획, 온-프레미스 인프라에서 Microsoft 365 계획, 조직 요구사항에 가장 적합한 ID 및 인증 솔루션 계획, 서비스 설정 계획, 하이브리드 환경 계획, Microsoft 365로의 마이그레이션 계획 등이 포함됩니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Microsoft 365에서 테넌트 계획
 
-
   *   Microsoft 365용 온-프레미스 인프라 계획
-
 
   *   Microsoft 365용 ID 및 인증 솔루션 계획
 
-
   *   Microsoft 365 지원 인프라 계획
 
-
   *   Microsoft 365 배포를 위한 하이브리드 요구 사항 계획
-
 
   *   Microsoft 365로의 마이그레이션 계획
 
 
-
   #### <a name="lab--transition-to-microsoft-365"></a>랩: Microsoft 365로 전환
-
 
   ####
      *   Microsoft 365로 전환
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   조직의 요구사항에 가장 적합한 Microsoft 365 구독 제안을 결정
-
 
   *   Microsoft 365 구성 요소 서비스를 최대한 활용하여 조직의 요구 사항을 충족하는 방법을 이해
 
-
   *   Microsoft 365 구독을 계획
-
 
   *   최신 인증을 사용 또는 사용하지 않고 연결하는 경우의 인증 동작을 설명
 
-
   *   Microsoft 365 배포에서의 다단계 인증을 설명
-
 
   *   디렉터리 동기화 및 Azure AD Connect 통과 인증 계획을 수립
 
-
   *   ADFS 구현 시 문제점, 이점 및 모범 사례를 설명
-
 
   *   Azure AD Seamless Single Sign-On을 계획
 
-
   *   Microsoft 365로 이메일 마이그레이션을 계획
-
 
   *   파일 스토리지 및 공동 작업 요구 사항을 계획
 
-
   *   Microsoft Teams 환경을 계획
-
 
   *   Azure AD Connect를 사용한 사용자 및 그룹 동기화를 계획
 
-
   *   하이브리드 Exchange, SharePoint 및 비즈니스용 Skype를 계획
-
 
   *   배포 계획 체크리스트를 사용하여 배포를 계획
 
-
   *   Active Directory를 분석하고 ID 수정 도구를 사용하여 필요한 정리를 계획
 
-
   *   메일, 일정 관리 및 연락처 정보를 이동하는 데 사용할 마이그레이션 전략을 결정
-
 
   *   마이그레이션 전략을 계획할 때 고려해야 할 성능 및 네트워크 문제를 설명
 
 
-
   ### <a name="module-2-configure-your-microsoft-365-tenant"></a>모듈 2: Microsoft 365 테넌트 구성
-
 
   이전 학습 경로는 Microsoft 365 테넌트 계획에 중점을 두었지만 이 학습 경로에서는 테넌트 구성으로 전환합니다. 여기에는 조직 프로필, 테넌트 구독, 서비스 및 추가 기능, 테넌트 구성을 비롯한 Microsoft 365 환경 구성을 설명합니다. 그런 다음 Microsoft 365 사용자 계정 및 라이선스, 보안 그룹 및 도메인 서비스를 관리하는 방법에 대해 설명합니다. 클라이언트 연결을 구성하는 방법도 배웁니다. 끝으로 FastTrack 및 파트너 서비스를 활용하는 방법을 살펴보면서 이 모듈을 마무리합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Microsoft 365 환경 구성
 
-
   *   Microsoft 365에서 사용자 계정 및 라이선스 관리
-
 
   *   Microsoft 365에서 그룹 관리
 
-
   *   Microsoft 365에서 사용자 지정 도메인 추가
 
-
   *   Microsoft 365에 대한 클라이언트 연결 구성
-
 
   *   FastTrack 및 파트너 서비스를 사용하여 Microsoft 365 지원
 
 
-
   #### <a name="lab--configure-your-microsoft-365-tenant"></a>랩: Microsoft 365 테넌트 구성
-
 
   ####
      *   Microsoft 365 테넌트 초기화
@@ -172,95 +127,65 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   회사의 조직 프로필 작성
-
 
   *   회사의 최소 구독 요구 사항 유지 관리
 
-
   *   서비스 및 추가 기능 관리
-
 
   *   Microsoft 365의 사용자 ID 설명
 
-
   *   Microsoft 365 관리 센터 및 Windows PowerShell에서 사용자 계정 만들기
-
 
   *   사용자 계정 및 라이선스 관리
 
-
   *   삭제된 사용자 계정 복구
-
 
   *   Microsoft 365에서 사용할 수 있는 다양한 유형의 그룹 설명
 
-
   *   Microsoft 365 관리 센터 및 Windows PowerShell을 사용하여 그룹 만들기 및 관리
-
 
   *   자체 도메인 서비스 구현
 
-
   *   사용자 지정 도메인에 대한 DNS 계획
-
 
   *   사용자 지정 도메인에 대한 DNS 레코드 요구 사항 식별
 
-
   *   Microsoft 365에 사용자 지정 도메인 추가
-
 
   *   Microsoft 365용 FastTrack이 Microsoft 365를 구축하는 고객에게 도움을 주는 방법 설명
 
-
   *   파트너에게 FastTrack 프로세스 지원 요청
-
 
   *   자동 클라이언트 구성 작동 방식 설명
 
-
   *   클라이언트 구성에 필요한 DNS 레코드 설명
-
 
   *   Outlook 클라이언트 구성
 
-
   *   Azure Active Directory 다단계 인증 구성
-
 
   *   클라이언트 연결 문제 해결
 
 
-
   ### <a name="module-3-manage-your-microsoft-365-tenant"></a>모듈 3: Microsoft 365 테넌트 관리
-
 
   이전 학습 경로에서는 Microsoft 365 테넌트를 계획하고 구성하는 방법을 학습했습니다. 이 학습 경로에서는 테넌트를 구현한 후 관리하는 방법을 학습함으로써 배포 프로세스의 다음 단계를 시작합니다. 여기에는 Microsoft 365 관리자 역할 구성, 테넌트 상태 및 서비스 관리, 엔터프라이즈용 Microsoft 365 앱(이전의 Office 365 ProPlus)의 사용자 기반 배포, Office 원격 분석 관리 등이 포함됩니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Microsoft 365에서 관리 역할 구성
 
-
   *   Microsoft 365에서 테넌트 상태 및 서비스 관리
-
 
   *   엔터프라이즈 배포를 위한 사용자 기반 Microsoft 365 앱 관리
 
-
   *   Office 원격 분석 구현
-
 
   *   Workplace Analytics 구현
 
 
-
   #### <a name="lab--manage-your-microsoft-365-tenant"></a>랩: Microsoft 365 테넌트 관리
-
 
   ####
      *   관리자 위임 관리
@@ -269,95 +194,65 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   Microsoft 365의 주요 관리자 역할 설명
-
 
   *   기본 관리자 역할의 주요 책임 파악
 
-
   *   테넌트 역할 구성
-
 
   *   Microsoft 365 관리 센터에서 조직의 Microsoft 365 서비스 상태 모니터링
 
-
   *   Microsoft 365 서비스에서 인시던트를 처리하기 위한 인시던트 대응 계획 수립
-
 
   *   Microsoft에 기술, 사전판매, 청구 및 구독 지원 문제 해결을 위한 지원 요청
 
-
   *   엔터프라이즈용 Microsoft 365 앱 간편 실행 기술 작동 방식 설명
-
 
   *   엔터프라이즈용 Microsoft 365 앱 라이선싱 및 활성화 프로세스 설명
 
-
   *   조직에 적용할 수 있는 업데이트 분기 계획
-
 
   *   사용자에게 업데이트 분기를 적용하는 데 사용할 방법 계획
 
-
   *   엔터프라이즈용 Microsoft 365 앱 설치를 방해하는 일반적인 장애의 식별
-
 
   *   사용자가 엔터프라이즈용 Microsoft 365 앱을 설치하지 못하도록 차단하는 방법 식별
 
-
   *   Office 배포 도구를 사용하여 엔터프라이즈용 Microsoft 365 앱 설치 및 구성
-
 
   *   Office 원격 분석 설치 계획
 
-
   *   Office 원격 분석 설치 및 구성
 
-
   *   Workplace Analytics의 데이터 보호 및 데이터 개인 정보 설명
-
 
   *   Workplace Analytics 구성
 
 
-
   ### <a name="module-4-explore-the-microsoft-365-platform-services"></a>모듈 4: Microsoft 365 플랫폼 서비스 살펴보기
-
 
   이 학습 경로에서는 Exchange Online, SharePoint Online, Microsoft Teams 등의 주요 Microsoft 365 서비스와 Power Apps, Power Automate, Power BI, Power Virtual Agents를 비롯한 Microsoft Power Platform의 주요 기능 및 특징을 살펴봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Microsoft 365 Enterprise 관리자로서 Exchange Online 살펴보기
 
-
   *   Microsoft 365 Enterprise 관리자로서 SharePoint Online 살펴보기
-
 
   *   Microsoft 365 Enterprise 관리자로서 Microsoft Teams 살펴보기
 
-
   *   Microsoft 365 Enterprise 관리자로서 Microsoft Power Platform 살펴보기
-
 
   *   Microsoft 365 Enterprise 관리자로서 Power Apps를 사용하여 앱 만들기
 
-
   *   Microsoft 365 Enterprise 관리자로서 Power Automate를 사용하여 앱 만들기
 
-
   *   Microsoft 365 Enterprise 관리자로서 Power BI를 사용하여 보고서 및 대시보드 만들기
-
 
   *   Microsoft 365 Enterprise 관리자로서 Power Virtual Agents를 사용하여 챗봇 만들기
 
 
-
   #### <a name="lab--reviewing-office-365-functionality"></a>랩: Office 365 기능 검토
-
 
   ####
      *   Exchange Online 검토
@@ -373,137 +268,93 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   Exchange Online에서 사용할 수 있는 가장 일반적인 수신자 유형 설명
-
 
   *   Exchange Online에서 맬웨어 방지 및 스팸 방지 정책 관리
 
-
   *   회사 및 사용자 이메일과 관련된 조직의 재해 복구 요구 사항 계획
-
 
   *   조직의 이메일 수명 주기를 관리하는 데 도움이 되는 보존 태그 및 정책 결정
 
-
   *   마이그레이션 및 동시 사용 전략 설명 및 차이점 이해
-
 
   *   조직에 적합한 메일 마이그레이션 전략 선택
 
-
   *   Microsoft 365 마이그레이션에서 도메인의 DNS MX 레코드를 변경할 시기 결정
-
 
   *   하이브리드 Exchange 환경에서 Microsoft 365로 사서함을 마이그레이션하는 다양한 방법 설명
 
-
   *   조직이 SharePoint Online에서 사용해야 하는 권한 수준 결정
-
 
   *   SharePoint Online 내에서 미사용 데이터와 전송 중 데이터에 대한 암호화 수준 설명
 
-
   *   인트라넷에서 콘텐츠를 유지 및 복구하기 위한 SharePoint Online 옵션 설명
-
 
   *   SharePoint Online에서 맬웨어 방지 기능을 제공하는 다양한 옵션 설명
 
-
   *   기본 Teams 기능 및 그 목표를 지원하는 인프라 설명
-
 
   *   Teams가 Microsoft 365의 다른 협업 앱과 비교하는 방법 설명
 
-
   *   Teams 액세스를 제공하기 위하여 Microsoft 365 관리 센터 및 PowerShell에서 사용자 라이선스 관리
-
 
   *   Microsoft Teams에서 Guess 액세스가 제공하는 기능 설명
 
-
   *   Microsoft Teams에서 사용할 수 있는 오디오 회의 기능 설명
-
 
   *   오디오 회의를 위한 사용자 설정 관리
 
-
   *   Microsoft Teams에서 전화 시스템 관리
-
 
   *   Microsoft Power Platform 제품군을 구성하는 구성 요소 식별
 
-
   *   Microsoft Power Platform 관리 센터의 기본 기능 설명
-
 
   *   비즈니스 영향 및 주요 구성 요소를 포함하여 Power Apps가 무엇인지 설명
 
-
   *   Power Apps를 데이터 원본에 연결하는 방법 설명
-
 
   *   기본 Power Apps 작성
 
-
   *   Power App 테스트 및 모니터링
-
 
   *   Power App 실행
 
-
   *   Power Apps 보안 구조 설명
-
 
   *   Power Automate를 사용하여 기본 워크플로 구성 및 실행
 
-
   *   Power Automate 관리
-
 
   *   기본 Power BI 보고서 및 대시보드 작성 및 공유
 
-
   *   Power BI 관리
-
 
   *   Power Virtual Agents란 무엇이며 팀이 쉽게 강력한 봇을 만들 수 있도록 활용하는 방법 설명
 
-
   *   Power Virtual Agents의 기본 기능 설명
-
 
   *   Power Virtual Agents를 사용하여 챗봇을 만드는 방법 설명
 
 
-
   ### <a name="module-5-plan-and-implement-identity-synchronization"></a>모듈 5: ID 동기화 계획 및 구현
-
 
   이 학습 경로에서는 Azure Active Directory Connect에 중점을 둔 Microsoft 365 ID 동기화에 대해 심층적으로 설명합니다. Azure AD Connect를 계획 및 구현하는 방법, 동기화된 ID 관리 방법, 다단계 인증 및 셀프 서비스 암호 관리를 사용하여 Microsoft 365에서 암호 관리를 구현하는 방법에 대해 설명합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   ID 동기화 살펴보기
 
-
   *   Azure AD Connect 구현 계획
-
 
   *   Azure AD Connect 구현
 
-
   *   동기화된 ID 관리
-
 
   *   Microsoft 365의 암호 관리 살펴보기
 
 
-
   #### <a name="lab--manage-identities"></a>랩: ID 관리
-
 
   ####
      *   ID 동기화 준비
@@ -512,109 +363,74 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   Microsoft 365 인증 옵션 설명
-
 
   *   디렉터리 동기화 설명
 
-
   *   Azure AD Connect 개요 제공
-
 
   *   온-프레미스 Active Directory 개체를 Azure AD에 동기화하기 위한 디렉터리 동기화 계획
 
-
   *   Azure AD Connect 구현 계획
-
 
   *   다중 포리스트 시나리오에서 Azure AD Connect 계획
 
-
   *   Azure AD Connect 필수 구성 요소 구성
-
 
   *   Azure AD Connect 설정
 
-
   *   Azure AD Connect Health 설명
-
 
   *   사용자가 Azure AD Connect를 효율적으로 동기화하고 성공적으로 배포하도록 하는 작업 수행
 
-
   *   디렉터리 동기화를 통한 그룹 관리
-
 
   *   Azure AD Connect 동기화 보안 그룹을 사용하여 Azure AD Connect의 제어를 다른 사용자에게 위임
 
-
   *   다양한 문제 해결 작업 및 도구를 사용하여 디렉터리 동기화 문제 해결
-
 
   *   Microsoft 365에서 사용 가능한 암호 관리 기능 설명
 
 
-
   ### <a name="module-6-implement-applications-and-external-access-in-azure-ad"></a>모듈 6: Azure AD에서 애플리케이션 및 외부 액세스 구현
-
 
   이 학습 경로에서는 애플리케이션 및 외부 액세스 구현에 대한 포괄적인 내용을 설명합니다. 다중 테넌트 애플리케이션을 구성하는 방법을 포함하여 Azure Active Directory에서 애플리케이션을 추가하고 관리하는 방법을 설명합니다. 커넥터 설치 및 등록과 원격 액세스를 위한 온-프레미스 앱을 게시하는 방법을 포함하여 Azure AD 애플리케이션 프록시를 구성하는 방법을 살펴봅니다. 마지막으로 외부 액세스를 위한 솔루션 설계 및 관리 방법을 설명합니다. 여기에는 Azure AD B2B 공동 작업에 대한 라이선스 지침, 협업 사용자 생성, B2B 공동 작업 문제 해결 등이 포함됩니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure AD에서 애플리케이션 구현
 
-
   *   Azure AD 애플리케이션 프록시 구성
-
 
   *   외부 액세스 솔루션 살펴보기
 
 
-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
-
 
   *   Azure AD 테넌트 내에서 애플리케이션 또는 서비스 등록
 
-
   *   Azure AD 승인 프레임워크 내에서 애플리케이션 업데이트
-
 
   *   단일 테넌트 애플리케이션의 구성을 수정하여 다중 테넌트 애플리케이션 만들기
 
-
   *   Azure AD 테넌트 내에서 애플리케이션 등록 삭제
-
 
   *   Azure AD 애플리케이션 프록시의 이점 및 작동 방식 설명
 
-
   *   Azure AD 애플리케이션 프록시 필수 구성 요소 식별
-
 
   *   커넥터를 설치 및 등록하고 올바르게 설치되었는지 확인
 
-
   *   원격 액세스를 위한 온-프레미스 앱 게시 및 게시된 앱을 테스트하여 작동 상태 확인
-
 
   *   Azure AD B2B 협업을 통한 외부 액세스 관리
 
-
   *   Microsoft 365 외부 액세스와 Azure AD B2B 협업의 차이점 설명
-
 
   *   협업 사용자의 특성 설명
 
-
   *   Azure B2B 협업 시연
 
-
   *   Microsoft Teams를 사용하여 외부 액세스 및 게스트 액세스 관리
-
 
   *   고객 Lockbox 요청 관리

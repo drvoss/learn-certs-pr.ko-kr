@@ -3,344 +3,258 @@ title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
 metadata:
   title: '과정 AZ-600T00--A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
   description: '과정 AZ-600T00--A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
-  ms.openlocfilehash: 278c4baa5eb52ff53915d0ca9891e14c240d8828
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107581"
 uid: course.az-600t00
 courseNumber: AZ-600T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure Stack Hub 배포 준비
-- skill: Azure Stack Hub에 대한 인프라 인증서 관리
-- skill: Azure Stack Hub 등록 관리
-- skill: Azure Stack Hub 홈 디렉터리 구성
-- skill: Azure Stack Hub에 대한 서비스 주체 프로비저닝
-- skill: BCDR(비즈니스 연속성 및 재해 복구) 전략 추천
-- skill: 권한 있는 엔드포인트를 사용하여 Azure Stack Hub 관리
-- skill: Azure Stack Hub Marketplace 관리
-- skill: App Services 및 이벤트 허브 리소스 공급자 제안
-- skill: 사용량 및 청구 관리
+  - skill: Azure Stack Hub 배포 준비
+  - skill: Azure Stack Hub에 대한 인프라 인증서 관리
+  - skill: Azure Stack Hub 등록 관리
+  - skill: Azure Stack Hub 홈 디렉터리 구성
+  - skill: Azure Stack Hub에 대한 서비스 주체 프로비저닝
+  - skill: BCDR(비즈니스 연속성 및 재해 복구) 전략 추천
+  - skill: 권한 있는 엔드포인트를 사용하여 Azure Stack Hub 관리
+  - skill: Azure Stack Hub Marketplace 관리
+  - skill: App Services 및 이벤트 허브 리소스 공급자 제안
+  - skill: 사용량 및 청구 관리
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
+  - ja
+  - zh-cn
+  - ko
 levels:
-- intermediate
+  - intermediate
 roles:
-- administrator
+  - administrator
 products:
-- azure
+  - azure
 exams:
-- uid: exam.az-600
-summary: >-
+  - uid: exam.az-600
+studyGuide:
+  - uid: learn.wwl.azure-stack-hub
+  - uid: learn.wwl.manage-azure-stack-hub-marketplace
+  - uid: learn.wwl.offer-app-services-resource-provider-for-azure-stack-hub
+  - uid: learn.wwl.offer-event-hubs-resource-provider-for-azure-stack-hub
+  - uid: learn.wwl.manage-usage-billing-for-azure-stack-hub
+  - uid: learn.wwl.prepare-for-azure-stack-hub-deployment
+  - uid: learn.wwl.manage-infrastructure-certificates-for-azure-stack-hub
+  - uid: learn.wwl.manage-azure-stack-hub-registration
+  - uid: learn.wwl.manage-multi-tenancy-for-azure-stack-hub
+  - uid: learn.wwl.manage-access-for-azure-stack-hub
+  - uid: learn.wwl.manage-system-health-azure-stack-hub
+  - uid: learn.wwl.azure-monitor-azure-stack-hub
+  - uid: learn.wwl.manage-capacityfor-azure-stack-hub
+  - uid: learn.wwl.update-infrastructure-for-azure-stack-hub
+  - uid: learn.wwl.manage-azure-stack-hub-by-using-privileged-endpoints
+  - uid: learn.wwl.plan-configure-business-continuity-disaster-recovery-for-azure-stack-hub
+  - uid: learn.wwl.offer-services-for-azure-stack-hub
+  - uid: learn.wwl.azure-stack-hub-powershell
+  - uid: learn.wwl.datacenter-integration-for-azure-stack-hub
+summary: |-
   이 과정에서는 Azure 관리자 및 Azure Stack Hub 운영자에게 Azure Stack Hub 인프라를 계획, 배포, 패키지, 업데이트, 유지 관리하는 방법에 대해 설명합니다. Azure Stack Hub 배포, Azure Stack Hub Marketplace 관리, App Services 및 Event Hub 리소스 공급자 제안, Azure Stack Hub 등록 관리, 시스템 상태 유지 관리와 같은 단원이 포함됩니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub 학생은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 클라우드 서비스를 제공하는 Azure Stack Hub 운영자가 되는 데 관심이 있습니다. Azure Stack Hub 운영자의 책임에는 Azure Stack Hub 인프라 계획, 배포, 패키징, 업데이트, 유지 관리가 포함됩니다. 또한 하이브리드 클라우드 리소스 및 요청된 서비스를 제공하고 IaaS(서비스 제공 인프라) 및 PaaS(Platform as a Service)를 관리합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   성공적인 Azure Stack Hub 학생은 운영 체제, 가상화, 클라우드 인프라, 스토리지 구조, 네트워킹에 대한 경험해본 적이 있습니다.
-
 
   *   VM 및 가상 네트워킹을 포함한 온-프레미스 가상화 기술에 대한 이해
 
-
   *   TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽, 암호화 기술을 포함한 네트워크 구성에 대한 이해
-
 
   *   도메인, 포리스트, 도메인 컨트롤러를 포함한 Active Directory 개념에 대한 이해
 
-
   Azure 및 클라우드 컴퓨팅을 처음 사용하는 경우 다음 리소스 중 하나를 고려하세요.
-
 
   *   무료 온라인: Azure Fundamentals([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
 
-
   *   강사 진행 과정: AZ-900: Azure Fundamentals([https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01](https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01))
 
-
   *   Azure 관리자의 필수 조건([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/))
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-overview-of-azure-stack-hub"></a>모듈 1: Azure Stack Hub 개요
-
 
   이 모듈에서는 Azure Stack Hub가 온-프레미스 환경에서 앱을 실행하고 데이터 센터에서 Azure 서비스를 배달하는 방법을 제공하는 Azure의 확장인 이유에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure Stack Hub
 
-
   *   데이터 센터 통합
-
 
   *   Azure Stack Hub PowerShell
 
-
   *   모듈 리뷰 질문
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   에지 및 연결이 끊긴 솔루션 설명
 
-
   *   Azure Stack Hub 통합 시스템 아키텍처 설명
-
 
   *   Azure Stack Hub 배포 옵션 설명
 
-
   *   Azure Stack Hub, Azure Stack HCI, 전체 Azure 간 차이점 정의
-
 
   ### <a name="module-2-provide-services"></a>모듈 2: 서비스 제공
 
-
   이 모듈에서는 연결이 끊긴 환경에서 Azure Stack Hub Marketplace를 채우고, App Services 리소스 공급자를 배포하고, 리소스가 제공하는 Event Hubs를 배포하고, 할당량, 계획, 제안, 구독을 만들고 관리하고, 사용량 및 청구를 관리하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure Stack Hub Marketplace 관리
 
-
   *   App Services 리소스 공급자 제안
-
 
   *   Event Hubs 리소스 공급자 제안
 
-
   *   서비스 제공
-
 
   *   사용량 및 청구 관리
 
-
   *   모듈 리뷰 질문
-
 
   #### <a name="lab--manage-offers-and-plans-in-azure-stack-hub"></a>랩: Azure Stack Hub에서 제안 및 계획 관리
 
-
   ####
-
 
   #### <a name="lab--add-custom-marketplace-items-by-using-the-azure-gallery-packager"></a>랩: Azure Gallery Packager를 사용하여 사용자 지정 Marketplace 항목 추가
 
-
   ####
-
 
   #### <a name="lab--optional-lab-implement-sql-server-resource-provider-in-azure-stack-hub"></a>랩: 선택적 랩: Azure Stack Hub에서 SQL Server 리소스 공급자 구현
 
-
   ####
-
 
   #### <a name="lab--validate-azure-resource-manager-arm-templates-with-azure-stack-hub"></a>랩: Azure Stack Hub를 사용하여 ARM(Azure Resource Manager) 템플릿 유효성 검사
 
-
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   사용자 지정 Azure Stack Hub Marketplace 항목 만들기
 
-
   *   App Services 리소스 공급자 배포 및 업데이트
-
 
   *   Event Hubs 리소스 공급자 배포 계획
 
-
   *   사용자 구독 만들기 및 관리
-
 
   *   다중 테넌트 및 CSP 시나리오에서 사용량 및 청구 관리
 
-
   ### <a name="module-3-implement-data-center-integration"></a>모듈 3: 데이터 센터 통합 구현
-
 
   이 모듈에서는 Stack Hub 배포를 준비하고, 인증서를 추천하고 유효성을 검사하고, 연결된 환경과 연결이 끊긴 환경에서 등록하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Azure Stack Hub 배포 준비
 
-
   *   Azure Stack Hub 등록 관리
-
 
   *   모듈 리뷰 질문
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   사용량 API를 사용하여 사용량 데이터 보기 및 검색
 
-
   *   이름 확인 전략 추천
-
 
   *   ID 공급자 통합 유효성 검사
 
-
   *   인증서 유효성 검사
-
 
   *   등록 모드 추천
 
-
   ### <a name="module-4-manage-identity-and-access-for-azure-stack-hub"></a>모듈 4: Azure Stack Hub에 대한 ID 및 액세스 관리
-
 
   이 모듈에서는 Azure Stack Hub 홈 디렉터리를 구성하고, Azure Stack Hub을 사용하여 게스트 테넌트 디렉터리를 등록하고, 액세스(서비스 주체, 사용자, 그룹)에 적절한 방법을 식별하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   다중 테넌트 관리
 
-
   *   액세스 관리
 
-
   *   모듈 리뷰 질문
-
 
   #### <a name="lab--manage-service-principals-in-azure-stack-hub"></a>랩: Azure Stack Hub에서 서비스 주체 관리
 
-
   ####
-
 
   #### <a name="lab--delegate-offer-management-in-azure-stack-hub"></a>랩: Azure Stack Hub에서 제안 관리 위임
 
-
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   Azure Stack Hub을 사용하여 게스트 테넌트 디렉터리 등록
 
-
   *   게스트 테넌트 디렉터리 업데이트
-
 
   *   Azure Stack Hub에서 액세스 구성
 
-
   *   사용자 지정 역할 만들기
-
 
   ### <a name="module-5-manage-the-azure-stack-hub-infrastructure"></a>모듈 5: Azure Stack Hub 인프라 관리
 
-
   이 모듈에서는 REST API를 사용하여 시스템 상태를 모니터링하고, Syslog Server를 사용하여 시스템 상태를 모니터링하고, PowerShell을 사용하여 주문형 진단 로그를 수집하고, 인프라 백업을 위한 스토리지 대상을 구성하고, 업데이트 패키지를 수동으로 다운로드하고 가져오는 방법에 대해 알아봅니다.
-
 
   #### <a name="lessons"></a>단원
 
-
   *   시스템 상태 관리
-
 
   *   Azure Stack Hub에서의 Azure Monitor
 
-
   *   비즈니스 연속성 및 재해 복구 계획 및 구성
-
 
   *   용량 관리
 
-
   *   인프라 업데이트
-
 
   *   권한 있는 엔드포인트를 사용하여 Azure Stack Hub 관리
 
-
   *   모듈 리뷰 질문
-
 
   #### <a name="lab--connect-to-azure-stack-hub-via-powershell"></a>랩: PowerShell을 통해 Azure Stack Hub에 연결
 
-
   ####
-
 
   #### <a name="lab--access-the-privileged-endpoint-in-azure-stack-hub"></a>랩: Azure Stack Hub에서 권한 있는 엔드포인트에 액세스
 
-
   ####
-
 
   #### <a name="lab--configure-and-manage-azure-stack-hub-storage-accounts"></a>랩: Azure Stack Hub Storage 계정 구성 및 관리
 
-
   ####
-
 
   #### <a name="lab--manage-public-ip-addresses-in-azure-stack-hub"></a>랩: Azure Stack Hub 공용 IP 주소 관리
 
-
   ####
-
 
   #### <a name="lab--configure-azure-stack-hub-infrastructure-backup"></a>랩: Azure Stack Hub Infrastructure Backup 구성
 
-
   ####
-
 
   #### <a name="lab--manage-log-collection-in-azure-stack-hub"></a>랩: Azure Stack Hub 로그 컬렉션 관리
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Event Hubs와 같은 리소스 공급자 포함
-
 
   *   필드 대체 또는 복구 관리
 
-
   *   인프라 백업에 대한 스토리지 대상 구성
-
 
   *   Azure Stack Hub 업데이트
 
-
   *   지원 세션 잠금 해제
 
-
   *   권한 있는 엔드포인트에 연결
-
 
   *   Test-AzureStack을 사용하여 시스템 진단 수행

@@ -3,101 +3,80 @@ title: Microsoft Power Platform 기본 사항
 metadata:
   title: '과정 PL-900T00--A: Microsoft Power Platform Fundamentals'
   description: '과정 PL-900T00--A: Microsoft Power Platform Fundamentals'
-  ms.openlocfilehash: b81e2d15219b2b9ff871be65bdb4a2248cb4ab9b
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132106992"
+  iltScheduling: true
 uid: course.pl-900t00
 courseNumber: PL-900T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Microsoft Power Platform 구성 요소 설명
-- skill: Microsoft Dataverse, 커넥터 및 AI Builder 설명
-- skill: M365, Dynamics 365, Microsoft Azure 및 타사 서비스상의 클라우드 간 시나리오 설명
-- skill: Microsoft Power Platform의 이점 및 기능 식별
-- skill: Microsoft Power Platform 구성 요소의 기본 기능 및 비즈니스 가치 식별
-- skill: Power Apps, Power Automate, Power BI 및 Power Virtual Agents를 사용하여 간단한 솔루션 구현
+  - skill: Microsoft Power Platform 구성 요소 설명
+  - skill: 'Microsoft Dataverse, 커넥터 및 AI Builder 설명'
+  - skill: 'M365, Dynamics 365, Microsoft Azure 및 타사 서비스상의 클라우드 간 시나리오 설명'
+  - skill: Microsoft Power Platform의 이점 및 기능 식별
+  - skill: Microsoft Power Platform 구성 요소의 기본 기능 및 비즈니스 가치 식별
+  - skill: 'Power Apps, Power Automate, Power BI 및 Power Virtual Agents를 사용하여 간단한 솔루션 구현'
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
-- de
-- fr
-- es
-- pt-br
-- ru
-- zh-tw
-- it
+  - en
+  - ar
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - it
+  - ja
+  - ko
+  - pt-br
+  - ru
+  - es
 levels:
-- beginner
+  - beginner
 roles:
-- student
+  - student
 products:
-- power-platform
+  - power-platform
 exams:
-- uid: exam.pl-900
-summary: >-
+  - uid: exam.pl-900
+summary: |-
   Microsoft Power Platform의 비즈니스 가치 및 제품 기능에 대해 알아보세요. 간단한 Power Apps를 만들고, Dataverse와 데이터를 연결하고, Power BI 대시보드를 빌드하고, Power Automate를 사용하여 프로세스를 자동화하고, Power Virtual Agents로 챗봇을 빌드
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   본 시험의 응시자는 비즈니스 프로세스를 자동화하고, 데이터를 분석하여 비즈니스 통찰력을 생성하고, 단순한 앱 경험을 만들어 보다 효과적으로 행동함으로써 생산성 향상을 열망하는 사용자입니다.
 prerequisitesSection: 본 과정은 선수과정이 없습니다.
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-introduction-to-microsoft-power-platform"></a>모듈 1: Microsoft Power Platform 소개
-
 
   Microsoft Power Platform의 구성 요소, 데이터 연결 방법, 조직에서 이 기술을 활용하여 비즈니스 솔루션을 작성하는 방법을 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Microsoft Power Platform 개요
 
-
   *   모듈 요약
-
 
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   각 Microsoft Power Platform 구성 요소 애플리케이션을 사용하여 비즈니스 솔루션 구축 시기를 식별
 
-
   *   Microsoft Power Platform을 사용한 비즈니스 솔루션 구축의 가치를 파악
-
 
   *   Microsoft Power Platform의 구성 요소 및 기능을 식별
 
 
-
   ### <a name="module-2-introduction-to-microsoft-dataverse"></a>모듈 2: Microsoft Dataverse 소개
-
 
   Dataverse를 사용하면 클라우드에서 강력하고 확장 가능한 데이터 솔루션을 자세히 살펴볼 수 있습니다. Dataverse가 Microsoft Power Platform과 함께 작동하여 독특하고 효율적인 비즈니스 솔루션을 구축하는 방법을 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
 
-
   *   Microsoft Dataverse 개요
-
 
   *   모듈 요약
 
 
-
   #### <a name="lab--data-modeling"></a>랩: 데이터 모델링
-
 
   ####
      *   솔루션 만들기
@@ -107,41 +86,29 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   Dataverse와 Common Data Model의 차이점을 설명
 
-
   *   비즈니스 규칙 및 프로세스 흐름의 사용 사례와 제한 사항에 대해 설명합니다.
-
 
   *   Dataverse의 환경, 테이블, 열 및 관계를 설명
 
 
-
   ### <a name="module-3-get-started-with-power-apps"></a>모듈 3: Power Apps 시작하기
-
 
   Power Apps 가치와 기능, 그리고 다른 조직에서 이 기술을 활용하여 비즈니스를 위한 간단한 애플리케이션을 구축하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Power Apps 소개
 
-
   *   캔버스 앱을 빌드하는 방법
 
-
   *   모델 기반 앱을 빌드하는 방법
-
 
   *   Power Apps 포털 소개
 
 
-
   #### <a name="lab--how-to-build-a-canvas-app-part-1"></a>랩: 캔버스 앱을 빌드하는 방법, 1부
-
 
   ####
      *   스탭 캔버스 앱 만들기
@@ -149,19 +116,16 @@ outlineSection: >-
 
   #### <a name="lab--how-to-build-a-canvas-app-part-2"></a>랩: 캔버스 앱을 빌드하는 방법, 2부
 
-
   ####
      *   보안 캔버스 앱 만들기
 
   #### <a name="lab--how-to-build-a-model-driven-app"></a>랩: 모델 기반 앱을 빌드하는 방법
-
 
   ####
      *   보기 및 양식 사용자 지정
      *   모델 기반 애플리케이션 만들기
 
   #### <a name="lab--how-to-build-a-power-apps-portal"></a>랩: Power Apps 포털을 빌드하는 방법
-
 
   ####
      *   Power Apps 포털 프로비전
@@ -170,35 +134,25 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   다른 조직이 Power Apps를 사용하여 프로세스를 디지털화하는 방법을 파악
 
-
   *   Power Apps 작동 방식을 확인하고 첫 번째 앱 만들기 옵션을 학습
-
 
   *   Power Apps의 정의와 비즈니스 가치에 대해 알아봅니다.
 
 
-
   ### <a name="module-4-get-started-with-power-automate"></a>모듈 4: Power Automate 시작하기
-
 
   사용자가 Power Automate를 활용하여 비즈니스 효율성과 생산성을 향상시키는 방법을 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
 
-
   *   Power Automate 개요
-
 
   *   자동화 솔루션 빌드 방법
 
 
-
   #### <a name="lab--power-automate"></a>랩: Power Automate
-
 
   ####
      *   방문 알림 흐름 만들기
@@ -206,35 +160,25 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   사용자의 관점에서 Power Automate가 어떻게 작동하고 표시되는지 확인
 
-
   *   간단한 흐름을 빌드
-
 
   *   Power Automate의 비즈니스 가치와 기능에 대해 알아봅니다
 
 
-
   ### <a name="module-5-get-started-with-power-bi"></a>모듈 5: Power BI 시작하기
-
 
   조직에서 Power BI를 사용하여 데이터를 쉽게 정리, 표시 및 이해하여 보다 정확한 정보를 바탕으로 의사 결정을 내리는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
 
-
   *   Power BI 개요
-
 
   *   간단한 대시보드를 빌드하는 방법
 
 
-
   #### <a name="lab--how-to-build-a-simple-dashboard"></a>랩: 간단한 대시보드를 빌드하는 방법
-
 
   ####
      *   Power BI 보고서 만들기
@@ -242,35 +186,25 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   사용자의 관점에서 Power BI가 어떻게 작동하고 표시되는지 확인
 
-
   *   간단한 Power BI 대시보드를 빌드하는 방법을 학습
-
 
   *   Power BI의 비즈니스 가치 및 기능을 설명합니다.
 
 
-
   ### <a name="module-6-introduction-to-power-virtual-agents"></a>모듈 6: Power Virtual Agents 소개
-
 
   Power Virtual Agents의 가치와 기능에 대해 알아보고 다른 조직에서 이 기술을 활용하여 비즈니스를 위한 챗봇 솔루션을 구축하는 방법을 살펴봅니다.
 
-
   #### <a name="lessons"></a>단원
 
-
   *   Power Virtual Agents 개요
-
 
   *   챗봇 빌드 방법
 
 
-
   #### <a name="lab--how-to-build-a-basic-chatbot"></a>랩: 기본 챗봇 빌드 방법
-
 
   ####
      *   PVA에 등록하고 새 봇 만들기
@@ -281,11 +215,8 @@ outlineSection: >-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   Power Virtual Agents의 비즈니스 가치 및 기능을 설명
 
-
   *   기본 챗봇을 빌드
-
 
   *   Power Virtual Agents 및 챗봇을 구성하는 필수 구성 요소를 학습

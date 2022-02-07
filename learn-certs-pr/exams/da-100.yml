@@ -8,11 +8,6 @@ displayName: DA-100
 summary: |-
   > [!WARNING]
   > 이 시험은 2022년 3월 31일에 사용 중지됩니다. 대체 시험인 [PL-300 시험: Microsoft Power BI 데이터 분석가](/learn/certifications/exams/pl-300)는 2022년 2월 28일에 응시할 수 있습니다. 새 시험 및 사용 중지에 관한 자세한 내용은 [이 블로그 게시물](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-a-new-name-for-the-data-analyst-associate/ba-p/2388941)을 참조하세요.
-  > 
-  > [!IMPORTANT]
-  > 이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
-  > 
-  > 참고: 합격 기준 점수는 700점입니다. [시험 점수에 대해 자세히 알아보세요.](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)
 
   <br/>
   데이터 분석가는 기업이 Microsoft Power BI를 사용하여 데이터 자산 가치를 극대화하도록 합니다. 실무 전문가인 데이터 분석가는 확장성 있는 데이터 모델 설계 및 구축, 데이터 정리 및 변환, 이해하기 쉬운 데이터 시각화로 의미 있는 비즈니스 가치를 제공하는 고급 분석 기능의 사용을 담당합니다. 또한 데이터 분석가는 수직적 관계에 있는 여러 주요 이해 관계자와 협력하여 확인된 비즈니스 요구사항에 따른 관련 통찰력을 제공합니다.
@@ -21,6 +16,11 @@ summary: |-
   데이터 분석가는 온-프레미스 및 클라우드의 데이터 리포지토리 및 데이터 처리에 대한 기본적인 이해가 있어야 합니다.
 
   이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.
+
+  > [!IMPORTANT]
+  > 이 시험의 내용은 2021년 11월 23일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
+  > 
+  > 참고: 합격 기준 점수는 700점입니다. [시험 점수에 대해 자세히 알아보세요.](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)
 subTitle: '이 시험은 데이터 준비, 데이터 모델링, 데이터 시각화, 데이터 분석 및 결과물 배포 및 유지 관리와 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu'

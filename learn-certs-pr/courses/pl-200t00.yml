@@ -3,648 +3,464 @@ title: Microsoft Power Platform Functional Consultant
 metadata:
   title: '과정 PL-200T00--A: Microsoft Power Platform Functional Consultant'
   description: '과정 PL-200T00--A: Microsoft Power Platform Functional Consultant'
-  ms.openlocfilehash: 2fdf6d7009e4bd59c39e56ca45f76df740122e25
-  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136954798"
+  iltScheduling: true
 uid: course.pl-200t00
 courseNumber: PL-200T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 조직을 사용하여 요구 사항 수집 및 Microsoft Power Platform 솔루션 구현
-- skill: 모델 기반, 캔버스, 포털 앱 빌드
-- skill: Power Automate 흐름 만들기
-- skill: Power Virtual Agents를 사용하여 간단한 챗봇 디자인
-- skill: Power BI 시각화 및 대시보드를 사용하여 데이터 분석
+  - skill: 조직을 사용하여 요구 사항 수집 및 Microsoft Power Platform 솔루션 구현
+  - skill: '모델 기반, 캔버스, 포털 앱 빌드'
+  - skill: Power Automate 흐름 만들기
+  - skill: Power Virtual Agents를 사용하여 간단한 챗봇 디자인
+  - skill: Power BI 시각화 및 대시보드를 사용하여 데이터 분석
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 roles:
-- functional-consultant
+  - functional-consultant
 products:
-- power-platform
+  - power-platform
 exams:
-- uid: exam.pl-200
+  - uid: exam.pl-200
 studyGuide:
-- uid: learn-bizapps.wwl.introduction-power-platform
-- uid: learn-bizapps.powerapps-common-data-service
-- uid: learn-dynamics.create-manage-entities
-- uid: learn-dynamics.create-manage-fields-within-entity
-- uid: learn-dynamics.create-relationship-between-cds-entities
-- uid: learn-dynamics.working-with-option-sets
-- uid: learn-dynamics.get-started-security-roles
-- uid: learn-dynamics.use-admin-options-cds
-- uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security
-- uid: learn-bizapps.security-governance-intro
-- uid: learn-bizapps.powerapps-design-model-driven-apps
-- uid: learn-dynamics.configure-model-driven-apps-customer-engagement
-- uid: learn-bizapps.powerapps-get-started
-- uid: learn-bizapps.connect-other-data
-- uid: learn-bizapps.how-to-build-ui-canvas-app
-- uid: learn-bizapps.powerapps-manage
-- uid: learn-bizapps.build-app-dataverse-teams
-- uid: learn-bizapps.intro-portals
-- uid: learn-bizapps.explore-portals
-- uid: learn-bizapps.portals-architecture
-- uid: learn-bizapps.portals-access-common-data-service
-- uid: learn-bizapps.authentication-user-management
-- uid: learn-bizapps.portals-maintenance-troubleshooting
-- uid: learn-dynamics.define-create-business-rules
-- uid: learn-bizapps.flow-get-started
-- uid: learn-bizapps.flow-administration
-- uid: learn-bizapps.dataverse-triggers-actions
-- uid: learn-bizapps.extend-dataverse-power-automate
-- uid: learn-bizapps.introduction-expressions
-- uid: learn-bizapps.build-first-desktop-flow
-- uid: learn-bizapps.flow-unattended-mode
-- uid: learn-bizapps.intro-business-process-flows
-- uid: learn-bizapps.create-immersive-flow
-- uid: learn-bizapps.advanced-business-process-flows
-- uid: learn-bizapps.business-process-optimization-process-advisor
-- uid: learn-bizapps.power-virtual-agent-bots
-- uid: learn-bizapps.enhance-power-virtual-agent-bots
-- uid: learn-bizapps.manage-power-virtual-agent-topics
-- uid: learn-bizapps.implement-power-virtual-agents
-- uid: learn-bizapps.get-started-with-power-bi
-- uid: learn-bizapps.get-data-power-bi
-- uid: learn-bizapps.model-data-power-bi
-- uid: learn-bizapps.visuals-in-power-bi
-- uid: learn-bizapps.explore-data-power-bi
-- uid: learn-bizapps.publish-share-power-bi
-- uid: learn-bizapps.manage-solutions-power-automate
-- uid: learn-dynamics.load-export-data-create-data-views
-- uid: learn-bizapps.get-started-with-ai-builder
-- uid: learn-bizapps.manage-models
-- uid: learn-bizapps.ai-builder-power-automate
-- uid: learn.wwl.functional-consultant-skills
-summary: >-
+  - uid: learn-bizapps.wwl.introduction-power-platform
+  - uid: learn-bizapps.powerapps-common-data-service
+  - uid: learn-dynamics.create-manage-entities
+  - uid: learn-dynamics.create-manage-fields-within-entity
+  - uid: learn-dynamics.create-relationship-between-cds-entities
+  - uid: learn-dynamics.working-with-option-sets
+  - uid: learn-dynamics.get-started-security-roles
+  - uid: learn-dynamics.use-admin-options-cds
+  - uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security
+  - uid: learn-bizapps.security-governance-intro
+  - uid: learn-bizapps.powerapps-design-model-driven-apps
+  - uid: learn-dynamics.configure-model-driven-apps-customer-engagement
+  - uid: learn-bizapps.powerapps-get-started
+  - uid: learn-bizapps.connect-other-data
+  - uid: learn-bizapps.how-to-build-ui-canvas-app
+  - uid: learn-bizapps.powerapps-manage
+  - uid: learn-bizapps.build-app-dataverse-teams
+  - uid: learn-bizapps.intro-portals
+  - uid: learn-bizapps.explore-portals
+  - uid: learn-bizapps.portals-architecture
+  - uid: learn-bizapps.portals-access-common-data-service
+  - uid: learn-bizapps.authentication-user-management
+  - uid: learn-bizapps.portals-maintenance-troubleshooting
+  - uid: learn-dynamics.define-create-business-rules
+  - uid: learn-bizapps.flow-get-started
+  - uid: learn-bizapps.flow-administration
+  - uid: learn-bizapps.dataverse-triggers-actions
+  - uid: learn-bizapps.extend-dataverse-power-automate
+  - uid: learn-bizapps.introduction-expressions
+  - uid: learn-bizapps.build-first-desktop-flow
+  - uid: learn-bizapps.flow-unattended-mode
+  - uid: learn-bizapps.intro-business-process-flows
+  - uid: learn-bizapps.create-immersive-flow
+  - uid: learn-bizapps.advanced-business-process-flows
+  - uid: learn-bizapps.business-process-optimization-process-advisor
+  - uid: learn-bizapps.power-virtual-agent-bots
+  - uid: learn-bizapps.enhance-power-virtual-agent-bots
+  - uid: learn-bizapps.manage-power-virtual-agent-topics
+  - uid: learn-bizapps.implement-power-virtual-agents
+  - uid: learn-bizapps.get-started-with-power-bi
+  - uid: learn-bizapps.get-data-power-bi
+  - uid: learn-bizapps.model-data-power-bi
+  - uid: learn-bizapps.visuals-in-power-bi
+  - uid: learn-bizapps.explore-data-power-bi
+  - uid: learn-bizapps.publish-share-power-bi
+  - uid: learn-bizapps.manage-solutions-power-automate
+  - uid: learn-dynamics.load-export-data-create-data-views
+  - uid: learn-bizapps.get-started-with-ai-builder
+  - uid: learn-bizapps.manage-models
+  - uid: learn-bizapps.ai-builder-power-automate
+  - uid: learn.wwl.functional-consultant-skills
+summary: |-
   Microsoft Power Platform은 조직에서 비즈니스 프로세스를 자동화하고, 고유하고 풍부한 앱 경험을 개발하고, 고객과 더 빠르고 효과적으로 연결할 수 있도록 지원합니다. 이 과정에서 학생은 검색, 요구 사항 캡처, 실무 전문가 및 관련자 참여 유도, 요구 사항 변환, Microsoft Power Platform 솔루션 및 앱 구성을 수행하는 방법에 대해 알아봅니다. 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화, 사용자 지정 시각화를 만들기 위한 실습 랩을 통해 학습을 보완합니다. Microsoft Power Platform은 Power Apps, Power Automate, Power BI, Power Virtual Agents라는 4가지 주요 제품으로 구성됩니다. 이 과정에서는 Microsoft Dataverse, AI Builder, 커넥터, 포털에 중점을 두고 이러한 4가지 애플리케이션에 대해 깊이 있게 설명합니다.
-
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
   Microsoft Power Platform 기능 컨설턴트는 앱, 자동화, 솔루션을 만들고 구성하는 일을 담당합니다. 사용자와 구현 팀 간 연락 담당자 역할을 합니다. 기능 컨설턴트는 조직 내에서 솔루션의 사용을 촉진합니다. 기능 컨설턴트는 검색을 수행하고, 실무 전문 및 관련자의 참여를 유도하고, 요구 사항을 캡처하고, 요구 사항을 기능에 매핑할 수 있습니다. 애플리케이션 향상, 맞춤형 사용자 경험, 시스템 통합, 데이터 변환, 맞춤형 프로세스 자동화, 단순 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   *   IT 전문가 또는 학생으로서의 경험
-
 
   *   Microsoft Power Platform 및 주요 구성 요소에 대한 실무 지식
 
-
   *   Microsoft Dataverse(또는 일반적인 데이터 모델링) 및 보안 개념에 대한 지식&nbsp;&nbsp;&nbsp;
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-introduction-to-microsoft-power-platform"></a>모듈 1: Microsoft Power Platform 소개
-
 
   이 모듈에서는 학습자에게 Microsoft Power Platform과 Power Apps, Power Automate, Power BI, Power Virtual Agents라는 4가지 주요 구성 요소에 대한 배경 지식을 제공합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Microsoft Power Platform 개요
 
 
-
   #### <a name="lab--validate-lab-environment"></a>랩: 랩 환경 유효성 검사
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   Microsoft Power Platform의 주요 구성 요소 식별
 
 
-
   ### <a name="module-2-work-with-dataverse"></a>모듈 2: Dataverse 작업
-
 
   이 모듈에서 학생은 데이터 가져오기, 테이블 형식 보고 옵션 사용, 보안 구성을 포함하여 Microsoft Dataverse에서 데이터 모델을 만드는 방법에 대해 알아봅니다. AI Builder를 사용하여 쉽게 AI를 만드는 방법에 대해서도 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   테이블 작업
 
-
   *   데이터 형식 및 동작 이해
-
 
   *   보안 설정 구성
 
 
-
   #### <a name="lab--create-an-app"></a>랩: 앱 만들기
 
-
   ####
-
 
   #### <a name="lab--create-tables-and-columns"></a>랩: 테이블 및 열 만들기
 
-
   ####
-
 
   #### <a name="lab--create-relationships"></a>랩: 관계 만들기
 
-
   ####
-
 
   #### <a name="lab--additional-table-settings"></a>랩: 추가 테이블 설정
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   테이블, 열, 행, 관계 이해
 
-
   *   Dataverse에서 데이터 모델 구성
-
 
   *   Microsoft Power Platform 관리 센터 내 환경에서 작업
 
 
-
   ### <a name="module-3-make-model-driven-apps-with-power-apps"></a>모듈 3: Power Apps를 사용하여 모델 기반 앱 만들기
-
 
   이 모듈에서 학생은 Power Apps 모델 기반 앱의 비즈니스 가치에 대해 알아봅니다. 그런 다음 사용자 환경 고려 사항을 포함하여 이를 구성하고 설계하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   모델 기반 앱의 구성 요소
 
-
   *   모델 기반 앱 설계
-
 
   *   양식 및 보기
 
 
-
   #### <a name="lab--modify-views"></a>랩: 뷰 수정
 
-
   ####
-
 
   #### <a name="lab--modify-forms"></a>랩: 양식 수정
 
-
   ####
-
 
   #### <a name="lab--app-designer"></a>랩: 앱 디자이너
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Power Apps에서 데이터 연결
 
-
   *   Power Apps 모델 기반 앱 빌드
-
 
   *   애플리케이션 사용자 환경 디자인
 
 
-
   ### <a name="module-4-make-canvas-apps-with-power-apps"></a>모듈 4: Power Apps를 사용하여 캔버스 앱 만들기
-
 
   이 모듈에서 학생은 Power Apps 캔버스 앱의 비즈니스 가치에 대해 알아봅니다. 그런 다음 사용자 환경 고려 사항을 포함하여 이를 구성하고 설계하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Power Apps Studio
 
-
   *   캔버스 앱 기능
-
 
   *   사용자 환경
 
 
-
   #### <a name="lab--build-a-canvas-app"></a>랩: 캔버스 앱 빌드
 
-
   ####
-
 
   #### <a name="lab--work-with-data-and-services"></a>랩: 데이터 및 서비스 사용
 
-
   ####
-
 
   #### <a name="lab--user-experience"></a>랩: 사용자 환경
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Power Apps 캔버스 앱 빌드
 
-
   *   캔버스 앱에서 사용자 환경 구성
-
 
   *   캔버스 앱의 구성 요소 이해
 
 
-
   ### <a name="module-5-make-portals-with-power-apps"></a>모듈 5: Power Apps를 사용하여 포털 만들기
-
 
   이 모듈에서 학생은 Power Apps 포털의 비즈니스 가치에 대해 알아봅니다. 그런 다음 포털에서 Dataverse 데이터에 액세스하는 방법과 포털 인증의 작동 방식에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Power Apps 포털 아키텍처
 
-
   *   포털에서 Microsoft Dataverse에 액세스
-
 
   *   인증 및 사용자 관리
 
 
-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
-
 
   *   포털에서 Dataverse 데이터를 사용하는 방법 이해
 
-
   *   다양한 대상 그룹을 위한 Power Apps 포털의 유형 인식
-
 
   *   포털 액세스를 위해 사용자 등록
 
 
-
   ### <a name="module-6-introduction-to-automation"></a>모듈 6: 자동화 소개
-
 
   이 모듈에서 학생은 비즈니스 규칙과 비즈니스 규칙을 사용할 수 있는 경우에 대해 알아봅니다. Power Automate의 개요도 설명합니다.
 
-
   #### <a name="lessons"></a>단원
 
-
   *   비즈니스 규칙
-
 
   *   Power Automate 개요
 
 
-
   #### <a name="lab--configure-a-new-business-rule"></a>랩: 새 비즈니스 규칙 구성
 
-
   ####
-
 
   #### <a name="lab--create-security-roles"></a>랩: 보안 역할 만들기
 
-
   ####
-
 
   #### <a name="lab--create-users"></a>랩: 사용자 만들기
 
-
   ####
-
 
   #### <a name="lab--advanced-business-rules"></a>랩: 고급 비즈니스 규칙
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   사용자 만들기 및 보안 역할 부여
 
-
   *   보안 역할 만들기 및 구성
-
 
   *   고급 비즈니스 규칙 만들기 및 구성
 
 
-
   ### <a name="module-7-build-power-automate-cloud-flows"></a>모듈 7: Power Automate 클라우드 흐름 빌드
-
 
   이 모듈에서 학생은 트리거와 흐름을 포함하여 클라우드 흐름의 기본 사항을 알아봅니다. 승인 흐름을 포함하여 두 개의 흐름을 만듭니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   클라우드 흐름의 기본 사항
 
-
   *   트리거
-
 
   *   작업
 
 
-
   #### <a name="lab--create-a-flow"></a>랩: 흐름 만들기
 
-
   ####
-
 
   #### <a name="lab--build-an-approval-flow"></a>랩: 승인 흐름 빌드
 
-
   ####
-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   클라우드 흐름 만들기
 
-
   *   클라우드 흐름의 기본 사항 이해
-
 
   *   트리거 및 작업 사용
 
 
-
   ### <a name="module-8-build-power-automate-desktop-flows"></a>모듈 8: Power Automate 데스크톱 흐름 빌드
-
 
   이 모듈에서 학생은 데스크톱 흐름이 무엇이고 어떻게 만드는지 알아봅니다. 또한 데스크톱 흐름이 사용되는 방법과 프로세스 관리자를 사용하여 워크플로를 간소화할 수 있는 위치에 대한 이해를 높이는 방법을 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   데스크톱 흐름 빌드
 
-
   *   데스크톱 흐름 사용
-
 
   *   프로세스 관리자
 
 
-
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   데스크톱 흐름의 가치 이해
-
 
   *   데스크톱 흐름을 언제 사용하고 Process Advisor가 어떤 도움이 되는지 식별
 
 
-
   ### <a name="module-9-build-business-process-flows"></a>모듈 9: 비즈니스 프로세스 흐름 빌드
-
 
   이 모듈에서 학생은 비즈니스 프로세스 흐름의 가치 및 비즈니스 프로세스 흐름 디자이너를 사용하는 방법에 대해 알아봅니다. 또한 비즈니스 프로세스 흐름 빌드를 연습하고 자동화하는 방법을 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   비즈니스 프로세스 흐름을 사용해야 하는 이유
 
-
   *   비즈니스 프로세스 흐름 디자이너 사용
-
 
   *   비즈니스 프로세스 흐름 자동화
 
 
-
   #### <a name="lab--build-a-branching-business-process-flow"></a>랩: 분기 비즈니스 프로세스 흐름 빌드
 
-
   ####
-
 
   #### <a name="lab--build-a-business-process-flow"></a>랩: 비즈니스 프로세스 흐름 빌드
 
-
   ####
-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   비즈니스 프로세스 흐름 만들기
 
-
   *   비즈니스 프로세스 흐름 디자이너 사용
-
 
   *   비즈니스 프로세스 흐름에 자동화를 추가하는 방법 알아보기
 
 
-
   ### <a name="module-10-build-chatbots-with-power-virtual-agents"></a>모듈 10: Power Virtual Agents를 사용하여 챗봇 빌드
-
 
   이 모듈에서 학생들은 Power Virtual Agents를 사용하여 챗봇과의 고객 상호 작용을 자동화하는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   챗봇 만들기
 
-
   *   토픽 구성
-
 
   *   자동화 및 통합
 
-
   *   엔터티 구성
-
 
   *   챗봇 테스트 및 게시
 
 
-
   #### <a name="lab--build-a-chatbot"></a>랩: 챗봇 빌드
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   챗봇 만들기
 
-
   *   챗봇에 흐름 포함
-
 
   *   항목 및 엔터티 만들기
 
 
-
   ### <a name="module-11-analyze-data-with-power-bi"></a>모듈 11: Power BI를 사용하여 데이터 분석
-
 
   이 모듈에서 학생은 Power BI Desktop 및 Power BI Service를 사용하여 데이터를 분석하고 시각화를 만드는 방법에 대해 알아봅니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   Dataverse에서 테이블 형식 보고 옵션 사용
 
-
   *   Dataverse에서 차트 및 대시보드 사용
-
 
   *   Power BI 시작
 
-
   *   Power BI에서 데이터 모델링
 
-
   *   시각화 및 대시보드 만들기
-
 
   *   Power BI에서 게시 및 공유
 
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   시각화 만들기
 
-
   *   Power BI에서 데이터 사용
-
 
   *   관련자를 위한 데이터 시각화 내보내기
 
 
-
   ### <a name="module-12-putting-it-all-together"></a>모듈 12: 종합
-
 
   이 모듈에서 학생은 이 과정의 개념을 종합하는 방법과 Microsoft Power Platform 참여에서 기능 컨설턴트 기술을 사용하는 방법을 알아봅니다. 또한 Microsoft Power Platform에서 솔루션을 사용하는 방법을 알아보고 AI Builder를 소개합니다.
 
-
   #### <a name="lessons"></a>단원
-
 
   *   솔루션 사용
 
-
   *   AI Builder
-
 
   *   컨설턴트 기술
 
 
-
   #### <a name="lab--build-charts"></a>랩: 차트 빌드
 
-
   ####
-
 
   #### <a name="lab--build-dashboards"></a>랩: 대시보드 빌드
 
-
   ####
-
 
   #### <a name="lab--build-delete-data"></a>랩: 데이터 삭제 빌드
 
-
   ####
-
 
   #### <a name="lab--build-a-word-template"></a>랩: Word 템플릿 빌드
 
-
   ####
-
 
   #### <a name="lab--build-an-excel-template"></a>랩: Excel 템플릿 빌드
 
-
   ####
-
 
   #### <a name="lab--duplicate-detection"></a>랩: 중복 검색
 
-
   ####
-
 
   #### <a name="lab--import-data"></a>랩: 데이터 가져오기
 
-
   ####
-
 
   #### <a name="lab--export-data"></a>랩: 데이터 내보내기
 
-
   ####
-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다.
 
-
   *   이 과정의 개념들이 연동되는 방식 이해
-
 
   *   Microsoft Power Platform에서 솔루션 관리
 
-
   *   AI Builder를 사용하여 모델 만들기 및 관리
-
 
   *   기능 컨설턴트 기술 적용

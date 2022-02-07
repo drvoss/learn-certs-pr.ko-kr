@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: bdaf858ae7be3e7f2160305d173a6bbe5e6e0064
-ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "135801587"
 ---
 # <a name="microsoft-certified-trainer"></a>Microsoft Certified Trainer
 
@@ -119,7 +113,6 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate](/learn/certifications/d365-functional-consultant-commerce/)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) (retired June 30, 2021)
 - [Microsoft Certified: Security Operations Analyst Associate](/learn/certifications/security-operations-analyst/)
 - [Microsoft Certified: Identity and Access Administrator Associate](/learn/certifications/identity-and-access-administrator/)
 - [Microsoft Certified: Information Protection Administrator Associate](/learn/certifications/information-protection-administrator/)

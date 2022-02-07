@@ -3,87 +3,89 @@ title: Microsoft Power Platform App Maker
 metadata:
   title: '과정 PL-100T00--A: Microsoft Power Platform App Maker'
   description: '과정 PL-100T00--A: Microsoft Power Platform App Maker'
-  ms.openlocfilehash: 078ac94d2af1b8d91f6b49f38f5f9397b5c09308
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132112603"
 uid: course.pl-100t00
 courseNumber: PL-100T00
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 앱 디자인 및 워크플로 자동화
-- skill: 앱 생성 및 워크플로 자동화
-- skill: 앱 또는 자동화된 워크플로의 맥락에서 데이터 분석 및 시각화
+  - skill: 앱 디자인 및 워크플로 자동화
+  - skill: 앱 생성 및 워크플로 자동화
+  - skill: 앱 또는 자동화된 워크플로의 맥락에서 데이터 분석 및 시각화
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- beginner
+  - beginner
 roles:
-- developer
+  - developer
 products:
-- power-platform
+  - power-platform
 exams:
-- uid: exam.pl-100
-summary: >-
+  - uid: exam.pl-100
+studyGuide:
+  - uid: learn-bizapps.wwl.introduction-power-platform
+  - uid: learn-bizapps.intro-model-driven-apps-common-data-service
+  - uid: learn-bizapps.powerapps-common-data-service
+  - uid: learn-bizapps.powerapps-design-model-driven-apps
+  - uid: learn-dynamics.create-manage-fields-within-entity
+  - uid: learn-dynamics.get-started-security-roles
+  - uid: learn-bizapps.use-documentation
+  - uid: learn-bizapps.get-started-dataverse-teams
+  - uid: learn-bizapps.build-app-dataverse-teams
+  - uid: learn-bizapps.create-powerapps
+  - uid: learn-bizapps.navigation-canvas-app
+  - uid: learn-bizapps.how-to-build-ui-canvas-app
+  - uid: learn-bizapps.controls-canvas-apps
+  - uid: learn-bizapps.flow-get-started
+  - uid: learn-bizapps.flow-administration
+  - uid: learn-bizapps.intro-business-process-flows
+  - uid: learn-bizapps.create-immersive-flow
+  - uid: learn-bizapps.security-governance-intro
+  - uid: learn-bizapps.build-first-workflow
+  - uid: learn-bizapps.get-started-with-power-bi
+  - uid: learn-bizapps.get-data-power-bi
+  - uid: learn-bizapps.dataverse-teams-power-bi
+  - uid: learn-bizapps.get-started-with-ai-builder
+  - uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams
+summary: |-
   본 과정에서는 Microsoft Power Platform을 사용하여 로코드 기술로 앱을 구축하여 비즈니스 업무 및 프로세스를 간소화, 자동화 및 변환하는 방법을 학습합니다.
-
 
   #### <a name="audience-profile"></a>대상 프로필
 
-
   앱 개발자는 자기 자신과 솔루션 비즈니스 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 이들은 기본적인 데이터 모델링, 사용자 경험 디자인, 요구 사항 분석 및 프로세스 분석 기술을 갖추고 있습니다. 앱 개발자는 비즈니스 프로세스를 생성 및 시행하고, 디지털 정보 수집을 구조화하고, 반복 가능한 작업의 효율성을 개선하고, 비즈니스 프로세스를 자동화합니다. 앱 개발자는 Power Platform의 마커 도구를 사용하여 비즈니스 문제를 해결합니다. 이들은 Microsoft Apps와 타사 생산성 도구의 고급 기능을 사용할 수 있습니다. 앱 개발자는 사용 가능한 도구의 기능과 한계를 알고 있으며 이를 적용하는 방법을 이해하고 있습니다. 앱 개발자는 자기 주도적이고 솔루션에 중점을 둡니다. 이들은 공식적인 IT 교육은 받지 못했을 수 있지만 개인적인 성장 사고방식으로 편리하게 기술을 사용하여 비즈니스 문제를 해결합니다. 이들은 운영상의 필요성을 이해하고 원하는 결과에 대한 비전을 가지고 있습니다. 이들은 단계적이고 반복적인 전략으로 문제에 접근합니다.
-prerequisitesSection: >-
+prerequisitesSection: |-
   *   기본적인 데이터 모델링, 사용자 환경 디자인, 요구 사항 분석 및 프로세스
-
 
 
   분석 기술.
 
-
   *   개인적 성장 마인드 및 기술을 수월하게 사용하여 비즈니스 문제 해결.
-
 
   *   &nbsp;운영상의 니즈 이해 및 원하는 결과에 대한 비전 보유. 이들은
 
 
-
   단계적이고 반복적인 전략으로 문제에 접근합니다.
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-introduction-to-microsoft-power-platform"></a>모듈 1: Microsoft Power Platform 소개
-
 
   이 모듈은 Microsoft Power Platform을 소개합니다. Power Platform의 구성 요소와 이를 사용하여 비즈니스 솔루션을 만드는 데 있어서의 가치를 알아봅니다.
 
-
   ### <a name="module-2-create-a-model-driven-app-in-power-apps"></a>모듈 2: Power Apps에서 모델 기반 애플리케이션 생성
-
 
   이 모듈에서는 Microsoft Dataverse를 사용하는 Power Apps에서의 모델 기반 앱 생성을 소개합니다.
 
-
   ### <a name="module-3-create-a-canvas-app-in-power-apps"></a>모듈 3: Power Apps에서 캔버스 앱 생성
-
 
   이 모듈에서는 캔버스 Power Apps를 소개하고, 앱 생성과 사용자 지정 및 관리와 배포하는 방법을 소개합니다. 이 모듈에서는 최고의 앱 탐색을 제공하고 테마, 아이콘, 이미지, 개인 설정, 다양한 폼 팩터 및 컨트롤을 사용하여 최고의 UI를 구축하는 방법에 중점을 둡니다.
 
-
   ### <a name="module-4-automate-a-business-process-using-power-automate"></a>모듈 4: Power Automate로 업무 프로세스 자동화
-
 
   본 모듈에서는 Power Automate를 소개하고 워크플로 구축과 흐름을 관리하는 방법을 알려줍니다.
 
-
   ### <a name="module-5-create-and-use-analytics-reports-with-power-bi"></a>모듈 5: Power BI로 분석 보고서 생성 및 사용
-
 
   Power BI가 무엇인지 그 구성 요소 및 작동 방법을 알아봅니다.
 
-
   ### <a name="module-6-get-started-with-ai-builder-and-power-virtual-agents"></a>모듈 6: AI Builder 및 Power Virtual Agents 시작
-
 
   본 모듈에서는 처음부터 AI 모델을 구축할 수 있도록 지원하며 한 줄의 코드 작성 없이도 업무에서 이를 사용하는 방법을 보여줍니다. 이 모듈은 Teams용 Power Virtual Agents를 사용하는 챗봇을 만드는 데 도움이 됩니다.

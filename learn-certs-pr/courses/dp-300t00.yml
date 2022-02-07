@@ -3,70 +3,216 @@ title: Administering Relational Databases on Microsoft Azure
 metadata:
   title: '과정 DP-300T00-A: Administering Relational Databases on Microsoft Azure'
   description: '과정 DP-300T00-A: Administering Relational Databases on Microsoft Azure'
-  ms.openlocfilehash: c36bf67c2171be20fcced9d7660bc8e412da62b1
-  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136953951"
+  iltScheduling: true
 uid: course.dp-300t00
 courseNumber: DP-300T00-A
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure SQL 제품 계획, 배포 및 구성
-- skill: 최적의 성능을 위해 데이터베이스 성능 모니터링, 데이터베이스 및 쿼리 조정
-- skill: 고가용성 솔루션 계획 및 구성
+  - skill: 'Azure SQL 제품 계획, 배포 및 구성'
+  - skill: '최적의 성능을 위해 데이터베이스 성능 모니터링, 데이터베이스 및 쿼리 조정'
+  - skill: 고가용성 솔루션 계획 및 구성
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
+  - ja
+  - zh-cn
+  - ko
 levels:
-- intermediate
+  - intermediate
 roles:
-- database-administrator
+  - database-administrator
 products:
-- azure
-- azure-automation
-- azure-database-mysql
-- azure-database-postgresql
-- azure-sql-database
-- azure-storage
-- azure-virtual-machines
-- sql-server
+  - azure
+  - azure-automation
+  - azure-database-mysql
+  - azure-database-postgresql
+  - azure-sql-database
+  - azure-storage
+  - azure-virtual-machines
+  - sql-server
 exams:
-- uid: exam.dp-300
+  - uid: exam.dp-300
 studyGuide:
-- uid: learn.wwl.prepare-to-maintain-sql-databases-azure
-- uid: learn.wwl.deploy-sql-server-virtual-machine
-- uid: learn.wwl.deploy-azure-sql-database
-- uid: learn.wwl.deploy-mariadb-mysql-postgresql-azure
-- uid: learn.wwl.evaluate-strategies-for-migrating-sql-databases-to-azure
-- uid: learn.wwl.configure-database-authentication-authorization
-- uid: learn.wwl.protect-data-transit-at-rest
-- uid: learn.wwl.implement-compliance-controls-for-sensitive-data
-- uid: learn.wwl.describe-performance-monitoring
-- uid: learn.wwl.explore-causes-of-performance-issues
-- uid: learn.wwl.configure-sql-server-resources-for-optimal-performance
-- uid: learn.wwl.configure-databases-for-performance
-- uid: learn.wwl.describe-performance-related-maintenance-tasks-sql-server
-- uid: learn.wwl.describe-sql-server-query-plans
-- uid: learn.wwl.evaluate-performance-improvements
-- uid: learn.wwl.explore-performance-based-design
-- uid: learn.wwl.configure-automatic-deployment-for-azure-sql-database
-- uid: learn.wwl.schedule-tasks-using-sql-server-agent
-- uid: learn.wwl.manage-azure-paas-resources-using-automated-methods
-- uid: learn.wwl.describe-high-availability-disaster-recovery-strategies
-- uid: learn.wwl.explore-iaas-paas-platform-tools-for-ha-dr
-- uid: learn.wwl.backup-restore-databases
-summary: >-
+  - uid: learn.wwl.prepare-to-maintain-sql-databases-azure
+  - uid: learn.wwl.deploy-sql-server-virtual-machine
+  - uid: learn.wwl.deploy-azure-sql-database
+  - uid: learn.wwl.deploy-mariadb-mysql-postgresql-azure
+  - uid: learn.wwl.evaluate-strategies-for-migrating-sql-databases-to-azure
+  - uid: learn.wwl.configure-database-authentication-authorization
+  - uid: learn.wwl.protect-data-transit-at-rest
+  - uid: learn.wwl.implement-compliance-controls-for-sensitive-data
+  - uid: learn.wwl.describe-performance-monitoring
+  - uid: learn.wwl.explore-causes-of-performance-issues
+  - uid: learn.wwl.configure-sql-server-resources-for-optimal-performance
+  - uid: learn.wwl.configure-databases-for-performance
+  - uid: learn.wwl.describe-performance-related-maintenance-tasks-sql-server
+  - uid: learn.wwl.describe-sql-server-query-plans
+  - uid: learn.wwl.evaluate-performance-improvements
+  - uid: learn.wwl.explore-performance-based-design
+  - uid: learn.wwl.configure-automatic-deployment-for-azure-sql-database
+  - uid: learn.wwl.schedule-tasks-using-sql-server-agent
+  - uid: learn.wwl.manage-azure-paas-resources-using-automated-methods
+  - uid: learn.wwl.describe-high-availability-disaster-recovery-strategies
+  - uid: learn.wwl.explore-iaas-paas-platform-tools-for-ha-dr
+  - uid: learn.wwl.backup-restore-databases
+summary: |-
   본 과정에서는 클라우드, 온-프레미스 및 하이브리드 관계형 데이터베이스를 위한 SQL Server Database 인프라를 관리하고 Microsoft PaaS 관계형 데이터베이스 제품을 통해 작업할 수 있는 지식과 기술을 제공합니다. 또한 본 과정은 SQL 기반 관계형 데이터베이스에서 콘텐츠를 제공하는 애플리케이션을 개발하는 개인에게도 유용합니다.
 
-
   #### <a name="audience-profile"></a>잠재 고객 프로파일
-
   본 과정은 Microsoft Azure에서 제공하는 데이터 플랫폼 기술 관리에 대해 학습하려는 데이터 및 데이터베이스 관리 전문가를 대상으로 합니다. 또한 본 과정은 Azure를 사용하는 데이터 플랫폼에서 어떤 기술을 사용할 수 있는지, 애플리케이션을 통해 이러한 기술을 어떻게 사용하는지 알아야 하는 데이터 설계자 및 애플리케이션 개발자에게도 가치가 있습니다.
-prerequisitesSection: "성공적인 Azure 데이터베이스 관리자는 데이터베이스 관리에 대한 전문 경험 및 클라우드 기술에 대한 기술 지식을 바탕으로 이 역할을 시작합니다.\n\n구체적으로는 다음과 같습니다.\n- SQL Server를 사용하여 사용, 유지 관리, 개발\n-   Azure를 사용한 리소스 배포 및 관리 등의 경험 \n\n최소한 과정에 참여하기 전에 다음 온라인 교육에서 다루는 정보를 알고 있어야 합니다.\n-   [Azure SQL 소개](/learn/modules/azure-sql-intro/)\n-   <bpt i=\"1000001\" x=\"1000001\" type=\"formatting\">{b&gt;</bpt>Azure 기본 사항<ept i=\"1000001\">&lt;b}</ept>\n-   [Azure 데이터 기본 사항](/learn/certifications/azure-data-fundamentals) "
-outlineSection: "### <a name=\"module--158-the-role-of-the-azure-database-administrator\"></a>모듈 1: Azure 데이터베이스 관리자의 역할\n본 모듈에서는 Azure 분야에서 데이터베이스 관리자의 역할을 살펴봅니다. 또한 전체 콘텐츠와 관련된 기본적인 정보도 제공합니다. 여기에는 다양한 SQL Server 기반 옵션(VM의 SQL Server, 관리되는 인스턴스, Azure SQL Database)에 대한 검토가 포함됩니다. 학생은 Azure에서 SQL 데이터베이스를 사용하여 작업할 때 호환성 수준이 중요한 개념인 이유에 대해 알아봅니다. 학생들은 SQL Server를 기반으로 하는 플랫폼외에 Azure에서 사용할 수 있는 다른 데이터베이스 플랫폼, 특히 PostgreSQL 및 MySQL도 학습하게 됩니다. \n#### <a name=\"lessons\"></a>단원\n- Azure 데이터 플랫폼 역할\n- Azure 데이터베이스 플랫폼 및 옵션\n- SQL Server 호환성 수준\n- Azure 미리 보기 기능\n\n\n#### <a name=\"lab-58-using-the-azure-portal-and-sql-server-management-studio\"></a>랩: Azure Portal 및 SQL Server Management Studio 사용\n- Azure 가상 머신에서 SQL Server 프로비저닝\n- SQL Server에 연결 및 백업 복원\n\n본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:\n- 다른 데이터 플랫폼 역할에 적합한 Azure 데이터베이스 관리자의 역할 이해\n- SQL Server 기반 데이터베이스 작업 간 주요 차이점 설명 가능\n- 버전 및 호환성 수준 간 차이점 설명 가능\n- 미리 보기 기능 사용 설정 및 사용 해제 방법 파악 \n\n\n### <a name=\"module-258-plan-and-implement-data-platform-resources\"></a>모듈 2: 데이터 플랫폼 리소스 계획 및 구현 \n본 모듈에서는 데이터 플랫폼 리소스를 Azure에 배포하는 방법을 소개합니다. 기존 SQL 데이터베이스를 Azure로 업그레이드 및 마이그레이션하기 위한 옵션에 대해 학습합니다. 가상 머신, 관리 인스턴스, Azure SQL Database 및 PostgreSQL 또는 MySQL에서 SQL Server를 호스팅할 수 있는 Azure 리소스를 설정하는 방법에 대해서도 학습합니다. 또한 HADR(고가용성 및 재해 복구) 요구 사항을 포함한 특정 요구 사항을 기준으로 최적의 옵션을 결정하는 방법에 대해서도 학습하게 됩니다. 리소스 요구 사항을 계산하고 배포를 위한 템플릿을 만드는 방법도 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- IaaS를 사용하여 SQL Server 배포\n- PaaS를 사용하여 SQL Server 배포\n- Azure에 오픈 소스 데이터베이스 솔루션 배포\n\n#### <a name=\"lab-58-deploying-azure-sql-database\"></a>랩: Azure SQL Database 배포\n- ARM 템플릿을 사용한 VM 배포\n- 데이터베이스를 만들기 전에 필요한 리소스 구성\n- Azure SQL Database 배포\n- Azure Data Studio에서 Azure SQL Database 인스턴스 등록 및 연결 유효성 검사\n- 연결 유효성 검사를 위해 클라이언트 도구를 사용하여 PostgreSQL 또는 MySQL 배포\n\n본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:\n- 수동 방법을 사용하여 소스 배포\n- 요구 사항에 따라 적절한 데이터베이스 제안 추천\n- 데이터베이스 리소스 구성\n- 데이터베이스를 Azure로 이동하기 위한 전략 평가 및 구현\n\n\n### <a name=\"module-358-implement-a-secure-environment\"></a>모듈 3: 보안 환경 구현\n본 모듈에서는 SQL Server Database와 Azure SQL database를 보호하는 관행에 대해 살펴봅니다. 관행에는 다양한 SQL Server 기반 옵션과 Azure SQL Database 뿐만 아니라 Azure SQL Database에 상주하는 데이터베이스 보안을 위한 다양한 Azure 옵션에 대한 검토를 포함합니다. . 학생들은 데이터베이스 작업을 할 때 보안이 중요한 이유를 학습하게 됩니다. . 또한 학생들은 SQL Server를 기반으로 하는 플랫폼외에 Azure에서 사용할 수 있는 다른 데이터베이스 플랫폼, 특히 MariaDB/MySQL/PostgreSQL용 Azure Database도 학습하게 됩니다.\n#### <a name=\"lessons\"></a>단원\n- 데이터베이스 인증 구성\n- 데이터베이스 권한 부여 구성\n- 미사용 데이터 보안 구현\n- 전송 중 데이터 보안 구현\n- 중요한 데이터에 대한 규정 준수 컨트롤 구현\n\n#### <a name=\"lab-58-implement-a-secure-environment\"></a>랩: 보안 환경 구현\n- Azure Portal을 사용하여 서버 기반 방화벽 규칙 구성\n- Azure Active Directory를 사용하여 Azure SQL Database에 대한 액세스 권한 부여\n- 고급 데이터 보안 및 데이터 분류 사용\n- 데이터베이스 개체에 대한 액세스 관리\n\n본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:\n- Windows, SQL Server, Azure Active Directory 인증 간 차이점 이해\n- 미사용 데이터 암호화 솔루션 및 전송 중 데이터 암호화 설명 및 구성\n- 데이터 민감도 솔루션 구현\n\n\n### <a name=\"module-458-monitor-and-optimize-operational-resources\"></a>모듈 4: 운영 리소스 모니터링 및 최적화\n본 모듈에서는 IaaS 또는 PaaS 서비스를 사용하여 작성된 데이터베이스의 리소스 최적화에 대해 학습합니다. 또한 모듈에서는 서버 및 하드웨어 리소스 모니터링에 대해서도 학습합니다. 학생들은 성능을 모니터링하고 기준선을 설정하는 데 사용할 수 있는 다양한 도구를 숙지하게 됩니다. 가장 중요한 리소스에 대한 성능 메트릭을 해석하는 방법에 대해 학습합니다. 또한 Azure SQL Database Intelligent Insights를 사용하여 데이터베이스 성능의 문제를 해결하는 방법에 대해서도 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- 기준선 및 성능 모니터링\n- 성능 문제의 주요 원인\n- 최적의 성능을 위한 리소스 구성\n- 사용자 데이터베이스 구성\n- 성능 관련 유지 관리 작업\n\n#### <a name=\"lab-58-monitor-and-optimize-resources\"></a>랩: 리소스 모니터링 및 최적화\n- CPU 문제 격리\n- 쿼리 저장소를 사용하여 차단 문제 관찰\n- 조각화 문제 감지 및 수정\n\n본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:\n- 활동 모니터링 및 기준선과 비교\n- 성능 관련 유지 관리 작업 정의\n- 성능 문제의 주요 원인 식별\n- 최적의 성능을 위한 리소스 구성\n- 최적의 성능을 위한 사용자 데이터베이스 구성\n\n\n### <a name=\"module-558-optimize-query-performance\"></a>모듈 5: 쿼리 성능 최적화\n쿼리 실행 계획은 데이터베이스 성능에서 잠재적으로 가장 중요한 측면입니다. 좋지 않은 계획의 개선은 확실히 작은 노력으로 큰 개선을 가져올 수 있는 분야입니다. 하드웨어 문제로 인해 쿼리 성능이 제한을 받을 수 있지만, 하드웨어를 개선하면 대체로 성능이 최대 10-20% 향상됩니다. 보다 일반적으로 데이터베이스 관리자는 최적화되지 않았거나, 오래된 통계 또는 누락된 통계를 가지거나, 색인이 누락되었거나, 데이터베이스 설계를 잘못 선택하여 데이터베이스 엔진에서 지정된 쿼리에 대한 결과를 반환하는 데 필요한 작업보다 많은 작업을 수행할 수 있습니다. 계획을 개선하면 때로는 100~200% 이상의 성능 향상 효과를 얻을 수 있습니다. 즉, 더 우수한 인덱스 또는 통계를 사용하여 계획을 개선하면 쿼리가 두 배 또는 세 배 더 빠르게 실행될 수 있습니다! 본 모듈에서는 개별적인 쿼리의 성능을 분석하고 개선할 수 있는 부분을 결정하는 방법에 대해 자세히 학습합니다.\n#### <a name=\"lessons\"></a>단원\n- SQL Server 쿼리 계획 이해\n- 성능 기반 데이터베이스 디자인 살펴보기\n- 성능 개선 평가\n\n#### <a name=\"lab-58-query-performance-troubleshooting\"></a>랩: 쿼리 성능 문제 해결\n- 데이터베이스 디자인 AdventureWorks2017의 문제 식별\n- AdventureWorks2017에서 성능이 낮은 쿼리의 문제 영역 격리\n- AdventureWorks2017에서 쿼리 저장소를 사용하여 회귀 감지 및 처리\n- 쿼리 힌트를 사용하여 AdventureWorks2017의 성능에 영향 미치기\n\n본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:\n- 쿼리 계획 분석 및 문제 영역 식별\n- 잠재적인 쿼리 개선 사항 평가\n- 테이블 및 인덱스 디자인 검토\n- 쿼리 또는 디자인 변경 사항이 긍정적인 영향을 미쳤는지 확인\n\n\n### <a name=\"module-658-automation-of-tasks\"></a>모듈 6: 작업 자동화\n많은 환경에서 데이터베이스 관리자의 공통 목표는 반복 작업을 최대한 자동화하는 것입니다. 이 자동화는 스크립팅을 사용하여 백업 프로세스를 자동화하는 것만큼 간단할 수 있고 완전히 자동화된 경고 시스템을 구축하는 것만큼 복잡할 수 있습니다. 본 모듈에서는 작업을 자동화하여 DBA 작업을 단순화하기 위한 세부 사항을 학습합니다. 방법에는 정기적인 유지 관리 작업을 위한 작업 예약과 작업의 성공 또는 실패 또는 비완료에 대한 다중 인스턴스 관리 및 알림 구성을 포함합니다.\n#### <a name=\"lessons\"></a>단원\n- 자동 배포 설정\n- 예약형 작업 정의\n- 확장된 이벤트 구성\n- 자동화된 방법을 사용하여 Azure PaaS 리소스 관리\n\n#### <a name=\"lab-58-automating-tasks\"></a>랩: 작업 자동화\n- 빠른 시작 템플릿의 Azure 템플릿을 GitHub에 배포\n- 성능 메트릭을 바탕으로 알림 구성\n- Azure Automation Runbook(또는 탄력적 작업)을 배포하여 Azure SQL Database에서 인덱스 다시 빌드 \n\n본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:\n- 자동화된 배포 스크립트를 사용하여 리소스 배포\n- 예약형 작업 만들기\n- 알림 및 경고 만들기\n- PaaS 서비스를 위한 자동화 구성\n\n\n### <a name=\"module-758-plan-and-implement-a-high-availability-and-disaster-recovery-environment\"></a>모듈 7: 고가용성 및 재해 복구 환경 계획 및 구현\n데이터는 기업이 필요로 할 때 사용할 수 있어야 합니다. 즉, 데이터를 호스팅하는 솔루션은 가용성과 복구 가능성을 염두에 두고 설계해야 합니다. 여러분이 매점과 온라인에서 위젯을 판매하는 회사에서 근무한다고 가정해 봅니다. 여러분이 사용하는 기본 애플리케이션은 거래량이 많은 데이터베이스를 주문에 사용합니다. 거래 데이터베이스를 호스팅하는 서버 또는 플랫폼에 문제가 발생하여 데이터베이스를 사용할 수 없거나 어떤 이유로 액세스할 수 없게 되면 어떻게 될까요? 비즈니스에 어떤 영향을 미칠까요? 이때 적절한 솔루션을 구성하면 최소한의 노력으로 데이터베이스가 합리적인 시간 내에 온라인 상태로 전환되므로 비즈니스에 거의 영향을 미치지 않고 계속 진행할 수 있습니다. 본 모듈 및 관련 랩에서는 Infrastructure-as-a-Service (IaaS) 및 Platform-as-a-Service (PaaS) 배포를 위해 Azure에서 HADR(고가용성 및 재해 복구) 솔루션을 구성하고 테스트하며 관리하는 방법에 대해 다룹니다. 본 모듈은 HADR을 달성하기 위한 기본 요구사항뿐만 아니라 사용할 수 있는 다양한 옵션도 다룹니다.\n#### <a name=\"lessons\"></a>단원\n- 고가용성 및 재해 복구 전략\n- HADR을 위한 IaaS 플랫폼 및 데이터베이스 도구\n- HADR을 위한 PaaS 플랫폼 및 데이터베이스 도구\n- 데이터베이스 백업 및 복구\n\n#### <a name=\"lab-58-plan-and-implement-a-high-availability-and-disaster-recovery-environment\"></a>랩: 고가용성 및 재해 복구 환경 계획 및 구현\n- Always On 가용성 그룹 만들기\n- Azure SQL Database에 대한 지역 복제 사용 설정\n- URL에 백업 및 URL에서 복원\n\n본 모듈을 완료하면 학생들은 다음을 이해할 수 있습니다:\n- 복구 시간 및 복구 지점 목표 간 차이점\n- IaaS 및 PaaS 모두에서 사용 가능한 HADR 옵션\n- 백업 및 복원 방법을 포함한 HADR 솔루션 계획 및 구성을 위한 고려 사항\n- HADR 전략을 구성하는 요인\n- 실습 랩을 통해 고가용성 솔루션을 구성하는 방법"
+prerequisitesSection: |-
+  성공적인 Azure 데이터베이스 관리자는 데이터베이스 관리에 대한 전문 경험 및 클라우드 기술에 대한 기술 지식을 바탕으로 이 역할을 시작합니다.
+
+  구체적으로는 다음과 같습니다.
+  - SQL Server를 사용하여 사용, 유지 관리, 개발
+  -   Azure를 사용한 리소스 배포 및 관리 등의 경험 
+
+  최소한 과정에 참여하기 전에 다음 온라인 교육에서 다루는 정보를 알고 있어야 합니다.
+  -   [Azure SQL 소개](/learn/modules/azure-sql-intro/)
+  -   <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Azure 기본 사항<ept i="1000001">&lt;b}</ept>
+  -   [Azure 데이터 기본 사항](/learn/certifications/azure-data-fundamentals) 
+outlineSection: |-
+  ### <a name="module--158-the-role-of-the-azure-database-administrator"></a>모듈 1: Azure 데이터베이스 관리자의 역할
+  본 모듈에서는 Azure 분야에서 데이터베이스 관리자의 역할을 살펴봅니다. 또한 전체 콘텐츠와 관련된 기본적인 정보도 제공합니다. 여기에는 다양한 SQL Server 기반 옵션(VM의 SQL Server, 관리되는 인스턴스, Azure SQL Database)에 대한 검토가 포함됩니다. 학생은 Azure에서 SQL 데이터베이스를 사용하여 작업할 때 호환성 수준이 중요한 개념인 이유에 대해 알아봅니다. 학생들은 SQL Server를 기반으로 하는 플랫폼외에 Azure에서 사용할 수 있는 다른 데이터베이스 플랫폼, 특히 PostgreSQL 및 MySQL도 학습하게 됩니다. 
+  #### <a name="lessons"></a>단원
+  - Azure 데이터 플랫폼 역할
+  - Azure 데이터베이스 플랫폼 및 옵션
+  - SQL Server 호환성 수준
+  - Azure 미리 보기 기능
+
+
+  #### <a name="lab-58-using-the-azure-portal-and-sql-server-management-studio"></a>랩: Azure Portal 및 SQL Server Management Studio 사용
+  - Azure 가상 머신에서 SQL Server 프로비저닝
+  - SQL Server에 연결 및 백업 복원
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+  - 다른 데이터 플랫폼 역할에 적합한 Azure 데이터베이스 관리자의 역할 이해
+  - SQL Server 기반 데이터베이스 작업 간 주요 차이점 설명 가능
+  - 버전 및 호환성 수준 간 차이점 설명 가능
+  - 미리 보기 기능 사용 설정 및 사용 해제 방법 파악 
+
+
+  ### <a name="module-258-plan-and-implement-data-platform-resources"></a>모듈 2: 데이터 플랫폼 리소스 계획 및 구현 
+  본 모듈에서는 데이터 플랫폼 리소스를 Azure에 배포하는 방법을 소개합니다. 기존 SQL 데이터베이스를 Azure로 업그레이드 및 마이그레이션하기 위한 옵션에 대해 학습합니다. 가상 머신, 관리 인스턴스, Azure SQL Database 및 PostgreSQL 또는 MySQL에서 SQL Server를 호스팅할 수 있는 Azure 리소스를 설정하는 방법에 대해서도 학습합니다. 또한 HADR(고가용성 및 재해 복구) 요구 사항을 포함한 특정 요구 사항을 기준으로 최적의 옵션을 결정하는 방법에 대해서도 학습하게 됩니다. 리소스 요구 사항을 계산하고 배포를 위한 템플릿을 만드는 방법도 학습합니다.
+  #### <a name="lessons"></a>단원
+  - IaaS를 사용하여 SQL Server 배포
+  - PaaS를 사용하여 SQL Server 배포
+  - Azure에 오픈 소스 데이터베이스 솔루션 배포
+
+  #### <a name="lab-58-deploying-azure-sql-database"></a>랩: Azure SQL Database 배포
+  - ARM 템플릿을 사용한 VM 배포
+  - 데이터베이스를 만들기 전에 필요한 리소스 구성
+  - Azure SQL Database 배포
+  - Azure Data Studio에서 Azure SQL Database 인스턴스 등록 및 연결 유효성 검사
+  - 연결 유효성 검사를 위해 클라이언트 도구를 사용하여 PostgreSQL 또는 MySQL 배포
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+  - 수동 방법을 사용하여 소스 배포
+  - 요구 사항에 따라 적절한 데이터베이스 제안 추천
+  - 데이터베이스 리소스 구성
+  - 데이터베이스를 Azure로 이동하기 위한 전략 평가 및 구현
+
+
+  ### <a name="module-358-implement-a-secure-environment"></a>모듈 3: 보안 환경 구현
+  본 모듈에서는 SQL Server Database와 Azure SQL database를 보호하는 관행에 대해 살펴봅니다. 관행에는 다양한 SQL Server 기반 옵션과 Azure SQL Database 뿐만 아니라 Azure SQL Database에 상주하는 데이터베이스 보안을 위한 다양한 Azure 옵션에 대한 검토를 포함합니다. . 학생들은 데이터베이스 작업을 할 때 보안이 중요한 이유를 학습하게 됩니다. . 또한 학생들은 SQL Server를 기반으로 하는 플랫폼외에 Azure에서 사용할 수 있는 다른 데이터베이스 플랫폼, 특히 MariaDB/MySQL/PostgreSQL용 Azure Database도 학습하게 됩니다.
+  #### <a name="lessons"></a>단원
+  - 데이터베이스 인증 구성
+  - 데이터베이스 권한 부여 구성
+  - 미사용 데이터 보안 구현
+  - 전송 중 데이터 보안 구현
+  - 중요한 데이터에 대한 규정 준수 컨트롤 구현
+
+  #### <a name="lab-58-implement-a-secure-environment"></a>랩: 보안 환경 구현
+  - Azure Portal을 사용하여 서버 기반 방화벽 규칙 구성
+  - Azure Active Directory를 사용하여 Azure SQL Database에 대한 액세스 권한 부여
+  - 고급 데이터 보안 및 데이터 분류 사용
+  - 데이터베이스 개체에 대한 액세스 관리
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+  - Windows, SQL Server, Azure Active Directory 인증 간 차이점 이해
+  - 미사용 데이터 암호화 솔루션 및 전송 중 데이터 암호화 설명 및 구성
+  - 데이터 민감도 솔루션 구현
+
+
+  ### <a name="module-458-monitor-and-optimize-operational-resources"></a>모듈 4: 운영 리소스 모니터링 및 최적화
+  본 모듈에서는 IaaS 또는 PaaS 서비스를 사용하여 작성된 데이터베이스의 리소스 최적화에 대해 학습합니다. 또한 모듈에서는 서버 및 하드웨어 리소스 모니터링에 대해서도 학습합니다. 학생들은 성능을 모니터링하고 기준선을 설정하는 데 사용할 수 있는 다양한 도구를 숙지하게 됩니다. 가장 중요한 리소스에 대한 성능 메트릭을 해석하는 방법에 대해 학습합니다. 또한 Azure SQL Database Intelligent Insights를 사용하여 데이터베이스 성능의 문제를 해결하는 방법에 대해서도 학습합니다.
+  #### <a name="lessons"></a>단원
+  - 기준선 및 성능 모니터링
+  - 성능 문제의 주요 원인
+  - 최적의 성능을 위한 리소스 구성
+  - 사용자 데이터베이스 구성
+  - 성능 관련 유지 관리 작업
+
+  #### <a name="lab-58-monitor-and-optimize-resources"></a>랩: 리소스 모니터링 및 최적화
+  - CPU 문제 격리
+  - 쿼리 저장소를 사용하여 차단 문제 관찰
+  - 조각화 문제 감지 및 수정
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+  - 활동 모니터링 및 기준선과 비교
+  - 성능 관련 유지 관리 작업 정의
+  - 성능 문제의 주요 원인 식별
+  - 최적의 성능을 위한 리소스 구성
+  - 최적의 성능을 위한 사용자 데이터베이스 구성
+
+
+  ### <a name="module-558-optimize-query-performance"></a>모듈 5: 쿼리 성능 최적화
+  쿼리 실행 계획은 데이터베이스 성능에서 잠재적으로 가장 중요한 측면입니다. 좋지 않은 계획의 개선은 확실히 작은 노력으로 큰 개선을 가져올 수 있는 분야입니다. 하드웨어 문제로 인해 쿼리 성능이 제한을 받을 수 있지만, 하드웨어를 개선하면 대체로 성능이 최대 10-20% 향상됩니다. 보다 일반적으로 데이터베이스 관리자는 최적화되지 않았거나, 오래된 통계 또는 누락된 통계를 가지거나, 색인이 누락되었거나, 데이터베이스 설계를 잘못 선택하여 데이터베이스 엔진에서 지정된 쿼리에 대한 결과를 반환하는 데 필요한 작업보다 많은 작업을 수행할 수 있습니다. 계획을 개선하면 때로는 100~200% 이상의 성능 향상 효과를 얻을 수 있습니다. 즉, 더 우수한 인덱스 또는 통계를 사용하여 계획을 개선하면 쿼리가 두 배 또는 세 배 더 빠르게 실행될 수 있습니다! 본 모듈에서는 개별적인 쿼리의 성능을 분석하고 개선할 수 있는 부분을 결정하는 방법에 대해 자세히 학습합니다.
+  #### <a name="lessons"></a>단원
+  - SQL Server 쿼리 계획 이해
+  - 성능 기반 데이터베이스 디자인 살펴보기
+  - 성능 개선 평가
+
+  #### <a name="lab-58-query-performance-troubleshooting"></a>랩: 쿼리 성능 문제 해결
+  - 데이터베이스 디자인 AdventureWorks2017의 문제 식별
+  - AdventureWorks2017에서 성능이 낮은 쿼리의 문제 영역 격리
+  - AdventureWorks2017에서 쿼리 저장소를 사용하여 회귀 감지 및 처리
+  - 쿼리 힌트를 사용하여 AdventureWorks2017의 성능에 영향 미치기
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+  - 쿼리 계획 분석 및 문제 영역 식별
+  - 잠재적인 쿼리 개선 사항 평가
+  - 테이블 및 인덱스 디자인 검토
+  - 쿼리 또는 디자인 변경 사항이 긍정적인 영향을 미쳤는지 확인
+
+
+  ### <a name="module-658-automation-of-tasks"></a>모듈 6: 작업 자동화
+  많은 환경에서 데이터베이스 관리자의 공통 목표는 반복 작업을 최대한 자동화하는 것입니다. 이 자동화는 스크립팅을 사용하여 백업 프로세스를 자동화하는 것만큼 간단할 수 있고 완전히 자동화된 경고 시스템을 구축하는 것만큼 복잡할 수 있습니다. 본 모듈에서는 작업을 자동화하여 DBA 작업을 단순화하기 위한 세부 사항을 학습합니다. 방법에는 정기적인 유지 관리 작업을 위한 작업 예약과 작업의 성공 또는 실패 또는 비완료에 대한 다중 인스턴스 관리 및 알림 구성을 포함합니다.
+  #### <a name="lessons"></a>단원
+  - 자동 배포 설정
+  - 예약형 작업 정의
+  - 확장된 이벤트 구성
+  - 자동화된 방법을 사용하여 Azure PaaS 리소스 관리
+
+  #### <a name="lab-58-automating-tasks"></a>랩: 작업 자동화
+  - 빠른 시작 템플릿의 Azure 템플릿을 GitHub에 배포
+  - 성능 메트릭을 바탕으로 알림 구성
+  - Azure Automation Runbook(또는 탄력적 작업)을 배포하여 Azure SQL Database에서 인덱스 다시 빌드 
+
+  본 모듈을 완료하면 학생들은 다음을 할 수 있습니다:
+  - 자동화된 배포 스크립트를 사용하여 리소스 배포
+  - 예약형 작업 만들기
+  - 알림 및 경고 만들기
+  - PaaS 서비스를 위한 자동화 구성
+
+
+  ### <a name="module-758-plan-and-implement-a-high-availability-and-disaster-recovery-environment"></a>모듈 7: 고가용성 및 재해 복구 환경 계획 및 구현
+  데이터는 기업이 필요로 할 때 사용할 수 있어야 합니다. 즉, 데이터를 호스팅하는 솔루션은 가용성과 복구 가능성을 염두에 두고 설계해야 합니다. 여러분이 매점과 온라인에서 위젯을 판매하는 회사에서 근무한다고 가정해 봅니다. 여러분이 사용하는 기본 애플리케이션은 거래량이 많은 데이터베이스를 주문에 사용합니다. 거래 데이터베이스를 호스팅하는 서버 또는 플랫폼에 문제가 발생하여 데이터베이스를 사용할 수 없거나 어떤 이유로 액세스할 수 없게 되면 어떻게 될까요? 비즈니스에 어떤 영향을 미칠까요? 이때 적절한 솔루션을 구성하면 최소한의 노력으로 데이터베이스가 합리적인 시간 내에 온라인 상태로 전환되므로 비즈니스에 거의 영향을 미치지 않고 계속 진행할 수 있습니다. 본 모듈 및 관련 랩에서는 Infrastructure-as-a-Service (IaaS) 및 Platform-as-a-Service (PaaS) 배포를 위해 Azure에서 HADR(고가용성 및 재해 복구) 솔루션을 구성하고 테스트하며 관리하는 방법에 대해 다룹니다. 본 모듈은 HADR을 달성하기 위한 기본 요구사항뿐만 아니라 사용할 수 있는 다양한 옵션도 다룹니다.
+  #### <a name="lessons"></a>단원
+  - 고가용성 및 재해 복구 전략
+  - HADR을 위한 IaaS 플랫폼 및 데이터베이스 도구
+  - HADR을 위한 PaaS 플랫폼 및 데이터베이스 도구
+  - 데이터베이스 백업 및 복구
+
+  #### <a name="lab-58-plan-and-implement-a-high-availability-and-disaster-recovery-environment"></a>랩: 고가용성 및 재해 복구 환경 계획 및 구현
+  - Always On 가용성 그룹 만들기
+  - Azure SQL Database에 대한 지역 복제 사용 설정
+  - URL에 백업 및 URL에서 복원
+
+  본 모듈을 완료하면 학생들은 다음을 이해할 수 있습니다:
+  - 복구 시간 및 복구 지점 목표 간 차이점
+  - IaaS 및 PaaS 모두에서 사용 가능한 HADR 옵션
+  - 백업 및 복원 방법을 포함한 HADR 솔루션 계획 및 구성을 위한 고려 사항
+  - HADR 전략을 구성하는 요인
+  - 실습 랩을 통해 고가용성 솔루션을 구성하는 방법

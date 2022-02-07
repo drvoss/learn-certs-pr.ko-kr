@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 02/29/2020
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 186dabf51008c8a4e35a5dc235b69d35c1cca591
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "132112490"
 ---
 # <a name="about-online-exams-with-pearson-vue"></a>Pearson VUE 온라인 시험에 대하여
 
@@ -23,7 +17,7 @@ ms.locfileid: "132112490"
 Pearson VUE는 시험을 제공하는 Microsoft의 협력사입니다. 집이나 사무실에서 편안하게 OnVUE 온라인 제공을 통해 여러 Microsoft 인증 시험에 응시할 수 있습니다. 온라인 감독 시험 제공은 감독관이 웹캠과 마이크를 통해 시험 환경을 모니터링하도록 하여 시험 결과의 무결성을 유지합니다.
 <br/><br/>
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4IFBp]
 
 ## <a name="participating-countriesregions-and-supported-languages"></a>참여 국가/지역 및 지원 언어
 
@@ -155,7 +149,7 @@ Pearson VUE는 시험을 제공하는 Microsoft의 협력사입니다. 집이나
 
 ### <a name="software-and-permissions"></a>소프트웨어 및 사용 권한
 
-- 사용 중인 컴퓨터에 로그인한 사용자 계정에는 로컬 관리 권한이 있어야 합니다. 관리 권한 활성화에 대한 도움말은 [Windows](https://support.microsoft.com/en-us/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563) 및 [Mac](https://support.apple.com/en-lk/guide/mac-help/mtusr001/mac) 문서를 참조하세요.
+- 사용 중인 컴퓨터에 로그인한 사용자 계정에는 로컬 관리 권한이 있어야 합니다. 관리 권한 활성화에 대한 도움말은 [Windows](https://support.microsoft.com/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563) 및 [Mac](https://support.apple.com/en-lk/guide/mac-help/mtusr001/mac) 문서를 참조하세요.
 - 업무용 컴퓨터에는 종종 OnVUE 소프트웨어 실행을 방해하는 소프트웨어가 설치되어 있으므로 가능한 경우 업무용 컴퓨터가 아닌 개인용 컴퓨터에서 테스트하세요.
 - OnVUE 보안 브라우저 실행 파일에 대한 예외를 만들려면 인터넷 보안 및 바이러스 방지 소프트웨어를 구성해야 할 수 있습니다.
 - 일부 안티 바이러스 소프트웨어는 성능 저하를 야기할 수 있습니다. 시험을 치르는 동안 바이러스 백신 검사를 비활성화하는 것이 좋습니다.
@@ -268,4 +262,4 @@ Pearson VUE는 시험을 제공하는 Microsoft의 협력사입니다. 집이나
 
 ## <a name="remove-proctor-software"></a>감독 소프트웨어 제거
 
-시험이 종료되면 **Pearson VUE 보안 브라우저** 를 포함한 모든 실행 파일 및 보조 파일을 제거해야 합니다. Pearson VUE 보안 브라우저를 제거하려면 표준 애플리케이션 [Windows용 제거 프로세스](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) 또는 [Mac용 제거 프로세스](https://support.apple.com/en-us/HT202235)를 따르세요.
+시험이 종료되면 **Pearson VUE 보안 브라우저** 를 포함한 모든 실행 파일 및 보조 파일을 제거해야 합니다. Pearson VUE 보안 브라우저를 제거하려면 표준 애플리케이션 [Windows용 제거 프로세스](https://support.microsoft.com/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) 또는 [Mac용 제거 프로세스](https://support.apple.com/HT202235)를 따르세요.
