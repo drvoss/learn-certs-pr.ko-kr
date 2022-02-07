@@ -1,67 +1,54 @@
 ### YamlMime:Examination
-title: Windows 장치 구성 (파일럿)
+title: Configuring Windows Devices (pilot)
 metadata:
-  title: '시험 70-797: Windows 장치 구성 (파일럿)'
-  description: '시험 70-797: Windows 장치 구성 (파일럿)'
-  ms.openlocfilehash: 5f4af71a9103e8280552092daf3b2948afa78100
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658436"
+  title: '시험 70-797: Windows 디바이스 구성(파일럿)'
+  description: '시험 70-797: Windows 디바이스 구성(파일럿)'
 uid: exam.70-797
 displayName: 70-797
-summary: >-
+summary: |-
   > [!IMPORTANT]
+  > 이 시험은 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
-  > 이 시험은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
+  이 시험에서는 응시자가 회사 포털과 Windows 스토어를 사용한 안전한 ID 작성, 콘텐츠 보호(데이터 손실 방지), 모바일 장치 관리 정책, Hyper-V를 통한 가상화, 응용 프로그램 관리와 관련된 필수 지식과 기술을 갖추고 있는지 검증합니다. 응시자는 Windows 10 보안과 통합된 Azure 기능에 대한 평가를 받게 됩니다.
 
+  실무 경험 이외에 이 시험의 응시자는 다음 기술적 지식을 갖추어야 합니다:
 
-  이 시험은 견고한 id 작성, 콘텐츠 보호 (데이터 손실 방지), 모바일 장치 관리 정책, hyper-v를 사용한 가상화, 회사 포털 및 Windows 저장소를 사용 하는 응용 프로그램 관리에 대 한 후보의 기본 지식과 기술의 유효성을 검사 합니다. 후보는 Windows 10 보안 및 통합 Azure 기능에 대해 평가 됩니다.
+  - Windows 데스크톱 관리, 유지 관리 및 문제 해결에 대한 경험
+  - Windows 네트워킹 기술에 대한 기본적인 경험과 이해
+  - 액티브 디렉터리 및 Microsoft Intune에 대한 기초 수준의 지식
 
-
-  이 시험을 사용 하는 후보자는 전문 환경 뿐만 아니라 다음과 같은 기술 지식이 이미&#58;
-
-
-  - Windows 데스크톱 관리, 유지 관리 및 문제 해결을 위한 경험
-
-  - Windows 네트워킹 기술에 대 한 기본적인 환경 및 이해
-
-  - Active Directory 및 Microsoft Intune에 대 한 소개 수준 지식
-
-
-  후보자는이 시험을 사용 하 여 Windows 장치 지원 기술 지원팀 또는 Windows 장치 시스템 관리자로 서 실용적인 경험을 통해 동일한 지식과 기술을 통해 필수 구성 요소를 충족할 수 있습니다.
-subTitle: 이 시험은 견고한 id 작성, 콘텐츠 보호 (데이터 손실 방지), 모바일 장치 관리 정책, hyper-v를 사용한 가상화, 회사 포털 및 Windows 저장소를 사용 하는 응용 프로그램 관리에 대 한 후보의 기본 지식과 기술의 유효성을 검사 합니다. 후보는 Windows 10 보안 및 통합 Azure 기능에 대해 평가 됩니다.
+  응시자는 Windows 장치 지원 기술자 또는 Windows 장치 시스템 관리자로서의 실무 경험을 통해 동등한 지식과 기술을 확보함으로써 이 시험에 응시하고 필수 구성 요소를 충족할 수 있습니다.
+subTitle: '이 시험에서는 응시자가 회사 포털과 Windows 스토어를 사용한 안전한 ID 작성, 콘텐츠 보호(데이터 손실 방지), 모바일 장치 관리 정책, Hyper-V를 통한 가상화, 응용 프로그램 관리와 관련된 필수 지식과 기술을 갖추고 있는지 검증합니다. 응시자는 Windows 10 보안과 통합된 Azure 기능에 대한 평가를 받게 됩니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT'
 locales:
-- en
+  - en
 levels:
-- beginner
+  - beginner
 skills:
-- Manage identity (13%)
-- Plan desktop and device deployment (13%)
-- Plan and implement a Microsoft Intune device management solution (11%)
-- Configure networking (11%)
-- Configure storage (10%)
-- Manage data access and protection (11%)
-- Manage remote access (10%)
-- Manage apps (11%)
-- Manage updates and recovery (10%)
+  - Manage identity (13%)
+  - Plan desktop and device deployment (13%)
+  - Plan and implement a Microsoft Intune device management solution (11%)
+  - Configure networking (11%)
+  - Configure storage (10%)
+  - Manage data access and protection (11%)
+  - Manage remote access (10%)
+  - Manage apps (11%)
+  - Manage updates and recovery (10%)
 roles:
-- administrator
+  - administrator
 products:
-- windows
+  - windows
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

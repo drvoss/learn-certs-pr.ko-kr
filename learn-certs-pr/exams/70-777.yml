@@ -3,56 +3,46 @@ title: Implementing Microsoft Azure Cosmos DB Solutions
 metadata:
   title: '시험 70-777: Microsoft Azure Cosmos DB 솔루션 구현'
   description: '시험 70-777: Microsoft Azure Cosmos DB 솔루션 구현'
-  ms.openlocfilehash: 17759318f6a06efdbed0b6ef31f17d1216103434
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659250"
 uid: exam.70-777
 displayName: 70-777
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
+  본 시험은 Azure Cosmos DB를 활용하는 개발자 및 설계자를 대상으로 실시됩니다. 응시자는 Cosmos DB API 독립적인 확장 가능한 애플리케이션을 구축하고 구성하기 위한 파티셔닝, 복제 및 자원 관리의 기본 개념을 이해해야 합니다. 또한, 응시자는 Cosmos DB SQL API에 대한 기본적인 지식도 가지고 있어야 합니다.
 
-  이 시험의 후보는 Azure Cosmos DB를 활용하는 개발자 및 설계자입니다. 후보는 Cosmos DB API와 관련이 없는 확장성 있는 애플리케이션을 빌드하고 구성하기 위한 분할, 복제 및 리소스 거버넌스의 기본 개념을 이해해야 합니다. 또한 후보는 Cosmos DB SQL API에 대한 기본적인 실무 지식이 있어야 합니다.
-
-
-  이 시험의 후보는 비즈니스 및 기술 요구 사항을 충족하는 Cosmos DB 솔루션을 설계, 빌드 및 문제 해결합니다.
-subTitle: 이 시험의 후보는 Azure Cosmos DB를 활용하는 개발자 및 설계자입니다. 후보는 Cosmos DB API와 관련이 없는 확장성 있는 애플리케이션을 빌드하고 구성하기 위한 분할, 복제 및 리소스 거버넌스의 기본 개념을 이해해야 합니다. 또한 후보는 Cosmos DB SQL API에 대한 기본적인 실무 지식이 있어야 합니다.
+  본 시험의 응시자에게는 비즈니스 및 기술적 요구 사항을 충족하는 Cosmos DB 솔루션을 설계, 구축하는 능력과 문제 해결 능력이 요구됩니다.
+subTitle: '본 시험은 Azure Cosmos DB를 활용하는 개발자 및 설계자를 대상으로 실시됩니다. 응시자는 Cosmos DB API 독립적인 확장 가능한 애플리케이션을 구축하고 구성하기 위한 파티셔닝, 복제 및 자원 관리의 기본 개념을 이해해야 합니다. 또한, 응시자는 Cosmos DB SQL API에 대한 기본적인 지식도 가지고 있어야 합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS'
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 skills:
-- Partition and Model Data
-- Replicate Data Across the World
-- Tune and Debug Azure Cosmos DB Solutions
-- Perform Integration and Develop Solutions
+  - Partition and Model Data
+  - Replicate Data Across the World
+  - Tune and Debug Azure Cosmos DB Solutions
+  - Perform Integration and Develop Solutions
 retirementDate: 01/31/2021
 roles:
-- data-analyst
+  - data-analyst
 products:
-- sql-server
+  - sql-server
 relatedCertifications:
-- related:
-    uid: certification.mcse-data-management-analytics
+  - related:
+      uid: certification.mcse-data-management-analytics
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

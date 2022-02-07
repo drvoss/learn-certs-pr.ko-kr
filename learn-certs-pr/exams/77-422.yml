@@ -1,61 +1,59 @@
 ### YamlMime:Examination
-title: Microsoft PowerPoint 2013
+title: Microsoft  PowerPoint  2013
 metadata:
-  title: 'Exam 77-422: Microsoft PowerPoint 2013'
-  description: 'Exam 77-422: Microsoft PowerPoint 2013'
+  title: '시험 77-422: Microsoft PowerPoint 2013'
+  description: '시험 77-422: Microsoft PowerPoint 2013'
 uid: exam.77-422
 displayName: 77-422
-summary: |-
-  Microsoft Office Specialist (MOS) PowerPoint 2013 시험의 응시자는 PowerPoint 환경에 대한 철저한 이해는 물론 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 응시자는 프레젠테이션 작성 및 관리, 도형 및 슬라이드 삽입 및 서식 지정, 슬라이드 내용 작성, 슬라이드 전환 및 애니메이션 적용, 다수 프레젠테이션 관리를 할 수 있습니다.
-subTitle: 'Microsoft Office Specialist (MOS) PowerPoint 2013 시험의 응시자는 PowerPoint 환경에 대한 철저한 이해는 물론 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다.'
+summary: 'MOS(Microsoft Office 전문가) PowerPoint 2013 시험 후보자는 PowerPoint 환경과 독립적으로 작업을 완료할 수 있는 능력에 대한 근본적인 이해가 있어야 합니다. 후보자는 프레젠테이션을 만들고 관리하고, 도형과 슬라이드를 삽입 및 서식 지정하고, 슬라이드 콘텐츠를 만들고, 전환 및 애니메이션을 적용하고, 여러 프레젠테이션을 관리할 수 있습니다.'
+subTitle: MOS(Microsoft Office 전문가) PowerPoint 2013 시험 후보자는 PowerPoint 환경과 독립적으로 작업을 완료할 수 있는 능력에 대한 근본적인 이해가 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://www.certiport.com/locator
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb'
+scheduleExamUrl: 'https://www.certiport.com/locator'
 locales:
-- en
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- it
-- ja
-- ko
-- nb
-- nl
-- pl
-- pt-br
-- ru
-- ar-sa
-- vi-vn
+  - en
+  - zh-cn
+  - zh-tw
+  - de
+  - es
+  - fr
+  - it
+  - ja
+  - ko
+  - nb
+  - nl
+  - pl
+  - pt-br
+  - ru
+  - ar-sa
+  - vi-vn
 levels:
-- beginner
+  - beginner
 skills:
-- 프레젠테이션 만들기 및 관리
-- 도형 및 슬라이드 삽입 및 서식 지정
-- 슬라이드 내용 생성
-- 전환 및 애니메이션 적용
-- 다수 프레젠테이션 관리
+  - Create and manage presentations
+  - Insert and format shapes and slides
+  - Create slide content
+  - Apply transitions and animations
+  - Manage multiple presentations
 roles:
-- business-user
+  - business-user
 products:
-- office-powerpoint
+  - office-powerpoint
 relatedCertifications:
-- related:
-    uid: certification.mos-powerpoint-2013
-- related:
-    uid: certification.microsoft-office-specialist-master-certification-2013
+  - related:
+      uid: certification.mos-powerpoint-2013
+  - related:
+      uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: 시험 재응시
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
-
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

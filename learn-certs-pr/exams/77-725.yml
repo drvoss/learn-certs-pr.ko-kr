@@ -1,67 +1,66 @@
 ### YamlMime:Examination
-title: 'Word 2016: Core Document Creation, Collaboration, and Communication'
+title: 'Word 2016: 핵심 문서 만들기, 협업 및 통신'
 metadata:
-  title: 'Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication'
-  description: 'Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication'
+  title: '시험 77-725: Word 2016: 핵심 문서 만들기, 협업 및 커뮤니케이션'
+  description: '시험 77-725: Word 2016: 핵심 문서 만들기, 협업 및 커뮤니케이션'
 uid: exam.77-725
 displayName: 77-725
 summary: |
-  Word 2016 시험의 주요 응시자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다.
+  Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다.
 
-  Microsoft Office Specialist (MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+  Microsoft Office Specialist (MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다.
   - MOS 2016 시험 작업 지침에는 일반적으로 이전 버전과 마찬가지로 명령어 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 프로그램 기능의 목적과 일반적인 사용법을 이해하고 있어야 합니다.
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
-subTitle: Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다.
+subTitle: 'Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI'
 providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: certiport
+    examUrl: 'http://www.certiport.com/locator'
 locales:
-- en
-- ar-sa
-- bg-bg
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- it
-- ja
-- ko
-- nl
-- pl
-- pt-br
-- ro
-- ru
-- th
-- tr
+  - en
+  - ar-sa
+  - bg-bg
+  - zh-cn
+  - zh-tw
+  - de
+  - es
+  - fr
+  - it
+  - ja
+  - ko
+  - nl
+  - pl
+  - pt-br
+  - ro
+  - ru
+  - th
+  - tr
 levels:
-- intermediate
+  - intermediate
 skills:
-- 문서 생성 및 관리 (25-30%)
-- 텍스트, 문단 섹션 설정 (25-30%)
-- 표와 목록 만들기 (20-25%)
-- 참조 만들기 및 관리 (5-10%)
-- 그래픽 요소 삽입 및 설정 (20-25%)
+  - Create and manage documents (25-30%)
+  - 'Format text, paragraphs, and sections (25-30%)'
+  - Create tables and lists (20-25%)
+  - Create and manage references (5-10%)
+  - Insert and format graphic elements (20-25%)
 roles:
-- business-user
+  - business-user
 products:
-- office-word
+  - office-word
 relatedCertifications:
-- related:
-    uid: certification.mos-word-2016
+  - related:
+      uid: certification.mos-word-2016
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
-
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

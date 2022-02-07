@@ -1,50 +1,42 @@
 ### YamlMime:Examination
-title: 액세스 2010
+title: Access 2010
 metadata:
-  title: '시험 77-885: 액세스 2010'
-  description: '시험 77-885: 액세스 2010'
-  ms.openlocfilehash: f1e5822f5b0a01ef8181d675ce6c6d891fbf98ef
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659239"
+  title: '시험 77-885: Access 2010'
+  description: '시험 77-885: Access 2010'
 uid: exam.77-885
 displayName: 77-885
-summary: >-
+summary: |-
   > [!IMPORTANT]
+  > 이 시험은 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요.
 
-  > 이 시험은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요.
-
-
-  시험에 대 한 일반적인 후보는 basic Access 데이터베이스를 만들거나 유지 관리 해야 하는 사용자 지원 전문가, 강사, 교사, 교수, 데이터베이스 사용자 또는 데이터베이스 작성자로 작동 합니다. 사용자는 테이블, 쿼리, 폼 및 보고서를 포함 하 여 기본 데이터베이스 개체의 기능을 만들고 수정 하 고 확장할 수 있습니다. 또한 사용자는 데이터베이스 엔터티 간의 기본 관계를 생성 및 수정할 수 있으며, 다른 사용자에 게 기본 액세스 기능 및 사용을 지시할 수 있습니다. 액세스 2010 사용자는 일반적으로 개체를 만들고, 수정 하 고, 개인 설정 하는 데 효과적입니다. 이 후보는 데이터베이스 프로젝트에 대해 독립적으로 작업할 수 있으며 데이터베이스에 대 한 다른 사용자의 질문에 대답할 수 있습니다. 후보는 간단한 Access 데이터베이스를 만들거나 수정 하 고 템플릿을 사용 하 여 기본 개체를 만드는 방법을 알고 있어야 합니다.
-subTitle: 시험에 대 한 일반적인 후보는 basic Access 데이터베이스를 만들거나 유지 관리 해야 하는 사용자 지원 전문가, 강사, 교사, 교수, 데이터베이스 사용자 또는 데이터베이스 작성자로 작동 합니다. 사용자는 테이블, 쿼리, 폼 및 보고서를 포함 하 여 기본 데이터베이스 개체의 기능을 만들고 수정 하 고 확장할 수 있습니다. 또한 사용자는 데이터베이스 엔터티 간의 기본 관계를 생성 및 수정할 수 있으며, 다른 사용자에 게 기본 액세스 기능 및 사용을 지시할 수 있습니다. 액세스 2010 사용자는 일반적으로 개체를 만들고, 수정 하 고, 개인 설정 하는 데 효과적입니다. 이 후보는 데이터베이스 프로젝트에 대해 독립적으로 작업할 수 있으며 데이터베이스에 대 한 다른 사용자의 질문에 대답할 수 있습니다. 후보는 간단한 Access 데이터베이스를 만들거나 수정 하 고 템플릿을 사용 하 여 기본 개체를 만드는 방법을 알고 있어야 합니다.
+  이 시험의 일반적인 응시자는 기본 Access 데이터베이스를 작성하거나 유지해야 하는 사용자 지원 전문가, 강사, 교사, 교수, 데이터베이스 사용자 또는 데이터베이스 작성자입니다. 사용자는 테이블, 쿼리, 양식 및 보고서를 비롯한 기본 데이터베이스 개체의 기능을 만들고 수정하고 확장할 수 있습니다. 또한 사용자는 데이터베이스 실체 간의 기본 관계를 구성하고 수정할 수 있으며 기본 Access 기능 및 사용법에 대해 다른 사람들을 지도할 수 있습니다. Access 2010 사용자는 일반적으로 효과적으로 개체를 만들고 수정하고 사용자 지정합니다. 응시자는 데이터베이스 프로젝트에서 독립적으로 작업할 수 있으며 데이터베이스에 관해 다른 사람들로부터 질문에 자주 대답할 수 있어야 합니다. 응시자는 간단한 Access 데이터베이스를 생성하거나 수정하고 템플릿을 사용하여 기본 개체를 만드는 방법을 알고 있어야 합니다.
+subTitle: '이 시험의 일반적인 응시자는 기본 Access 데이터베이스를 작성하거나 유지해야 하는 사용자 지원 전문가, 강사, 교사, 교수, 데이터베이스 사용자 또는 데이터베이스 작성자입니다. 사용자는 테이블, 쿼리, 양식 및 보고서를 비롯한 기본 데이터베이스 개체의 기능을 만들고 수정하고 확장할 수 있습니다. 또한 사용자는 데이터베이스 실체 간의 기본 관계를 구성하고 수정할 수 있으며 기본 Access 기능 및 사용법에 대해 다른 사람들을 지도할 수 있습니다. Access 2010 사용자는 일반적으로 효과적으로 개체를 만들고 수정하고 사용자 지정합니다. 응시자는 데이터베이스 프로젝트에서 독립적으로 작업할 수 있으며 데이터베이스에 관해 다른 사람들로부터 질문에 자주 대답할 수 있어야 합니다. 응시자는 간단한 Access 데이터베이스를 생성하거나 수정하고 템플릿을 사용하여 기본 개체를 만드는 방법을 알고 있어야 합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl'
 locales:
-- en
+  - en
 levels:
-- beginner
+  - beginner
 skills:
-- Manage the Access environment
-- Build tables
-- Build forms
-- Create and manage queries
-- Design reports
+  - Manage the Access environment
+  - Build tables
+  - Build forms
+  - Create and manage queries
+  - Design reports
 roles:
-- business-user
+  - business-user
 products:
-- office-access
+  - office-access
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

@@ -1,78 +1,67 @@
 ### YamlMime:Examination
 title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'AI-100 시험: Azure AI 솔루션 디자인 및 구현'
-  description: 'AI-100 시험: Azure AI 솔루션 디자인 및 구현'
-  ms.openlocfilehash: d04d3db332912c6f80add728ac293ec35c02ba33
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656148"
+  title: '시험 AI-100: Azure AI 솔루션 디자인 및 구현'
+  description: '시험 AI-100: Azure AI 솔루션 디자인 및 구현'
 uid: exam.ai-100
 displayName: AI-100
-summary: >-
+summary: |-
   > [!IMPORTANT]
+  > 이 시험은 2021년 6월 30일에 사용 중지되었습니다. 대체 시험인 AI-102를 응시할 수 있습니다. 자세한 내용은 [AI-102](/learn/certifications/exams/ai-102) 시험 세부 정보 페이지를 참조하세요.
 
-  > 이 시험은 2021년 6월 30일에 사용 중지되었습니다. 교체 시험인 AI-102를 사용할 수 있습니다. 자세한 내용은 [AI-102](/learn/certifications/exams/ai-102) 시험 세부 정보 페이지를 방문하세요.
+  본 시험의 응시자는 인지 서비스, 머신 러닝, 지식 마이닝 등을 활용하여 자연어 처리, 음성, 컴퓨터 비전, 대화형 인공 지능 등의 Microsoft AI 솔루션을 설계하고 구현하기 위한 과목별 전문지식을 소유해야 합니다.
 
+  Azure AI Engineer는 AI 솔루션 요구사항을 분석하여 적절한 도구 및 기술을 추천하고 확장성 및 성능 요구사항을 충족하기 위한 AI 솔루션을 설계하고 구현할 책임이 있습니다.
 
-  이 시험의 후보는 인지 서비스, 기계 학습 및 지식 마이닝으로 자연어 처리, 음성, 컴퓨터 비전 및 대화형 AI와 관련된 Microsoft AI 솔루션을 설계하고 구현하는 주제별 전문 지식이 있어야 합니다.
+  Azure AI Engineer는 솔루션 설계자의 비전을 번역하고 데이터 과학자, 데이터 엔지니어, IoT 전문가 및 소프트웨어 개발자와 협력하여 완벽한 엔드투엔드 솔루션을 구성합니다.
 
-
-  Azure AI 엔지니어의 책임에는 AI 솔루션에 대한 요구 사항 분석, 적절한 도구 및 기술 추천, 확장성 및 성능 요구 사항을 충족하는 AI 솔루션 설계 및 구현이 포함됩니다.
-
-
-  Azure AI 엔지니어는 솔루션 설계자의 비전을 변환하고 데이터 과학자, 데이터 엔지니어, IoT 전문가 및 소프트웨어 개발자와 협력하여 완전한 엔드투엔드 솔루션을 빌드합니다.
-
-
-  이 시험의 후보에게는 Azure에서 Microsoft Azure Cognitive Services, Azure Bot Service, Azure Cognitive Search 및 데이터 스토리지를 사용하는 AI 앱 및 에이전트를 디자인하고 구현하는 지식과 경험이 있어야 합니다. 또한 후보는 오픈 소스 기술을 사용하는 솔루션을 추천하고, Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 스토리지 옵션을 이해하고, 특정 요구 사항을 충족하기 위해 사용자 지정 API를 개발해야 하는 경우를 이해할 수 있어야 합니다.
-subTitle: 이 시험에서는 솔루션 요구 사항 분석과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 디자인 솔루션; AI 모델을 솔루션에 통합 솔루션을 배포 및 관리합니다.
+  본 시험의 응시자는 Microsoft Azure Cognition Services, Azure Bot Service, Azure Cognition Search 및 Azure의 데이터 스토리지를 사용하는 AI 앱 및 에이전트를 설계하고 구현할 수 있는 지식과 경험이 있어야 합니다. 응시자는 또한 오픈 소스 기술을 사용하는 솔루션을 추천하고, Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 스토리지 옵션을 이해하고, 특정한 요구 사항을 충족하기 위한 맞춤형 API를 개발해야 할 시기를 이해할 수 있어야 합니다.
+subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 솔루션 요구 사항 분석, 솔루션 디자인, AI 모델을 솔루션에 통합, 솔루션 배포 및 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C'
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
+  - ja
+  - zh-cn
+  - ko
 levels:
-- intermediate
+  - intermediate
 skills:
-- Analyze solution requirements (25-30%)
-- Design AI solutions (40-45%)
-- Implement and monitor AI solutions (25-30%)
+  - Analyze solution requirements (25-30%)
+  - Design AI solutions (40-45%)
+  - Implement and monitor AI solutions (25-30%)
 retirementDate: 06/30/2021
 roles:
-- ai-engineer
+  - ai-engineer
 products:
-- azure
-- azure-cognitive-services
-- azure-bot-service
-- azure-machine-learning
-- azure-machine-learning-studio
-- azure-search
+  - azure
+  - azure-cognitive-services
+  - azure-bot-service
+  - azure-machine-learning
+  - azure-machine-learning-studio
+  - azure-search
 resources:
-- title: 인증으로의 여정
-  description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 인증으로의 여정
+    description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

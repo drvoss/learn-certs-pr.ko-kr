@@ -1,72 +1,61 @@
 ### YamlMime:Examination
 title: Managing Microsoft SharePoint Server 2016
 metadata:
-  title: '시험 70-339: 2016년 Microsoft SharePoint Server 관리'
-  description: '시험 70-339: 2016년 Microsoft SharePoint Server 관리'
-  ms.openlocfilehash: 634bfb3819d1f10da42c3ff3a8f501feebf76eba
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659019"
+  title: '시험 70-339: Microsoft SharePoint Server 2016 관리'
+  description: '시험 70-339: Microsoft SharePoint Server 2016 관리'
 uid: exam.70-339
 displayName: 70-339
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
+  본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016을 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 응시자는 SharePoint 및 SharePoint가 의존하는 기타 핵심 기술(Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스), SQL Server 2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스)을 계획하고 유지 관리한 4년 이상의 실무 경력을 갖고 있습니다.
 
-  이 검사는 데이터 센터 및 클라우드에서 SharePoint 2016 설치를 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 후보는 Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스) SQL Server 포함하여 SharePoint 의존하는 SharePoint 및 기타 핵심 기술을 계획하고 유지 관리하는 데 4년 이상의 경험이 있습니다.  2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스.
+  또한 응시자는 인증 및 보안 기술에 대한 경험 외에 데이터 백업, 복원 및 고가용성을 포함한 비즈니스 연속성 관리에 대한 경험을 갖고 있어야 합니다. PowerShell 경험이 있으면 더욱 좋습니다.
 
-
-  또한 후보는 인증 및 보안 기술에 대한 경험 외에도 데이터 백업, 복원 및 고가용성을 포함한 비즈니스 연속성 관리에 대한 경험이 있어야 합니다. PowerShell 환경이 매우 선호됩니다.
-
-
-  이 시험의 보조 대상은 SHAREPOINT 2016에서 작업하는 내부 비즈니스 고객과 함께 LOB(LOB) 프로젝트를 관리하는 데 적극적으로 참여하는 BAA(비즈니스 애플리케이션 관리자)입니다.
-subTitle: 이 검사는 데이터 센터 및 클라우드에서 SharePoint 2016 설치를 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 후보는 Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스) SQL Server 포함하여 SharePoint 의존하는 SharePoint 및 기타 핵심 기술을 계획하고 유지 관리하는 데 4년 이상의 경험이 있습니다.  2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스.
+  본 시험의 2차 대상은 SharePoint 2016을 사용하는 내부 비즈니스 고객과 함께 LOB(기간 업무) 프로젝트를 관리하는 데 적극적으로 참여하고 있는 BAA(비즈니스 응용 프로그램 관리자)입니다.
+subTitle: '본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016을 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 응시자는 SharePoint 및 SharePoint가 의존하는 기타 핵심 기술(Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스), SQL Server 2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스)을 계획하고 유지 관리한 4년 이상의 실무 경력을 갖고 있습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
-practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh'
+practiceTestUrl: 'https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
 locales:
-- en
-- es
-- zh-cn
-- zh-tw
-- fr
-- de
-- ja
-- pt-br
+  - en
+  - es
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - ja
+  - pt-br
 levels:
-- intermediate
+  - intermediate
 skills:
-- Design SharePoint infrastructure (15–20%)
-- Plan authentication and security (15–20%)
-- Plan workload optimization (15–20%)
-- Plan productivity solutions (15–20%)
-- Manage search capabilities (10–15%)
-- Plan and configure cloud services (5–10%)
-- Monitor and optimize a SharePoint environment (10–15%)
+  - Design SharePoint infrastructure (15–20%)
+  - Plan authentication and security (15–20%)
+  - Plan workload optimization (15–20%)
+  - Plan productivity solutions (15–20%)
+  - Manage search capabilities (10–15%)
+  - Plan and configure cloud services (5–10%)
+  - Monitor and optimize a SharePoint environment (10–15%)
 retirementDate: 01/31/2021
 roles:
-- administrator
+  - administrator
 products:
-- m365
+  - m365
 relatedCertifications:
-- related:
-    uid: certification.mcse-productivity-certification
+  - related:
+      uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

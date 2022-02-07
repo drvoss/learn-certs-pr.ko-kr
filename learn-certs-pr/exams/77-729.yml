@@ -1,69 +1,68 @@
 ### YamlMime:Examination
-title: 'PowerPoint 2016: Core Presentation Design and Delivery Skills'
+title: 'PowerPoint 2016: 핵심 프레젠테이션 디자인 및 전달 기술'
 metadata:
-  title: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
-  description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  title: '시험 77-729: PowerPoint 2016: 핵심 프레젠테이션 디자인 및 전달 기술'
+  description: '시험 77-729: PowerPoint 2016: 핵심 프레젠테이션 디자인 및 전달 기술'
 uid: exam.77-729
 displayName: 77-729
 summary: |
   성공적으로 응시한 대상자는 PowerPoint의 환경에 대한 근본적인 이해를 갖추고 PowerPoint 2016의 적합한 응용 방법을 입증하게 됩니다. 응시자는 프레젠테이션과 슬라이드 쇼를 만들고, 편집하고, 향상시킵니다. 프레젠테이션 예제에는 전문가 급 판매 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다.
 
-  Microsoft Office Specialist (MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+  Microsoft Office Specialist (MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다.
   - MOS 2016 시험 작업 지침에는 일반적으로 이전 버전과 마찬가지로 명령어 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 프로그램 기능의 목적과 일반적인 사용법을 이해하고 있어야 합니다.
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
-subTitle: 성공적으로 응시한 대상자는 PowerPoint의 환경에 대한 근본적인 이해를 갖추고 PowerPoint 2016의 적합한 응용 방법을 입증하게 됩니다. 응시자는 프레젠테이션과 슬라이드 쇼를 만들고, 편집하고, 향상시킵니다. 프레젠테이션 예제에는 전문가 급 판매 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다.
+subTitle: '성공적으로 응시한 대상자는 PowerPoint의 환경에 대한 근본적인 이해를 갖추고 PowerPoint 2016의 적합한 응용 방법을 입증하게 됩니다. 응시자는 프레젠테이션과 슬라이드 쇼를 만들고, 편집하고, 향상시킵니다. 프레젠테이션 예제에는 전문가 급 판매 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr'
 providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: certiport
+    examUrl: 'http://www.certiport.com/locator'
 locales:
-- en
-- ar-sa
-- bg-bg
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- it
-- ja
-- ko
-- nl
-- pl
-- pt-br
-- ro
-- ru
-- th
-- tr
+  - en
+  - ar-sa
+  - bg-bg
+  - zh-cn
+  - zh-tw
+  - de
+  - es
+  - fr
+  - it
+  - ja
+  - ko
+  - nl
+  - pl
+  - pt-br
+  - ro
+  - ru
+  - th
+  - tr
 levels:
-- intermediate
+  - intermediate
 skills:
-- 프레젠테이션 만들기 및 관리 (30-35%)
-- 텍스트, 도형 및 이미지 삽입 및 서식 지정 (20-25%)
-- 표, 차트, SmartArt 및 미디어 삽입 (20-25%)
-- 전환 및 애니메이션 적용 (10-15%)
-- 다수 프레젠테이션 관리 (5-10%)
+  - Create and manage presentations (30-35%)
+  - 'Insert and format text, shapes, and images (20-25%)'
+  - 'Insert tables, charts, SmartArt, and media (20-25%)'
+  - Apply transitions and animations (10-15%)
+  - Manage multiple presentations (5-10%)
 roles:
-- business-user
+  - business-user
 products:
-- office-powerpoint
+  - office-powerpoint
 relatedCertifications:
-- related:
-    uid: certification.mos-powerpoint-2016
-- related:
-    uid: certification.microsoft-office-specialist-master-certification-2016
+  - related:
+      uid: certification.mos-powerpoint-2016
+  - related:
+      uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
-
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

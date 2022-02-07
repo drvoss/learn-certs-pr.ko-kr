@@ -3,71 +3,62 @@ title: Introduction to Programming Using JavaScript
 metadata:
   title: '시험 98-382: JavaScript를 사용한 프로그래밍 소개'
   description: '시험 98-382: JavaScript를 사용한 프로그래밍 소개'
-  ms.openlocfilehash: f76640a4830edd36994884f3ba5da75a67ba16b3
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656016"
 uid: exam.98-382
 displayName: 98-382
-summary: >-
+summary: |-
   > [!WARNING]
-
-  > 이 MTA 시험은 2022 년 6 월 30 일에 사용 중지 됩니다. 이 시험의 무료 증명서 판매는 2021 년 6 월 30 일에 종료 되었습니다. 아래의 "시험 예약" 단추를 사용 하 여 구매한 증명서를 사용 하 고 시험을 예약 합니다. 자세한 내용은 [FAQ](/learn/certifications/mta-retirement-faqs) 를 참조 하세요.
-
+  > 이 MTA 시험은 2022년 6월 30일에 사용 중지됩니다. 이 시험의 바우처 판매는 2021년 6월 30일에 종료되었습니다. 아래의 "시험 예약" 단추를 사용하여 구매한 바우처를 교환하고 시험을 예약합니다. 자세한 내용은 [FAQ](/learn/certifications/mta-retirement-faqs)를 참조하세요.
 
   <br/>
+  이 시험의 응시자는 구문론적으로 올바른 JavaScript 코드를 인식하고 작성하고, JavaScript에서 지원하는 데이터 유형을 사용하며, 주어진 문제를 논리적으로 해결 가능한 JavaScript 코드를 인식하고 작성할 수 있어야 합니다.
 
-  이 시험의 후보는 구문상 올바른 JavaScript 코드를 인식 하 고 작성 하 고, JavaScript에서 지 원하는 데이터 형식을 사용 하 고, 지정 된 문제를 논리적으로 해결 하는 JavaScript 코드를 인식 하 고 작성할 수 있어야 합니다.
-
-
-  후보에는 최소 100 시간 이상의 명령 또는 JavaScript 프로그래밍 언어에 대 한 실습 환경이 있어야 합니다. 또한 JavaScript 기능 및 기능에 대해 잘 알고 있어야 하며 잘 구성 된 잘 설명 된 JavaScript 코드를 작성, 디버그 및 유지 관리 하는 방법을 이해 해야 합니다.
-subTitle: 이 시험의 후보는 구문상 올바른 JavaScript 코드를 인식 하 고 작성 하 고, JavaScript에서 지 원하는 데이터 형식을 사용 하 고, 지정 된 문제를 논리적으로 해결 하는 JavaScript 코드를 인식 하 고 작성할 수 있어야 합니다.
+  <br/>
+  응시자는 JavaScript 프로그래밍 언어로 100시간 이상의 교육을 받았거나 실제 경험이 있어야 합니다. 응시자는 JavaScript의 기능을 숙지하여 올바른 형식을 갖추고 문서화된 JavaScript 코드를 작성, 디버그 및 유지하는 방법을 알아야 합니다.
+subTitle: '이 시험의 응시자는 구문론적으로 올바른 JavaScript 코드를 인식하고 작성하고, JavaScript에서 지원하는 데이터 유형을 사용하며, 주어진 문제를 논리적으로 해결 가능한 JavaScript 코드를 인식하고 작성할 수 있어야 합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb
-practiceTestUrl: https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb'
+practiceTestUrl: 'https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382'
+  - providerType: certiport
+    examUrl: 'http://www.certiport.com/locator'
 locales:
-- en
-- ja
-- zh-tw
-- zh-cn
-- es
-- pt-br
-- fr
-- de
-- ko
+  - en
+  - ja
+  - zh-tw
+  - zh-cn
+  - es
+  - pt-br
+  - fr
+  - de
+  - ko
 levels:
-- beginner
+  - beginner
 skills:
-- Program with JavaScript Operators, Methods, and Keywords (20-25%)
-- Program with Variables, Data Types, and Functions (25-30%)
-- Implement and Analyze Decisions and Loops (20-25%)
-- Interact with the Document Object Model (15-20%)
-- Interact with HTML Forms (5-10%)
+  - 'Program with JavaScript Operators, Methods, and Keywords (20-25%)'
+  - 'Program with Variables, Data Types, and Functions (25-30%)'
+  - Implement and Analyze Decisions and Loops (20-25%)
+  - Interact with the Document Object Model (15-20%)
+  - Interact with HTML Forms (5-10%)
 retirementDate: 06/30/2022
 roles:
-- developer
+  - developer
 products:
-- vs
+  - vs
 relatedCertifications:
-- related:
-    uid: certification.mta-introduction-to-programming-using-javascript
+  - related:
+      uid: certification.mta-introduction-to-programming-using-javascript
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

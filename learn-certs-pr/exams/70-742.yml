@@ -1,72 +1,60 @@
 ### YamlMime:Examination
 title: Identity with Windows Server 2016
 metadata:
-  title: '시험 70-742: Id가 Windows Server 2016 인 Id'
-  description: '시험 70-742: Id가 Windows Server 2016 인 Id'
-  ms.openlocfilehash: a1e5cb9f86e4d1cc11a2ad3a918043d9d4ea7953
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137659129"
+  title: '시험 70-742: Windows Server 2016을 사용한 ID'
+  description: '시험 70-742: Windows Server 2016을 사용한 ID'
 uid: exam.70-742
 displayName: 70-742
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
+  본 시험은 Windows Server 2016의 기능을 사용하여 ID를 관리하는 능력을 측정합니다. 응시자는 AD DS (Active Directory 도메인 서비스)를 설치, 구성, 관리 및 유지 관리하고 GPO(그룹 정책 개체)를 구현하여야 합니다.
 
-  이 시험의 후보는 Windows Server 2016 기능을 사용 하 여 id를 관리 합니다. 후보 Active Directory Domain Services (AD DS)를 설치, 구성, 관리 및 유지 관리 하 고 그룹 정책 개체 (Gpo)를 구현 합니다.
-
-
-  또한 Active Directory 인증서 서비스 (AD CS), Active Directory 페더레이션 서비스 (AD FS), Active Directory Rights Management Services (AD RMS) 및 웹 응용 프로그램 프록시를 구현 하 고 관리 하는 방법을 잘 알고 있어야 합니다.
-
+  또한 응시자는 AD CS (Active Directory 인증서 서비스), AD FS (Active Directory Federations Services), AD RMS (Active Directory 권한 관리 서비스) 및 웹 애플리케이션 프록시 구현 및 관리에 능숙해야 합니다.
 
   > [!IMPORTANT]
-
-  > 2017 년 11 월 3 일에 적용 되는 시험 업데이트는&#58; 합니다. 이러한 변경 내용과 이러한 변경 사항이 측정 된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 742 변경 문서를 다운로드 하 여 검토 하세요.
-subTitle: 이 시험의 후보는 Windows Server 2016 기능을 사용 하 여 id를 관리 합니다. 후보 Active Directory Domain Services (AD DS)를 설치, 구성, 관리 및 유지 관리 하 고 그룹 정책 개체 (Gpo)를 구현 합니다.
+  > 참고: 2017년 11월 3일부터 시험 업데이트가 적용됩니다. 이러한 변경 내용과 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 742 변경 문서를 다운로드하여 검토하세요.
+subTitle: '본 시험은 Windows Server 2016의 기능을 사용하여 ID를 관리하는 능력을 측정합니다. 응시자는 AD DS (Active Directory 도메인 서비스)를 설치, 구성, 관리 및 유지 관리하고 GPO(그룹 정책 개체)를 구현하여야 합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
-practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l'
+practiceTestUrl: 'https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 locales:
-- en
-- es
-- zh-cn
-- zh-tw
-- fr
-- de
-- ja
-- pt-br
+  - en
+  - es
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - ja
+  - pt-br
 levels:
-- intermediate
+  - intermediate
 skills:
-- Install and Configure Active Directory Domain Services (AD DS) (20-25%)
-- Manage and Maintain AD DS (15-20%)
-- Create and Manage Group Policy (25-30%)
-- Implement Active Directory Certificate Services (AD CS) (10-15%)
-- Implement Identity Federation and Access Solutions (15-20%)
+  - Install and Configure Active Directory Domain Services (AD DS) (20-25%)
+  - Manage and Maintain AD DS (15-20%)
+  - Create and Manage Group Policy (25-30%)
+  - Implement Active Directory Certificate Services (AD CS) (10-15%)
+  - Implement Identity Federation and Access Solutions (15-20%)
 retirementDate: 01/31/2021
 roles:
-- administrator
+  - administrator
 products:
-- windows-server
+  - windows-server
 relatedCertifications:
-- related:
-    uid: certification.mcsa-windows-server-2016-certification
+  - related:
+      uid: certification.mcsa-windows-server-2016-certification
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

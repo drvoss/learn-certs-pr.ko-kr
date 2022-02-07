@@ -3,56 +3,47 @@ title: Developing SQL Databases
 metadata:
   title: '시험 70-762: SQL 데이터베이스 개발'
   description: '시험 70-762: SQL 데이터베이스 개발'
-  ms.openlocfilehash: e63f3405b95187c11742c86713020e66317c0f21
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658271"
 uid: exam.70-762
 displayName: 70-762
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
-
-  이 검사는 조직 전체에서 데이터베이스를 빌드 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 파일, 데이터 형식 및 테이블 만들기를 포함합니다. 인덱스 계획, 생성 및 최적화 데이터 무결성 보장 뷰, 저장 프로시저 및 함수 구현 및 트랜잭션 및 잠금 관리
-subTitle: 이 검사는 조직 전체에서 데이터베이스를 빌드 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 파일, 데이터 형식 및 테이블 만들기를 포함합니다. 인덱스 계획, 생성 및 최적화 데이터 무결성 보장 뷰, 저장 프로시저 및 함수 구현 및 트랜잭션 및 잠금 관리
+  본 시험은 조직 내에서 데이터베이스를 작성 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 전문가의 직무 영역에는 데이터베이스 파일, 데이터 형식과 테이블 만들기, 인덱스 계획과 만들기 및 최적화, 데이터 완전성 보장, 뷰, 저장 프로시저와 기능의 구현, 거래와 잠금 관리가 포함됩니다.
+subTitle: '본 시험은 조직 내에서 데이터베이스를 작성 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 전문가의 직무 영역에는 데이터베이스 파일, 데이터 형식과 테이블 만들기, 인덱스 계획과 만들기 및 최적화, 데이터 완전성 보장, 뷰, 저장 프로시저와 기능의 구현, 거래와 잠금 관리가 포함됩니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
-practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU'
+practiceTestUrl: 'https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 skills:
-- Design and implement database objects (25-30%)
-- Implement programmability objects (20-25%)
-- Manage database concurrency (25-30%)
-- Optimize database objects and SQL infrastructure (20-25%)
+  - Design and implement database objects (25-30%)
+  - Implement programmability objects (20-25%)
+  - Manage database concurrency (25-30%)
+  - Optimize database objects and SQL infrastructure (20-25%)
 retirementDate: 01/31/2021
 roles:
-- database-administrator
+  - database-administrator
 products:
-- sql-server
+  - sql-server
 relatedCertifications:
-- related:
-    uid: certification.mcse-data-management-analytics
-- related:
-    uid: certification.mcsa-sql2016-database-development-certification
+  - related:
+      uid: certification.mcse-data-management-analytics
+  - related:
+      uid: certification.mcsa-sql2016-database-development-certification
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

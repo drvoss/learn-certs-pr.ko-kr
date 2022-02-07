@@ -1,730 +1,504 @@
 ### YamlMime:Course
 title: Windows 클라이언트
 metadata:
-  title: '강좌 MD-100t00--A: Windows 클라이언트'
-  description: '강좌 MD-100t00--A: Windows 클라이언트'
-  ms.openlocfilehash: 40af7ab14d3bd4e5ff3c3772445c0ade31de3f40
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "135573132"
+  title: '과정 MD-100T00--A: Windows 클라이언트'
+  description: '과정 MD-100T00--A: Windows 클라이언트'
 uid: course.md-100t00
 courseNumber: MD-100T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Windows 클라이언트 설치 및 사용자 지정
-- skill: Windows에 대한 업데이트 구성.
-- skill: Windows에 대한 디바이스 및 드라이버 구성.
-- skill: Windows에 대한 스토리지 구성.
-- skill: Windows에서 네트워크 및 원격 관리 설정 구성.
-- skill: Windows에서 브라우저 및 애플리케이션 구성 및 관리.
-- skill: 계정 액세스 및 인증 구성.
-- skill: 파일 및 폴더 사용 권한 구성.
-- skill: Windows 클라이언트, 일반적인 위협 및 완화를 위한 메서드를 보호 하는 방법을 설명 합니다.
-- skill: Windows 및 애플리케이션 설치 문제 해결.
-- skill: 하드웨어 및 드라이버 문제 해결.
-- skill: 파일 문제 해결 및 복구 수행.
+  - skill: Windows 클라이언트 설치 및 사용자 지정
+  - skill: Windows에 대한 업데이트 구성.
+  - skill: Windows에 대한 디바이스 및 드라이버 구성.
+  - skill: Windows에 대한 스토리지 구성.
+  - skill: Windows에서 네트워크 및 원격 관리 설정 구성.
+  - skill: Windows에서 브라우저 및 애플리케이션 구성 및 관리.
+  - skill: 계정 액세스 및 인증 구성.
+  - skill: 파일 및 폴더 사용 권한 구성.
+  - skill: 'Windows 클라이언트를 보호하는 방법, 일반적인 위협 및 이를 완화하는 방법을 설명합니다.'
+  - skill: Windows 및 애플리케이션 설치 문제 해결.
+  - skill: 하드웨어 및 드라이버 문제 해결.
+  - skill: 파일 문제 해결 및 복구 수행.
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- beginner
+  - beginner
 roles:
-- administrator
+  - administrator
 products:
-- m365
+  - m365
 exams:
-- uid: exam.md-100
-summary: >-
-  이 과정에서 학생 들은 조직 환경에서 Windows 데스크톱을 지원 하 고 구성 하는 방법을 알아봅니다. 학생 들은 Windows 10 이상의 운영 체제를 설치 하 고, 사용자 지정 하 고, 업데이트 하는 방법을 배울 수 있는 기술을 개발 합니다. 학습자는 저장소, 파일 및 장치를 관리 하는 방법 뿐만 아니라 Windows에 대 한 네트워크 연결을 구성 하는 방법을 알아봅니다. 학생 들은 또한 Windows OS를 보호 하 고 장치에서 데이터를 보호 하는 방법에 대해 알아봅니다. 마지막으로 학생 들은 Windows 클라이언트를 관리 하 고 문제를 해결 하는 방법을 알아봅니다.
-
+  - uid: exam.md-100
+summary: |-
+  이 과정에서 학생들은 조직 환경에서 Windows 데스크톱을 지원하고 구성하는 방법을 학습합니다. 학생들은 Windows 10 이상 운영 체제를 설치, 사용자 지정 및 업데이트하는 방법에 대해 학습하는 것을 포함한 기술을 개발합니다. 스토리지, 파일 및 디바이스를 관리하는 방법과 Windows 대한 네트워크 연결을 구성하는 방법에 대해 학습합니다. 또한 학생들은 Windows OS를 보호하고 디바이스의 데이터를 보호하는 방법에 대해 학습합니다. 마지막으로, 학생들은 Windows 클라이언트를 관리하고 문제를 해결하는 방법을 학습합니다.
 
   #### <a name="audience-profile"></a>대상 그룹 프로필
 
-
-  이 시험의 후보는 Windows 10 이상의 핵심 서비스의 설치, 구성, 일반 로컬 관리 및 유지 관리를 수행 하는 IT 전문가입니다. 응시자는 엔터프라이즈 시나리오 및 클라우드 통합 서비스에 대해서도 잘 알고 있을 수 있습니다.
-prerequisitesSection: >-
+  이 시험의 응시자는 Windows 10 이상의 핵심 서비스의 설치, 구성, 일반 로컬 관리, 유지 관리를 수행하는 IT 전문가입니다. 응시자는 엔터프라이즈 시나리오 및 클라우드 통합 서비스에 대해서도 잘 알고 있을 수 있습니다.
+prerequisitesSection: |-
   *   컴퓨터 네트워크 및 하드웨어 개념에 대한 기본적인 이해.
-
 
   *   OS 및 애플리케이션 개념에 대한 기본적인 이해.
 
-
   *   Windows OS 사용 경험.
-outlineSection: >-
+outlineSection: |-
   ### <a name="module-1-installing-windows"></a>모듈 1: Windows 설치
 
-
-  이 모듈에서는 Windows 클라이언트 OS를 설치 하는 방법에 대해 설명 합니다. 학생 들은 Windows 클라이언트, 요구 사항 및 도입 된 새로운 기능에 대 한 다양 한 버전을 알아봅니다. 이 모듈에서는 OS를 설치하는 방법과 마이그레이션 및 업그레이드 방법에 대해 설명합니다. 학생은 또한 배포 프로세스에 사용되는 일반적인 도구에 대해서도 알아봅니다.
-
+  이 모듈에서는 Windows 클라이언트 OS 설치를 다룹니다. 학생들은 다양한 버전의 Windows 클라이언트, 요구 사항 및 도입된 새로운 기능에 대해 학습합니다. 이 모듈에서는 OS를 설치하는 방법과 마이그레이션 및 업그레이드 방법을 다룹니다 학생들은 또한 배포 프로세스에 사용되는 일반적인 도구에 대해서도 학습합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   Windows 클라이언트 소개
-
 
   *   Windows 클라이언트 버전 및 요구 사항
 
-
   *   설치 방법
 
-
   *   Windows 클라이언트 업그레이드 및 마이그레이션
-
 
   *   배포 방법
 
 
-
   #### <a name="lab--deploying-windows-using-windows-adk-tools"></a>랩: Windows ADK 도구를 사용하여 Windows 배포
 
-
   ####
-
 
   #### <a name="lab--migrating-user-settings-using-usmt"></a>랩: USMT를 사용하여 사용자 설정 마이그레이션
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
+  *   Windows 클라이언트의 다양한 버전 및 기능 이해
 
-  *   Windows 클라이언트의 여러 버전 및 기능 이해
+  *   Windows 클라이언트 설치 옵션을 이해합니다.
 
-
-  *   Windows 클라이언트 설치 옵션을 이해 합니다.
-
-
-  *   Windows 클라이언트를 설치 하는 방법을 연습 합니다.
-
+  *   Windows 클라이언트를 설치하는 방법을 연습합니다.
 
   *   사용자 상태 마이그레이션 도구를 사용하여 콘텐츠 마이그레이션.
 
 
-
   ### <a name="module-2-configuring-authorization-amp-authentication"></a>모듈 2: 인증 및 권한 부여 구성
 
-
-  이 모듈에서는 Windows 클라이언트에 대 한 액세스 권한을 부여 하는 Windows의 도구와 기능을 소개 합니다. 학생 들이 Windows에 로그인 하는 방법에 대해 알아봅니다. 이 모듈에서는 또한 UAC 및 계정 유형과 같은 방법을 통해 사용자가 디바이스에서 할 수 있거나 할 수 없는 작업을 제한하는 방법에 대해 설명합니다.
-
+  이 모듈에서는 Windows 클라이언트에 대한 액세스 권한을 부여하기 위한 Windows 도구와 기능을 소개합니다. 학생들은 사용자가 Windows 로그인하는 방법에 대해 학습합니다. 이 모듈에서는 또한 UAC 및 계정 유형과 같은 방법을 통해 사용자가 디바이스에서 할 수 있거나 할 수 없는 작업을 제한하는 방법도 다룹니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   인증
-
 
   *   사용자 및 그룹 관리
 
-
   *   사용자 계정 컨트롤 구성
-
 
   *   디바이스 등록 구현
 
 
-
   #### <a name="lab--managing-domain-authentication"></a>랩: 도메인 인증 관리
 
-
   ####
-
 
   #### <a name="lab--managing-local-user-and-microsoft-account-authentication"></a>랩: 로컬 사용자 및 Microsoft 계정 인증 관리
 
-
   ####
-
 
   #### <a name="lab--managing-password-and-account-options"></a>랩: 암호 및 계정 옵션 관리
 
-
   ####
-
 
   #### <a name="lab--managing-azure-ad-authentication"></a>랩: Azure AD 인증 관리
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
-  *   데이터 및 Windows OS를 보호 하는 다양 한 방법을 설명 합니다.
-
+  *   데이터 및 Windows OS를 보호하기 위한 다양한 방법을 설명합니다.
 
   *   다양한 유형의 사용자 및 서비스 계정 설명.
 
-
   *   Windows Hello 구성.
 
-
   *   사용자 계정 컨트롤 구성.
-
 
   *   도메인에 디바이스 등록.
 
 
-
   ### <a name="module-3-post-installation-configuration-and-personalization"></a>모듈 3: 설치 후 구성 및 개인 설정
 
-
-  이 모듈에서는 Windows client의 일반적인 설치 후 작업을 설명 합니다. 학생은 사용자 인터페이스를 사용자 지정하는 방법과 제어판 및 설정 앱을 사용하여 일반적인 OS 설정을 구성하는 방법에 대해 알아봅니다. 이 과정에서는 또한 Windows PowerShell을 소개합니다. 이 모듈에서는 디바이스 드라이버의 작동 방법에 대해 설명합니다. 또한 학생에게 프린터와 같은 하드웨어 주변 장치를 관리하고 구성하는 방법을 소개합니다.
-
+  이 모듈에서는 Windows 클라이언트의 일반적인 설치 후 작업을 다룹니다. 학생들은 사용자 인터페이스를 사용자 지정하는 방법과 제어판 및 설정 앱을 사용하여 일반적인 OS 설정을 구성하는 방법에 대해 학습합니다. 이 과정에서는 또한 Windows PowerShell을 소개합니다. 이 모듈에서는 디바이스 드라이버의 작동 방법에 대해 설명합니다. 또한 학생에게 프린터와 같은 하드웨어 주변 장치를 관리하고 구성하는 방법을 소개합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   Windows 시작 메뉴 구성 및 사용자 지정
-
 
   *   일반 구성 옵션
 
-
   *   고급 구성 방법
-
 
   *   드라이버 및 디바이스 관리
 
 
-
   #### <a name="lab--managing-local-and-network-printers"></a>랩: 로컬 및 네트워크 프린터 관리
 
-
   ####
-
 
   #### <a name="lab--managing-windows-10-settings"></a>랩: Windows 10 설정 관리
 
-
   ####
-
 
   #### <a name="lab--synchronizing-settings-between-devices"></a>랩: 디바이스 간 설정 동기화
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Windows 클라이언트 UI 사용자 지정
-
 
   *   전원 계획 및 모바일 디바이스 옵션과 같은 디바이스별 설정 구성.
 
-
   *   Windows 제어판 및 설정 앱을 사용하여 설정 구성.
-
 
   *   Windows PowerShell을 사용하여 작업 수행.
 
-
   *   드라이버와 관련된 개념 설명.
 
-
   *   프린터 관리 개념 설명.
-
 
   *   클라이언트 쪽 인쇄 및 인쇄 서버 속성 관리 구성.
 
 
-
   ### <a name="module-4-updating-windows"></a>모듈 4: Windows 업데이트
 
-
-  이 모듈에서는 학생이 Windows 클라이언트를 최신 상태로 유지 하는 방법을 알아봅니다. 학생에게 새로운 Windows 서비스 모델과 이를 다양한 시나리오에 적용하는 방법을 소개합니다. 학생은 Windows 및 애플리케이션을 업데이트하는 다양한 방법과 그룹 정책 및 비즈니스용 Windows 업데이트와 같은 도구를 사용하여 업데이트를 관리하는 방법에 대해 알아봅니다.
-
+  이 모듈에서 학생들은 Windows 클라이언트를 최신 상태로 유지하는 방법에 대해 학습합니다. 학생에게 새로운 Windows 서비스 모델과 이를 다양한 시나리오에 적용하는 방법을 소개합니다. 학생들은 Windows 및 애플리케이션을 업데이트하는 다양한 방법과 그룹 정책 및 비즈니스용 Windows 업데이트와 같은 도구를 사용하여 업데이트를 관리하는 방법에 대해 학습합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   Windows 서비스 모델
-
 
   *   Windows 업데이트
 
 
-
   #### <a name="lab--managing-windows-update-settings"></a>랩: Windows 업데이트 설정 관리
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   Windows 서비스 모델 설명.
 
-
   *   Windows 업데이트 설정 구성.
-
 
   *   WSUS를 사용하는 Windows 업데이트 설명.
 
-
   *   비즈니스용 Windows 업데이트를 사용하는 Windows 업데이트 설명.
-
 
   *   그룹 정책을 사용하여 Windows 업데이트 구성.
 
 
-
   ### <a name="module-5-configuring-networking"></a>모듈 5: 네트워킹 구성
 
-
-  이 모듈에서 학생은 네트워킹 개념에 대해 알아봅니다. 이 모듈에서는 IPv4, IPv6, DNS와 같은 개념을 소개합니다. 학생은 Windows 네트워크 설정을 구성하는 방법과 무선 네트워크 기술에 대해 알아봅니다. 이 모듈은 원격으로 Windows를 관리하는 방법으로 마무리됩니다.
-
+  이 모듈에서 학생들은 네트워킹 개념에 대해 학습합니다. 이 모듈에서는 IPv4, IPv6, DNS와 같은 개념을 소개합니다. 학생은 Windows 네트워크 설정을 구성하는 방법과 무선 네트워크 기술에 대해 학습합니다. 이 모듈은 원격으로 Windows를 관리하는 방법으로 마무리됩니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   IP 네트워크 연결 구성
-
 
   *   이름 확인 구현
 
-
   *   무선 네트워크 연결 구현
 
-
   *   원격 액세스 개요
-
 
   *   원격 관리
 
 
-
   #### <a name="lab--configuring-network-connectivity"></a>랩: 네트워크 연결 구성
 
-
   ####
-
 
   #### <a name="lab--configuring-and-testing-name-resolution"></a>랩: 이름 확인 구성 및 테스트
 
-
   ####
-
 
   #### <a name="lab--administering-windows-10-using-remote-management"></a>랩: 원격 관리를 사용하여 Windows 10 관리
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   IP 네트워크 연결 구성.
-
 
   *   이름 확인 작동 방법 설명.
 
-
   *   VPN과 같은 원격 액세스 기술 설명.
-
 
   *   원격 관리 및 액세스에 대한 Windows 구성.
 
 
-
   ### <a name="module-6-configuring-storage"></a>모듈 6: 스토리지 구성
 
-
-  이 모듈에서는 Windows 10의 스토리지 구성 및 관리에 대해 설명합니다. 학생에게 로컬, 클라우드, 가상 스토리지 옵션을 소개합니다. 또한 이 과정에서는 클라이언트 디바이스의 스토리지 구성에 대해 설명하고 저장소 공간을 소개합니다.
-
+  이 모듈에서는 Windows 10의 스토리지 구성 및 관리를 다룹니다. 학생에게 로컬, 클라우드, 가상 스토리지 옵션을 소개합니다. 또한 이 과정에서는 클라이언트 디바이스의 스토리지 구성에 대해 설명하고 저장소 공간을 소개합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   스토리지 관리
-
 
   *   디스크 및 볼륨 관리
 
-
-  *   스토리지 공간 관리
-
+  *   저장소 공간 관리
 
 
   #### <a name="lab--creating-a-storage-space"></a>랩: 저장소 공간 만들기
 
-
   ####
-
 
   #### <a name="lab--managing-storage"></a>랩: 스토리지 관리
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   로컬, 클라우드, 가상 스토리지의 옵션 및 이점 설명.
 
-
   *   로컬 디스크 파티션 및 볼륨 구성.
-
 
   *   저장소 공간의 기능 및 이점 설명.
 
 
-
   ### <a name="module-7-configuring-data-access-and-usage"></a>모듈 7: 데이터 액세스 및 사용 구성
 
-
-  이 모듈에서 학생은 사용 권한에 대해 알아봅니다. 이 모듈에서는 다양한 파일 시스템에 대한 고려 사항을 설명합니다. 학생은 파일, 폴더 권한과 공유 폴더를 구성하는 방법에 대해 알아봅니다. 로컬 및 그룹 정책과 같은 방법을 통해 설정을 구성하는 방법에 대해서도 알아봅니다. 이 모듈은 OneDrive 및 클라우드 폴더 구성으로 마무리됩니다.
-
+  이 모듈에서 학생들은 사용 권한에 대해 학습합니다. 이 모듈에서는 다양한 파일 시스템에 대한 고려 사항을 설명합니다. 학생들은 파일, 폴더 권한과 공유 폴더를 구성하는 방법에 대해 학습합니다. 또한 로컬 및 그룹 정책과 같은 방법을 통해 설정을 구성하는 방법에 대해서도 학습합니다. 이 모듈은 OneDrive 및 클라우드 폴더 구성으로 마무리됩니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   파일 시스템 개요
-
 
   *   파일 액세스 구성 및 관리
 
-
   *   공유 폴더 구성 및 관리
-
 
   *   사용자 파일 관리
 
 
-
   #### <a name="lab--configuring-and-managing-permissions-and-shares"></a>랩: 권한 및 공유 구성 및 관리
 
-
   ####
-
 
   #### <a name="lab--using-conditions-to-control-access-and-effective-permissions"></a>랩: 조건을 사용하여 액세스 및 유효 권한 제어
 
-
   ####
-
 
   #### <a name="lab--work-folders"></a>랩: 클라우드 폴더
 
-
   ####
-
 
   #### <a name="lab--synchronizing-files-with-onedrive"></a>랩: OneDrive를 사용하여 파일 동기화
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   지원되는 파일 시스템의 차이점 및 이점 설명.
-
 
   *   파일 및 폴더 사용 권한 구성.
 
-
   *   공유 폴더 구성.
-
 
   *   로컬 정책 설정을 통해 Windows 보호.
 
 
-
   ### <a name="module-8-managing-apps-in-windows-client"></a>모듈 8: Windows 클라이언트에서 앱 관리
 
-
-  이 모듈에서는 Windows 앱 관리에 대해 소개합니다. 이 모듈에서는 다양한 유형의 앱과 지원되는 설치 방법에 대해 설명합니다. 학생은 수동 및 자동화된 방법을 사용하여 앱을 설치하고 Windows Store를 사용하여 앱 배달을 관리하는 방법에 대해 알아봅니다. 마지막으로 이 모듈에서는 Microsoft Edge 관리를 다룹니다.
-
+  이 모듈에서는 학생들에게 Windows 앱 관리에 대해 소개합니다. 이 모듈에서는 다양한 유형의 앱과 지원되는 설치 방법을 다룹니다. 학생들은 수동 및 자동화된 방법을 사용하여 앱을 설치하고 Windows Store를 사용하여 앱 배달을 관리하는 방법에 대해 학습합니다. 마지막으로, 이 모듈에서는 Microsoft Edge 관리를 다룹니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   사용자에게 앱 제공
 
-
   *   유니버설 Windows 앱 관리
-
 
   *   Microsoft Edge 브라우저 관리
 
 
-
   #### <a name="lab--configuring-microsoft-edge-to-support-internet-explorer-enterprise-mode"></a>랩: Internet Explorer 엔터프라이즈 모드를 지원하도록 Microsoft Edge 구성
 
-
   ####
-
 
   #### <a name="lab--installing-apps-in-windows-10"></a>랩: Windows 10에서 앱 설치
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   다양한 유형의 애플리케이션 설명.
-
 
   *   수동 방법 및 자동화된 방법을 사용하여 애플리케이션 설치.
 
-
   *   Windows Store를 사용하여 애플리케이션 배포 관리.
 
-
-  *   Windows 웹 브라우저 기능에 대해 알아봅니다.
-
+  *   Windows의 웹 브라우저 기능에 대해 알아봅니다.
 
 
   ### <a name="module-9-configuring-threat-protection-and-advanced-security"></a>모듈 9: 위협 방지 및 고급 보안 구성
 
-
-  이 모듈에서는 학생에게 외부 위협으로부터의 디바이스 보호를 소개합니다. 학생은 다양한 유형의 일반적인 위협에 대해 알아봅니다. 이 모듈에서는 위협으로부터 보호하기 위해 암호화, 방화벽, IPSec을 사용하는 방법에 대해 알아봅니다. 이 모듈은 Windows Defender 및 AppLocker를 구성하고 사용하는 방법으로 마무리됩니다.
-
+  이 모듈에서는 학생에게 외부 위협으로부터의 디바이스 보호를 소개합니다. 학생들은 다양한 유형의 일반적인 위협에 대해 학습합니다. 이 모듈에서는 위협으로부터 보호하기 위해 암호화, 방화벽, IPSec을 사용하는 방법에 대해 알아봅니다. 이 모듈은 Windows Defender 및 AppLocker를 구성하고 사용하는 방법으로 마무리됩니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   맬웨어 및 위협 방지
-
 
   *   Microsoft Defender
 
-
   *   연결 보안 규칙
-
 
   *   고급 보호 방법
 
 
-
   #### <a name="lab--configuring-microsoft-defender-antivirus-and-windows-security"></a>랩: Microsoft Defender 바이러스 백신 및 Windows 보안 구성
 
-
   ####
-
 
   #### <a name="lab--configuring-firewall-and-connection-security"></a>랩: 방화벽 및 연결 보안 구성
 
-
   ####
-
 
   #### <a name="lab--configuring-bitlocker"></a>랩: BitLocker 구성
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   일반적인 보안 위협 식별.
-
 
   *   이러한 일반적인 보안 위협을 완화하는 방법 설명.
 
-
   *   다양한 암호화 방법 설명.
-
 
   *   Windows 방화벽이 디바이스를 보호하는 방법 설명.
 
-
   *   IPSec 사용 이점 설명.
 
-
   *   Microsoft Defender의 다양한 기능을 설명합니다.
-
 
   *   AppLocker 사용 이점 설명.
 
 
-
   ### <a name="module-10-supporting-the-windows-client-environment"></a>모듈 10: Windows 클라이언트 환경 지원
 
-
-  이 모듈에서는 Windows 아키텍처 및 일반적인 환경을 다룹니다. 학생에게 Windows를 유지 관리하는 데 사용되는 다양한 도구를 소개합니다. 또한 이 모듈에서는 문제를 효과적으로 해결하기 위한 방법론과 Windows 사전에 관리하고 최적화하는 방법에 대해서도 설명합니다.
-
+  이 모듈에서는 Windows 아키텍처 및 일반적인 환경을 다룹니다. 학생에게 Windows를 유지 관리하는 데 사용되는 다양한 도구를 소개합니다. 또한 이 모듈에서는 문제를 효과적으로 해결하기 위한 방법론과 Windows를 사전에 관리하고 최적화하는 방법에 대해서도 설명합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   Windows 아키텍처
 
-
   *   지원 및 진단 도구
-
 
   *   컴퓨터 성능 모니터링 및 문제 해결
 
 
-
   #### <a name="lab--monitoring-reliability-and-performance"></a>랩: 안정성 및 성능 모니터링
 
-
   ####
-
 
   #### <a name="lab--monitoring-events"></a>랩: 이벤트 모니터링
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   Windows 아키텍처 설명.
-
 
   *   문제 해결의 핵심 단계 설명.
 
-
   *   Windows의 다양한 도구의 용도 및 이점 설명.
 
-
   *   모니터링 도구를 사용하여 성능 기준선 설정
-
 
   *   Windows 클라이언트에서 성능을 최적화합니다.
 
 
-
   ### <a name="module-11-troubleshooting-files-amp-applications"></a>모듈 11: 파일 및 애플리케이션 문제 해결
 
-
-  이 모듈은 학생이 파일 백업 및 복구를 계획하는 데 도움이 됩니다. 학생은 데이터 보호 전략 계획 및 구성 방법과 다양한 파일 및 시스템 복구 수행 방법에 대해 알아봅니다. 이 모듈에는 애플리케이션 설치 문제, 호환성 문제, 브라우저 문제 해결을 위한 일반적인 방법도 포함되어 있습니다.
-
+  이 모듈은 학생이 파일 백업 및 복구를 계획하는 데 도움이 됩니다. 학생들은 데이터 보호 전략 계획 및 구성 방법과 다양한 파일 및 시스템 복구 수행 방법에 대해 학습합니다. 이 모듈에는 애플리케이션 설치 문제, 호환성 문제, 브라우저 문제 해결을 위한 일반적인 방법도 포함되어 있습니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   Windows 파일 복구
-
 
   *   애플리케이션 문제 해결
 
 
-
   #### <a name="lab--using-file-history-to-recover-files"></a>랩: 파일 기록을 사용하여 파일 복구
-
 
   ####
 
-
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
-
 
   *   여러 파일 복구 방법 설명.
 
-
-  *   개별 파일 및 시스템 복구를 지원하도록 Windows 구성합니다.
-
+  *   개별 파일 및 시스템 복구를 지원하도록 Windows를 구성합니다.
 
   *   PC 초기화 기능을 사용하여 디바이스 복구.
 
-
   *   응용 프로그램 호환성 도구 키트의 응용 프로그램 호환성 문제 해결.
-
 
   *   일반적인 브라우저 문제 해결.
 
 
-
   ### <a name="module-12-troubleshooting-the-os"></a>모듈 12: OS 문제 해결
 
-
-  이 모듈에서 학생은 운영 체제와 관련된 시작 및 서비스 문제를 해결하는 방법에 대해 알아봅니다. 이 모듈에서는 다양한 시작 및 복구 옵션과 다양한 Windows 서비스의 문제를 해결하는 방법에 대해 설명합니다.
-
+  이 모듈에서 학생들은 운영 체제와 관련된 시작 및 서비스 문제를 해결하는 방법에 대해 학습합니다. 이 모듈에서는 다양한 시작 및 복구 옵션과 다양한 Windows 서비스의 문제를 해결하는 방법에 대해 설명합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   Windows 시작 문제 해결
-
 
   *   운영 체제 서비스 문제 해결
 
 
-
   #### <a name="lab--using-advanced-startup-and-windows-re-to-recover-from-boot-failures"></a>랩: 고급 시작 및 Windows RE를 사용하여 부팅 실패에서 복구
 
-
   ####
-
 
   #### <a name="lab--recovering-windows-using-reset-this-pc"></a>랩: PC 초기화를 사용하여 Windows 복구
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   시작 문제를 식별하고 복구하는 다양한 방법 설명.
-
 
   *   여러 고급 시작 옵션을 언제 사용하는지 설명.
 
-
   *   실패한 서비스를 식별하고 사용하지 않도록 설정.
-
 
   *   일반적인 잠긴 계정 시나리오 식별 및 완화.
 
 
-
   ### <a name="module-13-troubleshooting-hardware-and-drivers"></a>모듈 13: 하드웨어 및 드라이버 문제 해결
 
-
-  이 모듈에서는 하드웨어 문제 해결을 소개합니다. 학생은 드라이버 관리 및 디바이스 문제 해결 방법에 대해 알아봅니다. 학생은 또한 진단 방법 및 수정을 포함한 시스템 하드웨어 및 외부 주변 장치(예: USB 드라이브 및 프린터)의 문제 해결 단계에 대해 알아봅니다.
-
+  이 모듈에서는 하드웨어 문제 해결을 소개합니다. 학생들은 드라이버 관리 및 디바이스 문제 해결 방법에 대해 학습합니다. 학생들은 또한 진단 방법 및 수정을 포함한 시스템 하드웨어 및 외부 주변 장치(예: USB 드라이브 및 프린터)의 문제 해결 단계에 대해 학습합니다.
 
   #### <a name="lessons"></a>단원
 
-
   *   디바이스 드라이버 실패 문제 해결
 
-
   *   하드웨어 문제 해결 개요
-
 
   *   실제 실패 문제 해결
 
 
-
   #### <a name="lab--troubleshooting-hardware-by-using-windows-memory-diagnostics"></a>랩: Windows 메모리 진단을 사용하여 하드웨어 문제 해결
 
-
   ####
-
 
   #### <a name="lab--recovering-windows-by-using-a-restore-point"></a>랩: 복원 지점을 사용하여 Windows 복구
 
-
   ####
-
 
   이 모듈을 완료하면 학생은 다음을 할 수 있습니다.
 
-
   *   드라이버 문제 해결 및 수정.
-
 
   *   주변 장치 문제 해결

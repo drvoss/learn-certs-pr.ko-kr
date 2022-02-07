@@ -1,66 +1,55 @@
 ### YamlMime:Examination
 title: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014
 metadata:
-  title: '시험 70-463: Microsoft SQL Server 2012/2014를 사용 하 여 데이터 웨어하우스 구현'
-  description: '시험 70-463: Microsoft SQL Server 2012/2014를 사용 하 여 데이터 웨어하우스 구현'
-  ms.openlocfilehash: d896571d901024b89762b75e91fb0636c1e18a5a
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137657380"
+  title: '시험 70-463: Microsoft SQL Server 2012/2014로 데이터 웨어하우스 구현'
+  description: '시험 70-463: Microsoft SQL Server 2012/2014로 데이터 웨어하우스 구현'
 uid: exam.70-463
 displayName: 70-463
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용할 수 있는 옵션은 [인증 및 시험 검색 페이지](/learn/certifications/browse/?resource_type=examination) 를 참조 하세요.
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
-
-  이 시험은 주로 BI (비즈니스 인텔리전스) 솔루션을 만드는 ETL 및 데이터 웨어하우스 개발자를 위한 것 이며, 해당 책임에는 데이터 정리 및 변환 로드 및 데이터 웨어하우스 구현이 포함 됩니다.
-
+  본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.
 
   > [!IMPORTANT]
-
-  > 2016 년 2 월 18 일부 터이 시험은 SQL Server 2012 및 2014를 모두 다루는 콘텐츠를 포함 합니다. 이 시험은 SQL Server 2012 제품에만 제공 되는 기능에 대 한 질문은 포함 하지 않습니다. 자세한 내용은 [이 문서를 다운로드 하 여 검토 하세요.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUy)
-subTitle: 이 시험은 주로 BI (비즈니스 인텔리전스) 솔루션을 만드는 ETL 및 데이터 웨어하우스 개발자를 위한 것 이며, 해당 책임에는 데이터 정리 및 변환 로드 및 데이터 웨어하우스 구현이 포함 됩니다.
+  > 2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 자세한 내용은 [이 문서를 다운로드하여 검토](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUy)하세요.
+subTitle: '본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI'
 locales:
-- en
-- zh-cn
-- fr
-- de
-- ja
-- pt-br
+  - en
+  - zh-cn
+  - fr
+  - de
+  - ja
+  - pt-br
 levels:
-- advanced
+  - advanced
 skills:
-- Design and implement a data warehouse (10–15%)
-- Extract and transform data (20–25%)
-- Load data (25–30%)
-- Configure and deploy SSIS solutions (20–25%)
-- Build data quality solutions (15–20%)
+  - Design and implement a data warehouse (10–15%)
+  - Extract and transform data (20–25%)
+  - Load data (25–30%)
+  - Configure and deploy SSIS solutions (20–25%)
+  - Build data quality solutions (15–20%)
 retirementDate: 01/31/2021
 roles:
-- database-administrator
+  - database-administrator
 products:
-- sql-server
+  - sql-server
 relatedCertifications:
-- related:
-    uid: certification.mcsa-sql-certification
+  - related:
+      uid: certification.mcsa-sql-certification
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

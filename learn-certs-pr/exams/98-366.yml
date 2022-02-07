@@ -3,72 +3,63 @@ title: Networking Fundamentals
 metadata:
   title: '시험 98-366: 네트워킹 기본 사항'
   description: '시험 98-366: 네트워킹 기본 사항'
-  ms.openlocfilehash: 6c69388f0de6b876abef116332cf75dbfcbb0755
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656412"
 uid: exam.98-366
 displayName: 98-366
-summary: >-
+summary: |-
   > [!WARNING]
-
-  > 이 MTA 시험은 2022 년 6 월 30 일에 사용 중지 됩니다. 이 시험의 무료 증명서 판매는 2021 년 6 월 30 일에 종료 되었습니다. 아래의 "시험 예약" 단추를 사용 하 여 구매한 증명서를 사용 하 고 시험을 예약 합니다. 자세한 내용은 [FAQ](/learn/certifications/mta-retirement-faqs) 를 참조 하세요.
-
+  > 이 MTA 시험은 2022년 6월 30일에 사용 중지됩니다. 이 시험의 바우처 판매는 2021년 6월 30일에 종료되었습니다. 아래의 "시험 예약" 단추를 사용하여 구매한 바우처를 교환하고 시험을 예약합니다. 자세한 내용은 [FAQ](/learn/certifications/mta-retirement-faqs)를 참조하세요.
 
   <br/>
+  이 시험의 응시자는 일반적인 네트워크 개념과 기술에 익숙해야 합니다. 응시자는 Windows Server, Windows 기반 네트워킹, 네트워크 관리 도구, DNS, TCP/IP, 이름 확인 프로세스, 네트워크 프로토콜 및 토폴로지와 관련된 실무 경험이 있어야 합니다.
 
-  이 시험의 후보는 일반적인 네트워킹 개념 및 기술에 대해 잘 알고 있습니다. 후보에는 Windows 서버, Windows 기반 네트워킹, 네트워크 관리 도구, DNS, tcp/ip, 이름 확인 프로세스, 네트워크 프로토콜 및 토폴로지를 사용 하는 몇 가지 실습 환경이 있어야 합니다.
-
-
-  **2018 년 1 월 31 일까 지 적용 되는 시험 업데이트가 있습니다. 이러한 변경 내용과 이러한 변경 사항이 측정 된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 98-366 변경 문서를 다운로드 하 여 검토 하세요.**
-subTitle: 이 시험의 후보는 일반적인 네트워킹 개념 및 기술에 대해 잘 알고 있습니다. 후보에는 Windows 서버, Windows 기반 네트워킹, 네트워크 관리 도구, DNS, tcp/ip, 이름 확인 프로세스, 네트워크 프로토콜 및 토폴로지를 사용 하는 몇 가지 실습 환경이 있어야 합니다.
+  <br/>
+  **시험 업데이트는 2018년 1월 31일부터 적용됩니다. 이러한 변경 내용과 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 시험 98-366 변경 문서를 다운로드하여 검토하세요.**
+subTitle: '이 시험의 응시자는 일반적인 네트워크 개념과 기술에 익숙해야 합니다. 응시자는 Windows Server, Windows 기반 네트워킹, 네트워크 관리 도구, DNS, TCP/IP, 이름 확인 프로세스, 네트워크 프로토콜 및 토폴로지와 관련된 실무 경험이 있어야 합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
-practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr'
+practiceTestUrl: 'https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366'
+  - providerType: certiport
+    examUrl: 'http://www.certiport.com/locator'
 locales:
-- en
-- zh-cn
-- zh-tw
-- fr
-- de
-- it
-- ja
-- ko
-- pt-br
-- ru
-- es
-- es-mx
+  - en
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - it
+  - ja
+  - ko
+  - pt-br
+  - ru
+  - es
+  - es-mx
 levels:
-- beginner
+  - beginner
 skills:
-- Understanding network infrastructures (30-35%)
-- Understanding network hardware (20-25%)
-- Understanding protocols and services (45-50%)
+  - Understanding network infrastructures (30-35%)
+  - Understanding network hardware (20-25%)
+  - Understanding protocols and services (45-50%)
 retirementDate: 06/30/2022
 roles:
-- administrator
+  - administrator
 products:
-- windows-server
+  - windows-server
 relatedCertifications:
-- related:
-    uid: certification.mta-networking-fundamentals
+  - related:
+      uid: certification.mta-networking-fundamentals
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

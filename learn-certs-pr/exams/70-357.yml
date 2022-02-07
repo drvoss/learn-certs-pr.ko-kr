@@ -3,70 +3,60 @@ title: Developing Mobile Apps
 metadata:
   title: '시험 70-357: Mobile Apps 개발'
   description: '시험 70-357: Mobile Apps 개발'
-  ms.openlocfilehash: c81ebdc18ee8bffb063041e6924027b8e0995f5f
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658128"
 uid: exam.70-357
 displayName: 70-357
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
+  본 시험은 Windows Store나 Windows Store for Business에 배포할 목적으로 Windows 10 앱을 설계 및 개발하는 숙련된 개발자를 대상으로 합니다.
 
-  이 시험의 후보는 Windows Store 또는 비즈니스용 Windows 스토어에 배포할 Windows 10 앱을 디자인하고 개발하는 숙련된 개발자입니다.
-
-
-  일반적으로 후보는 C# 및 XAML을 사용하여 Windows 앱을 개발한 경험이 2년 이상 있으며, Windows Phone WPF 또는 Silverlight를 사용한 경험이 있습니다. 또한 후보는 인증 기술과 함께 MVVM(Model-View-ViewModel) 디자인 패턴 및 Entity Framework 경험이 있어야 합니다. Visual Studio 2015 환경을 권장합니다.
-subTitle: 이 시험의 후보는 Windows Store 또는 비즈니스용 Windows 스토어에 배포할 Windows 10 앱을 디자인하고 개발하는 숙련된 개발자입니다.
+  응시자는 일반적으로 C#과 XAML을 이용한 2년 이상의 Windows 앱 개발 경험과 Windows Phone용 WPF 또는 Silverlight에 대한 경험도 갖추고 있어야 합니다. 또한 Model-View-ViewModel (MVVM) 설계 패턴과 EF(엔터티 프레임워크)에 대한 경험은 물론 인증 기법도 숙지하고 있어야 합니다. Visual Studio 2015에 대한 경험이 있으면 매우 좋습니다.
+subTitle: 본 시험은 Windows Store나 Windows Store for Business에 배포할 목적으로 Windows 10 앱을 설계 및 개발하는 숙련된 개발자를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
-practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH'
+practiceTestUrl: 'https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 locales:
-- en
-- es
-- zh-cn
-- zh-tw
-- fr
-- de
-- ja
-- pt-br
-- ru
+  - en
+  - es
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - ja
+  - pt-br
+  - ru
 levels:
-- intermediate
+  - intermediate
 skills:
-- Develop a XAML page layout for an adaptive UI (10–15%)
-- Implement page navigation and lifecycle events (10–15%)
-- Implement data access and data binding (20–25%)
-- Implement feature detection for adaptive coding (10–15%)
-- Manage user input and custom user interactions (10–15%)
-- Manage authentication and identity management (10–15%)
-- Implement notifications, background tasks, and reusable components (15–20%)
+  - Develop a XAML page layout for an adaptive UI (10–15%)
+  - Implement page navigation and lifecycle events (10–15%)
+  - Implement data access and data binding (20–25%)
+  - Implement feature detection for adaptive coding (10–15%)
+  - Manage user input and custom user interactions (10–15%)
+  - Manage authentication and identity management (10–15%)
+  - 'Implement notifications, background tasks, and reusable components (15–20%)'
 retirementDate: 01/31/2021
 roles:
-- developer
+  - developer
 products:
-- vs
+  - vs
 relatedCertifications:
-- related:
-    uid: certification.mcsa-universal-windows-platform
-- related:
-    uid: certification.mcsd-app-builder-certification
+  - related:
+      uid: certification.mcsa-universal-windows-platform
+  - related:
+      uid: certification.mcsd-app-builder-certification
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

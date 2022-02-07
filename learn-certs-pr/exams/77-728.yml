@@ -1,61 +1,60 @@
 ### YamlMime:Examination
-title: 'Excel 2016 Expert: Interpreting Data for Insights'
+title: 'Excel 2016 전문가: Insights를 위한 데이터 해석'
 metadata:
-  title: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
-  description: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  title: '시험 77-728: Excel 2016 전문가: Insights를 위한 데이터 해석'
+  description: '시험 77-728: Excel 2016 전문가: Insights를 위한 데이터 해석'
 uid: exam.77-728
 displayName: 77-728
 summary: |
   전문가 수준의 Excel 2016 시험 응시자는 Excel 환경에 대한 고급 지식을 보유하고 있으며 다른 사람들이 프로그램 기능을 올바르게 사용할 수 있도록 지원합니다.
 
-  그들은 다양한 전문화 된 목적 및 상황을 위해 전문 스프레드 시트를 작성, 관리 및 배포합니다. 프로젝트 요건을 충족하고 생산성을 향상시키도록 Excel 환경을 사용자 지정합니다. 전문가 통합 문서 예제는 사용자 지정 비즈니스 템플릿, 여러 축 재무 차트, 상환 테이블 및 인벤토리 일정 등이 포함됩니다. 응시자 직위에는 회계사, 재무 분석가, 데이터 분석가, 상업 은행가 등이 포함될 수 있습니다.
+  그들은 다양한 전문화 된 목적 및 상황을 위해 전문 스프레드 시트를 작성, 관리 및 배포합니다. 프로젝트 요건을 충족하고 생산성을 향상시키도록 Excel 환경을 사용자 지정합니다. 전문가 통합 문서 예제는 사용자 지정 비즈니스 템플릿, 여러 축 재무 차트, 상환 테이블 및 인벤토리 일정 등이 포함됩니다. 후보자 역할에는 회계사, 재무 분석가, 데이터 분석가, 상업 은행가 등이 포함될 수 있습니다.
 
-  Microsoft Office Specialist (MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+  Microsoft Office Specialist (MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다.
   - MOS 2016 시험 작업 지침에는 일반적으로 이전 버전과 마찬가지로 명령어 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 프로그램 기능의 목적과 일반적인 사용법을 이해하고 있어야 합니다.
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
 subTitle: 전문가 수준의 Excel 2016 시험 응시자는 Excel 환경에 대한 고급 지식을 보유하고 있으며 다른 사람들이 프로그램 기능을 올바르게 사용할 수 있도록 지원합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw'
 providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: certiport
+    examUrl: 'http://www.certiport.com/locator'
 locales:
-- en
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
+  - en
+  - zh-cn
+  - zh-tw
+  - de
+  - es
+  - fr
+  - ja
+  - ko
+  - nl
 levels:
-- intermediate
+  - intermediate
 skills:
-- 통합 문서 옵션 및 설정 관리 (10-15%)
-- 맞춤 데이터 형식 및 레이아웃 적용 (20-25%)
-- 고급 수식 만들기 (35-40%)
-- 고급 차트 및 표 만들기 (25-30%)
+  - Manage workbook options and settings (10-15%)
+  - Apply custom data formats and layouts (20-25%)
+  - Create advanced formulas (35-40%)
+  - Create advanced charts and tables (25-30%)
 roles:
-- business-user
+  - business-user
 products:
-- office
+  - office
 relatedCertifications:
-- related:
-    uid: certification.mos-excel-2016-expert
-- related:
-    uid: certification.microsoft-office-specialist-master-certification-2016
+  - related:
+      uid: certification.mos-excel-2016-expert
+  - related:
+      uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
-
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

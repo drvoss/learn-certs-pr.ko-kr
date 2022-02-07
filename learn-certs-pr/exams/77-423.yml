@@ -1,54 +1,52 @@
 ### YamlMime:Examination
-title: Microsoft Outlook 2013
+title: Microsoft  Outlook  2013
 metadata:
-  title: 'Exam 77-423: Microsoft Outlook 2013'
-  description: 'Exam 77-423: Microsoft Outlook 2013'
+  title: '시험 77-423: Microsoft Outlook 2013'
+  description: '시험 77-423: Microsoft Outlook 2013'
 uid: exam.77-423
 displayName: 77-423
-summary: |-
-  Microsoft Office Specialist (MOS) Outlook 2013 시험의 응시자는 문자 및 단락 서식을 사용하여 이메일 메시지 컨텐츠의 서식을 지정하고 차트, 표, SmartArt 그래픽과 같은 그래픽 요소를 만들거나 메시지에 삽입할 수 있습니다. 또한 Bcc 필드를 사용하여 개인 수신자에게 메시지를 보낼 수 있습니다. 응시자는 수신 메시지에서 연락처 레코드, 과제 및 약속을 생성할 수 있으며 연락처 그룹을 설정하여 다른 Outlook 사용자와의 통신을 쉽게 할 수 있습니다.
-subTitle: Microsoft Office Specialist (MOS) Outlook 2013 시험의 응시자는 문자 및 단락 서식을 사용하여 이메일 메시지 컨텐츠의 서식을 지정하고 차트, 표, SmartArt 그래픽과 같은 그래픽 요소를 만들거나 메시지에 삽입할 수 있습니다.
+summary: 'MOS(Microsoft Office 전문가) Outlook 2013 시험 후보자는 문자 및 단락 서식을 사용하여 이메일 메시지 콘텐츠의 서식을 지정하고, 차트, 표 및 SmartArt 그래픽과 같은 그래픽 요소를 만들거나 메시지에 삽입할 수 있습니다. 또한 Bcc 필드를 사용하여 개인 수신자에게 메시지를 보낼 수 있습니다. 응시자는 수신 메시지에서 연락처 레코드, 과제 및 약속을 생성할 수 있으며 연락처 그룹을 설정하여 다른 Outlook 사용자와의 통신을 쉽게 할 수 있습니다.'
+subTitle: 'MOS(Microsoft Office 전문가) Outlook 2013 시험 후보자는 문자 및 단락 서식을 사용하여 이메일 메시지 콘텐츠의 서식을 지정하고, 차트, 표 및 SmartArt 그래픽과 같은 그래픽 요소를 만들거나 메시지에 삽입할 수 있습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
-scheduleExamUrl: https://www.certiport.com/locator
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb'
+scheduleExamUrl: 'https://www.certiport.com/locator'
 locales:
-- en
-- zh-tw
-- de
-- es
-- ja
-- ko
-- nb
-- nl
-- ar-sa
-- el-gr
+  - en
+  - zh-tw
+  - de
+  - es
+  - ja
+  - ko
+  - nb
+  - nl
+  - ar-sa
+  - el-gr
 levels:
-- beginner
+  - beginner
 skills:
-- Outlook 환경 관리 (25-30%)
-- 메시지 관리 (25-30%)
-- 일정 관리 (30-35%)
-- 연락처 및 그룹 관리 (15-20%)
+  - Manage the Outlook environment (25-30%)
+  - Manage messages (25-30%)
+  - Manage schedules (30-35%)
+  - Manage contacts and groups (15-20%)
 roles:
-- business-user
+  - business-user
 products:
-- office-outlook
+  - office-outlook
 relatedCertifications:
-- related:
-    uid: certification.mos-outlook-2013
-- related:
-    uid: certification.microsoft-office-specialist-master-certification-2013
+  - related:
+      uid: certification.mos-outlook-2013
+  - related:
+      uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: 시험 재응시
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
-
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

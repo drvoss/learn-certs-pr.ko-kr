@@ -1,66 +1,55 @@
 ### YamlMime:Examination
 title: Designing Business Intelligence Solutions with Microsoft SQL Server
 metadata:
-  title: '시험 70-467: Microsoft SQL Server 비즈니스 인텔리전스 솔루션 디자인'
-  description: '시험 70-467: Microsoft SQL Server 비즈니스 인텔리전스 솔루션 디자인'
-  ms.openlocfilehash: e55603d2eb0d424219f7558c696775160bb7898f
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656423"
+  title: '시험 70-467: Microsoft SQL Server 사용하여 비즈니스 인텔리전스 솔루션 설계'
+  description: '시험 70-467: Microsoft SQL Server 사용하여 비즈니스 인텔리전스 솔루션 설계'
 uid: exam.70-467
 displayName: 70-467
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
-
-  이 시험은 BI 인프라의 전반적인 디자인과 사용 중인 다른 데이터 시스템과의 관계를 담당하는 BI(비즈니스 인텔리전스) 설계자를 대상으로 합니다.
-
+  본 시험은 BI 인프라 및 사용 중인 다른 데이터 시스템과 BI 인프라가 연관되는 방식을 전반적으로 설계하는 업무를 담당하는 BI(비즈니스 인텔리전스) 아키텍트를 대상으로 합니다.
 
   > [!IMPORTANT]
-
-  > 2016년 2월 18일을 현재 이 시험에서는 SQL Server 2012년 및 2014년도를 모두 다룹니다. 이 시험에서는 SQL Server 2012 제품에만 있는 기능이나 기능에 대한 질문은 포함하지 않습니다. 자세한 내용은 [이 문서를 다운로드하여 검토하세요.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z)
-subTitle: 이 시험은 BI 인프라의 전반적인 디자인과 사용 중인 다른 데이터 시스템과의 관계를 담당하는 BI(비즈니스 인텔리전스) 설계자를 대상으로 합니다.
+  > 2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 자세한 내용은 [이 문서를 다운로드하여 검토](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z)하세요.
+subTitle: 본 시험은 BI 인프라 및 사용 중인 다른 데이터 시스템과 BI 인프라가 연관되는 방식을 전반적으로 설계하는 업무를 담당하는 BI(비즈니스 인텔리전스) 아키텍트를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf'
 locales:
-- en
-- zh-cn
-- fr
-- de
-- ja
-- pt-br
+  - en
+  - zh-cn
+  - fr
+  - de
+  - ja
+  - pt-br
 levels:
-- advanced
+  - advanced
 skills:
-- Plan business intelligence (BI) infrastructure (15–20%)
-- Design BI infrastructure (15–20%)
-- Design a reporting solution (20–25%)
-- Design BI data models (30–35%)
-- Design an ETL solution (10–15%)
+  - Plan business intelligence (BI) infrastructure (15–20%)
+  - Design BI infrastructure (15–20%)
+  - Design a reporting solution (20–25%)
+  - Design BI data models (30–35%)
+  - Design an ETL solution (10–15%)
 retirementDate: 01/31/2021
 roles:
-- data-engineer
+  - data-engineer
 products:
-- sql-server
+  - sql-server
 relatedCertifications:
-- related:
-    uid: certification.mcse-data-management-analytics
+  - related:
+      uid: certification.mcse-data-management-analytics
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md

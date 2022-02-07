@@ -3,71 +3,60 @@ title: 'MCSD: App Builder'
 metadata:
   title: 'MCSD: App Builder'
   description: 'MCSD: App Builder'
-  ms.openlocfilehash: 546be4090495ecadddcf7d44f1cd9b061245ceaa
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137657006"
 uid: certification.mcsd-app-builder-certification
 iconUrl: /media/learn/certification/badges/mcsd-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증은 사용이 중지 되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득 한 모든 [인증은 인증 대시보드의](https://aka.ms/certdashboard) 성적에 계속 표시 됩니다.
-
+  > 이 인증은 사용 중지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/)를 참조하세요. 사용 중지 날짜 이전에 획득한 모든 인증은 [인증 대시보드](https://aka.ms/certdashboard)의 성적표에 계속 표시됩니다.
 
   <br/>
 
+  본 인증서는 최신 모바일 및/또는 웹 애플리케이션과 서비스를 구축하는 데 필요한 귀하의 기술을 인증합니다.
 
-  이 인증은 최신 모바일 및/또는 웹 응용 프로그램 및 서비스를 빌드하는 데 필요한 기술이 있는지 확인 합니다.
-
-
-  MCSD&#58; App Builder 인증을 획득 하려면 다음 요구 사항을 완료&#58;
-
-  - 하나의 필수 조건 인증&#58; 획득
-    - 필수 구성 요소 옵션 1&#58; [Mcsa: 웹 응용 프로그램](/learn/certifications/mcsa-web-applications-certification)
-    - 필수 구성 요소 옵션 2&#58; [mcsa: 유니버설 Windows 플랫폼](/learn/certifications/mcsa-universal-windows-platform)
-  - 선택적 시험 중 하나를 전달&#58;
+  MCSD: App Builder 인증을 얻으려면, 다음 요구 사항을 충족해야 합니다:
+  - 하나의 필수 구성 요소 인증 획득
+    - 필수 구성 요소 옵션 1: [MCSA: 웹 애플리케이션](/learn/certifications/mcsa-web-applications-certification)
+    - 필수 구성 요소 옵션 2: [MCSA: 유니버설 Windows 플랫폼](/learn/certifications/mcsa-universal-windows-platform)
+  - 그리고 선택 시험 중 하나 통과
     - [70-357: Mobile Apps 개발](/learn/certifications/exams/70-357)
-    - [70-486: MVC 웹 응용 프로그램 ASP.NET 개발](/learn/certifications/exams/70-486)
-    - [70-487: Microsoft Azure 및 웹 서비스 개발](/learn/certifications/exams/70-487)
-subTitle: 이 인증은 최신 모바일 및/또는 웹 응용 프로그램 및 서비스를 빌드하는 데 필요한 기술이 있는지 확인 합니다.
+    - [70-486: ASP.NET MVC 웹 애플리케이션 개발](/learn/certifications/exams/70-486)
+    - [70-487: Microsoft Azure 및 Web Services 개발](/learn/certifications/exams/70-487)
+subTitle: 본 인증서는 최신 모바일 및/또는 웹 애플리케이션과 서비스를 구축하는 데 필요한 귀하의 기술을 인증합니다.
 hideFishboneDiagram: true
 levels:
-- advanced
+  - advanced
 skills:
-- none
+  - none
 roles:
-- developer
+  - developer
 type: mcsd
 products:
-- azure
+  - azure
 exams:
-- uid: exam.70-357
-- uid: exam.70-486
-- uid: exam.70-487
+  - uid: exam.70-357
+  - uid: exam.70-486
+  - uid: exam.70-487
 prerequisites:
-- uid: certification.mcsa-web-applications-certification
-  isOptional: false
-- uid: certification.mcsa-universal-windows-platform
-  isOptional: false
+  - uid: certification.mcsa-web-applications-certification
+    isOptional: false
+  - uid: certification.mcsa-universal-windows-platform
+    isOptional: false
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

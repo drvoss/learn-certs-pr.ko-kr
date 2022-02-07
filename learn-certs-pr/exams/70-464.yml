@@ -3,64 +3,53 @@ title: Developing Microsoft SQL Server Databases
 metadata:
   title: '시험 70-464: Microsoft SQL Server 데이터베이스 개발'
   description: '시험 70-464: Microsoft SQL Server 데이터베이스 개발'
-  ms.openlocfilehash: 10afe22626b27867637ef8581fd928d9afd093fd
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656742"
 uid: exam.70-464
 displayName: 70-464
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 인증 [및 시험 찾아보기 페이지를 참조하세요.](/learn/certifications/browse/?resource_type=examination)
-
+  > 이 시험은 2021년 1월 31일에 폐지되었습니다. 현재 사용 가능한 옵션은 [인증 및 시험 찾아보기 페이지](/learn/certifications/browse/?resource_type=examination)를 참조하세요.
 
   <br/>
-
-  이 검사는 조직 전체에서 데이터베이스를 빌드 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 파일, 데이터 형식 및 테이블 만들기를 포함합니다. 인덱스 계획, 생성 및 최적화 데이터 무결성 보장 뷰, 저장 프로시저 및 함수 구현 및 트랜잭션 및 잠금 관리
-
+  본 시험은 조직 내에서 데이터베이스를 작성 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 전문가의 직무 영역에는 데이터베이스 파일, 데이터 형식과 테이블 만들기, 인덱스 계획과 만들기 및 최적화, 데이터 완전성 보장, 뷰, 저장 프로시저와 기능의 구현, 거래와 잠금 관리가 포함됩니다.
 
   > [!IMPORTANT]
-
-  > 2016년 2월 18일을 현재 이 시험에서는 SQL Server 2012년 및 2014년도를 모두 다룹니다. 이 시험에서는 SQL Server 2012 제품에만 있는 기능이나 기능에 대한 질문은 포함하지 않습니다. 자세한 내용은 [이 문서를 다운로드하여 검토하세요.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcY)
-subTitle: 이 검사는 조직 전체에서 데이터베이스를 빌드 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 파일, 데이터 형식 및 테이블 만들기를 포함합니다. 인덱스 계획, 생성 및 최적화 데이터 무결성 보장 뷰, 저장 프로시저 및 함수 구현 및 트랜잭션 및 잠금 관리
+  > 2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 자세한 내용은 [이 문서를 다운로드하여 검토](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcY)하세요.
+subTitle: '본 시험은 조직 내에서 데이터베이스를 작성 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 전문가의 직무 영역에는 데이터베이스 파일, 데이터 형식과 테이블 만들기, 인덱스 계획과 만들기 및 최적화, 데이터 완전성 보장, 뷰, 저장 프로시저와 기능의 구현, 거래와 잠금 관리가 포함됩니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
-practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI'
+practiceTestUrl: 'https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 locales:
-- en
-- zh-cn
-- fr
-- de
-- ja
-- pt-br
+  - en
+  - zh-cn
+  - fr
+  - de
+  - ja
+  - pt-br
 levels:
-- advanced
+  - advanced
 skills:
-- Implement database objects (30-35%)
-- Implement programming objects (15-20%)
-- Design database objects (25-30%)
-- Optimize and troubleshoot queries (25-30%)
+  - Implement database objects (30-35%)
+  - Implement programming objects (15-20%)
+  - Design database objects (25-30%)
+  - Optimize and troubleshoot queries (25-30%)
 retirementDate: 01/31/2021
 roles:
-- data-engineer
+  - data-engineer
 products:
-- sql-server
+  - sql-server
 relatedCertifications:
-- related:
-    uid: certification.mcse-data-management-analytics
+  - related:
+      uid: certification.mcse-data-management-analytics
 resources:
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: ../certification-exam-policies.md
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: ../certification-exam-policies.md
