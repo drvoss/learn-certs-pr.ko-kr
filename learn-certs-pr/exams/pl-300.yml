@@ -1,67 +1,57 @@
 ### YamlMime:Examination
 title: Microsoft Power BI 데이터 분석가
 metadata:
-  title: 'PL-300 시험: Microsoft Power BI 데이터 분석가'
-  description: 'PL-300 시험: Microsoft Power BI 데이터 분석가'
-  ms.openlocfilehash: 476ab4d6e934d8a8026df3265376e6a6c2b229cc
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137657809"
+  title: '시험 PL-300: Microsoft Power BI 데이터 분석가'
+  description: '시험 PL-300: Microsoft Power BI 데이터 분석가'
 uid: exam.pl-300
 displayName: PL-300
-summary: >-
-  Power BI 데이터 분석가는 사용 가능한 데이터를 활용하고 도메인 전문 지식을 적용하여 실행 가능한 인사이트를 제공합니다. Power BI 데이터 분석가는 수직 분야의 주요 이해 관계자와 협업하여 비즈니스 요구 사항을 파악하고, 데이터를 정리 및 변환한 다음, Power BI 사용하여 데이터 모델을 디자인하고 빌드합니다. Power BI 데이터 분석가는 이해하기 쉬운 데이터 시각화를 통해 의미 있는 비즈니스 가치를 제공하고, 다른 사용자가 셀프 서비스 분석을 수행할 수 있도록 하고, 사용할 솔루션을 배포 및 구성합니다. 이 시험의 후보는 파워 쿼리 사용하고 DAX를 사용하여 식을 작성하는 데 능숙해야 합니다.
-
+summary: |-
+  Power BI 데이터 분석가는 사용 가능한 데이터를 활용하고 도메인 전문 지식을 적용하여 실행 가능한 인사이트를 제공합니다. Power BI 데이터 분석가는 여러 분야에 걸쳐 주요 이해 관계자와 협력하여 비즈니스 요구 사항을 파악하고 데이터를 정리 및 변환한 다음, Power BI 사용하여 데이터 모델을 디자인하고 빌드합니다. Power BI 데이터 분석가는 이해하기 쉬운 데이터 시각화를 통해 의미 있는 비즈니스 가치를 제공하고, 다른 사용자가 셀프 서비스 분석을 수행할 수 있도록 하고, 사용할 솔루션을 배포 및 구성합니다. 이 시험의 응시자는 파워 쿼리를 사용하고 DAX를 사용하여 식을 작성하는 데 능숙해야 합니다.
   <br/>
 
-
-  2022년 2월 28일에 데이터 분석가 연결 인증의 이름이 Microsoft Certified: Power BI 데이터 분석가 Associate로 바뀝니다. 이 인증 획득에 대한 자세한 내용은 [이 블로그 게시물을 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-a-new-name-for-the-data-analyst-associate/ba-p/2388941)
-
+  2022년 2월 28일에 Data Analyst Associate 인증의 이름이 Microsoft Certified: Power BI Data Analyst Associate로 변경됩니다. 이 인증을 획득하는 방법에 대한 자세한 내용은 [이 블로그 게시물](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-a-new-name-for-the-data-analyst-associate/ba-p/2388941)을 참조하세요.
 
   > [!IMPORTANT]
-
-  > 참고: 이 시험은 2022년 2월 28일에 제공됩니다.
-subTitle: 이 시험은 2022년 2월 28일에 제공됩니다. 이 시험에서는 다음과 같은 기술 작업을 수행하는 기능을 측정합니다. 데이터 준비; 데이터를 모델링합니다. 데이터 시각화 및 분석 자산을 배포하고 유지 관리합니다.
+  > 참고: 이 시험은 2022년 2월 28일에 응시할 수 있습니다.
+subTitle: 이 시험은 2022년 2월 28일에 응시할 수 있습니다. 이 시험에서는 다음과 같은 기술 작업을 수행할 수 있는 능력을 측정합니다. 데이터 준비; 데이터를 모델링합니다. 데이터를 시각화하고 분석합니다. 자산을 배포하고 유지 관리합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWREll
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWREll'
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 skills:
-- Prepare the data (15-20%)
-- Model the data (30-35%)
-- Visualize and analyze the data (25-30%)
-- Deploy and maintain assets (20-25%)
+  - Prepare the data (15-20%)
+  - Model the data (30-35%)
+  - Visualize and analyze the data (25-30%)
+  - Deploy and maintain assets (20-25%)
 roles:
-- data-analyst
-- business-user
+  - data-analyst
+  - business-user
 products:
-- power-bi
+  - power-bi
 relatedCertifications:
-- related:
-    uid: certification.data-analyst-associate
+  - related:
+      uid: certification.data-analyst-associate
 resources:
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 시험 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
-  href: ../request-accommodations.md
-- title: 시험 정책 및 FAQ
-  description: 시험 정책과 자주 묻는 질문을 확인합니다.
-  href: ../certification-exam-policies.md
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 시험 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 편의 시설 요청
+    description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+    href: ../request-accommodations.md
+  - title: 시험 정책 및 FAQ
+    description: 시험 정책과 자주 묻는 질문을 확인합니다.
+    href: ../certification-exam-policies.md

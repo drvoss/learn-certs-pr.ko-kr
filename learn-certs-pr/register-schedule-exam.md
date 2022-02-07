@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 8b6941ae5c42f0c987c0acea96c32dc57994f5f1
-ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2021
-ms.locfileid: "135638631"
 ---
 # <a name="register-and-schedule-an-exam"></a>시험 등록 및 예약
 
@@ -38,7 +32,7 @@ Microsoft는 여러 시험 공급자와 협력하여 다양한 유형의 응시�
 
 온라인으로 시험에 응시하는 경우 시험 등록 **전에** 시스템 사전 점검을 실행하여 컴퓨터가 요구 사항을 충족하는지 확인해야 합니다. 다른 컴퓨터에서 시험에 응시하는 경우 해당 컴퓨터에서 시스템 점검을 실행해야 합니다.
 
-시스템 사전 검사를 진행하는 방법에 대한 자세한 지침은 [다음을 방문하세요. 가 있는 온라인 시험 정보()를 방문하세요.](/learn/certifications/online-exams) Certiport는 현재 온라인 감독 시험을 제공하지 않습니다.
+시스템 사전 점검 방법에 관한 자세한 지침은 [Pearson VUE를 통한 온라인 시험 정보](/learn/certifications/online-exams)를 참조하세요. Certiport는 현재 온라인 감독 시험을 제공하지 않습니다.
 
 선택할 시험 공급자를 알 수 없는 경우 [시험 공급자 선택 방법](#how-to-choose-an-exam-delivery-provider)을 참조하세요.
 

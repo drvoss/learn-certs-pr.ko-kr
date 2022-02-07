@@ -3,102 +3,85 @@ title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Con
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
   description: Microsoft Dynamics 365 Supply Chain Management 기능 컨설턴트는 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 현실화된 비즈니스 프로세스 및 솔루션으로 변환합니다.
-  ms.openlocfilehash: ad5e0f3216794ee7f9d70d1d9a826fe1d69a340b
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658766"
 uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 내용은 최근에 업데이트되었습니다. [시험 MB-330은](/learn/certifications/exams/mb-330) 2021년 12월 10일에 업데이트되었습니다. [시험 MB-300은 2021년](/learn/certifications/exams/mb-300) 8월 9일에 업데이트되었습니다. 관련 시험 페이지에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
-
+  > 이 인증의 콘텐츠가 최근에 업데이트되었습니다. [시험 MB-330](/learn/certifications/exams/mb-330)은 2021년 12월 10일에 업데이트되었습니다. [시험 MB-300](/learn/certifications/exams/mb-300)은 2021년 8월 9일에 업데이트되었습니다. 관련 시험 페이지에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
 
   <br/>
-
   Microsoft Dynamics 365 Supply Chain Management Functional Consultant Associate 인증 시험의 응시 대상은 공급망 관리 산업 표준에 대한 기본적인 지식을 갖춘 기능 컨설턴트 또는 비즈니스 사용자입니다. 응시자는 조직의 요구 사항을 충족하기 위해 Dynamics 365 Supply Chain Management를 구성하고 구현한 경험이 있어야 합니다. 응시자는 재무, 상거래 및 제조 분야의 개발자, 솔루션 설계자, 프로젝트 관리자 및 기능 컨설턴트와 협력하는 핵심 리소스입니다.
-
 
   경력을 더욱 빠르게 발전시키고자 한다면 이 인증 외에도 Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate 인증(시험 MB-320) 및 Dynamics 365: Finance and Operations Apps Solution Architect Expert 인증(시험 MB-700)을 함께 준비하면 좋습니다.
 
-
   이 인증을 얻기 전에 더 많은 경험이 필요하다면 다음 제안을 고려해 보세요.
-
   - [Microsoft Learn](/learn/certifications/d365-functional-consultant-supply-chain-management/?tab=tab-learning-paths)에서 공급망 관리 모듈을 수강하고 더 많은 실습을 완료합니다.
-
   - MB-300 또는 MB-330 트랙이 포함된 강사 진행 교육 과정에 등록합니다.
-
   - [community.dynamics.com](https://community.dynamics.com/365/supply-chain-management)에서 커뮤니티에 참여하거나 사용자 그룹에 가입하세요.
-
   - 공급망 관리 기능 컨설턴트와 함께 지내며 Dynamics 365 Supply Chain Management 기능을 구현하는 데 도움을 줍니다.
-
   - 멘토를 구하고, 웨어하우스를 둘러보고, 과정을 배웁니다.
-
   - 전문가 및 고객으로부터 질문에 대한 답을 얻고 배웁니다.
 subTitle: Microsoft Dynamics 365 Supply Chain Management 기능 컨설턴트는 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 현실화된 비즈니스 프로세스 및 솔루션으로 변환합니다.
 levels:
-- intermediate
+  - intermediate
 skills:
-- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
-- Configure administrative features and workflows
-- Manage finance and operations data
-- Validate and support solutions
-- Implement product information management
-- Implement inventory management
-- Implement and manage supply chain processes
-- Implement warehouse management and transportation management
-- Implement Master planning
+  - 'Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies'
+  - Configure administrative features and workflows
+  - Manage finance and operations data
+  - Validate and support solutions
+  - Implement product information management
+  - Implement inventory management
+  - Implement and manage supply chain processes
+  - Implement warehouse management and transportation management
+  - Implement Master planning
 roles:
-- functional-consultant
+  - functional-consultant
 type: role-based
 products:
-- dynamics-365
-- dynamics-finance-operations
+  - dynamics-365
+  - dynamics-finance-operations
 courses:
-- uid: course.mb-300t00
-- uid: course.mb-330t00
+  - uid: course.mb-300t00
+  - uid: course.mb-330t00
 paths:
-- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
-- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
-- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
-- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
-- uid: learn-dynamics.configure-analytics-reporting-finance-operations
-- uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
-- uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
-- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
-- uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
-- uid: learn-dynamics.master-planning-supply-chain-management
-- uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
+  - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+  - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+  - uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+  - uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+  - uid: learn-dynamics.configure-analytics-reporting-finance-operations
+  - uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
+  - uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
+  - uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+  - uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
+  - uid: learn-dynamics.master-planning-supply-chain-management
+  - uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY'
 exams:
-- uid: exam.mb-300
-- uid: exam.mb-330
+  - uid: exam.mb-300
+  - uid: exam.mb-330
 resources:
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 인증으로의 여정
-  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL'
+  - title: 인증으로의 여정
+    description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증서 학습 경로
+    description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

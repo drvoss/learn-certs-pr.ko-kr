@@ -3,70 +3,60 @@ title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
   description: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관합니다.
-  ms.openlocfilehash: b80fde6d983444b1ecc27f256a1c6e79ff86789f
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658403"
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 내용은 2021년 9월 24일에 업데이트되었습니다. [MS-700 시험 페이지에서](/learn/certifications/exams/ms-700) 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
-
+  > 이 인증의 내용은 2021년 9월 24일에 업데이트되었습니다. [시험 MS-700 페이지](/learn/certifications/exams/ms-700)에서 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
 
   <br/>
-
   이 인증의 응시자는 Microsoft 365 환경에서 효율적이고 효과적인 협업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자입니다.
-
 
   이 인증의 후보자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들 입니다.
 subTitle: Microsoft Teams 관리자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관합니다.
 levels:
-- intermediate
+  - intermediate
 skills:
-- Plan and configure a Microsoft Teams environment
-- Manage chat, teams, channels, and apps
-- Manage calling and meetings
-- Monitor and troubleshoot a Microsoft Teams environment
+  - Plan and configure a Microsoft Teams environment
+  - 'Manage chat, teams, channels, and apps'
+  - Manage calling and meetings
+  - Monitor and troubleshoot a Microsoft Teams environment
 roles:
-- administrator
+  - administrator
 type: role-based
 products:
-- m365
-- office-teams
+  - m365
+  - office-teams
 courses:
-- uid: course.ms-700t00
+  - uid: course.ms-700t00
 paths:
-- uid: learn.wwl.get-started-managing-microsoft-teams
-- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
-- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
-- uid: learn.wwl.manage-meetings-calling-microsoft-teams
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
+  - uid: learn.wwl.get-started-managing-microsoft-teams
+  - uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+  - uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+  - uid: learn.wwl.manage-meetings-calling-microsoft-teams
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv'
 exams:
-- uid: exam.ms-700
+  - uid: exam.ms-700
 resources:
-- title: 인증서 학습 경로
-  description: 'Microsoft Certified: Teams Administrator Associate가 되기 위한 교육 리소스를 찾아보세요.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증서 학습 경로
+    description: 'Microsoft Certified: Teams Administrator Associate가 되기 위한 교육 리소스를 찾아보세요.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

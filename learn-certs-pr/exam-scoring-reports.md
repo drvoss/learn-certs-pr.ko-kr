@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 95848f316b1ebf52b8b7d9cc7d355138ede5aaa9
-ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "135801642"
 ---
 # <a name="exam-scoring-and-score-reports"></a>시험 채점 및 점수 보고서
 
@@ -26,9 +20,9 @@ ms.locfileid: "135801642"
 
 ## <a name="how-to-access-your-score-report"></a><a name="how-to-access-your-score-report"></a> 점수 보고서에 액세스하는 방법
 
-점수 보고서는 온라인으로 작성되었으며, 이 시험에서는 Vuon VUE 및 Certiport를 통해 시험 응시할 수 있습니다. 
+Pearson VUE 및 Certiport에서 응시한 시험에 대한 점수 보고서를 온라인으로 볼 수 있습니다. 
 
-Vuon VUE 점수 보고서에 액세스하려면 다음을 수행합니다.
+Pearson VUE 점수 보고서에 액세스하려면 다음을 수행합니다.
 
 1. [인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)로 이동합니다.
 
@@ -51,7 +45,7 @@ Vuon VUE 점수 보고서에 액세스하려면 다음을 수행합니다.
 
 
 
-Certiport 점수 보고서에 액세스하려면 [Certiport 기록을 방문하세요.](https://www.certiport.com/portal/SSL/Login.aspx) 자세한 내용은 [Certiport FAQ를 방문하세요.](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)
+Certiport 점수 보고서에 액세스하려면 [Certiport 성적표](https://www.certiport.com/portal/SSL/Login.aspx)를 참조하세요. 자세한 내용은 [Certiport의 FAQ](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)를 참조하세요.
 
 ## <a name="how-exams-are-scored"></a>시험 채점 방법
 

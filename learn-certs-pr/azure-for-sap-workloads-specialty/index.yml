@@ -2,88 +2,75 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
-  ms.openlocfilehash: 226ad7df7f1aee0a56bcfd732afd63cdd4ffe29e
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137655730"
+  description: 'SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.'
 uid: certification.azure-for-sap-workloads-specialty
 certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 영어 버전은 2022 년 1 월 24 일에 업데이트 됩니다. 변경 된 내용을 확인 하려면 [시험 AZ-120 페이지](/learn/certifications/exams/az-120) 에서 기술 측정 문서를 다운로드 하세요.
-
+  > 이 인증의 영어 버전은 2022년 1월 24일에 업데이트되었습니다. 시험 [AZ-120 페이지](/learn/certifications/exams/az-120)에서 기술 측정 문서를 다운로드하여 변경된 내용을 확인하세요.
 
   <br/>
-
   이 인증의 응시자는 Microsoft Azure에서 SAP 솔루션의 초기 마이그레이션 또는 통합 및 장기 운영과 관련된 SAP 시스템 환경 및 업계 표준에 대한 광범위한 경험과 지식을 보유한 설계자 또는 엔지니어여야 합니다.
-
 
   Azure for SAP Workloads 설계자 또는 엔지니어는 최적의 복원력, 성능, 스케일링, 프로비저닝, 크기, 모니터링에 적합한 서비스를 추천하고 리소스를 조정하는 업무를 담당합니다.
 
-
   SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
-
 
   이 인증의 응시자는 SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, SAP 애플리케이션 및 데이터베이스를 위한 OS 서버, Azure Portal, Azure Marketplace, ARM 템플릿(Azure Resource Manager 템플릿), 가상화, 클라우드 인프라, 스토리지 구조, 고가용성 설계, 재해 복구 설계, 데이터 보호 개념, 네트워킹과 같은 SAQ 응용 분야에 대한 광범위한 경험과 지식을 갖추어야 합니다.
 
-
   AZ-120 시험을 위해 SAP 인증 외에도 Azure Administrator Associate 또는 Azure Solutions Architect Expert 인증이 있는 것이 좋습니다.
-subTitle: SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.
+subTitle: 'SAP 워크로드에 대한 Azure의 설계자 또는 엔지니어는 솔루션을 구현하기 위해 cloud 관리자, cloud 데이터베이스 관리자, 그리고 클라이언트와 협력합니다.'
 levels:
-- advanced
+  - advanced
 skills:
-- Migrate SAP Workloads to Azure
-- Design and Implement an Infrastructure to Support SAP Workloads
-- Design and Implement High Availability and Disaster Recovery (HA/DR)
-- Maintain SAP Workloads on Azure
+  - Migrate SAP Workloads to Azure
+  - Design and Implement an Infrastructure to Support SAP Workloads
+  - Design and Implement High Availability and Disaster Recovery (HA/DR)
+  - Maintain SAP Workloads on Azure
 roles:
-- administrator
-- solution-architect
+  - administrator
+  - solution-architect
 type: specialty
 products:
-- azure
-- azure-sap
+  - azure
+  - azure-sap
 courses:
-- uid: course.az-120t00
+  - uid: course.az-120t00
 paths:
-- uid: learn.wwl.explore-azure-for-sap-workloads
-- uid: learn.wwl.explore-foundations-of-iaas
-- uid: learn.wwl.explore-foundations-of-identity-governance
-- uid: learn.wwl.deploy-sap-azure
-- uid: learn.wwl.ensure-business-continuity-implement-disaster-recovery
-- uid: learn.wwl.migrate-sap-workloads-to-azure
-- uid: learn.wwl.monitor-troubleshoot-azure-for-sap-workloads
-- uid: learn.wwl.explore-sap-hana-azure-large-instances
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
+  - uid: learn.wwl.explore-azure-for-sap-workloads
+  - uid: learn.wwl.explore-foundations-of-iaas
+  - uid: learn.wwl.explore-foundations-of-identity-governance
+  - uid: learn.wwl.deploy-sap-azure
+  - uid: learn.wwl.ensure-business-continuity-implement-disaster-recovery
+  - uid: learn.wwl.migrate-sap-workloads-to-azure
+  - uid: learn.wwl.monitor-troubleshoot-azure-for-sap-workloads
+  - uid: learn.wwl.explore-sap-hana-azure-large-instances
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b'
 exams:
-- uid: exam.az-120
+  - uid: exam.az-120
 resources:
-- title: Azure 인증 포스터
-  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 인증으로의 여정
-  description: Azure for SAP Workloads Specialty 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: Azure 인증 포스터
+    description: 'Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.'
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh'
+  - title: 인증으로의 여정
+    description: Azure for SAP Workloads Specialty 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+    href: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: 인증 포스터
+    description: '기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

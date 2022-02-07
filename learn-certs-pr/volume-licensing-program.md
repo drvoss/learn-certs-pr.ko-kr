@@ -9,18 +9,12 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 769a69f8a37d1e6ceb31c8690da4c26dbd4cc63c
-ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "135964285"
 ---
 # <a name="volume-licensing-for-microsoft-training-and-certification-solutions"></a>Microsoft 교육 및 인증 솔루션을 위한 볼륨 라이선싱
 
 Microsoft 교육 및 인증 솔루션은 기업과 공인 교육 기관이 Microsoft 기술의 채택 및 사용을 가속화할 수 있도록 지원합니다. 이러한 엔터프라이즈급 직접 교육 및 인증 리소스를 통해 직원들은 보다 효율적이고 생산적으로 작업하는 데 필요한 기술을 습득할 수 있습니다.
 
-Microsoft 교육 및 인증 솔루션은 Microsoft 교육 및 인증 솔루션에 대한 할인된 액세스 권한을 부여하는 사용자 지정 가능한 Microsoft 소프트웨어 구매 프로그램인 Microsoft **볼륨 라이선스** 프로그램을 통해 사용할 수 있습니다.
+Microsoft 교육 및 인증 솔루션은 Microsoft 교육 및 인증 솔루션에 대한 할인 액세스 권한을 부여하는 사용자 지정 가능한 Microsoft 소프트웨어 구매 프로그램인 **Microsoft 볼륨 라이선싱** 프로그램을 통해 사용할 수 있습니다.
 
 볼륨 라이선싱을 통해 이 페이지에 설명된 Microsoft 교육 및 인증 솔루션 제품의 구매, 예산 및 추적을 다른 Microsoft 기술 구매와 통합하면 조직은 평균 20~80%의 비용 절감 효과를 얻을 수 있습니다 (이 효과는 제품 및 볼륨 라이선싱 계약 수준에 따라 다릅니다).
 

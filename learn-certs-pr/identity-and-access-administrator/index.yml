@@ -2,72 +2,62 @@
 title: 'Microsoft Certified: Identity and Access Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Identity and Access Administrator Associate'
-  description: Microsoft ID 및 액세스 관리자는 Azure AD를 사용하여 조직의 ID 및 액세스 관리 시스템을 디자인, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다.
-  ms.openlocfilehash: 3f2f1608b487e21fdac0e995906beee8219d7930
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: MT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658612"
+  description: 'Microsoft ID 및 액세스 관리자는 Azure AD를 사용하여 조직의 ID 및 액세스 관리 시스템을 디자인, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다.'
 uid: certification.identity-and-access-administrator
 certificationRenewalUid: renewal.identity-and-access-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
+summary: |-
   > [!IMPORTANT]
-
-  > 이 인증의 영어 버전은 2022년 1월 28일에 업데이트됩니다. [SC-300 시험 페이지에서](/learn/certifications/exams/sc-300) 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
-
+  > 이 인증의 영어 버전은 2022년 1월 28일에 업데이트됩니다. [시험 SC-300 페이지](/learn/certifications/exams/sc-300)에서 기술 측정 문서를 다운로드하여 변경 내용을 확인하세요.
 
   <br/>
-
   Microsoft ID 및 액세스 관리자는 Azure AD(Azure Active Directory)를 사용하여 조직의 ID 및 액세스 관리 시스템을 설계, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다. 관리자는 모든 사용자에게 원활한 환경 및 셀프 서비스 관리 기능을 제공합니다. 적응형 액세스 및 거버넌스는 이 역할의 핵심 요소입니다. 이 역할은 ID 및 액세스 환경에 대한 문제 해결, 모니터링, 보고도 담당합니다.
 
-
   ID 및 액세스 관리자는 개인이거나 더 큰 팀의 멤버일 수 있습니다. 이 역할은 조직의 다른 많은 역할과 협업하여 전략적 ID 프로젝트를 진행하여 ID 솔루션을 현대화하고 하이브리드 ID 솔루션과 ID 거버넌스를 구현합니다.
-subTitle: Microsoft ID 및 액세스 관리자는 Azure AD를 사용하여 조직의 ID 및 액세스 관리 시스템을 디자인, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다.
+subTitle: 'Microsoft ID 및 액세스 관리자는 Azure AD를 사용하여 조직의 ID 및 액세스 관리 시스템을 디자인, 구현, 운영합니다. 엔터프라이즈 애플리케이션에 대한 보안 인증 및 권한 부여 액세스를 제공하는 등의 작업을 관리합니다.'
 levels:
-- intermediate
+  - intermediate
 skills:
-- Implement an identity management solution
-- Implement an authentication and access management solution
-- Implement access management for apps
-- Plan and implement an identity governance strategy
+  - Implement an identity management solution
+  - Implement an authentication and access management solution
+  - Implement access management for apps
+  - Plan and implement an identity governance strategy
 roles:
-- administrator
-- identity-access-admin
-- security-engineer
+  - administrator
+  - identity-access-admin
+  - security-engineer
 type: role-based
 products:
-- azure
-- azure-active-directory
-- azure-log-analytics
-- azure-sentinel
+  - azure
+  - azure-active-directory
+  - azure-log-analytics
+  - azure-sentinel
 courses:
-- uid: course.sc-300t00
+  - uid: course.sc-300t00
 paths:
-- uid: learn.wwl.implement-identity-management-solution
-- uid: learn.wwl.implement-authentication-access-management-solution
-- uid: learn.wwl.implement-access-management-for-apps
-- uid: learn.wwl.plan-implement-identity-governance-strategy
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+  - uid: learn.wwl.implement-identity-management-solution
+  - uid: learn.wwl.implement-authentication-access-management-solution
+  - uid: learn.wwl.implement-access-management-for-apps
+  - uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z'
 exams:
-- uid: exam.sc-300
+  - uid: exam.sc-300
 resources:
-- title: 인증 포스터
-  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://aka.ms/traincertposter
-- title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://aka.ms/TrainingCertDeck
-- title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
-  href: ../deals.md
-- title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: ../help.md
-- title: 인증 배지 공유
-  description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
-  href: ../badges.md
+  - title: 인증 포스터
+    description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+    href: 'https://aka.ms/traincertposter'
+  - title: 교육 및 인증 가이드
+    description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: Exam Replay
+    description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+    href: ../deals.md
+  - title: 인증 대시보드
+    description: '예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: 인증 지원
+    description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+    href: ../help.md
+  - title: 인증 배지 공유
+    description: 아는 사람들과 함께 여러분의 성취를 축하하세요. Microsoft 인증 배지를 요청하고 LinkedIn과 이력서 등에 추가합니다.
+    href: ../badges.md

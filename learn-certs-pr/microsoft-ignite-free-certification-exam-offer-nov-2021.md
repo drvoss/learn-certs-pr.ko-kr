@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 11/01/2021
 ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: 6c6b9ffe8b0e8d7f4373496d52f5deb593660ae0
-ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "137647566"
 ---
 # <a name="microsoft-ignite-cloud-skills-challenge--november-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge – November 2021: 무료 인증 시험
 
@@ -87,7 +81,7 @@ ms.locfileid: "137647566"
 
 ## <a name="certification-support"></a>인증 지원
 
-할인을 받고 시험을 예약 하는 문제는를 통해 도움을 받을 수 [cloudskillshelp@microsoft.com](mailto:cloudskillshelp@microsoft.com) 있습니다. 중재자는 영업일 3 일 이내에 응답 합니다.
+할인을 청구하고 시험을 예약하는 데 문제가 있는 경우 [cloudskillshelp@microsoft.com](mailto:cloudskillshelp@microsoft.com)을 통해 도움을 받으세요. 중재자는 영업일 기준 3일 이내에 응답합니다.
 
 ## <a name="eligible-exams"></a><a name="eligible-exams"></a> 적격 시험
 
