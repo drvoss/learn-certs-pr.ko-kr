@@ -12,7 +12,7 @@ pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7
 practiceTestUrl: 'https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 providers:
   - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367'
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367'
   - providerType: certiport
     examUrl: 'http://www.certiport.com/locator'
 locales:

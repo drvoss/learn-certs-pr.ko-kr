@@ -19,7 +19,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL'
 providers:
   - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365'
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365'
   - providerType: certiport
     examUrl: 'http://www.certiport.com/locator'
 locales:

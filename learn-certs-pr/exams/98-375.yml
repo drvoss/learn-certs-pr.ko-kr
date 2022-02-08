@@ -17,7 +17,7 @@ pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tn
 practiceTestUrl: 'https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 providers:
   - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375'
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375'
   - providerType: certiport
     examUrl: 'http://www.certiport.com/locator'
 locales:

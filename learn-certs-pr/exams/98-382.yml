@@ -20,7 +20,7 @@ pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ti
 practiceTestUrl: 'https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice'
 providers:
   - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382'
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382'
   - providerType: certiport
     examUrl: 'http://www.certiport.com/locator'
 locales:

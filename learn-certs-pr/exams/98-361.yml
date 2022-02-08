@@ -16,7 +16,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO'
 providers:
   - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361'
+    examUrl: 'https://examregistration.microsoft.com/?action=1&locale=ko-KR&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361'
   - providerType: certiport
     examUrl: 'http://www.certiport.com/locator'
 locales:
