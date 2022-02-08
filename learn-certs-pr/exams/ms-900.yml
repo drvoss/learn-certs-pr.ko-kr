@@ -3,15 +3,15 @@ title: 교실 및 온라인 교육 찾기
 metadata:
   title: '시험 MS-900: Microsoft 365 Fundamentals'
   description: '시험 MS-900: Microsoft 365 Fundamentals'
-  ms.openlocfilehash: 3232004b95ed2ad43ab897fe751f187fc9e50456
-  ms.sourcegitcommit: 7f4eed93623014c8773df17f68152c44d1e02806
+  ms.openlocfilehash: d1e888981a1296a8daa4658139c113cdd002ed13
+  ms.sourcegitcommit: e3b28755d6b8791f382cd1cff78e9c2570ed1c3e
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/31/2022
-  ms.locfileid: "137860972"
+  ms.lasthandoff: 02/02/2022
+  ms.locfileid: "137957363"
 uid: exam.ms-900
 displayName: MS-900
-summary: "> [!NOTE]\n> 제품 팀은 최근 이 시험의 범위에 있는 여러 기술을 리브랜딩하기 위한 작업을 완료했습니다. 변경 사항에는 다음이 포함됩니다.\n> - Windows Virtual Desktop은 이제 Azure Virtual Desktop입니다.\n> - Workplace Analytics는 이제 Viva Insights입니다\n> - Cloud App Security은 이제 클라우드용 Microsoft Defender 앱입니다\n> - Microsoft 365 Security Center가 이제 Microsoft 365 Defender 포털입니다\n> \n> 이러한 변경 사항은 2022년 1월 28일부터 시험에 반영됩니다.\n\n> [!IMPORTANT]\n> 이 시험의 내용은 2021년 10월 25일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.\n> \n> 참고: 합격 기준 점수는 700점입니다. [시험 점수에 대해 자세히 알아보세요.](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)\n\n<br/>  \n본 시험은 일반적으로 클라우드 서비스를 채택하는 데 있어 고려할 사항과 혜택 및 서비스로서의 소프트웨어(SaaS) 클라우드 모델에 관한 기본적인 수준의 지식을 입증하려는 후보자를 대상으로 합니다. 응시자는 Microsoft 365 클라우드 서비스 오퍼링을 구현함으로써 사용 가능한 옵션 및 혜택에 대한 지식이 있어야 합니다.\n\n<br/>\n응시자는 조직의 일반적인 IT 문제를 해결하는 솔루션을 추천하고 Microsoft 365 솔루션을 시장의 다른 경쟁 업체와 차별화하는데 필수적인 지식이 있어야 합니다. 응시자는 또한 오퍼링, 비용 효율성을 위한 라이선싱 최적화 및 조직을 위한 지원 옵션에 대한 기본적인 지식이 있어야 합니다.\n\n응시자는 Microsoft 서비스와 제품(Microsoft 365, Azure 및 Dynamics 365)을 구별할 수 있어야 합니다.\n\n이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.\n\n> [!TIP]\n> [이 시험을 준비하는 데 도움이 되는 무료 샘플 질문 다운로드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSOFm)"
+summary: "> [!NOTE]\n> 제품 팀은 최근 이 시험의 범위에 있는 여러 기술을 리브랜딩하기 위한 작업을 완료했습니다. 변경 사항에는 다음이 포함됩니다.\n> - Windows Virtual Desktop은 이제 Azure Virtual Desktop입니다.\n> - Workplace Analytics는 이제 Viva Insights입니다\n> - Cloud App Security은 이제 클라우드용 Microsoft Defender 앱입니다\n> - Microsoft 365 Security Center가 이제 Microsoft 365 Defender 포털입니다\n> \n> 이러한 변경 사항은 2022년 1월 28일부터 시험에 반영됩니다.\n\n> [!IMPORTANT]  \n> 참고: 합격 기준 점수는 700점입니다. [시험 점수에 대해 자세히 알아보세요.](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)\n\n<br/>  \n본 시험은 일반적으로 클라우드 서비스를 채택하는 데 있어 고려할 사항과 혜택 및 서비스로서의 소프트웨어(SaaS) 클라우드 모델에 관한 기본적인 수준의 지식을 입증하려는 후보자를 대상으로 합니다. 응시자는 Microsoft 365 클라우드 서비스 오퍼링을 구현함으로써 사용 가능한 옵션 및 혜택에 대한 지식이 있어야 합니다.\n\n<br/>\n응시자는 조직의 일반적인 IT 문제를 해결하는 솔루션을 추천하고 Microsoft 365 솔루션을 시장의 다른 경쟁 업체와 차별화하는데 필수적인 지식이 있어야 합니다. 응시자는 또한 오퍼링, 비용 효율성을 위한 라이선싱 최적화 및 조직을 위한 지원 옵션에 대한 기본적인 지식이 있어야 합니다.\n\n응시자는 Microsoft 서비스와 제품(Microsoft 365, Azure 및 Dynamics 365)을 구별할 수 있어야 합니다.\n\n이 인증 시험을 통과하면 ACE 대학 학점을 받을 수 있습니다. 자세한 내용은 [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams)(인증 시험의 ACE 칼리지 학점)를 참조하세요.\n\n> [!TIP]\n> [이 시험을 준비하는 데 도움이 되는 무료 샘플 질문 다운로드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSOFm)"
 subTitle: cloud 개념, 핵심 Microsoft 365 서비스 및 개념, Microsoft 365의 보안, 규정 준수, 개인 정보 보호 및 신뢰, Microsoft 365 가격 및 지원을 이해함을 입증하십시오.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -37,7 +37,6 @@ providers:
 levels:
 - beginner
 skills:
-- The content of this exam was updated on October 25, 2021. Please download the exam skills outline below to see what changed.
 - Describe cloud concepts (10-15%)
 - Describe core Microsoft 365 services and concepts (30-35%)
 - Explain security, compliance, privacy, and trust in Microsoft 365 (30-35%)
