@@ -3,6 +3,7 @@ title: Windows 클라이언트
 metadata:
   title: '과정 MD-100T00--A: Windows 클라이언트'
   description: '과정 MD-100T00--A: Windows 클라이언트'
+  iltScheduling: true
 uid: course.md-100t00
 courseNumber: MD-100T00
 hoursToComplete: 120

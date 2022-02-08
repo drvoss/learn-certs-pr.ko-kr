@@ -3,6 +3,7 @@ title: 'Microsoft 보안, 규정 준수, ID 기본 사항'
 metadata:
   title: '과정 SC-900T00--A: Microsoft Security, Compliance, and Identity Fundamentals'
   description: '과정 SC-900T00--A: Microsoft Security, Compliance, and Identity Fundamentals'
+  iltScheduling: true
 uid: course.sc-900t00
 courseNumber: SC-900T00
 hoursToComplete: 24
@@ -15,6 +16,18 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
   - en
+  - ar
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - id
+  - it
+  - ja
+  - ko
+  - pt-br
+  - ru
+  - es
 levels:
   - beginner
 roles:
@@ -23,6 +36,24 @@ products:
   - azure
 exams:
   - uid: exam.sc-900
+studyGuide:
+  - uid: learn.wwl.describe-security-concepts-methodologies
+  - uid: learn.wwl.describe-identity-principles-concepts
+  - uid: learn.wwl.explore-basic-services-identity-types-of-azure-active-directory-azure-ad
+  - uid: learn.wwl.explore-authentication-capabilities-of-azure-ad
+  - uid: learn.wwl.explore-access-management-capabilities-of-azure-ad
+  - uid: learn.wwl.describe-identity-protection-governance-capabilities-of-azure-ad
+  - uid: learn.wwl.describe-basic-security-capabilities-azure
+  - uid: learn.wwl.describe-security-management-capabilities-of-azure
+  - uid: learn.wwl.describe-security-capabilities-of-azure-sentinel
+  - uid: learn.wwl.describe-threat-protection-with-microsoft-365-defender
+  - uid: learn.wwl.describe-security-management-capabilities-of-microsoft-365
+  - uid: learn.wwl.describe-endpoint-security-with-microsoft-intune
+  - uid: learn.wwl.describe-compliance-management-capabilities-microsoft
+  - uid: learn.wwl.describe-information-protection-governance-capabilities-microsoft-365
+  - uid: learn.wwl.describe-insider-risk-capabilities-microsoft-365
+  - uid: learn.wwl.describe-ediscovery-capabilities-of-microsoft-365
+  - uid: learn.wwl.describe-resource-governance-capabilities-azure
 summary: |-
   이 과정에서는 보안, 규정 준수 및 ID 개념과 관련 클라우드 기반 Microsoft 솔루션에 대한 기본 수준 지식을 제공합니다.
 

@@ -3,6 +3,7 @@ title: Managing Modern Desktops
 metadata:
   title: '과정 MD-101T00--A: 최신 데스크톱 관리'
   description: '과정 MD-101T00--A: 최신 데스크톱 관리'
+  iltScheduling: true
 uid: course.md-101t00
 courseNumber: MD-101T00
 hoursToComplete: 120
